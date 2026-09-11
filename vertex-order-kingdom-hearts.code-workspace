@@ -1,4 +1,4 @@
-// vertex-order-kit.code-workspace (jsonc)
+// vertex-order-kingdom-hearts.code-workspace (jsonc)
 
 // exists so:
 // 1) we can disable all extensions in vscode and then enable them on a per-workspace basis (instead of profiles)
