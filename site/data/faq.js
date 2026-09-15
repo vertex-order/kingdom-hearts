@@ -8,9 +8,5 @@ window.FAQ_ITEMS = [
     q: "Do I need to play the franchise in order?",
     a: ["No. You can play the Kingdom Hearts franchise in any order, though the mainline entries build directly on each other's story."],
   },
-  {
-    q: "Why is a Kingdom Hearts title missing?",
-    a: ["It may have come out after the last update of this list, check last updated at the bottom of the page and if so, please submit it!"],
-  },
   ...window.FAQ_ITEMS_COMMON,
 ];
