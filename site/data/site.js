@@ -8,6 +8,7 @@ window.SITE_CONFIG = {
   tagline: [
     { text: "A recommended way to experience the Kingdom Hearts franchise, listing the mainline games alongside their remakes, manga, and novels. Optional extras are marked — skip them and the series still holds together." }
   ],
+  description: "A recommended order for playing the Kingdom Hearts games, remakes, manga, and novels — Vertex Order.",
   lastUpdated: "2026-08-01",
   entities: ["Disney", "Square Enix"],
   noticeUrl: "https://github.com/vertex-order/kingdom-hearts/blob/main/NOTICE.md",
