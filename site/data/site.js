@@ -10,4 +10,5 @@ window.SITE_CONFIG = {
   ],
   lastUpdated: "2026-08-01",
   entities: ["Disney", "Square Enix"],
+  noticeUrl: "https://github.com/vertex-order/kingdom-hearts/blob/main/NOTICE.md",
 };
