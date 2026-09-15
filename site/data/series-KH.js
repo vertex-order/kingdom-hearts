@@ -1,9 +1,9 @@
 window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature Final Fantasy characters.', games: [
-        { title: 'Kingdom Hearts (2002) Remake (2013)', mainline: true, releaseDate: '2002-03-28', chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'], lengthParts: [{ value: '28½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '62½h', tip: 'Completionist' }],
+        { title: 'Kingdom Hearts (2002) Remaster (2013)', mainline: true, releaseDate: '2002-03-28', chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'], lengthParts: [{ value: '28½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '62½h', tip: 'Completionist' }],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '85', midScore: '8.5', midUrl: 'https://www.metacritic.com/game/kingdom-hearts/', url: 'https://www.metacritic.com/game/kingdom-hearts/', single: true },
         parts: [
           { label: 'Kingdom Hearts (2002)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)' },
-          { label: 'Remake (2013)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix', small: true },
+          { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix', small: true },
         ],
         languages: [
           { value: 'JA', tip: 'Japanese — full audio', native: true, voice: true },
@@ -39,8 +39,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
         description: "Follows the adventures of Sora, a cheerful teenager who fights against the forces of darkness alongside his allies, including Donald Duck, Goofy, and other Disney characters. Some gameplay elements are inspired by Final Fantasy, and features several of its characters.",
         desc2Last: true,
         desc3Parts: [
-          { text: 'This remake includes everything from ' },
-          { emText: 'Remake (2002)' },
+          { text: 'This remaster includes everything from ' },
+          { emText: 'Edit (2002)' },
           { text: ', and adds HD graphics using the character models from ' },
           { emText: 'Kingdom Hearts 3D: Dream Drop Distance' },
           { text: ', achievements support, and an updated command menu and camera reworked to play more like ' },
@@ -61,10 +61,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           {
             parts: [
               { label: 'Kingdom Hearts (2002)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)' },
-              { label: 'Remake (2002)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Final_Mix', small: true },
+              { label: 'Edit (2002)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Final_Mix', small: true },
             ],
             descParts: [
-              { text: 'This remake adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot. Released as ' },
+              { text: 'This edit adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot. Released as ' },
               { emText: 'Kingdom Hearts Final Mix' },
               { text: '.' },
             ],
@@ -136,15 +136,15 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', noUrl: true }],
         ],
         },
-        { title: 'Kingdom Hearts: Chain of Memories (2004) Remake (2013)', releaseDate: '2004-11-11', chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'], lengthParts: [{ value: '23h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '60½h', tip: 'Completionist' }],
+        { title: 'Kingdom Hearts: Chain of Memories (2004) Remaster (2013)', releaseDate: '2004-11-11', chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'], lengthParts: [{ value: '23h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '60½h', tip: 'Completionist' }],
         parts: [
           { label: 'Kingdom Hearts: Chain of Memories (2004)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories' },
-          { label: 'Remake (2013)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', small: true },
+          { label: 'Remaster (2013)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', small: true },
         ],
         description: 'A year after Kingdom Hearts (2002), Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from Final Fantasy.',
         desc2Last: true,
         desc3Parts: [
-          { text: 'This remake includes everything from the original, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
+          { text: 'This remaster includes everything from the original, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
           { emText: 'Kingdom Hearts 358/2 Days' },
           { text: '. Released in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 Remix' },
@@ -264,15 +264,28 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
         platformGroups: [
           [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', noUrl: true }],
         ] },
-        { title: 'Kingdom Hearts II (2005) Remake (2014)', mainline: true, releaseDate: '2005-12-22', chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
+        { title: 'Kingdom Hearts II (2005) Remaster (2014)', mainline: true, releaseDate: '2005-12-22', chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
         parts: [
           { label: 'Kingdom Hearts II (2005)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_II' },
-          { label: 'Remake (2014)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_II#HD_2.5_Remix', small: true },
+          { label: 'Remaster (2014)', url: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_II#HD_2.5_Remix', small: true },
         ],
         descParts: [
           { text: 'A year after ' },
           { emText: 'Kingdom Hearts: Chain of Memories (2004)' },
           { text: ', Sora returns to search for his lost friends while battling the sinister Organization XIII. Features many Final Fantasy characters and gameplay elements.' },
+        ],
+        helpWanted: true,
+        desc2Last: true,
+        desc3Parts: [
+          { text: 'This remaster includes everything from ' },
+          { emText: 'Kingdom Hearts II Final Mix' },
+          { text: ', and adds high-definition graphics and achievements support. Released in the omnibus collections ' },
+          { emText: 'Kingdom Hearts HD 1.5 + 2.5 Remix' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Integrum Masterpiece' },
+          { text: ', and ' },
+          { emText: 'Kingdom Hearts Collection [I–III]' },
+          { text: '.' },
         ],
         rating: { scoreLabelText: 'Metacritic', midLabelText: 'Metacritic User Score', score: '87', midScore: '9.0', midUrl: 'https://www.metacritic.com/game/kingdom-hearts-ii/', url: 'https://www.metacritic.com/game/kingdom-hearts-ii/', single: true },
         languages: [
