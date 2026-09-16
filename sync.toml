@@ -8,13 +8,6 @@
 #
 # This repo publishes nothing — it owns no file another repo vendors.
 #
-# NOT YET DONE: site/data/series-*.js still references pre-migration icon
-# paths/classes (old uploads/ filenames, Bootstrap-icon classes) even though
-# PlatformIcon.dc.html, platform-icons.js, and images/platforms/
-# ([subscribe.platforms] below — pulled directly, not via kit) are already
-# the canonical set — so platform icons won't render correctly until that
-# data gets the same migration pass final-fantasy already went through.
-#
 # Not vendored, even though this repo needs its own: .github/ISSUE_TEMPLATE/*
 # and .github/PULL_REQUEST_TEMPLATE.md. Each necessarily carries this repo's
 # own Discussions URL (and PR-checklist lines), so a byte-identical vendor is
