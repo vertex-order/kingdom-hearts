@@ -14,26 +14,26 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
+          [{ key: 'windows', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
+          [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
+          [{ key: 'epic-games', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
           [
-            { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
-            { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
+            { key: 'playstation3', name: 'PlayStation 3', noUrl: true },
+            { key: 'playstation4', name: 'PlayStation 4 (Digital)', noUrl: true },
+            { key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
+            { key: 'xbox-one', name: 'Xbox One', noUrl: true },
+            { key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20playthrough' },
           ],
         ],
         description: [
@@ -74,8 +74,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
             languages: [{ value: 'JA', tip: 'Japanese (Japan Only)', native: true }],
             platformGroups: [
               [
-                { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Physical; Japan Only)', jpTag: true, noUrl: true },
-                { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 Compatibility; Japan Only)', jpTag: true, noUrl: true },
+                { key: 'playstation2', name: 'PlayStation 2 (Physical; Japan Only)', jpTag: true, noUrl: true },
+                { key: 'playstation3', name: 'PlayStation 3 (PS2 Compatibility; Japan Only)', jpTag: true, noUrl: true },
               ],
             ],
           },
@@ -88,8 +88,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
             helpWanted: true,
             platformGroups: [
               [
-                { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 Compatibility)', noUrl: true },
-                { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Physical)', noUrl: true },
+                { key: 'playstation3', name: 'PlayStation 3 (PS2 Compatibility)', noUrl: true },
+                { key: 'playstation2', name: 'PlayStation 2 (Physical)', noUrl: true },
               ],
             ],
           },
@@ -119,7 +119,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: 'SV', tip: 'Swedish', url: 'https://www.goodreads.com/book/show/63195694-kingdom-hearts-vol-1' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', noUrl: true }],
+          [{ key: 'book', name: 'Manga', noUrl: true }],
         ] },
         { title: 'Kingdom Hearts: The Novel (2005)', releaseDate: '2005-06-30', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '2 volumes' }],
         parts: [
@@ -140,7 +140,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: '…?', tip: 'Unknown additional languages' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', noUrl: true }],
+          [{ key: 'book', name: 'Novel', noUrl: true }],
         ],
         },
         { title: 'Kingdom Hearts: Chain of Memories (2004) Remaster (2013)', releaseDate: '2004-11-11', chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'], lengthParts: [{ value: '23h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '60½h', tip: 'Completionist' }],
@@ -174,26 +174,26 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
+          [{ key: 'windows', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
+          [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
+          [{ key: 'epic-games', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
           [
-            { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
-            { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
+            { key: 'playstation3', name: 'PlayStation 3', noUrl: true },
+            { key: 'playstation4', name: 'PlayStation 4 (Digital)', noUrl: true },
+            { key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
+            { key: 'xbox-one', name: 'Xbox One', noUrl: true },
+            { key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20Chain%20of%20Memories%20playthrough' },
           ],
         ],
         extras: [
@@ -216,8 +216,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
             languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }],
             platformGroups: [
               [
-                { icon: null, iconImg: 'images/platforms/playstation2.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 2 (Physical)', noUrl: true },
-                { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3 (PS2 Compatibility)', noUrl: true },
+                { key: 'playstation2', name: 'PlayStation 2 (Physical)', noUrl: true },
+                { key: 'playstation3', name: 'PlayStation 3 (PS2 Compatibility)', noUrl: true },
               ],
             ],
           },
@@ -229,7 +229,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
             languages: [{ value: 'JA', tip: 'Japanese', native: true }, { value: 'EN', tip: 'English' }, { value: '…?', tip: 'Unknown additional languages' }],
             helpWanted: true,
             platformGroups: [
-              [{ icon: null, iconImg: 'images/platforms/nintendo-game-boy-advance.svg', iconSize: 12.5, imgStyle: 'width: auto; height: 12.5px;', name: 'Game Boy Advance (Physical)', noUrl: true }],
+              [{ key: 'nintendo-game-boy-advance', noUrl: true }],
             ],
           },
         ],
@@ -253,7 +253,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: 'EL', tip: 'Greek', url: 'https://www.goodreads.com/book/show/35435910-kingdom-hearts' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Manga', noUrl: true }],
+          [{ key: 'book', name: 'Manga', noUrl: true }],
         ] },
         { title: 'Kingdom Hearts: Chain of Memories The Novel (2005)', releaseDate: '2005-10-22', chronoOrder: 175, recommendedOrder: 275, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '3 volumes' }],
         parts: [
@@ -274,7 +274,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: '…?', tip: 'Unknown additional languages' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/book.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Novel', noUrl: true }],
+          [{ key: 'book', name: 'Novel', noUrl: true }],
         ] },
         { title: 'Kingdom Hearts II (2005) Remaster (2014)', mainline: true, releaseDate: '2005-12-22', chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
         parts: [
@@ -310,26 +310,26 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           { value: 'ES-ES', tip: 'Spanish (Spain) — text only' },
         ],
         platformGroups: [
-          [{ icon: null, iconImg: 'images/platforms/windows.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
-          [{ icon: null, iconImg: 'images/platforms/steam.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
-          [{ icon: null, iconImg: 'images/platforms/epic-games.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Epic Games Store (PC)', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
+          [{ key: 'windows', name: 'Windows (Xbox; Digital)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' }],
+          [{ key: 'steam', name: 'Steam (PC)', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' }],
+          [{ key: 'epic-games', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' }],
           [
-            { icon: null, iconImg: 'images/platforms/nintendo-switch.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
-            { icon: null, iconImg: 'images/platforms/nintendo-switch-2.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch', name: 'Nintendo Switch (Digital)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+            { key: 'nintendo-switch-2', name: 'Nintendo Switch 2 (Switch Compatibility)', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/playstation3.svg', iconSize: 8.06, imgStyle: 'width: auto; height: 8.06px;', name: 'PlayStation 3', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation4.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 4 (Digital)', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/playstation5.svg', iconSize: 8.05, imgStyle: 'width: auto; height: 8.05px;', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
+            { key: 'playstation3', name: 'PlayStation 3', noUrl: true },
+            { key: 'playstation4', name: 'PlayStation 4 (Digital)', noUrl: true },
+            { key: 'playstation5', name: 'PlayStation 5 (Digital; PS4 Compatibility)', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/xbox-one.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox One', noUrl: true },
-            { icon: null, iconImg: 'images/platforms/xbox-xs.svg', iconSize: 16, imgStyle: 'width: auto; height: 16px;', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
+            { key: 'xbox-one', name: 'Xbox One', noUrl: true },
+            { key: 'xbox-xs', name: 'Xbox Series X/S (Optimized; Digital; One Compatibility)', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017' },
           ],
           [
-            { icon: null, iconImg: 'images/platforms/fan-movie.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20game%20movie' },
-            { icon: null, iconImg: 'images/platforms/fan-recap.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20story%20recap' },
-            { icon: null, iconImg: 'images/platforms/fan-playthrough.svg', iconSize: 22, imgStyle: 'width: auto; height: 22px;', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20playthrough' },
+            { key: 'fan-movie', name: 'Fan game movie video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20game%20movie' },
+            { key: 'fan-recap', name: 'Fan story recap video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20story%20recap' },
+            { key: 'fan-playthrough', name: 'Fan playthrough video (Youtube)', url: 'https://www.youtube.com/results?search_query=Kingdom%20Hearts%20II%20playthrough' },
           ],
         ],
         },
