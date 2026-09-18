@@ -1,59 +1,81 @@
-/* site/data/theme.css (css) — per-repo, not vendored from kit (see
+/* --font-display: the site's display/heading font for titles that want more
+   flavor than body Inter -- wordmark (top nav, hamburger, floating nav,
+   intro heading) and series section titles both read this. Self-hosted
+   (site/fonts/almendra-sc.woff2, latin subset only) rather than a Google
+   Fonts <link>/@import: no third-party request, and unlike @import an
+   @font-face here doesn't risk blocking the rest of this sheet's parse if
+   the request stalls. */
+@font-face {
+  font-family: 'Almendra SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/almendra-sc.woff2') format('woff2');
+}
+
+:root {
+  --font-display: 'Almendra SC', var(--font-heading);
+}
+
+/* site/data/theme.css (css) -- per-repo, not vendored from kit (see
    docs/init-list.md "Theme colors"). page.dc.html links this after Nocturne's
-   own stylesheet (site/_ds/nocturne-.../styles.css), so these --color-* values
-   override its defaults. Delete a line to fall back to the Nocturne default
-   for that token; a repo that never edits this file keeps kit's look
-   unchanged. Only the color custom properties are here — spacing, radius,
-   shadow, and font tokens stay in the shared Nocturne stylesheet. */
+   own stylesheet (site/_ds/nocturne-.../styles.css), so these --color-*
+   values override its defaults. Delete a line to fall back to the Nocturne
+   default for that token; a repo that never edits this file keeps kit's
+   look unchanged. Only the color custom properties are here -- spacing,
+   radius, shadow, and font tokens stay in the shared Nocturne stylesheet. */
+
+/* Kingdom Hearts pass: midnight-sky navy ground + Kingdom Key gold accent,
+   replacing the Nocturne default indigo. Same token shape, new hues. */
 
 [data-theme="dark"] {
-  --color-bg: #161826;
-  --color-surface: #232532;
-  --color-text: #e9e9ed;
-  --color-accent: #9184d9;
-  --color-accent-100: #f5f4ff;
-  --color-accent-200: #e7e5fe;
-  --color-accent-300: #d2cefd;
-  --color-accent-400: #b5abfc;
-  --color-accent-500: #968ae0;
-  --color-accent-600: #796cbf;
-  --color-accent-700: #5d5294;
-  --color-accent-800: #423a6a;
-  --color-accent-900: #2b2741;
-  --color-neutral-100: #f3f5fe;
-  --color-neutral-200: #e4e7f5;
-  --color-neutral-300: #cfd3e5;
-  --color-neutral-400: #b2b6ca;
-  --color-neutral-500: #9397ab;
-  --color-neutral-600: #75798c;
-  --color-neutral-700: #595d6c;
-  --color-neutral-800: #3f424d;
-  --color-neutral-900: #292b31;
-  --color-divider: color-mix(in srgb, #e9e9ed 16%, transparent);
+  --color-bg: #0c0e1a;
+  --color-surface: #171a2c;
+  --color-text: #eef0fa;
+  --color-accent: #d4af5e;
+  --color-accent-100: #fdf6e3;
+  --color-accent-200: #f7e7b8;
+  --color-accent-300: #eed48b;
+  --color-accent-400: #e2bd63;
+  --color-accent-500: #cda548;
+  --color-accent-600: #a9843a;
+  --color-accent-700: #7f632c;
+  --color-accent-800: #57451f;
+  --color-accent-900: #362c16;
+  --color-neutral-100: #eef0fa;
+  --color-neutral-200: #d8dbee;
+  --color-neutral-300: #b9bedd;
+  --color-neutral-400: #9298bb;
+  --color-neutral-500: #757c9c;
+  --color-neutral-600: #5b6280;
+  --color-neutral-700: #454b63;
+  --color-neutral-800: #2e3247;
+  --color-neutral-900: #1a1c2c;
+  --color-divider: color-mix(in srgb, #eef0fa 16%, transparent);
 }
 
 [data-theme="light"] {
-  --color-bg: #f4f4f8;
+  --color-bg: #f6f2e7;
   --color-surface: #ffffff;
-  --color-text: #1c1e2a;
-  --color-accent: #6f63b5;
-  --color-accent-100: #2b2741;
-  --color-accent-200: #423a6a;
-  --color-accent-300: #5d5294;
-  --color-accent-400: #796cbf;
-  --color-accent-500: #968ae0;
-  --color-accent-600: #b5abfc;
-  --color-accent-700: #d2cefd;
-  --color-accent-800: #e7e5fe;
-  --color-accent-900: #f5f4ff;
-  --color-neutral-100: #292b31;
-  --color-neutral-200: #3f424d;
-  --color-neutral-300: #595d6c;
-  --color-neutral-400: #75798c;
-  --color-neutral-500: #9397ab;
-  --color-neutral-600: #b2b6ca;
-  --color-neutral-700: #cfd3e5;
-  --color-neutral-800: #e4e7f5;
-  --color-neutral-900: #f3f5fe;
-  --color-divider: color-mix(in srgb, #1c1e2a 14%, transparent);
+  --color-text: #1a1c2c;
+  --color-accent: #a9843a;
+  --color-accent-100: #362c16;
+  --color-accent-200: #57451f;
+  --color-accent-300: #7f632c;
+  --color-accent-400: #a9843a;
+  --color-accent-500: #cda548;
+  --color-accent-600: #e2bd63;
+  --color-accent-700: #eed48b;
+  --color-accent-800: #f7e7b8;
+  --color-accent-900: #fdf6e3;
+  --color-neutral-100: #1a1c2c;
+  --color-neutral-200: #2e3247;
+  --color-neutral-300: #454b63;
+  --color-neutral-400: #5b6280;
+  --color-neutral-500: #757c9c;
+  --color-neutral-600: #9298bb;
+  --color-neutral-700: #b9bedd;
+  --color-neutral-800: #d8dbee;
+  --color-neutral-900: #eef0fa;
+  --color-divider: color-mix(in srgb, #1a1c2c 14%, transparent);
 }
