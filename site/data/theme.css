@@ -6,15 +6,15 @@
    @font-face here doesn't risk blocking the rest of this sheet's parse if
    the request stalls. */
 @font-face {
-  font-family: 'Almendra SC';
+  font-family: "Almendra SC";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../fonts/almendra-sc.woff2') format('woff2');
+  src: url("../fonts/almendra-sc.woff2") format("woff2");
 }
 
 :root {
-  --font-display: 'Almendra SC', var(--font-heading);
+  --font-display: "Almendra SC", var(--font-heading);
 }
 
 /* site/data/theme.css (css) -- per-repo, not vendored from kit (see
