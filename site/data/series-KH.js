@@ -1,3 +1,4 @@
+// schema: series.schema.json
 window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature Final Fantasy characters.', games: [
         { mainline: true, chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'], lengthParts: [{ value: '28½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '62½h', tip: 'Completionist' }],
         rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/kingdom-hearts/' }, { kind: 'metacritic-user', score: '8.5', url: 'https://www.metacritic.com/game/kingdom-hearts/' }] },
