@@ -1,5 +1,5 @@
 window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature Final Fantasy characters.', games: [
-        { title: 'Kingdom Hearts (2002) Remaster (2013)', mainline: true, releaseDate: '2002-03-28', chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'], lengthParts: [{ value: '28½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '62½h', tip: 'Completionist' }],
+        { title: 'Kingdom Hearts', mainline: true, releaseDate: '2002-03-28', chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'], lengthParts: [{ value: '28½h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '41h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '62½h', tip: 'Completionist' }],
         rating: { scores: [{ kind: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/kingdom-hearts/' }, { kind: 'metacritic-user', score: '8.5', url: 'https://www.metacritic.com/game/kingdom-hearts/' }] },
         parts: [
           { label: 'Kingdom Hearts (2002)', url: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)' },
@@ -95,7 +95,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           },
         ],
         },
-        { title: 'Kingdom Hearts ~Manga~ (2003)', releaseDate: '2003-10-25', chronoOrder: 25, recommendedOrder: 125, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '4 volumes' }],
+        { title: 'Kingdom Hearts ~Manga~', releaseDate: '2003-10-25', chronoOrder: 25, recommendedOrder: 125, tags: ['Optional', 'Manga'], mediaType: 'Comic', lengthParts: [{ value: '4 volumes' }],
         parts: [
           { label: 'Kingdom Hearts ~Manga~ (2003)', url: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts' },
           { label: 'Comic', url: null, small: true },
@@ -121,7 +121,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga', noUrl: true }],
         ] },
-        { title: 'Kingdom Hearts: The Novel (2005)', releaseDate: '2005-06-30', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '2 volumes' }],
+        { title: 'Kingdom Hearts: The Novel', releaseDate: '2005-06-30', chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '2 volumes' }],
         parts: [
           { label: 'Kingdom Hearts: The Novel (2005)', url: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2' },
           { label: 'Book', url: null, small: true },
@@ -143,7 +143,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           [{ key: 'book', name: 'Novel', noUrl: true }],
         ],
         },
-        { title: 'Kingdom Hearts: Chain of Memories (2004) Remaster (2013)', releaseDate: '2004-11-11', chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'], lengthParts: [{ value: '23h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '60½h', tip: 'Completionist' }],
+        { title: 'Kingdom Hearts: Chain of Memories', releaseDate: '2004-11-11', chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'], lengthParts: [{ value: '23h', tip: 'Main Story', sep: true, sepChar: ' / ' }, { value: '31½h', tip: 'Main + Sides', sep: true, sepChar: ' / ' }, { value: '60½h', tip: 'Completionist' }],
         parts: [
           { label: 'Kingdom Hearts: Chain of Memories (2004)', url: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories' },
           { label: 'Remaster (2013)', url: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', small: true },
@@ -234,7 +234,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
           },
         ],
         },
-        { title: 'Kingdom Hearts: Chain of Memories ~Manga~ (2005)', releaseDate: '2005-10-22', chronoOrder: 150, recommendedOrder: 250, tags: ['Optional', 'Manga'], mediaType: 'Comic', helpWanted: true, lengthParts: [{ value: '2? volumes' }],
+        { title: 'Kingdom Hearts: Chain of Memories ~Manga~', releaseDate: '2005-10-22', chronoOrder: 150, recommendedOrder: 250, tags: ['Optional', 'Manga'], mediaType: 'Comic', helpWanted: true, lengthParts: [{ value: '2? volumes' }],
         parts: [
           { label: 'Kingdom Hearts: Chain of Memories ~Manga~ (2005)', url: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories' },
           { label: 'Comic', url: null, small: true },
@@ -255,7 +255,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Manga', noUrl: true }],
         ] },
-        { title: 'Kingdom Hearts: Chain of Memories The Novel (2005)', releaseDate: '2005-10-22', chronoOrder: 175, recommendedOrder: 275, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '3 volumes' }],
+        { title: 'Kingdom Hearts: Chain of Memories The Novel', releaseDate: '2005-10-22', chronoOrder: 175, recommendedOrder: 275, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, lengthParts: [{ value: '3 volumes' }],
         parts: [
           { label: 'Kingdom Hearts: Chain of Memories The Novel (2005)', url: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2' },
           { label: 'Book', url: null, small: true },
@@ -276,7 +276,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', releaseDate: '2002-03-28', chronoOrder
         platformGroups: [
           [{ key: 'book', name: 'Novel', noUrl: true }],
         ] },
-        { title: 'Kingdom Hearts II (2005) Remaster (2014)', mainline: true, releaseDate: '2005-12-22', chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
+        { title: 'Kingdom Hearts II', mainline: true, releaseDate: '2005-12-22', chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
         parts: [
           { label: 'Kingdom Hearts II (2005)', url: 'https://wikipedia.org/wiki/Kingdom_Hearts_II' },
           { label: 'Remaster (2014)', url: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#HD_2.5_Remix', small: true },
