@@ -1,10 +1,10 @@
 // schema: series.schema.json
 window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature Final Fantasy characters.', media: [
-  { releases: [
-    { mainline: true, chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game', tags: ['Action RPG', 'Hack and slash', 'Single-player'],
+  { chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game',
+    title: 'Kingdom Hearts', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)', titleDate: '2002-03-28',
+    primary: { mainline: true, tags: ['Action RPG', 'Hack and slash', 'Single-player'],
       length: [{ value: '28½h', tip: 'Main Story' }, { value: '41h', tip: 'Main + Sides' }, { value: '62½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/kingdom-hearts/' }, { key: 'metacritic-user', score: '8.5', url: 'https://www.metacritic.com/game/kingdom-hearts/' }],
-      title: 'Kingdom Hearts', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)', titleDate: '2002-03-28',
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix', subtitleDate: 2013,
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -78,10 +78,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         },
       ],
     },
-  ] },
-  { releases: [
-    { chronoOrder: 25, recommendedOrder: 125, tags: ['Optional', 'Manga'], mediaType: 'Comic', length: [{ value: '4 volumes' }],
-      title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts', titleDate: '2003-10-25',
+  },
+  { chronoOrder: 25, recommendedOrder: 125, mediaType: 'Comic',
+    title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts', titleDate: '2003-10-25',
+    primary: { tags: ['Optional', 'Manga'], length: [{ value: '4 volumes' }],
       subtitle: 'Comic',
       description: [
         [
@@ -105,10 +105,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'book', name: 'Manga', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    { chronoOrder: 50, recommendedOrder: 150, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, length: [{ value: '2 volumes' }],
-      title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: '2005-06-30',
+  },
+  { chronoOrder: 50, recommendedOrder: 150, mediaType: 'Book',
+    title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: '2005-06-30',
+    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
       description: [
         [
@@ -127,11 +127,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'book', name: 'Novel', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    { chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'],
+  },
+  { chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game',
+    title: 'Kingdom Hearts: Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
+    primary: { tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'],
       length: [{ value: '23h', tip: 'Main Story' }, { value: '31½h', tip: 'Main + Sides' }, { value: '60½h', tip: 'Completionist' }],
-      title: 'Kingdom Hearts: Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', subtitleDate: 2013,
       description: [
         'A year after Kingdom Hearts (2002), Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from Final Fantasy.',
@@ -203,10 +203,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         },
       ],
     },
-  ] },
-  { releases: [
-    { chronoOrder: 150, recommendedOrder: 250, tags: ['Optional', 'Manga'], mediaType: 'Comic', helpWanted: true, length: [{ value: '2? volumes' }],
-      title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories', titleDate: '2005-10-22',
+  },
+  { chronoOrder: 150, recommendedOrder: 250, mediaType: 'Comic',
+    title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories', titleDate: '2005-10-22',
+    primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '2? volumes' }],
       subtitle: 'Comic',
       description: ['Manga adaptation of Kingdom Hearts: Chain of Memories (2004).'],
       ratings: [{ key: 'goodreads', score: '4.32', url: 'https://www.goodreads.com/book/show/1508179.Kingdom_Hearts' }],
@@ -225,10 +225,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'book', name: 'Manga', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    { chronoOrder: 175, recommendedOrder: 275, tags: ['Optional', 'YA Novel'], mediaType: 'Book', helpWanted: true, length: [{ value: '3 volumes' }],
-      title: 'Kingdom Hearts: Chain of Memories The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: '2005-10-22',
+  },
+  { chronoOrder: 175, recommendedOrder: 275, mediaType: 'Book',
+    title: 'Kingdom Hearts: Chain of Memories The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: '2005-10-22',
+    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       description: [
         [
@@ -247,10 +247,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'book', name: 'Novel', noUrl: true },
       ],
     },
-  ] },
-  { releases: [
-    { mainline: true, chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game', tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
-      title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22',
+  },
+  { chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game',
+    title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22',
+    primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#HD_2.5_Remix', subtitleDate: 2014,
       description: [
         [
@@ -296,5 +296,5 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts II' },
       ],
     },
-  ] },
+  },
 ]};
