@@ -55,11 +55,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       ],
       versions: [
         {
-          // pinned: Final Mix released Dec 2002, later in the year than the March 2002
-          // original below -- but subtitleDate only records the year, which would
-          // otherwise string-sort before the original's full 2002-03-28.
-          pinned: true,
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Final_Mix', subtitleDate: 2002,
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Final_Mix', subtitleDate: '2002-12-26',
           versionDesc: [
             [
               { text: 'This edit adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot. Released as ' },
