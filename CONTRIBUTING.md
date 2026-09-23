@@ -21,8 +21,8 @@ edit, preview in a browser, open a PR.
 ## Quick start
 
 ```sh
-git clone https://github.com/vertex-order/kingdom-hearts
-cd kingdom-hearts
+git clone https://github.com/vertex-order/kingdom-hearts vertex-order-kingdom-hearts
+cd vertex-order-kingdom-hearts
 # open site/page.dc.html in a browser — done, no build step
 ```
 
