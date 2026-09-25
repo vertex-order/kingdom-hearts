@@ -19,6 +19,9 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts
+- https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts -- dates*, ISBN*, length* -- accessed 2026-09-25
+- https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Final_Mix -- dates*, ISBN*, length* -- accessed 2026-09-25
+- https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- story*, length* -- accessed 2026-09-25
+- https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
 ## Decisions
