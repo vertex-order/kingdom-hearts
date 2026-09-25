@@ -2,9 +2,6 @@
 
 # Kingdom Hearts
 
-<!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
-     dates/stars yet. Needs a human research pass per docs/sources.md. -->
-
 ## Epic Games (Platform)
 
 - https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix
@@ -27,7 +24,7 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)
+- https://wikipedia.org/wiki/Kingdom_Hearts_(video_game) -- dates*, releases*, platforms*, tags*, story* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix
 - https://wikipedia.org/wiki/Kingdom_Hearts_Final_Mix
 

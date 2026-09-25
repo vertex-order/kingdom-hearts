@@ -1,5 +1,11 @@
 // schema: series.schema.json
-window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature Final Fantasy characters.', media: [
+window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: [
+  [
+    { text: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature ' },
+    { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+    { text: ' characters.' },
+  ],
+], media: [
   { chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game',
     title: 'Kingdom Hearts', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)', titleDate: '2002-03-28',
     mediaDesc: [
@@ -38,15 +44,18 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       ],
       versionDesc: [
         [
-          { text: 'This remaster includes everything from ' },
-          { emText: 'Edit (2002)' },
+          { text: 'This remaster includes the extra content from ' },
+          { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
           { text: ', and adds HD graphics using the character models from ' },
-          { emText: 'Kingdom Hearts 3D: Dream Drop Distance' },
+          { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-KH-kingdom-hearts-3d-dream-drop-distance-2012' },
           { text: ', achievements support, and an updated command menu and camera reworked to play more like ' },
-          { emText: 'Kingdom Hearts II' },
+          { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
           { text: ', plus HD cinematic scenes from ' },
-          { emText: 'Kingdom Hearts 358/2 Days' },
-          { text: '. Released in the omnibus collections ' },
+          { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
+          { text: '.' },
+        ],
+        [
+          { text: 'Released in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 Remix' },
           { text: ', ' },
           { emText: 'Kingdom Hearts HD 1.5 + 2.5 Remix' },
@@ -90,7 +99,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: '.' },
       ],
     ],
@@ -117,7 +126,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: '.' },
       ],
     ],
@@ -145,8 +154,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       versionDesc: [
         [
           { text: 'This remaster includes everything from the original, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
-          { emText: 'Kingdom Hearts 358/2 Days' },
-          { text: '. Released in the omnibus collections ' },
+          { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
+          { text: '.' },
+        ],
+        [
+          { text: 'Released in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 Remix' },
           { text: ', ' },
           { emText: 'Kingdom Hearts HD 1.5 + 2.5 Remix' },
@@ -187,7 +199,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           versionDesc: [
             [
               { text: 'This remake rebuilds the original card-based battles and worlds in 3D, reusing the graphics from ' },
-              { emText: 'Kingdom Hearts (2002)' },
+              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
               { text: ', and adds voice acting, an improved soundtrack, minor battle-system tweaks, and new cutscenes and battles. Released as ' },
               { emText: 'Re:Chain of Memories' },
               { text: ' in the omnibus collection ' },
@@ -214,7 +226,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
   },
   { chronoOrder: 150, recommendedOrder: 250, mediaType: 'Comic',
     title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories', titleDate: '2005-10-22',
-    mediaDesc: ['Manga adaptation of Kingdom Hearts: Chain of Memories (2004).'],
+    mediaDesc: [
+      [
+        { text: 'Manga adaptation of ' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
+        { text: '.' },
+      ],
+    ],
     primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '2? volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.32', url: 'https://www.goodreads.com/book/show/1508179.Kingdom_Hearts' }],
@@ -239,7 +257,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emText: 'Kingdom Hearts: Chain of Memories (2004)' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
         { text: '.' },
       ],
     ],
@@ -261,11 +279,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Takes place near the end of ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: ' in parallel to ' },
-        { emText: 'Kingdom Hearts: Chain of Memories (2004)' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
         { text: ', leading directly into the events of ' },
-        { emText: 'Kingdom Hearts II (2005)' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
         { text: '.' },
       ],
     ],
@@ -277,6 +295,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
   },
   { chronoOrder: 192, recommendedOrder: 292, mediaType: 'Comic',
     title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels',
+    mediaDesc: [
+      [
+        { text: 'Manga adaptation of ' },
+        { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
+        { text: '.' },
+      ],
+    ],
     primary: { tags: ['Optional', 'Manga'], helpWanted: true,
       subtitle: 'Comic',
       platforms: [
@@ -286,6 +311,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
   },
   { chronoOrder: 194, recommendedOrder: 294, mediaType: 'Book',
     title: 'Kingdom Hearts 358/2 Days ~Novellas~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels',
+    mediaDesc: [
+      [
+        { text: 'Novelization of ' },
+        { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
+        { text: '.' },
+      ],
+    ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true,
       subtitle: 'Book',
       platforms: [
@@ -298,7 +330,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'A year after ' },
-        { emText: 'Kingdom Hearts: Chain of Memories (2004)' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
         { text: ', Sora returns to search for his lost friends while battling the sinister Organization XIII. Features many Final Fantasy characters and gameplay elements.' },
       ],
     ],
@@ -308,7 +340,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         [
           { text: 'This remaster includes everything from ' },
           { emText: 'Kingdom Hearts II Final Mix' },
-          { text: ', and adds high-definition graphics and achievements support. Released in the omnibus collections ' },
+          { text: ', and adds high-definition graphics and achievements support.' },
+        ],
+        [
+          { text: 'Released in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 + 2.5 Remix' },
           { text: ', ' },
           { emText: 'Kingdom Hearts Integrum Masterpiece' },
@@ -344,21 +379,35 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       ],
     },
   },
-  { chronoOrder: 205, recommendedOrder: 305, mediaType: 'Book',
-    title: 'Kingdom Hearts II: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: '2006-04-22',
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true,
-      subtitle: 'Book',
-      platforms: [
-        { key: 'book', name: 'Novel' },
-      ],
-    },
-  },
-  { chronoOrder: 210, recommendedOrder: 310, mediaType: 'Comic',
+  { chronoOrder: 205, recommendedOrder: 305, mediaType: 'Comic',
     title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations',
+    mediaDesc: [
+      [
+        { text: 'Manga adaptation of ' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { text: '.' },
+      ],
+    ],
     primary: { tags: ['Optional', 'Manga'], helpWanted: true,
       subtitle: 'Comic',
       platforms: [
         { key: 'book', name: 'Manga' },
+      ],
+    },
+  },
+  { chronoOrder: 210, recommendedOrder: 310, mediaType: 'Book',
+    title: 'Kingdom Hearts II: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: '2006-04-22',
+    mediaDesc: [
+      [
+        { text: 'YA Novelization of ' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { text: '.' },
+      ],
+    ],
+    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true,
+      subtitle: 'Book',
+      platforms: [
+        { key: 'book', name: 'Novel' },
       ],
     },
   },
@@ -367,7 +416,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Set after ' },
-        { emText: 'Kingdom Hearts II (2005)' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
         { text: '.' },
       ],
     ],
@@ -391,7 +440,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Takes place after the events of ' },
-        { emText: 'Kingdom Hearts Coded (2008)' },
+        { emLinkText: 'Coded (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-coded-2008' },
         { text: '.' },
       ],
     ],
@@ -406,9 +455,9 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Depicts events both leading into ' },
-        { emText: 'Kingdom Hearts III (2019)' },
+        { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
         { text: ' and intersecting with the ending of the original ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: '.' },
       ],
     ],
@@ -443,7 +492,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Retelling the events of the series so far, while also being set after ' },
-        { emText: 'Kingdom Hearts III (2019)' },
+        { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
         { text: "'s Re Mind DLC scenario." },
       ],
     ],
@@ -461,7 +510,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'Taking place thousands of years before ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: ' and detailing events leading up to the Keyblade War.' },
       ],
     ],
@@ -479,7 +528,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: 'A prequel set ten years before ' },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: '.' },
       ],
     ],
@@ -494,7 +543,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     mediaDesc: [
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
-        { emText: 'Kingdom Hearts (2002)' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
         { text: ' game, modified for the input method of mobile phones.' },
       ],
     ],
@@ -508,5 +557,16 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     title: 'Kingdom Hearts VR Experience', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts#Other_games', titleDate: 2019,
     mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games.'],
     primary: { tags: ['Optional', 'VR', 'Interactive Video'] },
+  },
+  { mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 1000,
+    title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: '2026+' },
+    mediaDesc: [
+      [
+        { text: 'See our ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy' },
+        { text: ' vertex order for the characters featured in some Kingdom Hearts titles.' },
+      ],
+    ],
+    primary: { tags: ['Optional'], noCheckbox: true },
   },
 ]};
