@@ -68,7 +68,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       ],
       versions: [
         {
-          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Final_Mix', subtitleDate: '2002-12-26',
+          subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', subtitleDate: '2002-12-26',
           versionDesc: [
             [
               { text: 'This edit adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot. Released as ' },
@@ -76,7 +76,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
               { text: '.' },
             ],
           ],
-          languages: [{ value: 'JA', tip: 'Japanese (Japan Only)', native: true }],
+          languages: [{ value: 'JA', textOnly: true, native: true }, { value: 'EN', voice: true }],
           platforms: [
             { key: 'playstation2', paren: 'Physical', jpTag: true },
             { key: 'playstation3', paren: 'PS2 Compatibility', jpTag: true },

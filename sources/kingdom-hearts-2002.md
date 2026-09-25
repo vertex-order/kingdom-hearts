@@ -25,8 +25,8 @@
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game) -- dates*, releases*, platforms*, tags*, story* -- accessed 2026-09-25
-- https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix
-- https://wikipedia.org/wiki/Kingdom_Hearts_Final_Mix
+  - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix
+  - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix -- versions*, languages* -- accessed 2026-09-25
 
 ## Xbox (Platform)
 
