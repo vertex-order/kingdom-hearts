@@ -78,8 +78,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           ],
           languages: [{ value: 'JA', tip: 'Japanese (Japan Only)', native: true }],
           platforms: [
-            { key: 'playstation2', paren: 'Physical; Japan Only', jpTag: true },
-            { key: 'playstation3', paren: 'PS2 Compatibility; Japan Only', jpTag: true },
+            { key: 'playstation2', paren: 'Physical', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 Compatibility', jpTag: true },
           ],
         },
         {
@@ -428,7 +428,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
   },
   { chronoOrder: 227, recommendedOrder: 327, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
-    mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames.'],
+    mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames. The game is terminated.'],
     primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
       platforms: [
         { key: 'mobile-phone', paren: 'NTT DoCoMo', terminated: true },
@@ -544,7 +544,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
-        { text: ' game, modified for the input method of mobile phones.' },
+        { text: ' game, modified for the input method of mobile phones. The game is terminated.' },
       ],
     ],
     primary: { tags: ['Optional', 'Alternate Universe'], helpWanted: true,
