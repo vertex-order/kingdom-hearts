@@ -4,7 +4,7 @@
 
 ## Epic Games (Platform)
 
-- https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix
+- https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- platform -- accessed 2026-09-25
 
 ## metacritic.com (Ratings)
 
@@ -27,9 +27,13 @@
 
 - https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000
 
-## Steam (Platform)
+## Square Enix (Publisher)
 
-- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/
+- https://www.square-enix.com/kingdomhearts/collection/ -- platform -- accessed 2026-09-25
+
+## Steam (Platform, Ratings)
+
+- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- ratings, platform -- accessed 2026-09-25
 
 ## wikipedia.org (Information)
 
