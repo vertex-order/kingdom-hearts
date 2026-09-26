@@ -2,6 +2,10 @@
 
 # Kingdom Hearts: Melody of Memory
 
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/kingdom-hearts-melody-of-memory/ -- ratings*, platform, story -- accessed 2026-09-25
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, platforms, story -- accessed 2026-09-25

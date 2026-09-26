@@ -2,6 +2,19 @@
 
 # Kingdom Hearts Coded
 
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/kingdom-hearts-re-coded/ -- ratings*, platform, story -- accessed 2026-09-25
+
+### Omnibus
+
+- https://www.metacritic.com/game/kingdom-hearts-hd-i5-plus-ii5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-hd-2-5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-integrum-masterpiece-for-cloud/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, story -- accessed 2026-09-24

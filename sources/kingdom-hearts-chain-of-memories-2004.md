@@ -11,7 +11,17 @@
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/kingdom-hearts-chain-of-memories/
+- https://www.metacritic.com/game/kingdom-hearts-chain-of-memories/ -- ratings*, platform, story -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-rechain-of-memories/ -- ratings, platform, story -- accessed 2026-09-25
+
+### Omnibus
+
+- https://www.metacritic.com/game/kingdom-hearts-hd-i5-plus-ii5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-hd-1-5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-integrum-masterpiece-for-cloud/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
 
 ## Nintendo (Platform)
 
@@ -43,3 +53,5 @@
 - https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017
 
 ## Decisions
+
+- Rating: kept the original GBA release's Metacritic score (76 critic / 7.2 user) over the 2007 Re:Chain of Memories remake's (68 / 6.4) — higher of the two real non-omnibus scores, per site's "keep the highest" policy.
