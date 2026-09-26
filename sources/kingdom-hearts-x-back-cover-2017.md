@@ -4,6 +4,10 @@
 
 <!-- Placeholder entry -- no human research pass yet per docs/sources.md. -->
 
+## Epic Games (Platform)
+
+- https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue -- platform -- accessed 2026-09-25
+
 ## metacritic.com (Ratings)
 
 ### Omnibus
@@ -13,6 +17,15 @@
 - https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
 - https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
 - https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
+
+## Square Enix (Publisher)
+
+- https://www.square-enix.com/kingdomhearts/collection/ -- platform -- accessed 2026-09-25
+
+## Steam (Platform)
+
+- https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/ -- platform -- accessed 2026-09-25
+- [Kingdom Hearts Integrum Masterpiece](https://store.steampowered.com/sub/1000794/) -- platform -- accessed 2026-09-25
 
 ## wikipedia.org (Information)
 
