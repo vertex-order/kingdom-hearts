@@ -6,6 +6,18 @@
 
 - https://store.epicgames.com/p/kingdom-hearts-iii -- platform, languages* -- accessed 2026-09-25
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts III Re:Mind](https://howlongtobeat.com/game/74017) -- length* -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_III_Re_Mind -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-iii-re-mind/ -- ratings*, platform, story -- accessed 2026-09-25

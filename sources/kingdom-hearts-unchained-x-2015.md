@@ -2,6 +2,14 @@
 
 # Kingdom Hearts Unchained χ
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts - Union χ](https://howlongtobeat.com/game/58197) -- length* -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_Union_%CF%87 -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-unchained-x/ -- ratings*, platform, story -- accessed 2026-09-25

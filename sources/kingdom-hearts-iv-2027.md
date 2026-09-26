@@ -5,6 +5,14 @@
 <!-- No data row yet -- game unreleased (scheduled late 2027). Sourced ahead
      of the entry per docs/sources.md. -->
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts IV](https://howlongtobeat.com/game/106565) -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_IV -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-iv/ -- accessed 2026-09-25

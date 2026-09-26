@@ -8,6 +8,14 @@
      gameplay and release. See sources/kingdom-hearts-unchained-x-2015.md
      and sources/kingdom-hearts-dark-road-2020.md for those. -->
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts χ](https://howlongtobeat.com/game/139038) -- length* -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_%CF%87 -- accessed 2026-09-26
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, platforms, story -- accessed 2026-09-24

@@ -6,6 +6,23 @@
 
 - https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- platform, languages* -- accessed 2026-09-25
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts](https://howlongtobeat.com/game/5037) -- length* -- accessed 2026-09-26
+- [Kingdom Hearts Final Mix](https://howlongtobeat.com/game/22488) -- length -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts HD 1.5 ReMIX](https://howlongtobeat.com/game/5042) -- length -- accessed 2026-09-26
+- [Kingdom Hearts HD 1.5 + 2.5 ReMIX](https://howlongtobeat.com/game/42802) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_(game) -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts/ -- ratings*, platform, story -- accessed 2026-09-25

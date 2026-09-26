@@ -2,6 +2,10 @@
 
 # Kingdom Hearts (franchise)
 
+## khwiki.com (Information)
+
+- https://www.khwiki.com/ -- games, platforms, dates, story -- accessed 2026-09-26
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts -- games*, platforms, versions -- accessed 2026-09-24

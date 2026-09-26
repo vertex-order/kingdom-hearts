@@ -2,6 +2,14 @@
 
 # Kingdom Hearts Dark Road
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts Dark Road](https://howlongtobeat.com/game/75213) -- length* -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_Dark_Road -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-dark-road/ -- ratings*, platform, story -- accessed 2026-09-25
