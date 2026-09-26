@@ -4,7 +4,7 @@
 
 ## Epic Games (Platform)
 
-- https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- platform -- accessed 2026-09-25
+- https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- platform, languages* -- accessed 2026-09-25
 
 ## metacritic.com (Ratings)
 
@@ -21,11 +21,17 @@
 
 ## Nintendo (Platform)
 
-- https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/
+- https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/ -- platform, languages* -- accessed 2026-09-26
+- https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-cloud-version-switch/ -- platform -- accessed 2026-09-26
+- https://www.nintendo.com/store/products/kingdom-hearts-integrum-masterpiece-for-cloud-switch/ -- platform -- accessed 2026-09-26
+- https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/ -- platform, languages* -- accessed 2026-09-26
 
 ## Playstation (Platform)
 
-- https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000
+- [Kingdom Hearts: All-in-One Package](https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000) -- platform -- accessed 2026-09-26
+- [Kingdom Hearts -HD 1.5+2.5 ReMIX- (PS5)](https://store.playstation.com/product/UP0082-PPSA35901_00-KHHD1525RMX00000) -- platform -- accessed 2026-09-26
+- [Kingdom Hearts -HD 1.5+2.5 ReMIX- (PS4)](https://store.playstation.com/product/UP0082-CUSA05933_00-KINGDOMHEART1525) -- platform -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN) -- platform -- accessed 2026-09-26
 
 ## Square Enix (Publisher)
 
@@ -33,7 +39,13 @@
 
 ## Steam (Platform, Ratings)
 
-- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- ratings, platform -- accessed 2026-09-25
+- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- ratings, platform, languages* -- accessed 2026-09-25
+
+## Windows (Platform)
+
+- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017 -- platform, languages* -- accessed 2026-09-26
+- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform, languages* -- accessed 2026-09-26
+- https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017 -- platform -- accessed 2026-09-26
 
 ## wikipedia.org (Information)
 
@@ -50,6 +62,12 @@
 
 ## Xbox (Platform)
 
-- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017
+- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017 -- platform, languages* -- accessed 2026-09-26
+- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform (One), languages* -- accessed 2026-09-26
+- https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017 -- platform (X|S) -- accessed 2026-09-26
+
+## Xbox Cloud Gaming (Platform)
+
+- https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform -- accessed 2026-09-26
 
 ## Decisions

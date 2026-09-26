@@ -2,6 +2,10 @@
 
 # Kingdom Hearts VR Experience
 
+## Playstation (Platform)
+
+- https://store.playstation.com/product/UP0082-CUSA15095_00-KINGDOMHEARTSVRX -- platform, tags -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-vr-experience/ -- ratings*, platform, story -- accessed 2026-09-25
