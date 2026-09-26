@@ -990,7 +990,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     },
   },
   { mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 1000,
-    title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: '2026+' },
+    title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: 2026, ongoing: true },
     mediaDesc: [
       [
         { text: 'See our ' },
