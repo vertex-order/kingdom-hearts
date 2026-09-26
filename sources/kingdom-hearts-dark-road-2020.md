@@ -2,6 +2,10 @@
 
 # Kingdom Hearts Dark Road
 
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/kingdom-hearts-dark-road/ -- ratings*, platform, story -- accessed 2026-09-25
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts_Dark_Road -- dates*, platforms*, versions*, story*, tags* -- accessed 2026-09-25

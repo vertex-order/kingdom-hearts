@@ -8,7 +8,16 @@
 
 ## metacritic.com (Ratings)
 
-- https://www.metacritic.com/game/kingdom-hearts/
+- https://www.metacritic.com/game/kingdom-hearts/ -- ratings*, platform, story -- accessed 2026-09-25
+
+### Omnibus
+
+- https://www.metacritic.com/game/kingdom-hearts-hd-i5-plus-ii5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-hd-1-5-remix/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-integrum-masterpiece-for-cloud/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
 
 ## Nintendo (Platform)
 

@@ -2,6 +2,18 @@
 
 # Kingdom Hearts 3D: Dream Drop Distance
 
+## metacritic.com (Ratings)
+
+- https://www.metacritic.com/game/kingdom-hearts-3d-dream-drop-distance/ -- ratings*, platform, story -- accessed 2026-09-25
+
+### Omnibus
+
+- https://www.metacritic.com/game/kingdom-hearts-hd-28-final-chapter-prologue/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-integrum-masterpiece-for-cloud/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, platforms, story -- accessed 2026-09-24

@@ -4,6 +4,16 @@
 
 <!-- Placeholder entry -- no human research pass yet per docs/sources.md. -->
 
+## metacritic.com (Ratings)
+
+### Omnibus
+
+- https://www.metacritic.com/game/kingdom-hearts-hd-28-final-chapter-prologue/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-integrum-masterpiece-for-cloud/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
+- https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue -- accessed 2026-09-25
