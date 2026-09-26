@@ -2,6 +2,14 @@
 
 # Kingdom Hearts: Melody of Memory
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts: Melody of Memory](https://howlongtobeat.com/game/80123) -- length* -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_Melody_of_Memory -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-melody-of-memory/ -- ratings*, platform, story -- accessed 2026-09-25

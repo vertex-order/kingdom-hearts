@@ -2,6 +2,24 @@
 
 # Kingdom Hearts Coded
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts Re:coded](https://howlongtobeat.com/game/5046) -- length* -- accessed 2026-09-26
+- [Kingdom Hearts coded](https://howlongtobeat.com/game/139037) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Re:coded - HD 2.5 Remix](https://howlongtobeat.com/game/24047) -- length -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts HD 2.5 ReMIX](https://howlongtobeat.com/game/14195) -- length -- accessed 2026-09-26
+- [Kingdom Hearts HD 1.5 + 2.5 ReMIX](https://howlongtobeat.com/game/42802) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_coded -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-re-coded/ -- ratings*, platform, story -- accessed 2026-09-25

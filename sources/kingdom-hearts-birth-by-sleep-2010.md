@@ -2,6 +2,23 @@
 
 # Kingdom Hearts Birth by Sleep
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts: Birth by Sleep](https://howlongtobeat.com/game/5041) -- length* -- accessed 2026-09-26
+- [Kingdom Hearts Birth by Sleep Final Mix](https://howlongtobeat.com/game/11672) -- length -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts HD 2.5 ReMIX](https://howlongtobeat.com/game/14195) -- length -- accessed 2026-09-26
+- [Kingdom Hearts HD 1.5 + 2.5 ReMIX](https://howlongtobeat.com/game/42802) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_Birth_by_Sleep -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-birth-by-sleep/ -- ratings*, platform, story -- accessed 2026-09-25

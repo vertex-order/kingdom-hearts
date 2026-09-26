@@ -2,6 +2,23 @@
 
 # Kingdom Hearts 358/2 Days
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts 358/2 Days](https://howlongtobeat.com/game/5039) -- length* -- accessed 2026-09-26
+- [Kingdom Hearts 358/2 Days - HD 1.5 Remix (Theater Mode)](https://howlongtobeat.com/game/22490) -- length -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts HD 1.5 ReMIX](https://howlongtobeat.com/game/5042) -- length -- accessed 2026-09-26
+- [Kingdom Hearts HD 1.5 + 2.5 ReMIX](https://howlongtobeat.com/game/42802) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_358/2_Days -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 - https://www.metacritic.com/game/kingdom-hearts-358-2-days/ -- ratings*, platform, story -- accessed 2026-09-25

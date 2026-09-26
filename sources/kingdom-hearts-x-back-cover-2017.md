@@ -8,6 +8,21 @@
 
 - https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue -- platform, languages* -- accessed 2026-09-25
 
+## HowLongToBeat (Length)
+
+- [Kingdom Hearts χ Back Cover](https://howlongtobeat.com/game/43237) -- length* -- accessed 2026-09-26
+
+### Omnibus
+
+- [Kingdom Hearts HD 2.8 Final Chapter Prologue](https://howlongtobeat.com/game/37863) -- length -- accessed 2026-09-26
+- [Kingdom Hearts Collection [I～III]](https://howlongtobeat.com/game/187300) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
+- [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_%CF%87_Back_Cover -- accessed 2026-09-26
+
 ## metacritic.com (Ratings)
 
 ### Omnibus
