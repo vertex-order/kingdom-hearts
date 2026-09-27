@@ -810,6 +810,25 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
+  { chronoOrder: 255, recommendedOrder: 342, mediaType: 'Game',
+    title: 'Kingdom Hearts IV', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_IV', titleDate: { start: '2027 late', tba: true }, id: 'kingdom-hearts-iv-2027',
+    mediaDesc: [
+      [
+        { text: 'Picking up after ' },
+        { emLinkText: 'Re Mind (2020)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-re-mind-2020' },
+        { text: ', Sora wakes up trapped in Quadratum, a realistic city world, while Donald and Goofy search the Underworld for clues to his whereabouts.' },
+      ],
+    ],
+    primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
+      ratings: [{ key: 'tbd', url: 'https://www.metacritic.com/game/kingdom-hearts-iv/' }],
+      platforms: [
+        { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/concept/10005013' },
+        { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
+        { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
+        { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-iv-switch-2/' },
+      ],
+    },
+  },
   { chronoOrder: 260, recommendedOrder: 345, mediaType: 'Game',
     title: 'Kingdom Hearts: Melody of Memory', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Melody_of_Memory', titleDate: '2020-11-11',
     mediaDesc: [
