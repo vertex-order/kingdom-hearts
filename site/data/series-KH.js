@@ -105,53 +105,84 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     },
   },
   { chronoOrder: 25, recommendedOrder: 125, mediaType: 'Comic',
-    title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts', titleDate: { start: '2003-10-25', end: '2005-01-31' },
+    title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', titleDate: { start: '2003-10-25', end: '2005-01-31' },
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
-        { text: '. Includes some events added in ' },
-        { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
         { text: '.' },
       ],
     ],
     primary: { tags: ['Optional', 'Manga'], length: [{ value: '4 volumes' }],
-      subtitle: 'Comic',
-      ratings: [{ key: 'goodreads', score: '4.06', url: 'https://www.goodreads.com/book/show/231914' }],
+      subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: 2025,
+      helpWanted: true,
+      ratings: [{ key: 'goodreads', score: '4.50', url: 'https://www.goodreads.com/book/show/231912.Kingdom_Hearts' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/11874890-1-kingdom-hearts-1' },
-        { value: 'EN-US', url: 'https://www.goodreads.com/book/show/231914.Kingdom_Hearts_Vol_1' },
-        { value: 'DE', url: 'https://www.goodreads.com/book/show/2946519-kingdom-hearts-band-1' },
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/15848235-kingdom-hearts-vol-1' },
-        { value: 'IT', url: 'https://www.goodreads.com/book/show/23574414-kingdom-hearts-vol-1' },
-        { value: 'ES-ES', url: 'https://www.goodreads.com/book/show/45434630-kingdom-hearts-vol-1' },
-        { value: 'EL', url: 'https://www.goodreads.com/book/show/35435731-kingdom-hearts-1' },
-        { value: 'SV', url: 'https://www.goodreads.com/book/show/63195694-kingdom-hearts-vol-1' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/242468847' },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
       ],
-    },
-    alts: [
-      {
-        title: 'Kingdom Hearts Final Mix ~Manga~', titleDate: { start: '2006-12-22', end: '2007-03-22' },
-        subtitle: 'Comic',
-        length: [{ value: '3 volumes' }],
-        helpWanted: true,
-        platforms: [
-          { key: 'book', name: 'Manga' },
+      versionDesc: [
+        [
+          { text: 'This edition includes both the original ' },
+          { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
+          { text: ' bonus chapters and the "Final Mix" ' },
+          { emLinkText: 'Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+          { text: ' bonus chapters.' },
         ],
-        versionDesc: [
-          [
-            { text: 'Follows the plot of ' },
-            { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
-            { text: ', matching the ' },
-            { emText: 'Final Mix' },
-            { text: ' release it\'s named after.' },
+      ],
+      versions: [
+        {
+          subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: { start: '2006-12-22', end: '2007-03-22' },
+          length: [{ value: '3 volumes' }],
+          helpWanted: true,
+          languages: [
+            { value: 'JA', native: true, url: 'https://www.google.com/books/edition/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84FINAL_MIX/R1sAfAEACAAJ' },
+            { value: 'EN', url: 'https://www.google.com/books/edition/Kingdom_Hearts_Final_Mix_Vol_1/vHZOmwEACAAJ' },
+            { value: 'ES', url: 'https://www.google.com/books/edition/_/PEpsygEACAAJ' },
+            { value: '…?' },
           ],
-        ],
-      },
-    ],
+          platforms: [
+            { key: 'book', name: 'Manga' },
+          ],
+          versionDesc: [
+            [
+              { text: 'This edition has bonus chapters matching the "Final Mix" ' },
+              { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
+              { text: ' version of the game. It does not have the original ' },
+              { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
+              { text: ' bonus chapters.' },
+            ],
+          ],
+        },
+        {
+          subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: { start: '2003-10-25', end: '2005-01-31' },
+          length: [{ value: '4 volumes' }],
+          languages: [
+            { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/11874890-1-kingdom-hearts-1' },
+            { value: 'EN', url: 'https://www.goodreads.com/book/show/231912.Kingdom_Hearts' },
+            { value: 'DE', url: 'https://www.goodreads.com/book/show/2946519-kingdom-hearts-band-1' },
+            { value: 'FR', url: 'https://www.goodreads.com/book/show/59746423-kingdom-hearts-l-int-grale-t01' },
+            { value: 'IT', url: 'https://www.goodreads.com/book/show/23574414-kingdom-hearts-vol-1' },
+            { value: 'ES-ES', url: 'https://www.goodreads.com/book/show/45434630-kingdom-hearts-vol-1' },
+            { value: 'EL', url: 'https://www.goodreads.com/book/show/35435731-kingdom-hearts-1' },
+            { value: 'SV', url: 'https://www.goodreads.com/book/show/63195694-kingdom-hearts-vol-1' },
+          ],
+          platforms: [
+            { key: 'book', name: 'Manga' },
+          ],
+          versionDesc: [
+            [
+              { text: 'The original edition, includes its own bonus chapters not included in the "Final Mix" ' },
+              { emLinkText: 'Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+              { text: '.' },
+            ],
+          ],
+        },
+      ],
+    },
   },
   { chronoOrder: 50, recommendedOrder: 150, mediaType: 'Book',
     title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
@@ -370,7 +401,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
   },
   { chronoOrder: 192, recommendedOrder: 292, mediaType: 'Comic',
-    title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2010-06-22', end: '2012-04-21' },
+    title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2010-06-22', end: '2012-09-22' },
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -380,6 +411,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '5 volumes' }],
       subtitle: 'Comic',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757529021' },
+        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316401180' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'Manga' },
       ],
@@ -402,6 +438,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757526044' },
+        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9781975327491' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
       ],
@@ -493,6 +534,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '10 volumes' }],
       subtitle: 'Comic',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=4757518323' },
+        { value: 'EN', url: 'https://www.google.com/books/edition/_/HZSjQgAACAAJ' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'Manga' },
       ],
@@ -517,6 +563,11 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
       subtitle: 'Book',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=4757516797' },
+        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316471930' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
       ],
@@ -622,6 +673,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
       ],
@@ -976,6 +1031,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      languages: [
+        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757531116' },
+        { value: '…?' },
+      ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
       ],
