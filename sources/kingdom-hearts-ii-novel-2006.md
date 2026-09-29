@@ -32,22 +32,20 @@ Anthem—Meet Again/Axel Last Stand -- ISBN 9784757519640 (ISBN10: 4757519648), 
 Collection: "Tears of Nobody" + "Anthem—Meet Again/Axel Last Stand" -- ISBN 9780316411790, English, Yen Press, December 19, 2017 -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316411790
 
-## animenewsnetwork.com (Information)
+## Sources
 
+animenewsnetwork.com (Information)
 - https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443 -- novels*, dates*, story* -- confirms the licensing announcement and all four JP volume titles -- accessed 2026-09-28
 
-## khinsider.com (Information)
-
+khinsider.com (Information)
 - https://www.khinsider.com/news/Kingdom-Hearts-II-The-Novel-Volume-1-to-release-June-2017-7452 -- dates*, story* -- accessed 2026-09-28
 
-## khwiki.com (Information)
-
+khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_II -- novels*, dates* -- accessed 2026-09-28
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Short_stories -- novels* -- accessed 2026-09-28
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Other -- novels* -- accessed 2026-09-28
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_II_2 -- dates*, ISBN*, length*, story* -- accessed 2026-09-28

@@ -26,8 +26,9 @@ Vol. 2 -- ISBN 1591167396, English, Tokyopop, February 13, 2007 -- content: seve
 Collection: Boxed Set -- ISBN 1427806292, English, Tokyopop, October 9, 2007 -- omnibus of both EN volumes above
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=1427806292
 
-## goodreads.com (Ratings)
+## Sources
 
+goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/1508179.Kingdom_Hearts
 - https://www.goodreads.com/book/show/77683042-kingdom-hearts
 - https://www.goodreads.com/book/show/24396851-kingdom-hearts
@@ -39,8 +40,7 @@ Collection: Boxed Set -- ISBN 1427806292, English, Tokyopop, October 9, 2007 -- 
 - https://www.goodreads.com/book/show/61093550-kingdom-hearts-chain-of-memories-1
 - https://www.goodreads.com/book/show/35435910-kingdom-hearts
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Manga -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25

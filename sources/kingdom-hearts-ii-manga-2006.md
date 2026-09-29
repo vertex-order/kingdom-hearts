@@ -95,8 +95,9 @@ Vol. 9 -- ISBN 9784757545335, Japanese, Square Enix, February 22, 2015 -- conten
 
 Vol. 10 -- ISBN not given by Wikipedia, Japanese, Square Enix, August 22, 2015 -- content not given
 
-## wikipedia.org (Information)
+## Sources
 
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_II -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25

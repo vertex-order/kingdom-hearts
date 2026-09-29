@@ -22,12 +22,12 @@ Collection: "Side Sora" + "Side Riku" -- ISBN 9781975358617 (recovered from the 
 - yen press: https://yenpress.com/titles/9781975358617-kingdom-hearts-3d-dream-drop-distance-the-novel-light-novel -- 404 as of 2026-09-28 -- archived: TODO
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358617
 
-## khwiki.com (Information)
+## Sources
 
+khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_3D:_Dream_Drop_Distance -- novels*, dates*, languages* -- accessed 2026-09-28
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 
 ## Decisions

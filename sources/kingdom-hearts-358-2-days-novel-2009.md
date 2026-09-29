@@ -22,16 +22,15 @@ Xion—Seven Days -- ISBN 9784757528888, Japanese, May 28, 2010
 Collection: "The 14th" + "Go to the Sea" + "Xion—Seven Days" -- ISBN 9781975327491, English, June 26, 2018 -- single EN omnibus of all 3 JP novellas above (same ISBN listed for all 3 on Wikipedia's table, not a duplication error)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781975327491
 
-## animenewsnetwork.com (Information)
+## Sources
 
+animenewsnetwork.com (Information)
 - https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443 -- novels*, dates*, story* -- confirms the licensing announcement and all three JP volume titles -- accessed 2026-09-28
 
-## khwiki.com (Information)
-
+khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_358.2F2_Days -- novels*, dates* -- accessed 2026-09-28
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- dates*, length*, story* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days_2 -- dates*, ISBN*, length* -- accessed 2026-09-28
 

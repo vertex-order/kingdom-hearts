@@ -23,16 +23,15 @@ To the Future -- ISBN 9784757532212, Japanese, May 26, 2011
 Collection: "Something Strange" + "Best Friends" + "To the Future" -- ISBN not yet found, English, March 19, 2019 -- one-volume EN omnibus of all 3 JP novels above, per khwiki
 - khwiki: https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Birth_by_Sleep
 
-## animenewsnetwork.com (Information)
+## Sources
 
+animenewsnetwork.com (Information)
 - https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443 -- novels*, dates*, story* -- confirms the licensing announcement and all three JP volume titles -- accessed 2026-09-28
 
-## khwiki.com (Information)
-
+khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Birth_by_Sleep -- novels*, dates*, languages* -- accessed 2026-09-28
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 
 ## Decisions
