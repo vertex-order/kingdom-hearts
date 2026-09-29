@@ -11,23 +11,27 @@ Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md
 for the fuller pattern. Not yet cross-checked against goodreads -- ISBN/
 date/publisher below are Wikipedia-only so far.
 
-The First Door -- ISBN 9784757514683 (ISBN10: 4757514689), Japanese, Square Enix, Paperback, 231pp, June 30, 2005 -- follows the first game's story
+The First Door -- ISBN 9784757514683 (ISBN10: 4757514689), Japanese, Square Enix, Paperback, 231pp, June 30, 2005 -- follows the first game's story -- google books gives July 21, 2005 vs. June 30 elsewhere (see Decisions)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757514689
 - goodreads: https://www.goodreads.com/book/show/21419607
+- google books: https://www.google.com/books/edition/_/jWKbPQAACAAJ -- accessed 2026-09-29 -- confirms ISBN, 231pp
 
-Darkness Within -- ISBN 9784757514959 (ISBN10: 4757514956), Japanese, Square Enix, Paperback, 255pp, July 29, 2005 -- follows the first game's story
+Darkness Within -- ISBN 9784757514959 (ISBN10: 4757514956), Japanese, Square Enix, Paperback, 254pp, July 29, 2005 -- follows the first game's story -- google books gives August 19, 2005 vs. July 29 elsewhere, and 254pp vs. goodreads' 255pp (see Decisions)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757514956
 - goodreads: https://www.goodreads.com/book/show/21419648-kingdom-hearts-2
+- google books: https://www.google.com/books/edition/_/0RdAPQAACAAJ -- accessed 2026-09-29
 
-Collection: "The First Door" + "Darkness Within" -- ISBN 9780316260190 (ISBN10: 0316260193), English, Yen Press, Paperback, 276pp -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error) -- goodreads gives April 7, 2015 vs. March 24 elsewhere
+Collection: "The First Door" + "Darkness Within" -- ISBN 9780316260190 (ISBN10: 0316260193), English, Yen Press, Paperback, 276pp -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error) -- goodreads gives April 7, 2015 vs. March 24 elsewhere; google books says 288pp vs. goodreads' 276pp (see Decisions)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316260190
 - goodreads: https://www.goodreads.com/book/show/23197294-kingdom-hearts
+- google books: https://www.google.com/books/edition/Kingdom_Hearts_The_Novel_light_novel/N-vXoQEACAAJ -- accessed 2026-09-29 -- confirms ISBN, March 24 2015, but gives 288pp not 276pp
 - barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-tomoco-kanemaki/1120331596?ean=9780316260190 -- 404 as of 2026-09-28 -- archived: TODO
 
-Collection: "The First Door" + "Darkness Within" -- ISBN 9780316559614 (ISBN10: 031655961X), English, Yen On, Kindle Edition, 268pp, March 21, 2017 -- ebook re-edition of the same EN omnibus, distinct ISBN from the 2015 paperback
+Collection: "The First Door" + "Darkness Within" -- ISBN 9780316559614 (ISBN10: 031655961X), English, Yen On, Kindle Edition, 268pp, March 21, 2017 -- ebook re-edition of the same EN omnibus, distinct ISBN from the 2015 paperback -- google books says 288pp vs. goodreads' 268pp (see Decisions)
 - goodreads: https://www.goodreads.com/book/show/34739731-kingdom-hearts
+- google books: https://www.google.com/books/edition/_/KY2KDgAAQBAJ -- accessed 2026-09-29 -- confirms ISBN, ebook format, March 21 2017
 
-Collection: "The First Door" + "Darkness Within" -- ASIN B0DM4L5TJY, English, Yen Press, Nook, 227pp, March 21, 2017 -- another ebook re-edition, no ISBN given (Nook/ASIN-only)
+Collection: "The First Door" + "Darkness Within" -- ASIN B0DM4L5TJY, English, Yen Press, Nook, 227pp, March 21, 2017 -- another ebook re-edition, no ISBN given (Nook/ASIN-only) -- no google books record found (ASIN-only, expected)
 - goodreads: https://www.goodreads.com/book/show/57600794-kingdom-hearts
 
 Le roman T01 -- ISBN 9782811615420 (ISBN10: 2811615423), French, Pika Édition, Paperback, 240pp, October 29, 2014 -- follows "The First Door"
@@ -36,9 +40,9 @@ Le roman T01 -- ISBN 9782811615420 (ISBN10: 2811615423), French, Pika Édition, 
 - open library: https://openlibrary.org/search?isbn=9782811615420 -- no results as of 2026-09-28
 - goodreads: https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01
 
-Le roman T02 -- ISBN 9782811615581 (ISBN10: 281161558X), French, Pika Édition, Paperback, 240pp, October 29, 2014 -- follows "Darkness Within"
+Le roman T02 -- ISBN 9782811615581 (ISBN10: 281161558X), French, Pika Édition, Paperback, 239pp, October 29, 2014 -- follows "Darkness Within" -- translated by Olivier Sart -- google books gives 239pp vs. goodreads'/T01's 240pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782811615581
-- google books: https://www.google.com/search?tbm=bks&q=isbn:9782811615581
+- google books: https://www.google.com/books/edition/Kingdom_Hearts_le_roman/k9r8oQEACAAJ -- accessed 2026-09-29 -- confirms ISBN, 239pp, translator Olivier Sart
 - open library: https://openlibrary.org/search?isbn=9782811615581
 - goodreads: https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman
 
@@ -70,6 +74,9 @@ yenpress.com (Publisher)
 - `languages[]` FR added, linking Wikipedia's `Special:BookSources?isbn=` portal for "Le roman T01" (9782811615420) -- confirmed via Pika's own site, Amazon.fr, and Babelio (all in the Surveyed list below), not just a wiki mention.
 - No German or Italian edition of this **novel** exists (confirmed by direct search, not just absence of evidence) -- don't confuse with the separate Kingdom Hearts *manga* entry, which does have DE/IT/ES editions of its own (`kingdom-hearts-manga-2003.md`). Same applies to Spanish: no ES novel edition found, only the manga has one.
 - 2017's Kindle (9780316559614) and Nook (ASIN B0DM4L5TJY) goodreads listings are separate re-editions of the same 2015 EN omnibus content, not new volumes -- recorded as their own ISBN/ASIN labels since they're distinct catalog records, but don't represent new languages or new story content.
+- JP release dates: kept June 30 / July 29, 2005 (khwiki + Wikipedia, matches entry's own `titleDate`) over google books' July 21 / August 19, 2005 -- same "google books date less trusted than khwiki/Wikipedia" pattern established in `kingdom-hearts-manga-2003.md`'s Decisions.
+- EN 2015 paperback and 2017 Kindle both show 288pp on google books vs. 276pp/268pp on goodreads -- goodreads' per-edition counts kept (each is that edition's own listing), google books' matching 288pp on both is more likely one shared/generic page-count field than two independently confirmed counts.
+- A google books search on this entry's ISBNs also surfaced ISBN 9784757517929/4757517920 ("キングダムハーツII 3") -- that's **Tears of Nobody**, part of the Kingdom Hearts II ~Novel~ (2006) entry, not this one. Not recorded here; belongs in `kingdom-hearts-ii-novel-2006.md` instead.
 
 ## Surveyed
 
@@ -81,6 +88,11 @@ yenpress.com (Publisher)
 - [Goodreads – Kingdom Hearts Le roman T02](https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman) -- used: confirms ISBN10, 240pp, publisher PIKA
 - [Goodreads – Kingdom Hearts 1: The First Door](https://www.goodreads.com/book/show/21419607) -- used: confirms JA ISBN13, 231pp, publisher Square Enix
 - [Goodreads – Kingdom Hearts 2: Darkness Within](https://www.goodreads.com/book/show/21419648-kingdom-hearts-2) -- used: confirms JA ISBN13, 255pp, publisher Square Enix
+- [Google Books – キングダムハーツ (The First Door)](https://www.google.com/books/edition/_/jWKbPQAACAAJ) -- used: confirms ISBN, 231pp; date differs from khwiki/Wikipedia
+- [Google Books – キングダムハーツ (Darkness Within)](https://www.google.com/books/edition/_/0RdAPQAACAAJ) -- used: confirms ISBN; page count (254) and date differ slightly from goodreads/khwiki
+- [Google Books – Kingdom Hearts: The Novel (2015 paperback)](https://www.google.com/books/edition/Kingdom_Hearts_The_Novel_light_novel/N-vXoQEACAAJ) -- used: confirms ISBN/date; page count (288) differs from goodreads
+- [Google Books – Kingdom Hearts: The Novel (2017 Kindle)](https://www.google.com/books/edition/_/KY2KDgAAQBAJ) -- used: confirms ISBN/date/ebook format
+- [Google Books – Kingdom Hearts Le roman T02](https://www.google.com/books/edition/Kingdom_Hearts_le_roman/k9r8oQEACAAJ) -- used: confirms ISBN, 239pp, translator Olivier Sart
 - [Babelio – Kingdom Hearts, tome 1 (roman)](https://www.babelio.com/livres/Kanemaki-Kingdom-Hearts-tome-1-roman/666029) -- dup, empty: reader reviews only, no new bibliographic info
 - [Babelio – Kingdom Hearts, tome 2 (roman)](https://www.babelio.com/livres/Nomura-Kingdom-Hearts-Le-roman-tome-2/673013) -- dup, empty: reader reviews only
 - German-language search (jpgames.de forum, Amazon.de listings) -- empty: no German edition of the novel exists; the "Complete Novel" collector's set is US-only
