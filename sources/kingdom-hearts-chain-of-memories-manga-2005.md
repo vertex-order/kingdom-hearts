@@ -103,8 +103,9 @@ Vol. 2 -- ISBN 9788828722571 (ASIN B0F79YBV9Z -- differs from ISBN10-derived ASI
 - goodreads: https://www.goodreads.com/book/show/231169130-kingdom-hearts -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/_/LgiLzwEACAAJ -- accessed 2026-09-29 -- ISBN+page count+publisher confirmed, titled "Kingdom Hearts. Chain of memories. Silver Volume 2"
 
-Vol. 2 -- ISBN 9781435204263 (ASIN 1435204263), English, Paw Prints, Library Binding
+Vol. 2 -- ISBN 9781435204263 (ASIN 1435204263), English, Paw Prints, Library Binding, 2007
 - goodreads: https://www.goodreads.com/book/show/3271188-kingdom-hearts -- accessed 2026-09-29
+- google books: https://www.google.com/books/edition/_/PXgZYAAACAAJ -- accessed 2026-09-29 -- confirms ISBN/publisher, titled "Kingdom Hearts 2: Chain of Memories"
 
 Vol. 1 -- ISBN 9781439587089 (ISBN10: 1439587086), English, Baker & Taylor / CATS, July 10, 2009, 96pp, Paperback -- another library-market reprint, matching the Baker & Taylor pattern seen on other KH manga entries -- found via google books, not yet cross-checked against goodreads/khwiki
 - google books: https://www.google.com/books/edition/_/js5NRAAACAAJ -- accessed 2026-09-29
