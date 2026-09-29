@@ -319,7 +319,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
   },
   { chronoOrder: 150, recommendedOrder: 250, mediaType: 'Comic',
-    title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories', titleDate: { start: '2005-10-22', end: '2006-04-22' },
+    title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Chain_of_Memories_(manga)', titleDate: { start: '2005-10-22', end: '2006-04-22' },
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -331,9 +331,9 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.32', url: 'https://www.goodreads.com/book/show/1508179.Kingdom_Hearts' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77683042-kingdom-hearts' },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/24396851-kingdom-hearts' },
-        { value: 'FR', url: 'https://www.goodreads.com/book/show/35672167-kingdom-hearts-l-int-grale-t02' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/6760425-1-kingdom-hearts' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/1508179.Kingdom_Hearts' },
+        { value: 'FR', url: 'https://www.goodreads.com/book/show/42177713-kingdom-hearts' },
         { value: 'PT', url: 'https://www.goodreads.com/book/show/55779535-kingdom-hearts' },
         { value: 'DE', url: 'https://www.goodreads.com/book/show/10874334-kingdom-hearts' },
         { value: 'ES-ES', url: 'https://www.goodreads.com/book/show/25544261-kingdom-hearts-chain-of-memories-vol-1' },
