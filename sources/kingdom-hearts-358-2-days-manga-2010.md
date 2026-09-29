@@ -58,8 +58,9 @@ Vol. 5 -- ISBN 9784757536913, Japanese, September 22, 2012
 Vol. 5 -- ISBN 9780316336260, English, January 20, 2015
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316336260
 
-## wikipedia.org (Information)
+## Sources
 
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- dates*, length* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25

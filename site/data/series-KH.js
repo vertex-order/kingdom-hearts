@@ -204,6 +204,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/21419607' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/23197294-kingdom-hearts' },
+        { value: 'FR', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9782811615420' },
         { value: '…?' },
       ],
       platforms: [

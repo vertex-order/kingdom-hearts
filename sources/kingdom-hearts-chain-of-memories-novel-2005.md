@@ -25,17 +25,16 @@ Collection: "Sora, Part 1" + "Sora, Part 2" + "Reverse/Rebirth" -- ISBN 97803162
 - amazon: https://www.amazon.com/Kingdom-Hearts-Chain-Memories-Novel/dp/0316261734/ -- confirms ISBN, 416pp, Illustrated edition -- lists pub date September 29, 2015 (a week later than the 22nd given elsewhere) -- accessed 2026-09-28 -- archived: TODO
 - barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-tomoco-kanemaki/1121006104?ean=9780316261739 -- 404 as of 2026-09-28 -- archived: TODO
 
-## goodreads.com (Ratings)
+## Sources
 
+goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/24396851
 - https://www.goodreads.com/book/show/77683042
 
-## khwiki.com (Information)
-
+khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Chain_of_Memories -- novels*, dates* -- accessed 2026-09-28
 
-## wikipedia.org (Information)
-
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2 -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 

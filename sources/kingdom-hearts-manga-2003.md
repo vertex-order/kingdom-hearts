@@ -452,16 +452,16 @@ Panini Vol. 4 -- ISBN 9781804913468, English, Panini Books, April 7, 2026, 144pp
 - google books: https://www.google.com/books/edition/_/xESc0QEACAAJ -- accessed 2026-09-28
 - open library: https://openlibrary.org/search?isbn=9781804913468 -- no results as of 2026-09-28
 
-## wikipedia.org (Information)
+## Sources
 
+khwiki.com (Information)
+- https://www.khwiki.com/Kingdom_Hearts_(manga) -- versions*, dates*, story*, ISBN* -- accessed 2026-09-28
+
+wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Final_Mix -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- story*, length* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
-
-## khwiki.com (Information)
-
-- https://www.khwiki.com/Kingdom_Hearts_(manga) -- versions*, dates*, story*, ISBN* -- accessed 2026-09-28
 
 ## Decisions
 
