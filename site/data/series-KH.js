@@ -130,7 +130,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
           { text: ' bonus chapters and the "Final Mix" ' },
           { emLinkText: 'Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
-          { text: ' bonus chapters.' },
+          { text: ' edits & bonus chapters.' },
         ],
       ],
       versions: [
@@ -149,7 +149,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           ],
           versionDesc: [
             [
-              { text: 'This edition has bonus chapters matching the "Final Mix" ' },
+              { text: 'This edition has edits & bonus chapters matching the "Final Mix" ' },
               { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
               { text: ' version of the game. It does not have the original ' },
               { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
@@ -215,19 +215,29 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
   { chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game',
     title: 'Kingdom Hearts: Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
     mediaDesc: [
-      'A year after Kingdom Hearts (2002), Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from Final Fantasy.',
+      [
+        { text: 'A year after ' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { text: ', Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: '.' },
+      ],
     ],
     primary: { tags: ['Sequel', 'Action RPG', 'Card-based Battles', 'Single-player', 'Multiplayer'],
       length: [{ value: '23h', tip: 'Main Story' }, { value: '31½h', tip: 'Main + Sides' }, { value: '60½h', tip: 'Completionist' }],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', subtitleDate: 2013,
       versionDesc: [
         [
-          { text: 'This remaster includes everything from the original, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
+          { text: 'This remaster includes everything from ' },
+          { emLinkText: 'Remake (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004-x-remake-2007' },
+          { text: ' in 3D, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
           { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
           { text: '.' },
         ],
         [
-          { text: 'Released in the omnibus collections ' },
+          { text: 'Released under the title ' },
+          { emText: 'Re:Chain of Memories' },
+          { text: ' as well, included in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 Remix' },
           { text: ', ' },
           { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
@@ -266,9 +276,9 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
-        { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts Chain of Memories' },
-        { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts Chain of Memories' },
-        { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts Chain of Memories' },
+        { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts Re:Chain of Memories' },
+        { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts Re:Chain of Memories' },
+        { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts Re:Chain of Memories' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
       versions: [
@@ -291,16 +301,22 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
             { key: 'playstation3', paren: 'PS2 Compatibility' },
           ],
         },
-        {
-          versionDesc: ['The original release.'],
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
-          helpWanted: true,
-          platforms: [
-            { key: 'nintendo-game-boy-advance', paren: 'Physical' },
-          ],
-        },
       ],
     },
+    alts: [
+      {
+        subtitle: 'Original',
+        versionDesc: ['The original release in isometric pixel art.'],
+        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+        helpWanted: true,
+        platforms: [
+          { key: 'nintendo-game-boy-advance', paren: 'Physical' },
+          { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts Chain of Memories gba' },
+          { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts Chain of Memories gba' },
+          { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts Chain of Memories gba' },
+        ],
+      },
+    ],
   },
   { chronoOrder: 150, recommendedOrder: 250, mediaType: 'Comic',
     title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories', titleDate: { start: '2005-10-22', end: '2006-04-22' },
