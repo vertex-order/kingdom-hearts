@@ -365,7 +365,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '4.03', url: 'https://www.goodreads.com/book/show/24396851' }],
       languages: [
-        { value: 'EN-US', url: 'https://www.goodreads.com/book/show/24396851' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/24396851' },
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/77683042' },
         { value: '…?' },
       ],
