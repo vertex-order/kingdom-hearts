@@ -20,8 +20,14 @@ Best Friends -- ISBN 9784757531543, Japanese, February 24, 2011
 To the Future -- ISBN 9784757532212, Japanese, May 26, 2011
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757532212
 
-Collection: "Something Strange" + "Best Friends" + "To the Future" -- ISBN not yet found, English, March 19, 2019 -- one-volume EN omnibus of all 3 JP novels above, per khwiki
+Collection: "Something Strange" + "Best Friends" + "To the Future" -- ISBN 9781975303785 (ISBN10: 1975303784), English, Yen Press, March 19, 2019, 448pp, Paperback -- one-volume EN omnibus of all 3 JP novels above, per khwiki -- ISBN now confirmed by google books, resolving the earlier "ISBN not yet found" placeholder
 - khwiki: https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Birth_by_Sleep
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781975303785
+- google books: https://www.google.com/books/edition/_/4G6VuwEACAAJ -- accessed 2026-09-29 -- confirms ISBN, 448pp, Paperback, Yen Press, March 19 2019
+
+Collection: "Something Strange" + "Best Friends" + "To the Future" -- ISBN 9781975357528 (ISBN10: 1975357523), English, Yen Press, March 19, 2019, 448pp, ebook -- ebook re-edition of the same EN omnibus, distinct ISBN from the paperback
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781975357528
+- google books: https://www.google.com/books/edition/Kingdom_Hearts_Birth_by_Sleep_The_Novel/EJiLDwAAQBAJ -- accessed 2026-09-29
 
 ## Sources
 

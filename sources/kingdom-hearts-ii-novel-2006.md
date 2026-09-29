@@ -17,10 +17,15 @@ Roxas—Seven Days -- ISBN 9784757516793 (ISBN10: 4757516797), Japanese, Square 
 The Destruction of Hollow Bastion -- ISBN 4757517157, Japanese, Square Enix, July 16, 2006 -- follows the third game's story
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757517157
 
-Collection: "Roxas—Seven Days" + "The Destruction of Hollow Bastion" -- ISBN 9780316471930, English, Yen Press, June 20, 2017 -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error)
+Collection: "Roxas—Seven Days" + "The Destruction of Hollow Bastion" -- ISBN 9780316471930 (ISBN10: 0316471933), English, Yen Press, June 20, 2017, Paperback -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error) -- date per Wikipedia + google books, matching this project's authoritative source for dates; amazon instead says July 11, not used; page count disputed: amazon says 276pp, google books says 272pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316471930
+- google books: https://www.google.com/books/edition/Kingdom_Hearts_II_The_Novel_Vol_1_light/-o9WvgAACAAJ -- accessed 2026-09-29 -- confirms ISBN, 272pp, Paperback, Yen Press, June 20 2017
 - amazon: https://www.amazon.com/Kingdom-Hearts-II-Novel-Vol/dp/0316471933/ -- confirms ISBN, 276pp -- lists pub date July 11, 2017 (announced release was June 20) -- accessed 2026-09-28 -- archived: TODO
 - barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-ii-tomoco-kanemaki/1125060796?ean=9780316471930 -- 404 as of 2026-09-28 -- archived: TODO
+
+Collection: "Roxas—Seven Days" + "The Destruction of Hollow Bastion" -- ISBN 9780316559607 (ISBN10: 0316559601), English, Yen Press, June 20, 2017, 272pp, ebook -- ebook re-edition of the same EN omnibus, distinct ISBN from the paperback
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316559607
+- google books: https://www.google.com/books/edition/_/L2GHDgAAQBAJ -- accessed 2026-09-29
 
 Tears of Nobody -- ISBN 9784757517929 (ISBN10: 4757517920), Japanese, Square Enix, Paperback, 230pp, September 29, 2006 -- follows the third game's story -- ISBN+page count confirmed by google books; date per Wikipedia, google books gives month only ("September 2006")
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757517920
