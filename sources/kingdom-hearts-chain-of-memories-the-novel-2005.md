@@ -22,11 +22,17 @@ Reverse/Rebirth -- ISBN 4757516185, Japanese, Square Enix, January 31, 2006 -- f
 
 Collection: "Sora, Part 1" + "Sora, Part 2" + "Reverse/Rebirth" -- ISBN 9780316261739, English, Yen Press, September 22, 2015 -- single EN omnibus of all 3 JP novels above (same ISBN listed for all 3 on Wikipedia's table, not a duplication error)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316261739
+- amazon: https://www.amazon.com/Kingdom-Hearts-Chain-Memories-Novel/dp/0316261734/ -- confirms ISBN, 416pp, Illustrated edition -- lists pub date September 29, 2015 (a week later than the 22nd given elsewhere) -- accessed 2026-09-28 -- archived: TODO
+- barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-tomoco-kanemaki/1121006104?ean=9780316261739 -- 404 as of 2026-09-28 -- archived: TODO
 
 ## goodreads.com (Ratings)
 
 - https://www.goodreads.com/book/show/24396851
 - https://www.goodreads.com/book/show/77683042
+
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Chain_of_Memories -- novels*, dates* -- accessed 2026-09-28
 
 ## wikipedia.org (Information)
 
@@ -36,3 +42,4 @@ Collection: "Sora, Part 1" + "Sora, Part 2" + "Reverse/Rebirth" -- ISBN 97803162
 ## Decisions
 
 - The EN ISBN (9780316261739) is listed identically for all 3 JP novels on Wikipedia's table -- confirmed real, not a table error: Yen Press's 2015 EN release is a single omnibus of all 3, same ISBN because it's the same physical book.
+- Amazon's product page gives September 29, 2015 as the pub date vs. September 22 elsewhere -- kept the 22nd (announced release date); Amazon ship dates commonly drift a few days from the announced date, not treated as a correction.

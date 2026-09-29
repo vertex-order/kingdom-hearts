@@ -19,6 +19,7 @@ Darkness Within -- ISBN 4757514956, Japanese, Square Enix, July 29, 2005 -- foll
 
 Collection: "The First Door" + "Darkness Within" -- ISBN 9780316260190, English, Yen Press, March 24, 2015 -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316260190
+- barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-tomoco-kanemaki/1120331596?ean=9780316260190 -- 404 as of 2026-09-28 -- archived: TODO
 
 Collection: "The First Door" + "Darkness Within" -- ISBN not given by Wikipedia, French, Pika Édition, October 29, 2014
 
@@ -27,11 +28,19 @@ Collection: "The First Door" + "Darkness Within" -- ISBN not given by Wikipedia,
 - https://www.goodreads.com/book/show/23197294-kingdom-hearts
 - https://www.goodreads.com/book/show/21419607
 
+## khwiki.com (Information)
+
+- https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts -- novels*, dates* -- accessed 2026-09-28
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2 -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- length* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
+
+## yenpress.com (Publisher)
+
+- https://yenpress.com/kingdom-hearts#N1 -- 404 as of 2026-09-28 -- archived: TODO
 
 ## Decisions
 

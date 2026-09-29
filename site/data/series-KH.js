@@ -435,7 +435,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { text: ', ' },
         { emText: 'Go to the Sea' },
         { text: ', and ' },
-        { emText: 'Xion-Seven Days' },
+        { emText: 'Xion—Seven Days' },
         { text: '.' },
       ],
     ],
@@ -565,6 +565,17 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { emText: 'Anthem—Meet Again/Axel Last Stand' },
         { text: '.' },
       ],
+      [
+        { text: 'Two short story volumes, ' },
+        { emText: 'Other Diamonds' },
+        { text: ' and ' },
+        { emText: 'Axel—Seven Days' },
+        { text: ', were also published alongside the main novels, plus the standalone short story ' },
+        { emText: 'Roxas—Somewhere in Time' },
+        { text: ', included in the ' },
+        { emText: 'Kingdom Hearts Another Report' },
+        { text: ' Final Mix pre-order bonus book.' },
+      ],
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
       subtitle: 'Book',
@@ -680,6 +691,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524' },
+        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358617' },
         { value: '…?' },
       ],
       platforms: [
@@ -1038,6 +1050,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       subtitle: 'Book',
       languages: [
         { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757531116' },
+        { value: 'EN', url: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Birth_by_Sleep' },
         { value: '…?' },
       ],
       platforms: [
