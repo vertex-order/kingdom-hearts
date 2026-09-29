@@ -53,10 +53,6 @@ wikipedia.org (Information)
 
 ## Decisions
 
-- `languages[]` (JA, EN) added, linking to Wikipedia's `Special:BookSources?isbn=` portal, not a specific retailer -- no goodreads/google books page found/checked yet for this title. EN links the first of two EN omnibus ISBNs (covers vol. 1-2); the second (vol. 3-4) isn't separately linked, one representative is enough.
-- Short story volumes ("Other Diamonds", "Axel—Seven Days") and "Roxas—Somewhere in Time" folded into this entry's description rather than given their own catalog entries -- no ISBN/edition info found for them yet, and they're minor bonus content tied to the same KHII print line covered here.
-- Amazon's product page gives July 11, 2017 as Vol. 1's pub date vs. the June 20, 2017 announced release date (khinsider, ANN) -- kept June 20 as the announced date; Amazon ship dates commonly drift, not treated as a correction.
-
 ## Surveyed
 
 - [Google Books – キングダムハーツII 3 (Tears of Nobody)](https://www.google.com/books/edition/_/KnkfNwAACAAJ) -- used: confirms ISBN13/page count; surfaced while researching the separate Kingdom Hearts ~Novel~ (2005) entry's ISBNs -- routed here since it's this entry's own book, not that one's

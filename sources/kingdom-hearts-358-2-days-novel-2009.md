@@ -35,5 +35,3 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days_2 -- dates*, ISBN*, length* -- accessed 2026-09-28
 
 ## Decisions
-
-- `languages[]` (JA, EN) added, linking to Wikipedia's `Special:BookSources?isbn=` portal, not a specific retailer -- no goodreads/google books page found/checked yet for this title.

@@ -92,5 +92,3 @@
 - https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform -- accessed 2026-09-26
 
 ## Decisions
-
-- Rating: kept the original GBA release's Metacritic score (76 critic / 7.2 user) over the 2007 Re:Chain of Memories remake's (68 / 6.4) — higher of the two real non-omnibus scores, per site's "keep the highest" policy.

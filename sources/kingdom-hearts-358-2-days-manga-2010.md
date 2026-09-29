@@ -67,5 +67,4 @@ wikipedia.org (Information)
 
 ## Decisions
 
-- `titleDate` end corrected to 2012-09-22 (Vol. 5 JP release, per Wikipedia's table) -- was 2012-04-21 (Vol. 4 JP's date minus one day), a stale/incorrect value predating this research pass.
 - `languages[]` (JA, EN) link to Wikipedia's `Special:BookSources?isbn=` portal, not a specific retailer -- no goodreads/google books page found/checked yet for this title.

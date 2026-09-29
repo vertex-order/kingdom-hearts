@@ -39,6 +39,3 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
 ## Decisions
-
-- The EN ISBN (9780316261739) is listed identically for all 3 JP novels on Wikipedia's table -- confirmed real, not a table error: Yen Press's 2015 EN release is a single omnibus of all 3, same ISBN because it's the same physical book.
-- Amazon's product page gives September 29, 2015 as the pub date vs. September 22 elsewhere -- kept the 22nd (announced release date); Amazon ship dates commonly drift a few days from the announced date, not treated as a correction.
