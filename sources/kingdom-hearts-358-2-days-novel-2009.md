@@ -1,6 +1,6 @@
-<!-- sources/kingdom-hearts-358-2-days-novellas-2009.md (markdown) -->
+<!-- sources/kingdom-hearts-358-2-days-novel-2009.md (markdown) -->
 
-# Kingdom Hearts 358/2 Days ~Novellas~
+# Kingdom Hearts 358/2 Days ~Novel~
 
 <!-- No human research pass yet beyond dates/length/story per docs/sources.md. -->
 

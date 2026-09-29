@@ -1,6 +1,6 @@
-<!-- sources/kingdom-hearts-chain-of-memories-the-novel-2005.md (markdown) -->
+<!-- sources/kingdom-hearts-chain-of-memories-novel-2005.md (markdown) -->
 
-# Kingdom Hearts: Chain of Memories The Novel
+# Kingdom Hearts: Chain of Memories ~Novel~
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->

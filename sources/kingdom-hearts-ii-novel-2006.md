@@ -1,6 +1,6 @@
-<!-- sources/kingdom-hearts-ii-the-novel-2006.md (markdown) -->
+<!-- sources/kingdom-hearts-ii-novel-2006.md (markdown) -->
 
-# Kingdom Hearts II: The Novel
+# Kingdom Hearts II ~Novel~
 
 <!-- No human research pass yet per docs/sources.md. -->
 
