@@ -169,6 +169,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
             { value: 'ES-ES', url: 'https://www.goodreads.com/book/show/45434630-kingdom-hearts-vol-1' },
             { value: 'EL', url: 'https://www.goodreads.com/book/show/35435731-kingdom-hearts-1' },
             { value: 'SV', url: 'https://www.goodreads.com/book/show/63195694-kingdom-hearts-vol-1' },
+            { value: 'KO', url: 'https://www.google.com/books/edition/_/llsKMQAACAAJ' },
           ],
           platforms: [
             { key: 'book', name: 'Manga' },
@@ -414,6 +415,8 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       languages: [
         { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757529021' },
         { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316401180' },
+        { value: 'DE', url: 'https://www.google.com/books/edition/_/JL_ntwAACAAJ' },
+        { value: 'ES', url: 'https://www.google.com/books/edition/_/16X9sgEACAAJ' },
         { value: '…?' },
       ],
       platforms: [
@@ -535,8 +538,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '10 volumes' }],
       subtitle: 'Comic',
       languages: [
-        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=4757518323' },
+        { value: 'JA', native: true, url: 'https://www.google.com/books/edition/_/Z52fkgEACAAJ' },
         { value: 'EN', url: 'https://www.google.com/books/edition/_/HZSjQgAACAAJ' },
+        { value: 'DE', url: 'https://www.google.com/books/edition/_/fnOIPQAACAAJ' },
+        { value: 'ES', url: 'https://www.google.com/books/edition/_/IqN5xAEACAAJ' },
         { value: '…?' },
       ],
       platforms: [
@@ -564,7 +569,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
       subtitle: 'Book',
       languages: [
-        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=4757516797' },
+        { value: 'JA', native: true, url: 'https://www.google.com/books/edition/_/xmYCngAACAAJ' },
         { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316471930' },
         { value: '…?' },
       ],
