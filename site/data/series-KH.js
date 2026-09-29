@@ -186,7 +186,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     },
   },
   { chronoOrder: 50, recommendedOrder: 150, mediaType: 'Book',
-    title: 'Kingdom Hearts ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
+    title: 'Kingdom Hearts The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
@@ -347,7 +347,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     },
   },
   { chronoOrder: 175, recommendedOrder: 275, mediaType: 'Book',
-    title: 'Kingdom Hearts: Chain of Memories ~Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: { start: '2005-10-22', end: '2006-01-31' },
+    title: 'Kingdom Hearts Chain of Memories The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: { start: '2005-10-22', end: '2006-01-31' },
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

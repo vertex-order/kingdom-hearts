@@ -55,4 +55,4 @@ wikipedia.org (Information)
 
 ## Surveyed
 
-- [Google Books – キングダムハーツII 3 (Tears of Nobody)](https://www.google.com/books/edition/_/KnkfNwAACAAJ) -- used: confirms ISBN13/page count; surfaced while researching the separate Kingdom Hearts ~Novel~ (2005) entry's ISBNs -- routed here since it's this entry's own book, not that one's
+- [Google Books – キングダムハーツII 3 (Tears of Nobody)](https://www.google.com/books/edition/_/KnkfNwAACAAJ) -- used: confirms ISBN13/page count; surfaced while researching the separate Kingdom Hearts The Novel (2005) entry's ISBNs -- routed here since it's this entry's own book, not that one's
