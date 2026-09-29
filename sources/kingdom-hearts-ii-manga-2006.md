@@ -36,7 +36,7 @@ Vol. 3 -- ISBN 9784757522626 (ISBN10: 4757522622), Japanese, Square Enix, April 
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757522626
 - google books: https://www.google.com/books/edition/_/mwpnYgEACAAJ -- accessed 2026-09-28
 
-Vol. 3 -- ISBN 9781427800602 (ISBN10: 142780060X), English, TOKYOPOP Incorporated, 2009, 208pp, Hardcover -- content: eight chapters -- ISBN+publisher+page count now confirmed real by google books -- REVISES the earlier claim that this was a pre-assigned ISBN never actually published; see Decisions
+Vol. 3 -- ISBN 9781427800602 (ISBN10: 142780060X), English, TOKYOPOP Incorporated, 2009, 208pp, Hardcover -- content: eight chapters -- ISBN+publisher+page count confirmed real by google books, despite no EN date/ISBN past Vol. 2 in Wikipedia's own table
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781427800602
 - google books: https://www.google.com/books/edition/_/QJiskgEACAAJ -- accessed 2026-09-28
 
@@ -44,14 +44,14 @@ Vol. 4 -- ISBN 9784757524262 (ISBN10: 4757524269), Japanese, Square Enix, Novemb
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757524262
 - google books: https://www.google.com/books/edition/_/w0RgPwAACAAJ -- accessed 2026-09-28
 
-Vol. 4 -- ISBN 9781427800619 (ISBN10: 1427800618), English, TOKYOPOP Incorporated, April 2008, 208pp, Paperback -- not in Wikipedia's table at all (which shows no EN column past Vol. 2) -- found via google books, see Decisions
+Vol. 4 -- ISBN 9781427800619 (ISBN10: 1427800618), English, TOKYOPOP Incorporated, April 2008, 208pp, Paperback -- not in Wikipedia's table at all (which shows no EN column past Vol. 2)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781427800619
 - google books: https://www.google.com/books/edition/_/pHTIkQEACAAJ -- accessed 2026-09-28
 
 Vol. 5 -- ISBN 9784757526075, Japanese, Square Enix, August 22, 2009 -- content: eight chapters
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757526075
 
-Vol. 5 -- ISBN 9781427800626, English, TOKYOPOP Incorporated, July 2008, page count not given, Paperback -- not in Wikipedia's table at all -- found via google books, see Decisions
+Vol. 5 -- ISBN 9781427800626, English, TOKYOPOP Incorporated, July 2008, page count not given, Paperback -- not in Wikipedia's table at all
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781427800626
 - google books: https://www.google.com/books/edition/_/TSQNLgAACAAJ -- accessed 2026-09-28
 
@@ -103,7 +103,3 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
 ## Decisions
-
-- EN manga cancellation claim needs revisiting: the franchise Wikipedia page's intro prose says Tokyopop's 2008 restructuring cancelled the line after Vol. 2, and List_of_Kingdom_Hearts_media's own table has no EN date/ISBN past Vol. 2 (Vol. 3's EN ISBN column is listed but the date cell is blank). But google books has real, detailed listings (publisher, page count, format) for TokyoPop EN editions of Vol. 3 (2009, 208pp Hardcover), Vol. 4 (April 2008, 208pp Paperback), and Vol. 5 (July 2008, Paperback) -- catalog depth that generally means a real print run, not just a solicited-then-cancelled ISBN. Not resolved either way: could mean the cancellation was narrower than "after Vol. 2" (maybe these shipped in small runs Wikipedia's table just doesn't reflect), or google books/Bowker sometimes catalogs solicited books that never actually shipped. Left as an open contradiction rather than picking a side -- worth a WorldCat/library-holdings check before this changes any site copy.
-- Vol. 1 EN date: used Wikipedia's July 3, 2007 over google books' July 10, 2007 -- Wikipedia's dated table outranks a single google books listing for release dates (see sources/kingdom-hearts-manga-2003.md's Decisions for the fuller pecking-order rationale, same logic applies here).
-- Two Yen Press English listings both call themselves "Kingdom Hearts II, Vol. 3" (2014, 416pp vs 2017, 613pp) -- not merged/deduplicated, real relationship between them (reprint with added content? separate omnibus scope? one a malformed catalog record?) unresolved.

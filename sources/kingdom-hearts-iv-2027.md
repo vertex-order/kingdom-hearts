@@ -34,9 +34,3 @@ publisher-stated date).
 - https://wikipedia.org/wiki/Kingdom_Hearts_IV -- dates*, platforms*, tags*, story* -- accessed 2026-09-25
 
 ## Decisions
-
-- Date: `{ start: '2027 late', tba: true }` -- Wikipedia/khwiki both say "late 2027" but no publisher-confirmed date exists yet; `tba` marks it our own floor per docs/upcoming.md.
-- Platforms: PS5, Xbox Series X|S, PC (Xbox Play Anywhere), Switch 2 only -- no PS4/Xbox One/Steam/Epic listed on any storefront, so left off rather than assumed.
-- Ratings/length: omitted -- Metacritic shows `tbd` (no reviews), HowLongToBeat has no submissions (unreleased).
-- ESRB: all three storefronts show "Rating Pending" -- no age field added yet.
-- Languages: left blank -- not filled from this pass; needs a manual look.

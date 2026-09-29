@@ -29,8 +29,6 @@
 
 ## Decisions
 
-- Yen Press's Dec 21, 2021 collector's set (khwiki: https://www.khwiki.com/Kingdom_Hearts_(novels)#Collector.27s_Set, amazon above) isn't modeled as its own catalog entry -- it's a retail bundle of the 12 EN novel volumes already covered by their own entries, plus non-book extras (art prints, keychain), no unique story content of its own.
-
 ## Surveyed
 
 - [Yen Press/Hachette – Kingdom Hearts Re:coded (light novel)](https://www.b2c.hachettebookgroup.com/titles/none/kingdom-hearts-recoded-light-novel/9781975385392/?yen) -- server not found as of 2026-09-28 -- archived: TODO -- mine: ISBN 9781975385392 recoverable from the URL itself; EN release per khwiki was August 27, 2019 (#Kingdom_Hearts_Re:coded), but Re:coded's novel has no catalog entry yet

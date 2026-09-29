@@ -35,5 +35,3 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 
 ## Decisions
-
-- `languages[]` (JA, EN) added. JA links Wikipedia's `Special:BookSources?isbn=` portal; EN has no ISBN/retailer page found yet, so it links khwiki's novels-list anchor instead -- khwiki confirms the 2019-03-19 EN omnibus even though Wikipedia's compact ISBN table doesn't list one.

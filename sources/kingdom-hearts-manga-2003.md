@@ -364,13 +364,13 @@ Vol. 4 -- ISBN 9788828766506 (ASIN 8828766506), Italian, Panini Comics, 2022, 13
 - google books: https://www.google.com/books/edition/_/W6NfzwEACAAJ -- accessed 2026-09-28
 - open library: https://openlibrary.org/search?isbn=9788828766506 -- no results as of 2026-09-28
 
-Collection: "Kingdom Hearts: The Complete Series" -- ISBN 9781598168082 (ISBN10: 1598168088), English, TokyoPop, October 10, 2006, 576pp, Paperback -- omnibus of the 4 EN TokyoPop volumes above -- ISBN+page count confirmed by khwiki + Wikipedia + goodreads + google books + open library; date per khwiki+Wikipedia+goodreads (open library alone says October 3, 2006, a week off) -- used as `primary`'s representative goodreads rating/language link (see Decisions)
+Collection: "Kingdom Hearts: The Complete Series" -- ISBN 9781598168082 (ISBN10: 1598168088), English, TokyoPop, October 10, 2006, 576pp, Paperback -- omnibus of the 4 EN TokyoPop volumes above -- ISBN+page count confirmed by khwiki + Wikipedia + goodreads + google books + open library; date per khwiki+Wikipedia+goodreads (open library alone says October 3, 2006, a week off) -- used as `primary`'s representative goodreads rating/language link
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781598168082
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_Boxed_Set_vols_1_4/UUqvAQAACAAJ -- accessed 2026-09-28
 - open library: https://openlibrary.org/books/OL8897899M/Kingdom_Hearts_Boxed_Set--vols_1-4 -- accessed 2026-09-28
 - goodreads: https://www.goodreads.com/book/show/231912.Kingdom_Hearts -- accessed 2026-09-28
 
-Collection: "Kingdom Hearts l'intégrale, Vol. 1" -- ISBN 9782373491197 (ASIN 2373491192), French, NOBI NOBI, June 14, 2017, page count disputed: goodreads says 576pp, google books says 574pp, Paperback -- omnibus of the 4 FR volumes, same content as the English Complete Series above -- ISBN+date confirmed by google books -- used as the FR language link (see Decisions)
+Collection: "Kingdom Hearts l'intégrale, Vol. 1" -- ISBN 9782373491197 (ASIN 2373491192), French, NOBI NOBI, June 14, 2017, page count disputed: goodreads says 576pp, google books says 574pp, Paperback -- omnibus of the 4 FR volumes, same content as the English Complete Series above -- ISBN+date confirmed by google books -- used as the FR language link
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782373491197
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_Int%C3%A9grale/6v2NtAEACAAJ -- accessed 2026-09-28
 - open library: https://openlibrary.org/search?isbn=9782373491197 -- no results as of 2026-09-28
@@ -471,6 +471,5 @@ wikipedia.org (Information)
 - Vol. 1 JP release date: October 25, 2003 (khwiki + Wikipedia, matches the entry's own `titleDate` start) over goodreads' November 1, 2003.
 - Vol. 3 JP release date: November 24, 2004 (khwiki + Wikipedia) over goodreads' December 1, 2004 -- same pattern as Vol. 1.
 - Vol. 4 EN (TokyoPop) release date: used Wikipedia's July 11, 2006 over khwiki's July 3, 2006 (its ISBN table) -- no strong tiebreaker either way, picked Wikipedia since its dated table is the more directly-sourced claim for this specific fact; worth a second look if a third source turns up.
-- `primary.ratings` and the 2003-2005 edition's EN/FR `languages` entries point to the "Complete Series"/"l'intégrale" Collection goodreads pages (4.50, 344 ratings), not an individual volume -- supersedes the earlier choice of Vol. 1's own score (4.06): the Collection is a real 4-in-1 omnibus edition, a closer match to how this site entry displays as one "4 volumes" unit than picking one volume. Only EN and FR have a Collection edition on goodreads; DE/IT/ES-ES/EL/SV `languages` entries still point to their own Vol. 1 page, no omnibus found for those.
 - Final Mix edition's `languages` (JA) links to Google Books, not goodreads -- none of its 5 ISBNs (3 JP, 2 Yen Press EN) are on goodreads as of 2026-09-28.
 - Final Mix Vol. 1 EN (Yen Press) ISBN10: used google books' 0316254207 over khwiki's 0316254205 -- khwiki's value is just the ISBN13 core (9780316254205 minus "978") reformatted, not a real independently-checksummed ISBN10, so it's treated as a transcription artifact rather than a competing source.

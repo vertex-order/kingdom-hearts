@@ -31,5 +31,3 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 
 ## Decisions
-
-- `languages[]` (JA, EN) added, both linking Wikipedia's `Special:BookSources?isbn=` portal -- the EN ISBN (9781975358617) isn't in Wikipedia's compact table but was recovered from the (404) Yen Press product page's own URL slug, corroborating khwiki's 2019-10-29 EN omnibus.

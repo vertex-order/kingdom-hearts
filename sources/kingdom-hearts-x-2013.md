@@ -24,4 +24,4 @@
 
 ## Decisions
 
-- Un-merged the former standalone "Kingdom Hearts Dark Road" and a new "Kingdom Hearts Unchained χ" entry back out of this one -- Wikipedia's own article treats χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) as three distinct releases, not one app's renames.
+- Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.
