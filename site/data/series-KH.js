@@ -721,9 +721,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           { text: '.' },
         ],
       ],
+      ratings: [{ key: 'goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/32856015' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://www.google.com/books/edition/_/xmYCngAACAAJ' },
-        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316471930' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/1850014' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/32856015' },
         { value: '…?' },
       ],
       platforms: [
