@@ -670,7 +670,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], helpWanted: true, length: [{ value: '10 volumes' }],
+    primary: { tags: ['Optional', 'Manga'], length: [{ value: '10 volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.31', url: 'https://www.goodreads.com/book/show/231917' }],
       languages: [
@@ -681,7 +681,6 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { value: 'ES', url: 'https://www.goodreads.com/book/show/30317779-kingdom-hearts-ii-tomo-1' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/33092616-kingdom-hearts-ii-t01-kingdom-hearts-ii' },
         { value: 'IT', url: 'https://www.goodreads.com/book/show/36221224-kingdom-hearts-ii-vol-1' },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
