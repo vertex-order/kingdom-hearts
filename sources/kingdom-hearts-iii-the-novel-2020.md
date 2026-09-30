@@ -3,10 +3,10 @@
 # Kingdom Hearts III: The Novel
 
 No JP editions found yet -- unlike this project's other Kanemaki
-novelizations (Kingdom Hearts The Novel, Chain of Memories The Novel,
-358/2 Days, II, 3D DDD, Birth by Sleep), no JP ISBN/khwiki/Wikipedia
-listing has turned up for this one, only EN (Yen Press) editions via
-google books. `helpWanted: true` on the site entry reflects this gap --
+novelizations (Kingdom Hearts: The Novel, Chain of Memories The Novel,
+358/2 Days: The Novel, II: The Novel, 3D DDD, Birth by Sleep), no JP ISBN/
+khwiki/Wikipedia listing has turned up for this one, only EN (Yen Press)
+editions via google books. `helpWanted: true` on the site entry reflects this gap --
 `titleDate` currently uses the EN dates as a placeholder, not a
 confirmed JP release window. Needs a khwiki/Wikipedia pass.
 

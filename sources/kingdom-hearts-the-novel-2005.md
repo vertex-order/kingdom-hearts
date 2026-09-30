@@ -1,6 +1,6 @@
 <!-- sources/kingdom-hearts-the-novel-2005.md (markdown) -->
 
-# Kingdom Hearts The Novel
+# Kingdom Hearts: The Novel
 
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
