@@ -1,6 +1,6 @@
 /* --font-display: the site's display/heading font for titles that want more
    flavor than body Inter -- wordmark (top nav, hamburger, floating nav,
-   intro heading) and series section titles both read this. Self-hosted
+   intro heading) and group section titles both read this. Self-hosted
    (site/fonts/almendra-sc.woff2, latin subset only) rather than a Google
    Fonts <link>/@import: no third-party request, and unlike @import an
    @font-face here doesn't risk blocking the rest of this sheet's parse if
