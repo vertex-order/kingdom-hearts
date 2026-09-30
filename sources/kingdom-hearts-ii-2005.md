@@ -25,6 +25,7 @@
 ## khwiki.com (Information)
 
 - https://www.khwiki.com/Kingdom_Hearts_II -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix -- accessed 2026-09-29
 
 ## metacritic.com (Ratings)
 

@@ -48,7 +48,7 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       versionDesc: [
         [
           { text: 'This remaster includes the extra content from ' },
-          { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
+          { emLinkText: '"Final Mix" Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
           { text: ', and adds HD graphics using character models from ' },
           { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-KH-kingdom-hearts-3d-dream-drop-distance-2012' },
           { text: ', an updated command menu and camera reworked to play more like ' },
@@ -540,7 +540,9 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       [
         { text: 'A year after ' },
         { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
-        { text: ', Sora returns to search for his lost friends while battling the sinister Organization XIII. Features many Final Fantasy characters and gameplay elements.' },
+        { text: ', Sora returns to search for his lost friends while battling the sinister Organization XIII. Features many ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: ' characters and gameplay elements.' },
       ],
     ],
     primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Hack and slash', 'Single-player'],
@@ -549,8 +551,10 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
       versionDesc: [
         [
           { text: 'This remaster includes everything from ' },
-          { emText: 'Kingdom Hearts II Final Mix' },
-          { text: ', and adds high-definition graphics and achievements support.' },
+          { emLinkText: '"Final Mix" Edit (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005-x-edit-2007' },
+          { text: ', adds widescreen support, remixed audio, high-definition graphics, and achievements support, along with HD cinematic scenes from ' },
+          { emLinkText: 'Re:coded (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-coded-2008' },
+          { text: '. No additional major gameplay changes.' },
         ],
         [
           { text: 'Released in the omnibus collections ' },
@@ -568,7 +572,6 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
           { text: '.' },
         ],
       ],
-      helpWanted: true,
       ratings: [{ key: 'metacritic', score: '87', url: 'https://www.metacritic.com/game/kingdom-hearts-ii/' }, { key: 'metacritic-user', score: '9.0', url: 'https://www.metacritic.com/game/kingdom-hearts-ii/' }],
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -596,6 +599,34 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
         { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts II' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
+      versions: [
+        {
+          subtitle: 'Edit', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', subtitleDate: '2007-03-29',
+          versionDesc: [
+            [
+              { text: 'This edit features more enemies, additional scenes, and expanded worlds amongst other elements. Released as ' },
+              { emText: 'Kingdom Hearts II Final Mix' },
+              { text: '. Also included in the omnibus collections ' },
+              { emText: 'Kingdom Hearts II Final Mix+' },
+              { text: '.' },
+            ],
+          ],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
+          platforms: [
+            { key: 'playstation2', paren: 'Physical', jpTag: true },
+            { key: 'playstation3', paren: 'PS2 Compatibility', jpTag: true },
+          ],
+        },
+        {
+          versionDesc: ['The original release.'],
+          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+          helpWanted: true,
+          platforms: [
+            { key: 'playstation3', paren: 'PS2 Compatibility' },
+            { key: 'playstation2', paren: 'Physical' },
+          ],
+        },
+      ],
     },
   },
   { chronoOrder: 201, recommendedOrder: 999.5, mediaType: 'Game',
