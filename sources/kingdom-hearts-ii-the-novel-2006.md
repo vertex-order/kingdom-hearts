@@ -75,18 +75,19 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_II_2 -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 
-goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/1850014 -- languages[JA]* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/1829413 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/32856015 -- languages[EN]*, ratings* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/35117680-kingdom-hearts-ii-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/41104063-kingdom-hearts-ii-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/1691456 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/2386460 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/35082268 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/37575907-kingdom-hearts-ii-2 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/41104068-kingdom-hearts-ii-2 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+goodreads.com (Ratings) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
+Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- [Roxas—Seven Days, JA Paperback (ISBN 9784757516793)](https://www.goodreads.com/book/show/1850014) -- languages[JA]* -- accessed 2026-09-29
+- [The Destruction of Hollow Bastion, JA Paperback (ISBN 9784757517158)](https://www.goodreads.com/book/show/1829413) -- accessed 2026-09-29
+- [Roxas+Destruction collection, EN Paperback (ISBN 9780316471930)](https://www.goodreads.com/book/show/32856015) -- languages[EN]*, ratings* -- accessed 2026-09-29
+- [Roxas+Destruction collection, EN Kindle Edition (ISBN 9780316559607)](https://www.goodreads.com/book/show/35117680-kingdom-hearts-ii-1) -- accessed 2026-09-29
+- [Roxas+Destruction collection, EN Nook (ASIN B0DM2935CH, no ISBN)](https://www.goodreads.com/book/show/41104063-kingdom-hearts-ii-1) -- accessed 2026-09-29
+- [Tears of Nobody, JA Paperback (ISBN 9784757517929)](https://www.goodreads.com/book/show/1691456) -- accessed 2026-09-29
+- [Anthem—Meet Again/Axel Last Stand, JA Paperback (ISBN 9784757519640)](https://www.goodreads.com/book/show/2386460) -- accessed 2026-09-29
+- [Tears+Anthem collection, EN Paperback (ISBN 9780316411790)](https://www.goodreads.com/book/show/35082268) -- accessed 2026-09-29
+- [Tears+Anthem collection, EN Kindle Edition (ISBN 9780316411806)](https://www.goodreads.com/book/show/37575907-kingdom-hearts-ii-2) -- accessed 2026-09-29
+- [Tears+Anthem collection, EN Nook (ASIN B0DM2BK5WY, no ISBN)](https://www.goodreads.com/book/show/41104068-kingdom-hearts-ii-2) -- accessed 2026-09-29
+- [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
 
 ## Decisions
 
