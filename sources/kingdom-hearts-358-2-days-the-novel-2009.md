@@ -35,6 +35,9 @@ Collection: "The 14th" + "Go to the Sea" + "Xion—Seven Days" -- ISBN 978197532
 Collection: "The 14th" + "Go to the Sea" + "Xion—Seven Days" -- ASIN B0DTV7PFX5, English, November 27, 2018, 350pp, Nook -- ASIN-only (no ISBN found), same content/date as the Kindle ebook above under a different storefront format -- found via goodreads, not yet cross-checked against wikipedia/google books
 - goodreads: https://www.goodreads.com/book/show/42970049-kingdom-hearts-358-2-days -- accessed 2026-09-29
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, Chain of Memories, Kingdom Hearts II, this one, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 animenewsnetwork.com (Information)
@@ -54,6 +57,7 @@ goodreads.com (Information)
 - https://www.goodreads.com/book/show/36673767-kingdom-hearts-358-2-days -- languages[EN]*, ratings* -- accessed 2026-09-29
 - https://www.goodreads.com/book/show/38914578-kingdom-hearts-358-2-days -- accessed 2026-09-29
 - https://www.goodreads.com/book/show/42970049-kingdom-hearts-358-2-days -- accessed 2026-09-29
+- https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
 
 ## Decisions
 

@@ -33,6 +33,9 @@ Vol. 3: Remind Me Again -- ISBN 9781975317362 (ISBN10: 197531736X), English, Yen
 Vol. 3: Remind Me Again -- ISBN 9781975317379 (ISBN10: 1975317378), English, Yen Press, January 19, 2021, 306pp, ebook -- ebook re-edition, distinct ISBN from the paperback
 - google books: https://www.google.com/books/edition/_/HhMMEAAAQBAJ -- accessed 2026-09-29
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, Chain of Memories, Kingdom Hearts II, 358/2 Days, Dream Drop Distance, this one) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 ## Decisions

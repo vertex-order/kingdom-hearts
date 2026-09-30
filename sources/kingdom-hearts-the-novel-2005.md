@@ -46,6 +46,9 @@ Le roman T02 -- ISBN 9782811615581 (ISBN10: 281161558X), French, Pika Édition, 
 - open library: https://openlibrary.org/search?isbn=9782811615581
 - goodreads: https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (this one, Chain of Memories, Kingdom Hearts II, 358/2 Days, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 goodreads.com (Ratings)
@@ -56,6 +59,7 @@ goodreads.com (Ratings)
 - https://www.goodreads.com/book/show/57600794-kingdom-hearts
 - https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01
 - https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman
+- https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
 
 khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts -- novels*, dates* -- accessed 2026-09-28
