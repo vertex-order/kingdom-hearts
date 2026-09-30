@@ -1,5 +1,5 @@
-// schema: series.schema.json
-window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: [
+// schema: group.schema.json
+window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1795, title: 'Kingdom Hearts', note: [
   [
     { text: 'A franchise in its own right, with original characters and story. A crossover that primarily focuses on Disney characters, though some entries also feature ' },
     { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
