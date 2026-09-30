@@ -113,27 +113,28 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
-goodreads.com (Information)
-- https://www.goodreads.com/book/show/34146408 -- languages[JA]*, ratings (score reused on the EN edition link)* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/17785892-kingdom-hearts-358-2-days-1 -- languages[EN]*, ratings* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/34757661-kingdom-hearts-358-2-days-vol-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/10874337-kingdom-hearts-358-2-days-1 -- languages[DE]* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/27155392-kingdom-hearts-358-2-days-1 -- languages[ES]* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/33092698-kingdom-hearts-358-2-days-t01-kingdom-hearts-358-2-days -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/61813268-kingdom-hearts-358-2-days-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/58896404-kingdom-hearts-358-2-days-vol-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/231167797-kingdom-hearts-358-2-days-vol-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/231168352-kingdom-hearts-358-2-days-vol-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/203915290-kingdom-hearts-358-2-days-vol-1 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/17899423-kingdom-hearts-358-2-days-2 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/18240644-kingdom-hearts-358-2-days-3 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/18246573-kingdom-hearts-358-2-days-4 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/22553552-kingdom-hearts-358-2-days-5 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/55779539-kingdom-hearts-358-2-dias-vol-1 -- languages[PT]* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/250676435-kingdom-hearts-358-2-dias-vol-2 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/58010940-kingdom-hearts-358-2-dias-vol-3 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/36517116-kingdom-hearts-l-int-grale-t03 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/36517137-kingdom-hearts-l-int-grale-t04 -- accessed 2026-09-29
+goodreads.com (Information) -- `[Vol., language, format (ISBN/ASIN)]` labels below identify which
+Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- [Vol. 1, JA (ISBN 9784757529021)](https://www.goodreads.com/book/show/34146408) -- languages[JA]*, ratings (score reused on the EN edition link)* -- accessed 2026-09-29
+- [Vol. 1, EN Paperback (ISBN 9780316401180)](https://www.goodreads.com/book/show/17785892-kingdom-hearts-358-2-days-1) -- languages[EN]*, ratings* -- accessed 2026-09-29
+- [Vol. 1, EN Kindle Edition (ISBN 9780316464321)](https://www.goodreads.com/book/show/34757661-kingdom-hearts-358-2-days-vol-1) -- accessed 2026-09-29
+- [Vol. 1, DE Paperback (ISBN 9783770474981)](https://www.goodreads.com/book/show/10874337-kingdom-hearts-358-2-days-1) -- languages[DE]* -- accessed 2026-09-29
+- [Vol. 1, ES Paperback (ISBN 9788416308866)](https://www.goodreads.com/book/show/27155392-kingdom-hearts-358-2-days-1) -- languages[ES]* -- accessed 2026-09-29
+- [Vol. 1, FR Paperback (ISBN 9782811613464)](https://www.goodreads.com/book/show/33092698-kingdom-hearts-358-2-days-t01-kingdom-hearts-358-2-days) -- accessed 2026-09-29
+- [Vol. 1, FI Paperback (ISBN 9789521622533)](https://www.goodreads.com/book/show/61813268-kingdom-hearts-358-2-days-1) -- accessed 2026-09-29
+- [Vol. 1, IT Paperback, 2020 (ASIN B0FSK26FX8, no ISBN)](https://www.goodreads.com/book/show/58896404-kingdom-hearts-358-2-days-vol-1) -- accessed 2026-09-29
+- [Vol. 1, IT Paperback, 2020 (ISBN 9788891295514)](https://www.goodreads.com/book/show/231167797-kingdom-hearts-358-2-days-vol-1) -- accessed 2026-09-29
+- [Vol. 1, IT Paperback, 2023 (ISBN 9788828772651)](https://www.goodreads.com/book/show/231168352-kingdom-hearts-358-2-days-vol-1) -- accessed 2026-09-29
+- [Vol. 1, IT Paperback, 2023 (ISBN 9788828771838)](https://www.goodreads.com/book/show/203915290-kingdom-hearts-358-2-days-vol-1) -- languages[IT]* -- accessed 2026-09-29
+- [Vol. 2, EN Paperback (ISBN 9780316401197)](https://www.goodreads.com/book/show/17899423-kingdom-hearts-358-2-days-2) -- accessed 2026-09-29
+- [Vol. 3, DE Paperback (ISBN 9783770477517)](https://www.goodreads.com/book/show/18240644-kingdom-hearts-358-2-days-3) -- accessed 2026-09-29
+- [Vol. 4, DE Paperback (ISBN 9783770480234)](https://www.goodreads.com/book/show/18246573-kingdom-hearts-358-2-days-4) -- accessed 2026-09-29
+- [Vol. 5, EN Paperback (ISBN 9780316336260)](https://www.goodreads.com/book/show/22553552-kingdom-hearts-358-2-days-5) -- accessed 2026-09-29
+- [Omnibus Vol. 1 (collects Vol. 1-2), PT Hardcover (ISBN 9786555123777)](https://www.goodreads.com/book/show/55779539-kingdom-hearts-358-2-dias-vol-1) -- languages[PT]* -- accessed 2026-09-29
+- [Omnibus Vol. 2 (collects Vol. 2-4), PT Hardcover (ISBN 9786555125634)](https://www.goodreads.com/book/show/250676435-kingdom-hearts-358-2-dias-vol-2) -- accessed 2026-09-29
+- [Omnibus Vol. 3 (collects Vol. 4-5), PT Hardcover (ISBN 9786555128611)](https://www.goodreads.com/book/show/58010940-kingdom-hearts-358-2-dias-vol-3) -- accessed 2026-09-29
+- [Omnibus T03 (collects Vol. 1-3), FR Paperback (ISBN 9782373491364)](https://www.goodreads.com/book/show/36517116-kingdom-hearts-l-int-grale-t03) -- accessed 2026-09-29
+- [Omnibus T04 (collects Vol. 3-5), FR Paperback (ISBN 9782373491371)](https://www.goodreads.com/book/show/36517137-kingdom-hearts-l-int-grale-t04) -- accessed 2026-09-29
 
 ## Decisions
 

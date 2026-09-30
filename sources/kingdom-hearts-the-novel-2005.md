@@ -13,53 +13,54 @@ date/publisher below are Wikipedia-only so far.
 
 The First Door -- ISBN 9784757514683 (ISBN10: 4757514689), Japanese, Square Enix, Paperback, 231pp, June 30, 2005 -- follows the first game's story -- google books gives July 21, 2005 vs. June 30 elsewhere
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757514689
-- goodreads: https://www.goodreads.com/book/show/21419607
+- goodreads: https://www.goodreads.com/book/show/21419607 -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/_/jWKbPQAACAAJ -- accessed 2026-09-29 -- confirms ISBN, 231pp
 
 Darkness Within -- ISBN 9784757514959 (ISBN10: 4757514956), Japanese, Square Enix, Paperback, 254pp, July 29, 2005 -- follows the first game's story -- google books gives August 19, 2005 vs. July 29 elsewhere, and 254pp vs. goodreads' 255pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=4757514956
-- goodreads: https://www.goodreads.com/book/show/21419648-kingdom-hearts-2
+- goodreads: https://www.goodreads.com/book/show/21419648-kingdom-hearts-2 -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/_/0RdAPQAACAAJ -- accessed 2026-09-29
 
 Collection: "The First Door" + "Darkness Within" -- ISBN 9780316260190 (ISBN10: 0316260193), English, Yen Press, Paperback, 276pp -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error) -- goodreads gives April 7, 2015 vs. March 24 elsewhere; google books says 288pp vs. goodreads' 276pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316260190
-- goodreads: https://www.goodreads.com/book/show/23197294-kingdom-hearts
+- goodreads: https://www.goodreads.com/book/show/23197294-kingdom-hearts -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_The_Novel_light_novel/N-vXoQEACAAJ -- accessed 2026-09-29 -- confirms ISBN, March 24 2015, but gives 288pp not 276pp
 - barnes and noble: https://www.barnesandnoble.com/w/kingdom-hearts-tomoco-kanemaki/1120331596?ean=9780316260190 -- 404 as of 2026-09-28 -- archived: TODO
 
 Collection: "The First Door" + "Darkness Within" -- ISBN 9780316559614 (ISBN10: 031655961X), English, Yen On, Kindle Edition, 268pp, March 21, 2017 -- ebook re-edition of the same EN omnibus, distinct ISBN from the 2015 paperback -- google books says 288pp vs. goodreads' 268pp
-- goodreads: https://www.goodreads.com/book/show/34739731-kingdom-hearts
+- goodreads: https://www.goodreads.com/book/show/34739731-kingdom-hearts -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/_/KY2KDgAAQBAJ -- accessed 2026-09-29 -- confirms ISBN, ebook format, March 21 2017
 
 Collection: "The First Door" + "Darkness Within" -- ASIN B0DM4L5TJY, English, Yen Press, Nook, 227pp, March 21, 2017 -- another ebook re-edition, no ISBN given (Nook/ASIN-only) -- no google books record found (ASIN-only, expected)
-- goodreads: https://www.goodreads.com/book/show/57600794-kingdom-hearts
+- goodreads: https://www.goodreads.com/book/show/57600794-kingdom-hearts -- accessed 2026-09-29
 
 Le roman T01 -- ISBN 9782811615420 (ISBN10: 2811615423), French, Pika Édition, Paperback, 240pp, October 29, 2014 -- follows "The First Door"
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782811615420
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_Le_Roman_T01/GZgZogEACAAJ -- accessed 2026-09-28
 - open library: https://openlibrary.org/search?isbn=9782811615420 -- no results as of 2026-09-28
-- goodreads: https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01
+- goodreads: https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01 -- accessed 2026-09-29
 
 Le roman T02 -- ISBN 9782811615581 (ISBN10: 281161558X), French, Pika Édition, Paperback, 239pp, October 29, 2014 -- follows "Darkness Within" -- translated by Olivier Sart -- google books gives 239pp vs. goodreads'/T01's 240pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9782811615581
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_le_roman/k9r8oQEACAAJ -- accessed 2026-09-29 -- confirms ISBN, 239pp, translator Olivier Sart
 - open library: https://openlibrary.org/search?isbn=9782811615581
-- goodreads: https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman
+- goodreads: https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman -- accessed 2026-09-29
 
 Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (this one, Chain of Memories, Kingdom Hearts II, 358/2 Days, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
 - goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
 
 ## Sources
 
-goodreads.com (Ratings)
-- https://www.goodreads.com/book/show/23197294-kingdom-hearts
-- https://www.goodreads.com/book/show/21419607
-- https://www.goodreads.com/book/show/21419648-kingdom-hearts-2
-- https://www.goodreads.com/book/show/34739731-kingdom-hearts
-- https://www.goodreads.com/book/show/57600794-kingdom-hearts
-- https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01
-- https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman
-- https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+goodreads.com (Ratings) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
+Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- [Collection "The First Door"+"Darkness Within", EN Paperback (ISBN 9780316260190)](https://www.goodreads.com/book/show/23197294-kingdom-hearts) -- languages[EN]*, ratings* -- accessed 2026-09-29
+- [The First Door, JA Paperback (ISBN 9784757514683)](https://www.goodreads.com/book/show/21419607) -- languages[JA]* -- accessed 2026-09-29
+- [Darkness Within, JA Paperback (ISBN 9784757514959)](https://www.goodreads.com/book/show/21419648-kingdom-hearts-2) -- accessed 2026-09-29
+- [Collection, EN Kindle Edition (ISBN 9780316559614)](https://www.goodreads.com/book/show/34739731-kingdom-hearts) -- accessed 2026-09-29
+- [Collection, EN Nook (ASIN B0DM4L5TJY, no ISBN)](https://www.goodreads.com/book/show/57600794-kingdom-hearts) -- accessed 2026-09-29
+- [Le roman T01, FR Paperback (ISBN 9782811615420)](https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01) -- accessed 2026-09-29
+- [Le roman T02, FR Paperback (ISBN 9782811615581)](https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman) -- accessed 2026-09-29
+- [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
 
 khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts -- novels*, dates* -- accessed 2026-09-28

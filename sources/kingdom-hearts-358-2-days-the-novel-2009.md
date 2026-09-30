@@ -50,14 +50,15 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- dates*, length*, story* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days_2 -- dates*, ISBN*, length* -- accessed 2026-09-28
 
-goodreads.com (Information)
-- https://www.goodreads.com/book/show/20942850 -- languages[JA]* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/20946961 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/20951249 -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/36673767-kingdom-hearts-358-2-days -- languages[EN]*, ratings* -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/38914578-kingdom-hearts-358-2-days -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/42970049-kingdom-hearts-358-2-days -- accessed 2026-09-29
-- https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+goodreads.com (Information) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
+Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- [The 14th, JA Paperback (ISBN 9784757526044)](https://www.goodreads.com/book/show/20942850) -- languages[JA]* -- accessed 2026-09-29
+- [Go to the Sea, JA Paperback (ISBN 9784757527744)](https://www.goodreads.com/book/show/20946961) -- accessed 2026-09-29
+- [Xion—Seven Days, JA Paperback (ISBN 9784757528888)](https://www.goodreads.com/book/show/20951249) -- accessed 2026-09-29
+- [Omnibus collection, EN Paperback (ISBN 9781975327491)](https://www.goodreads.com/book/show/36673767-kingdom-hearts-358-2-days) -- languages[EN]*, ratings* -- accessed 2026-09-29
+- [Omnibus collection, EN Kindle Edition (ISBN 9781975327576)](https://www.goodreads.com/book/show/38914578-kingdom-hearts-358-2-days) -- accessed 2026-09-29
+- [Omnibus collection, EN Nook (ASIN B0DTV7PFX5, no ISBN)](https://www.goodreads.com/book/show/42970049-kingdom-hearts-358-2-days) -- accessed 2026-09-29
+- [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
 
 ## Decisions
 
