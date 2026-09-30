@@ -200,6 +200,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       ratings: [{ key: 'goodreads', score: '3.75', url: 'https://www.goodreads.com/book/show/23197294-kingdom-hearts' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/21419607' },
@@ -365,6 +372,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       ratings: [{ key: 'goodreads', score: '4.03', url: 'https://www.goodreads.com/book/show/24396851' }],
       languages: [
         { value: 'EN', url: 'https://www.goodreads.com/book/show/24396851' },
@@ -523,6 +537,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       ratings: [{ key: 'goodreads', score: '4.40', url: 'https://www.goodreads.com/book/show/36673767-kingdom-hearts-358-2-days' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/20942850' },
@@ -693,6 +714,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       languages: [
         { value: 'JA', native: true, url: 'https://www.google.com/books/edition/_/xmYCngAACAAJ' },
         { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9780316471930' },
@@ -803,6 +831,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       languages: [
         { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524' },
         { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358617' },
@@ -1015,6 +1050,13 @@ window.__khSeriesReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 1
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collection ' },
+          { emText: 'Kingdom Hearts: The Complete Novel' },
+          { text: '.' },
+        ],
+      ],
       languages: [
         { value: 'EN', url: 'https://www.google.com/books/edition/Kingdom_Hearts_III_The_Novel_Vol_1_light/5p_ODwAAQBAJ' },
         { value: '…?' },

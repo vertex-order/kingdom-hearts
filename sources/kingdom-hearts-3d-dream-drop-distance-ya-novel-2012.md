@@ -27,6 +27,9 @@ Collection: "Side Sora" + "Side Riku" -- ISBN 9781975358723 (ISBN10: 1975358724)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358723
 - google books: https://www.google.com/books/edition/Kingdom_Hearts_3D_Dream_Drop_Distance_Th/I3GxDwAAQBAJ -- accessed 2026-09-29
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, Chain of Memories, Kingdom Hearts II, 358/2 Days, this one, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 khwiki.com (Information)

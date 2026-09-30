@@ -38,6 +38,9 @@ Anthem—Meet Again/Axel Last Stand -- ISBN 9784757519640 (ISBN10: 4757519648), 
 Collection: "Tears of Nobody" + "Anthem—Meet Again/Axel Last Stand" -- ISBN 9780316411790, English, Yen Press, December 19, 2017 -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316411790
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, Chain of Memories, this one, 358/2 Days, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 animenewsnetwork.com (Information)

@@ -48,6 +48,9 @@ Collection: "Kingdom Hearts Chain of Memories: The Novel" -- ISBN unclear (none 
 Collection: "Kingdom Hearts Chain of Memories" -- ISBN unclear (none given), English, publisher given only as "Tokyo" (likely a metadata error, not a real publisher name), no date/format given -- too thin to place confidently against any edition above, recorded so it isn't re-checked later
 - google books: https://www.google.com/books/edition/_/RvU0zwEACAAJ -- accessed 2026-09-29
 
+Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, this one, Kingdom Hearts II, 358/2 Days, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
+- goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
+
 ## Sources
 
 khwiki.com (Information)
