@@ -437,7 +437,6 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-358-2-Days-271232.html',
       platforms: [
         { key: 'nintendo-ds' },
-        { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts 358/2 Days ds' },
         { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts 358/2 Days ds' },
         { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts 358/2 Days ds' },
       ],
@@ -458,9 +457,9 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         ],
         versionDesc: [
           [
-            { text: 'Cinematic retelling of ' },
+            { text: 'The official cinematic movie adaptation of ' },
             { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
-            { text: ' that covers approximately 70% of the main plot. The PlayStation 3 version is missing an extra scene added to all later versions.' },
+            { text: ', covering approximately 70% of the main plot. Includes an extra scene by default, except on PlayStation 4 (free DLC) and PlayStation 3 (missing entirely). Some unofficial fan edits combine this with gameplay for a fuller, much longer story.' },
           ],
           [
             { text: 'Released in the omnibus collections ' },
@@ -780,11 +779,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         length: '3h',
         versionDesc: [
           [
-            { text: 'Cinematic retelling of ' },
+            { text: 'The official cinematic movie adaptation of ' },
             { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-re-coded-2010' },
             { text: ' with new scenes, including one tying it to ' },
             { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-KH-kingdom-hearts-3d-dream-drop-distance-2012' },
-            { text: '.' },
+            { text: '. Some unofficial fan edits combine this with gameplay for a fuller, much longer story.' },
           ],
           [
             { text: 'Released in the omnibus collections ' },
