@@ -7,7 +7,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
   ],
 ], media: [
   { chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game',
-    title: 'Kingdom Hearts', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)', titleDate: '2002-03-28',
+    title: 'Kingdom Hearts Final Mix', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', titleDate: '2002-12-26',
     mediaDesc: [
       [
         { text: 'Follows the adventures of Sora, a cheerful teenager who fights against the forces of darkness alongside his allies, including Donald Duck, Goofy, and other Disney characters. Some gameplay elements are inspired by ' },
@@ -48,11 +48,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       versionDesc: [
         [
           { text: 'This remaster includes the extra content from ' },
-          { emLinkText: '"Final Mix" Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
+          { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
           { text: ', and adds HD graphics using character models from ' },
           { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-KH-kingdom-hearts-3d-dream-drop-distance-2012' },
           { text: ', an updated command menu and camera reworked to play more like ' },
-          { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+          { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
           { text: ', plus HD cinematic scenes from ' },
           { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
           { text: ', and achievements.' },
@@ -79,10 +79,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         {
           subtitle: 'Edit', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', subtitleDate: '2002-12-26',
           versionDesc: [
+            ['This edit adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot over the original release. Japan-only, before the worldwide HD remaster.'],
             [
-              { text: 'This edit adds new enemies, weapons, abilities, items, a new post-game boss, and new cutscenes further clarifying the plot. Released as ' },
+              { text: 'Released as ' },
               { emText: 'Kingdom Hearts Final Mix' },
-              { text: '.' },
+              { text: ', the name every subsequent release has used.' },
             ],
           ],
           languages: [{ value: 'JA', textOnly: true, native: true }, { value: 'EN', voice: true }, { value: '…?' }],
@@ -93,7 +94,14 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           ],
         },
         {
-          versionDesc: ['The original release. The international non-Japan releases saw gameplay tweaks and several post-game bosses added.'],
+          title: 'Kingdom Hearts', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)', titleDate: '2002-03-28',
+          versionDesc: [
+            [
+              { text: 'The original release, worldwide, before the ' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { text: '. The international non-Japan releases saw gameplay tweaks and several post-game bosses added.' },
+            ],
+          ],
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
           platforms: [
@@ -109,7 +117,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts Final Mix (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: '.' },
       ],
     ],
@@ -126,10 +134,10 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       versionDesc: [
         [
-          { text: 'This edition includes both the original ' },
-          { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
-          { text: ' bonus chapters and the "Final Mix" ' },
-          { emLinkText: 'Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+          { text: 'This edition includes both the ' },
+          { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
+          { text: ' bonus chapters and the ' },
+          { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
           { text: ' edits & bonus chapters.' },
         ],
       ],
@@ -149,16 +157,15 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           ],
           versionDesc: [
             [
-              { text: 'This edition has edits & bonus chapters matching the "Final Mix" ' },
-              { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002-x-edit-2002' },
-              { text: ' version of the game. It does not have the original ' },
-              { emLinkText: 'edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2003' },
+              { text: 'This edition has edits & bonus chapters matching the ' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { text: ' version of the game. It does not have the ' },
+              { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
               { text: ' bonus chapters.' },
             ],
           ],
         },
         {
-          subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: { start: '2003-10-25', end: '2005-01-31' },
           length: [{ value: '4 volumes' }],
           languages: [
             { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/11874890-1-kingdom-hearts-1' },
@@ -176,8 +183,12 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           ],
           versionDesc: [
             [
-              { text: 'The original edition, includes its own bonus chapters not included in the "Final Mix" ' },
-              { emLinkText: 'Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+              { text: 'The original edition, manga adaptation of ' },
+              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-kingdom-hearts-2002' },
+              { text: ', not the ' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { text: '. Includes its own bonus chapters not included in the ' },
+              { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
               { text: '.' },
             ],
           ],
@@ -190,7 +201,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: ' in two volumes: ' },
         { emText: 'The First Door' },
         { text: ' and ' },
@@ -220,11 +231,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game',
-    title: 'Kingdom Hearts: Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
+    title: 'Kingdom Hearts Re:Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', titleDate: '2007-03-29',
     mediaDesc: [
       [
         { text: 'A year after ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: ', Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from ' },
         { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
         { text: '.' },
@@ -235,16 +246,12 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#HD_1.5_Remix', subtitleDate: 2013,
       versionDesc: [
         [
-          { text: 'This remaster includes everything from ' },
-          { emLinkText: 'Remake (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004-x-remake-2007' },
-          { text: ' in 3D, and adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
+          { text: 'This remaster adds high-definition graphics, achievements support, and HD cinematic scenes from ' },
           { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
           { text: '.' },
         ],
         [
-          { text: 'Released under the title ' },
-          { emText: 'Re:Chain of Memories' },
-          { text: ' as well, included in the omnibus collections ' },
+          { text: 'Included in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 1.5 Remix' },
           { text: ', ' },
           { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
@@ -290,21 +297,24 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
       versions: [
         {
-          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', subtitleDate: 2007,
+          subtitle: 'Remake', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', subtitleDate: '2007-03-29',
           versionDesc: [
             [
-              { text: 'This remake rebuilds the ' },
-              { emLinkText: 'original', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004-or' },
-              { text: ' card-based battles and worlds in 3D, reusing the graphics from ' },
-              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
-              { text: ', and adds voice acting, an improved soundtrack, minor battle-system tweaks, and new cutscenes and battles. Released as ' },
+              { text: 'This remake rebuilds ' },
+              { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-re-chain-of-memories-2007-or' },
+              { text: '\'s card-based battles and worlds in 3D, reusing the graphics from ' },
+              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+              { text: ', and adds voice acting, an improved soundtrack, minor battle-system tweaks, and new cutscenes and battles.' },
+            ],
+            [
+              { text: 'Released as ' },
               { emText: 'Re:Chain of Memories' },
-              { text: ' in the omnibus collection ' },
+              { text: ', the name every subsequent release has used. Also released as part of the omnibus collection ' },
               { emText: 'Kingdom Hearts II Final Mix+' },
               { text: '.' },
             ],
           ],
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }],
           platforms: [
             { key: 'playstation2', paren: 'Physical' },
             { key: 'playstation3', paren: 'PS2 Compatibility' },
@@ -314,7 +324,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
     alts: [
       {
-        subtitle: 'Original',
+        title: 'Kingdom Hearts Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
         versionDesc: ['The original release in isometric pixel art.'],
         languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
@@ -332,7 +342,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-re-chain-of-memories-2007-or' },
         { text: '.' },
       ],
     ],
@@ -360,7 +370,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-re-chain-of-memories-2007-or' },
         { text: ' in three volumes: ' },
         { emText: 'Sora (Part 1)' },
         { text: ', ' },
@@ -412,11 +422,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Follows Roxas\' daily life within Organization XIII and his relationship with fellow Organization member Axel; and introduces a fourteenth member, Xion, who befriends them. Takes place near the end of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: ' in parallel to ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
+        { emLinkText: 'Re:Chain of Memories (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-re-chain-of-memories-2007' },
         { text: ', leading directly into the events of ' },
-        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: '.' },
       ],
     ],
@@ -556,11 +566,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game',
-    title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22',
+    title: 'Kingdom Hearts II Final Mix', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', titleDate: '2007-03-29',
     mediaDesc: [
       [
         { text: 'A year after ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-KH-kingdom-hearts-chain-of-memories-2004' },
+        { emLinkText: 'Re:Chain of Memories (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-re-chain-of-memories-2007' },
         { text: ', Sora returns to search for his lost friends while battling the sinister Organization XIII. Features many ' },
         { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
         { text: ' characters and gameplay elements.' },
@@ -571,10 +581,8 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#HD_2.5_Remix', subtitleDate: 2014,
       versionDesc: [
         [
-          { text: 'This remaster includes everything from ' },
-          { emLinkText: '"Final Mix" Edit (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005-x-edit-2007' },
-          { text: ', adds widescreen support, remixed audio, high-definition graphics, and achievements support, along with HD cinematic scenes from ' },
-          { emLinkText: 'Re:coded (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-coded-2008' },
+          { text: 'This remaster adds widescreen support, remixed audio, high-definition graphics, and achievements support, along with HD cinematic scenes from ' },
+          { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-re-coded-2010' },
           { text: '. No additional major gameplay changes.' },
         ],
         [
@@ -623,15 +631,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       versions: [
         {
           subtitle: 'Edit', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', subtitleDate: '2007-03-29',
-          versionDesc: [
-            [
-              { text: 'This edit features more enemies, additional scenes, and expanded worlds amongst other elements. Released as ' },
-              { emText: 'Kingdom Hearts II Final Mix' },
-              { text: '. Also included in the omnibus collections ' },
-              { emText: 'Kingdom Hearts II Final Mix+' },
-              { text: '.' },
-            ],
-          ],
+          versionDesc: ['The original Final Mix release, featuring more enemies, additional scenes, and expanded worlds amongst other elements over the original release. Also included in the omnibus collection Kingdom Hearts II Final Mix+.'],
           languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
           platforms: [
             { key: 'playstation2', paren: 'Physical', jpTag: true },
@@ -639,7 +639,14 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           ],
         },
         {
-          versionDesc: ['The original release.'],
+          title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22',
+          versionDesc: [
+            [
+              { text: 'The original release, worldwide, before the ' },
+              { emLinkText: 'Final Mix Edit (2007)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007-x-edit-2007' },
+              { text: '.' },
+            ],
+          ],
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
           platforms: [
@@ -666,7 +673,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: '.' },
       ],
     ],
@@ -692,7 +699,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: ' in four volumes: ' },
         { emText: 'Roxas—Seven Days' },
         { text: ', ' },
@@ -736,24 +743,48 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 225, recommendedOrder: 325, mediaType: 'Game',
-    title: 'Kingdom Hearts Coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded', titleDate: '2008-11-18',
+    title: 'Kingdom Hearts Re:coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_Re:coded', titleDate: '2010-10-07',
     mediaDesc: [
       [
-        { text: 'Set after ' },
-        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { text: 'King Mickey and his friends send Sora into Jiminy Cricket\'s journal to repair it and uncover hidden messages. Set after ' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Sequel', 'Action RPG', 'Puzzle', 'Single-player', 'Episodic'], helpWanted: true,
+    primary: { tags: ['Sequel', 'Action RPG', 'Puzzle', 'Single-player'], helpWanted: true,
       length: [{ value: '15½h', tip: 'Main Story' }, { value: '24½h', tip: 'Main + Sides' }, { value: '60h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/kingdom-hearts-re-coded/' }, { key: 'metacritic-user', score: '6.5', url: 'https://www.metacritic.com/game/kingdom-hearts-re-coded/' }],
+      versionDesc: [
+        [
+          { text: 'A remake of the original mobile release, overhauling its battles into an action-based combat system borrowing from ' },
+          { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-2010' },
+          { text: ', with new scenes and a new voice cast for Jiminy Cricket.' },
+        ],
+      ],
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+        { value: '…?' },
+      ],
       platforms: [
-        { key: 'mobile-phone' },
+        { key: 'nintendo-ds' },
+      ],
+      versions: [
+        {
+          title: 'Kingdom Hearts Coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded', titleDate: { start: '2008-11-18', end: '2010-01-28' },
+          tags: ['Episodic', 'Terminated'],
+          versionDesc: ['The original episodic release, split into a prologue and 8 episodes, discontinued for download in 2013.'],
+          languages: [{ value: 'JA', native: true }],
+          platforms: [
+            { key: 'mobile-phone', paren: 'NTT DoCoMo', jpTag: true, terminated: true },
+          ],
+        },
       ],
     },
     alts: [
       {
-        title: 'HD 2.5 Remix (Theater Mode)',
+        title: 'Kingdom Hearts Re:coded (Theater Mode)', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_HD_2.5_Remix', titleDate: '2014-10-02',
+        tags: ['Optional', 'Movie'],
         length: '3h',
       },
     ],
@@ -774,7 +805,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { text: 'A modified recreation of the Gummiship Studio minigame from ' },
         { emLinkText: 'Mobile (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-mobile-2008' },
         { text: ' meant to promote ' },
-        { emLinkText: 'Re:coded (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-coded-2008' },
+        { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-re-coded-2010' },
         { text: '. It had little to no plot and was not canon. The game is terminated.' },
       ],
     ],
@@ -789,7 +820,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Takes place after the events of ' },
-        { emLinkText: 'Coded (2008)', emLinkUrl: '#entry-KH-kingdom-hearts-coded-2008' },
+        { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-re-coded-2010' },
         { text: '. Included in the omnibus collection ' },
         { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
         { text: '.' },
@@ -906,7 +937,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { text: 'Depicts events both leading into ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
         { text: ' and intersecting with the ending of the original ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: '. Included in the omnibus collection ' },
         { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
         { text: '.' },
@@ -1127,7 +1158,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Taking place thousands of years before ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: ' and detailing events leading up to the Keyblade War. Stylized ' },
         { emText: 'Kingdom Hearts χ [chi]' },
         { text: '. The game is terminated.' },
@@ -1167,7 +1198,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Based on the Gummi Shop mini-game from ' },
-        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-2005' },
+        { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: ', meant to promote ' },
         { emLinkText: 'Union χ [Cross]', emLinkUrl: '#entry-KH-kingdom-hearts-unchained-x-2015' },
         { text: ' in a cross-promotion with the Final Fantasy franchise entitled ' },
@@ -1207,7 +1238,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'A prequel set ten years before ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: '.' },
       ],
     ],
@@ -1251,7 +1282,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: ' game, modified for the input method of mobile phones. The game is terminated.' },
       ],
     ],
