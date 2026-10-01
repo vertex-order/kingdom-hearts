@@ -496,7 +496,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
           { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
           { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
-          { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts 358/2 Days Theater Mode', name: 'Unofficial (Youtube)' },
+          { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts 358/2 Days Theater Mode', name: 'Fan combined movie video', paren: 'Youtube' },
           { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts 358/2 Days Theater Mode' },
         ],
         profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
