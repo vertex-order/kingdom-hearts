@@ -928,7 +928,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 231, recommendedOrder: 331, mediaType: 'Book',
-    title: 'Kingdom Hearts 3D: Dream Drop Distance ~YA Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: { start: '2012-06-28', end: '2012-09-27' },
+    title: 'Kingdom Hearts 3D: Dream Drop Distance The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: { start: '2012-06-28', end: '2012-09-27' },
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
@@ -949,6 +949,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: '.' },
         ],
       ],
+      ratings: [{ key: 'goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/44782544-kingdom-hearts-3d' }],
       languages: [
         { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524' },
         { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358617' },
