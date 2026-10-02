@@ -833,6 +833,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
       platforms: [
         { key: 'mobile-phone', paren: 'NTT DoCoMo', terminated: true },
+        { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts Mobile' },
       ],
     },
   },
@@ -886,6 +887,9 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9p9669spd8sf' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
+        { key: 'fan-movie', search: 'youtube', term: 'Kingdom Hearts Dream Drop Distance HD' },
+        { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts Dream Drop Distance HD' },
+        { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts Dream Drop Distance HD' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/en-us/',
       versionDesc: [
@@ -911,12 +915,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       versions: [
         {
           versionDesc: [
-            ['The original release, using the 3DS dual screen and touchscreen control.'],
+            ['The original release, using the 3DS dual screen, touchscreen controls, and supporting Autostereoscopic 3D.'],
           ],
           helpWanted: true,
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           platforms: [
             { key: 'nintendo-3ds' },
+            { key: 'fan-playthrough', search: 'youtube', term: 'Kingdom Hearts 3D: Dream Drop Distance 3ds' },
           ],
         },
       ],
