@@ -957,6 +957,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube', term: 'Kingdom Hearts 3D: Dream Drop Distance The Novel' },
       ],
     },
   },
