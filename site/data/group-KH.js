@@ -1181,13 +1181,20 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       [
         { text: 'Manga adaptation of ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
+        { text: ', and ' },
+        { emLinkText: '0.2 Birth by Sleep -A fragmentary passage- (2017)', emLinkUrl: '#entry-KH-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017' },
         { text: '.' },
       ],
     ],
     primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }], helpWanted: true,
+      ratings: [{ key: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/220365681-kingdom-hearts-iii' }],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/53104810-iii-1-kingdom-hearts-iii-1' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/54558875-kingdom-hearts-iii-vol-1' },
+        { value: 'FR', url: 'https://www.goodreads.com/book/show/60593991-kingdom-hearts-iii-t01' },
+        { value: 'ES', url: 'https://www.goodreads.com/book/show/61742178-kingdom-hearts-iii-n-01' },
+        { value: 'IT', url: 'https://www.goodreads.com/book/show/220403423-kingdom-hearts-iii-vol-1' },
+        { value: 'PT', url: 'https://www.goodreads.com/book/show/249328604-kingdom-hearts-iii-vol-1' },
         { value: '…?' },
       ],
       platforms: [
