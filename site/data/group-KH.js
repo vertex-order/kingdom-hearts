@@ -1234,6 +1234,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50049764-iii-vol-2-new-seven-hearts' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/52223197' },
+        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
