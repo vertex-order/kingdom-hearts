@@ -1186,7 +1186,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }], helpWanted: true,
+    primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
       ratings: [{ key: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/220365681-kingdom-hearts-iii' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/53104810-iii-1-kingdom-hearts-iii-1' },
@@ -1195,7 +1195,6 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { value: 'ES', url: 'https://www.goodreads.com/book/show/61742178-kingdom-hearts-iii-n-01' },
         { value: 'IT', url: 'https://www.goodreads.com/book/show/220403423-kingdom-hearts-iii-vol-1' },
         { value: 'PT', url: 'https://www.goodreads.com/book/show/249328604-kingdom-hearts-iii-vol-1' },
-        { value: '…?' },
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
