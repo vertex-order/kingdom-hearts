@@ -6,7 +6,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     { text: ' characters.' },
   ],
 ], media: [
-  { chronoOrder: 0, recommendedOrder: 100, mediaType: 'Game',
+  { chronoOrder: 90, recommendedOrder: 10, mediaType: 'Game',
     title: 'Kingdom Hearts Final Mix', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', titleDate: '2002-12-26',
     mediaDesc: [
       [
@@ -63,13 +63,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: ', ' },
           { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
           { text: ', ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
           { emText: 'Kingdom Hearts Integrum Masterpiece' },
           { text: ', ' },
           { emText: 'Kingdom Hearts Collection [I～III]' },
-          { text: ', ' },
-          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: ', and ' },
-          { emText: 'Kingdom Hearts: The Story So Far' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: '.' },
         ],
       ],
@@ -110,7 +110,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 25, recommendedOrder: 125, mediaType: 'Comic',
+  { chronoOrder: 100, recommendedOrder: 20, mediaType: 'Comic',
     title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', titleDate: { start: '2003-10-25', end: '2005-01-31' },
     mediaDesc: [
       [
@@ -129,6 +129,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
       versionDesc: [
         [
@@ -194,7 +195,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 50, recommendedOrder: 150, mediaType: 'Book',
+  { chronoOrder: 110, recommendedOrder: 30, mediaType: 'Book',
     title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
     mediaDesc: [
       [
@@ -225,10 +226,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 100, recommendedOrder: 200, mediaType: 'Game',
+  { chronoOrder: 130, recommendedOrder: 40, mediaType: 'Game',
     title: 'Kingdom Hearts Re:Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', titleDate: '2007-03-29',
     mediaDesc: [
       [
@@ -254,13 +256,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: ', ' },
           { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
           { text: ', ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
           { emText: 'Kingdom Hearts Integrum Masterpiece' },
           { text: ', ' },
           { emText: 'Kingdom Hearts Collection [I～III]' },
-          { text: ', ' },
-          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: ', and ' },
-          { emText: 'Kingdom Hearts: The Story So Far' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: '.' },
         ],
       ],
@@ -333,7 +335,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       },
     ],
   },
-  { chronoOrder: 150, recommendedOrder: 250, mediaType: 'Comic',
+  { chronoOrder: 140, recommendedOrder: 50, mediaType: 'Comic',
     title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Chain_of_Memories_(manga)', titleDate: { start: '2005-10-22', end: '2006-04-22' },
     mediaDesc: [
       [
@@ -358,10 +360,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 175, recommendedOrder: 275, mediaType: 'Book',
+  { chronoOrder: 150, recommendedOrder: 60, mediaType: 'Book',
     title: 'Kingdom Hearts Chain of Memories The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: { start: '2005-10-22', end: '2006-01-31' },
     mediaDesc: [
       [
@@ -393,10 +396,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 189, recommendedOrder: 999, mediaType: 'Game',
+  { chronoOrder: 160, recommendedOrder: 9000, mediaType: 'Game',
     title: 'Kingdom Hearts Magical Puzzle Clash', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Magical_Puzzle_Clash', titleDate: '2009-10-12',
     mediaDesc: [
       [
@@ -410,10 +414,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player', 'Terminated'], helpWanted: true,
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 190, recommendedOrder: 290, mediaType: 'Game',
+  { chronoOrder: 170, recommendedOrder: 70, mediaType: 'Game',
     title: 'Kingdom Hearts 358/2 Days', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days', titleDate: '2009-05-30',
     mediaDesc: [
       [
@@ -467,13 +472,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
             { text: ', ' },
             { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
             { text: ', ' },
+            { emText: 'Kingdom Hearts: The Story So Far' },
+            { text: ', ' },
             { emText: 'Kingdom Hearts Integrum Masterpiece' },
             { text: ', ' },
             { emText: 'Kingdom Hearts Collection [I～III]' },
-            { text: ', ' },
-            { emText: 'Kingdom Hearts: All-in-One Package' },
             { text: ', and ' },
-            { emText: 'Kingdom Hearts: The Story So Far' },
+            { emText: 'Kingdom Hearts: All-in-One Package' },
             { text: '.' },
           ],
         ],
@@ -496,7 +501,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       },
     ],
   },
-  { chronoOrder: 192, recommendedOrder: 292, mediaType: 'Comic',
+  { chronoOrder: 180, recommendedOrder: 80, mediaType: 'Comic',
     title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2010-06-22', end: '2012-09-22' },
     mediaDesc: [
       [
@@ -520,10 +525,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 194, recommendedOrder: 294, mediaType: 'Book',
+  { chronoOrder: 190, recommendedOrder: 90, mediaType: 'Book',
     title: 'Kingdom Hearts 358/2 Days: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2009-07-30', end: '2010-05-28' },
     mediaDesc: [
       [
@@ -555,10 +561,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 200, recommendedOrder: 300, mediaType: 'Game',
+  { chronoOrder: 200, recommendedOrder: 100, mediaType: 'Game',
     title: 'Kingdom Hearts II Final Mix', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', titleDate: '2007-03-29',
     mediaDesc: [
       [
@@ -582,13 +589,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: 'Released in the omnibus collections ' },
           { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
           { text: ', ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
           { emText: 'Kingdom Hearts Integrum Masterpiece' },
           { text: ', ' },
           { emText: 'Kingdom Hearts Collection [I～III]' },
-          { text: ', ' },
-          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: ', and ' },
-          { emText: 'Kingdom Hearts: The Story So Far' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: '.' },
         ],
       ],
@@ -648,7 +655,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 201, recommendedOrder: 999.5, mediaType: 'Game',
+  { chronoOrder: 210, recommendedOrder: 9010, mediaType: 'Game',
     title: 'Kingdom Hearts Digital Painter', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Digital_Painter', titleDate: '2012-01-07',
     mediaDesc: [
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
@@ -656,10 +663,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Draw', 'Free', 'Terminated'], helpWanted: true,
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 205, recommendedOrder: 305, mediaType: 'Comic',
+  { chronoOrder: 220, recommendedOrder: 110, mediaType: 'Comic',
     title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: { start: '2006-12-22', end: '2015-08-22' },
     mediaDesc: [
       [
@@ -682,10 +690,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 210, recommendedOrder: 310, mediaType: 'Book',
+  { chronoOrder: 230, recommendedOrder: 120, mediaType: 'Book',
     title: 'Kingdom Hearts II: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: { start: '2006-04-22', end: '2007-02-27' },
     mediaDesc: [
       [
@@ -730,10 +739,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 225, recommendedOrder: 325, mediaType: 'Game',
+  { chronoOrder: 240, recommendedOrder: 130, mediaType: 'Game',
     title: 'Kingdom Hearts Re:coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_Re:coded', titleDate: '2010-10-07',
     mediaDesc: [
       [
@@ -759,6 +769,8 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'nintendo-ds' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       versions: [
         {
@@ -789,13 +801,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
             { text: 'Released in the omnibus collections ' },
             { emText: 'Kingdom Hearts -HD 1.5+2.5 ReMIX-' },
             { text: ', ' },
+            { emText: 'Kingdom Hearts: The Story So Far' },
+            { text: ', ' },
             { emText: 'Kingdom Hearts Integrum Masterpiece' },
             { text: ', ' },
             { emText: 'Kingdom Hearts Collection [I～III]' },
-            { text: ', ' },
-            { emText: 'Kingdom Hearts: All-in-One Package' },
             { text: ', and ' },
-            { emText: 'Kingdom Hearts: The Story So Far' },
+            { emText: 'Kingdom Hearts: All-in-One Package' },
             { text: '.' },
           ],
         ],
@@ -827,7 +839,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       },
     ],
   },
-  { chronoOrder: 227, recommendedOrder: 327, mediaType: 'Game',
+  { chronoOrder: 250, recommendedOrder: 140, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
     mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames. The game is terminated.'],
     primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
@@ -837,7 +849,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 228, recommendedOrder: 999.6, mediaType: 'Game',
+  { chronoOrder: 260, recommendedOrder: 9020, mediaType: 'Game',
     title: 'Kingdom Hearts Re:coded Gummiship Studio', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Re:coded_Gummiship_Studio', titleDate: '2011-02-17',
     mediaDesc: [
       [
@@ -851,10 +863,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Terminated'], helpWanted: true,
       platforms: [
         { key: 'facebook', paren: 'Flash', terminated: true },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 230, recommendedOrder: 330, mediaType: 'Game',
+  { chronoOrder: 270, recommendedOrder: 150, mediaType: 'Game',
     title: 'Kingdom Hearts 3D: Dream Drop Distance', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: '2012-03-29',
     mediaDesc: [
       [
@@ -902,13 +915,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: 'Included in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
           { text: ', ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
           { emText: 'Kingdom Hearts Integrum Masterpiece' },
           { text: ', ' },
           { emText: 'Kingdom Hearts Collection [I～III]' },
-          { text: ', ' },
-          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: ', and ' },
-          { emText: 'Kingdom Hearts: The Story So Far' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
           { text: '.' },
         ],
       ],
@@ -927,7 +940,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 231, recommendedOrder: 331, mediaType: 'Book',
+  { chronoOrder: 280, recommendedOrder: 160, mediaType: 'Book',
     title: 'Kingdom Hearts 3D: Dream Drop Distance The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: { start: '2012-06-28', end: '2012-09-27' },
     mediaDesc: [
       [
@@ -961,27 +974,33 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: -55, recommendedOrder: 332, mediaType: 'Movie',
-    title: 'Kingdom Hearts χ Back Cover', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#Kingdom_Hearts_χ_Back_Cover', titleDate: '2017-01-12', id: 'kingdom-hearts-x-back-cover-2017',
+  { chronoOrder: 10, recommendedOrder: 170, mediaType: 'Movie',
+    title: 'Kingdom Hearts χ Back Cover', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_%CF%87_Back_Cover', titleDate: '2017-01-12', id: 'kingdom-hearts-x-back-cover-2017',
     mediaDesc: [
       [
         { text: 'Tells the story of the Foretellers, apprentices of the Master of Masters, who are driven apart by suspicion after one is revealed to be a traitor, in the era leading up to the Keyblade War depicted in ' },
         { emLinkText: 'χ (2013)', emLinkUrl: '#entry-KH-kingdom-hearts-x-2013' },
-        { text: '. Released as a bundled film in ' },
-        { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
-        { text: '. Included in the omnibus collections ' },
-        { emText: 'Kingdom Hearts Integrum Masterpiece' },
-        { text: ', ' },
-        { emText: 'Kingdom Hearts Collection [I～III]' },
-        { text: ', ' },
-        { emText: 'Kingdom Hearts: All-in-One Package' },
-        { text: ', and ' },
-        { emText: 'Kingdom Hearts: The Story So Far' },
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Prequel', 'Movie'], helpWanted: true,
+    primary: { tags: ['Optional', 'Prequel', 'Movie'],
       length: '1h',
+      versionDesc: [
+        [
+          { text: 'Released as a bundled film in ' },
+          { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
+          { text: '. Included in the omnibus collections ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Integrum Masterpiece' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Collection [I～III]' },
+          { text: ', and ' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
+          { text: '.' },
+        ],
+      ],
+      ratings: [{ key: 'tmdb-user', score: '76%', url: 'https://www.themoviedb.org/movie/538347' }],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -1002,11 +1021,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
+        { key: 'fan-movie', search: 'youtube', name: 'Unofficial', paren: 'Youtube' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 240, recommendedOrder: 335, mediaType: 'Game',
+  { chronoOrder: 80, recommendedOrder: 280, mediaType: 'Game',
     title: 'Kingdom Hearts 0.2 Birth by Sleep – A fragmentary passage –', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#Kingdom_Hearts_0.2:_Birth_by_Sleep_-A_fragmentary_passage-', titleDate: '2017-01-12', id: 'kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017',
     mediaDesc: [
       [
@@ -1041,28 +1062,36 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA35909_00-KHHD28RMX0000000' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9p9669spd8sf' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 250, recommendedOrder: 340, mediaType: 'Game',
+  { chronoOrder: 290, recommendedOrder: 180, mediaType: 'Game',
     title: 'Kingdom Hearts III', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_III', titleDate: '2019-01-25',
     mediaDesc: [
       [
-        { text: 'Bundled with its ' },
-        { emLinkText: 'Re Mind (2020)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-re-mind-2020' },
-        { text: ' DLC as ' },
-        { emText: 'Kingdom Hearts III + Re Mind (DLC)' },
-        { text: '. Included in the omnibus collections ' },
-        { emText: 'Kingdom Hearts Integrum Masterpiece' },
-        { text: ', ' },
-        { emText: 'Kingdom Hearts Collection [I～III]' },
-        { text: ', and ' },
-        { emText: 'Kingdom Hearts: All-in-One Package' },
-        { text: '.' },
+        { text: "Set after the events of Dream Drop Distance (2012), Sora is joined by his friends in their search for seven guardians of light as they attempt to thwart Xehanort's plan to bring about a second Keyblade War." },
       ],
     ],
     primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
       length: [{ value: '29h', tip: 'Main Story' }, { value: '40h', tip: 'Main + Sides' }, { value: '64½h', tip: 'Completionist' }],
+      versionDesc: [
+        [
+          { text: 'Bundled with its ' },
+          { emLinkText: 'Re Mind (2020)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-re-mind-2020' },
+          { text: ' DLC as ' },
+          { emText: 'Kingdom Hearts III + Re Mind (DLC)' },
+          { text: '. Included in the omnibus collections ' },
+          { emText: 'Kingdom Hearts Integrum Masterpiece' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Collection [I～III]' },
+          { text: ', and ' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
+          { text: '.' },
+        ],
+      ],
       ratings: [{ key: 'metacritic', score: '83', url: 'https://www.metacritic.com/game/kingdom-hearts-iii/' }, { key: 'metacritic-user', score: '7.9', url: 'https://www.metacritic.com/game/kingdom-hearts-iii/' }],
       languages: [
         { value: 'JA', native: true, voice: true },
@@ -1087,11 +1116,14 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts/c08mw8xhqn9g' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 251, recommendedOrder: 341, mediaType: 'Game',
+  { chronoOrder: 300, recommendedOrder: 190, mediaType: 'Game',
     title: 'Kingdom Hearts III Re Mind', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_III#Kingdom_Hearts_III_Re_Mind', titleDate: '2020-01-23',
     mediaDesc: [
       [
@@ -1116,10 +1148,12 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
+        { value: 'EN-GB', voice: true },
         { value: 'FR', textOnly: true },
         { value: 'IT', textOnly: true },
         { value: 'DE', textOnly: true },
         { value: 'ES-ES', textOnly: true },
+        { value: 'ES-419', textOnly: true },
         { value: 'KO', textOnly: true },
         { value: 'ZH-TW', textOnly: true },
       ],
@@ -1134,17 +1168,43 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-re-mind/9p5b4ktphjjv' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 252, recommendedOrder: 341.5, mediaType: 'Book',
-    title: 'Kingdom Hearts III: The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)', titleDate: { start: '2020-02-18', end: '2021-01-19' },
+  { chronoOrder: 305, recommendedOrder: 195, mediaType: 'Comic',
+    title: 'Kingdom Hearts III ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_III_(manga)', titleDate: { start: '2020-04-11', end: '2026-08-04' },
+    mediaDesc: [
+      [
+        { text: 'Manga adaptation of ' },
+        { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
+        { text: '.' },
+      ],
+    ],
+    primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }], helpWanted: true,
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Manga' },
+        { key: 'fan-recap', search: 'youtube' },
+      ],
+    },
+  },
+  { chronoOrder: 310, recommendedOrder: 200, mediaType: 'Book',
+    title: 'Kingdom Hearts III: The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_III', titleDate: { start: '2019-03-28', end: '2020-05-28' },
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
-        { text: ' and ' },
+        { text: ', ' },
+        { emLinkText: '0.2 Birth by Sleep -A fragmentary passage- (2017)', emLinkUrl: '#entry-KH-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017' },
+        { text: ', and ' },
         { emLinkText: 'Re Mind (2020)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-re-mind-2020' },
         { text: ' in three volumes: ' },
         { emText: 'Re:Start!!' },
@@ -1164,16 +1224,18 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
           { text: '.' },
         ],
       ],
+      ratings: [{ key: 'goodreads', score: '3.96', url: 'https://www.goodreads.com/book/show/52223197' }],
       languages: [
-        { value: 'EN', url: 'https://www.google.com/books/edition/Kingdom_Hearts_III_The_Novel_Vol_1_light/5p_ODwAAQBAJ' },
-        { value: '…?' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50049764-iii-vol-2-new-seven-hearts' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/52223197' },
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 255, recommendedOrder: 342, mediaType: 'Game',
+  { chronoOrder: 320, recommendedOrder: 210, mediaType: 'Game',
     title: 'Kingdom Hearts IV', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_IV', titleDate: { start: '2027 late', tba: true }, id: 'kingdom-hearts-iv-2027',
     mediaDesc: [
       [
@@ -1189,10 +1251,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
         { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
         { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-iv-switch-2/' },
+        { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
       ],
     },
   },
-  { chronoOrder: 260, recommendedOrder: 345, mediaType: 'Game',
+  { chronoOrder: 330, recommendedOrder: 230, mediaType: 'Game',
     title: 'Kingdom Hearts: Melody of Memory', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Melody_of_Memory', titleDate: '2020-11-11',
     mediaDesc: [
       [
@@ -1222,10 +1287,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'windows' },
         { key: 'xbox-xs', paren: 'Digital; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-melody-of-memory-international/9n3sdl8mwh6k' },
         { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-melody-of-memory-international/9n3sdl8mwh6k' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -50, recommendedOrder: 349, mediaType: 'Game',
+  { chronoOrder: 20, recommendedOrder: 240, mediaType: 'Game',
     title: 'Kingdom Hearts χ', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87', titleDate: '2013-07-18', id: 'kingdom-hearts-x-2013',
     mediaDesc: [
       [
@@ -1239,10 +1307,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     primary: { tags: ['Prequel', 'RPG', 'Single-player', 'Multiplayer', 'Terminated'], helpWanted: true,
       platforms: [
         { key: 'globe', paren: 'Unofficial Fan port' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -45, recommendedOrder: 349.5, mediaType: 'Game',
+  { chronoOrder: 30, recommendedOrder: 250, mediaType: 'Game',
     title: 'Kingdom Hearts Unchained χ', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87', titleDate: '2015-09', id: 'kingdom-hearts-unchained-x-2015',
     mediaDesc: [
       [
@@ -1262,10 +1333,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'android2', terminated: true },
         { key: 'apple', terminated: true },
         { key: 'amazon', terminated: true },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -44, recommendedOrder: 999.7, mediaType: 'Game',
+  { chronoOrder: 40, recommendedOrder: 9030, mediaType: 'Game',
     title: 'Kingdom Hearts Collaboration: Gummi Ship Campaign', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Collaboration:_Gummi_Ship_Campaign', titleDate: '2018-02-10',
     mediaDesc: [
       [
@@ -1282,10 +1356,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       platforms: [
         { key: 'mobile-phone', terminated: true },
         { key: 'globe', terminated: true },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -40, recommendedOrder: 343, mediaType: 'Game',
+  { chronoOrder: 50, recommendedOrder: 220, mediaType: 'Game',
     title: 'Kingdom Hearts Dark Road', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Dark_Road', titleDate: '2020-06-22', id: 'kingdom-hearts-dark-road-2020',
     mediaDesc: [
       [
@@ -1302,10 +1377,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       platforms: [
         { key: 'android2', terminated: true },
         { key: 'apple', terminated: true },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -25, recommendedOrder: 350, mediaType: 'Game',
+  { chronoOrder: 60, recommendedOrder: 260, mediaType: 'Game',
     title: 'Kingdom Hearts Birth by Sleep', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep', titleDate: '2010-01-09',
     mediaDesc: [
       [
@@ -1319,10 +1397,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ratings: [{ key: 'metacritic', score: '82', url: 'https://www.metacritic.com/game/kingdom-hearts-birth-by-sleep/' }, { key: 'metacritic-user', score: '8.2', url: 'https://www.metacritic.com/game/kingdom-hearts-birth-by-sleep/' }],
       platforms: [
         { key: 'playstation-portable', paren: 'Physical' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: -24, recommendedOrder: 351, mediaType: 'Book',
+  { chronoOrder: 70, recommendedOrder: 270, mediaType: 'Book',
     title: 'Kingdom Hearts Birth by Sleep ~YA Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep', titleDate: { start: '2010-12-24', end: '2011-05-26' },
     mediaDesc: [
       [
@@ -1346,10 +1427,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 60, recommendedOrder: 360, mediaType: 'Game',
+  { chronoOrder: 120, recommendedOrder: 290, mediaType: 'Game',
     title: 'Kingdom Hearts ~V CAST Mobile~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts#Other_games', titleDate: '2005-02-01',
     mediaDesc: [
       [
@@ -1362,10 +1444,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       length: '4h',
       platforms: [
         { key: 'mobile-phone', terminated: true },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { chronoOrder: 255, recommendedOrder: 380, mediaType: 'Game',
+  { chronoOrder: 320, recommendedOrder: 300, mediaType: 'Game',
     title: 'Kingdom Hearts VR Experience', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts#Other_games', titleDate: 2019,
     mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games.'],
     primary: { tags: ['Optional', 'VR', 'Interactive Video', 'Free'],
@@ -1373,10 +1458,13 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ratings: [{ key: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/kingdom-hearts-vr-experience/' }],
       platforms: [
         { key: 'playstation-vr', paren: 'PS4', url: 'https://store.playstation.com/product/UP0082-CUSA15095_00-KINGDOMHEARTSVRX' },
+        { key: 'fan-movie', search: 'youtube' },
+        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
   },
-  { mediaType: 'Game', chronoOrder: 1000, recommendedOrder: 1000,
+  { mediaType: 'Game', chronoOrder: 100000, recommendedOrder: 100000,
     title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: 2026, ongoing: true },
     mediaDesc: [
       [
