@@ -19,11 +19,17 @@
 - [Kingdom Hearts: The Story So Far](https://howlongtobeat.com/game/61563) -- length -- accessed 2026-09-26
 - [Kingdom Hearts: All-in-One Package](https://howlongtobeat.com/game/96276) -- length -- accessed 2026-09-26
 
+## imdb.com (Ratings)
+
+- https://www.imdb.com/find/?q=Kingdom+Hearts+%CF%87+Back+Cover -- no IMDb entry for this movie as of 2026-10-02 (only the Kingdom Hearts χ (2013) video game has one)
+
 ## khwiki.com (Information)
 
 - https://www.khwiki.com/Kingdom_Hearts_%CF%87_Back_Cover -- accessed 2026-09-26
 
 ## metacritic.com (Ratings)
+
+- https://www.metacritic.com/search/kingdom-hearts-x-back-cover/ -- no Metacritic entry for this movie as of 2026-10-02 (only Kingdom Hearts Unchained χ has one; neither χ (2013) nor this movie does)
 
 ### Omnibus
 
@@ -55,6 +61,14 @@
 
 - https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/ -- platform, languages* -- accessed 2026-09-25
 - [Kingdom Hearts Integrum Masterpiece](https://store.steampowered.com/sub/1000794/) -- platform -- accessed 2026-09-25
+
+## themoviedb.org (Ratings)
+
+- https://www.themoviedb.org/movie/538347 -- ratings* -- accessed 2026-10-02
+
+## thetvdb.com (Information)
+
+- https://thetvdb.com/movies/kingdom-hearts-x-back-cover -- accessed 2026-10-02
 
 ## Windows (Platform)
 
