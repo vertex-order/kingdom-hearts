@@ -1502,7 +1502,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 70, recommendedOrder: 270, mediaType: 'Book',
-    title: 'Kingdom Hearts Birth by Sleep ~YA Novel~', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep', titleDate: { start: '2010-12-24', end: '2011-05-26' },
+    title: 'Kingdom Hearts Birth by Sleep The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep', titleDate: { start: '2010-12-24', end: '2011-05-26' },
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
@@ -1518,9 +1518,10 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     ],
     primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      ratings: [{ key: 'goodreads', score: '4.07', url: 'https://www.goodreads.com/book/show/41825380' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757531116' },
-        { value: 'EN', url: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Birth_by_Sleep' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/10254587-kingdom-hearts-birth-by-sleep-1' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/41825380' },
         { value: '…?' },
       ],
       platforms: [
