@@ -908,7 +908,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'fan-recap', search: 'youtube', searchTitle: 'Kingdom Hearts Dream Drop Distance HD' },
         { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Kingdom Hearts Dream Drop Distance HD' },
       ],
-      profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/en-us/',
+      profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
       versionDesc: [
         [
           { text: 'This remaster includes high-definition graphics, reworked minigames into a card-based system, and achievement support. Enemies were changed to be less offensive. The 3DS dual-screen and touchscreen design was modified for single screen and traditional controller. Released as ' },
@@ -1035,17 +1035,32 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     title: 'Kingdom Hearts 0.2 Birth by Sleep – A fragmentary passage –', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#Kingdom_Hearts_0.2:_Birth_by_Sleep_-A_fragmentary_passage-', titleDate: '2017-01-12', id: 'kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017',
     mediaDesc: [
       [
-        { text: 'Depicts events both leading into ' },
+        { text: 'Considered a sequel to ' },
+        { emLinkText: 'Birth by Sleep (2011)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-final-mix-2011' },
+        { text: ', depicts events both leading into ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-KH-kingdom-hearts-iii-2019' },
         { text: ' and intersecting with the ending of the original ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
-        { text: '. Included in the omnibus collection ' },
-        { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
         { text: '.' },
       ],
     ],
     primary: { tags: ['Sequel', 'Action RPG', 'Single-player'],
       length: [{ value: '2½h', tip: 'Main Story' }, { value: '3½h', tip: 'Main + Sides' }, { value: '11h', tip: 'Completionist' }],
+      versionDesc: [
+        [
+          { text: 'Included in the omnibus collections ' },
+          { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts: The Story So Far' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Integrum Masterpiece' },
+          { text: ', ' },
+          { emText: 'Kingdom Hearts Collection [I～III]' },
+          { text: ', and ' },
+          { emText: 'Kingdom Hearts: All-in-One Package' },
+          { text: '.' },
+        ],
+      ],
       languages: [
         { value: 'JA', native: true, voice: true },
         { value: 'EN-US', voice: true },
@@ -1070,6 +1085,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
+      profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
   { chronoOrder: 290, recommendedOrder: 180, mediaType: 'Game',
