@@ -760,7 +760,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       versionDesc: [
         [
           { text: 'A remake of the original mobile release, overhauling its battles into an action-based combat system borrowing from ' },
-          { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-2010' },
+          { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-final-mix-2011-x-kingdom-hearts-birth-by-sleep-2010' },
           { text: ', with new scenes and a new voice cast for Jiminy Cricket.' },
         ],
       ],
@@ -1522,7 +1522,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-2010' },
+        { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-birth-by-sleep-final-mix-2011-x-kingdom-hearts-birth-by-sleep-2010' },
         { text: ' in three volumes: ' },
         { emText: 'Something Strange' },
         { text: ', ' },
