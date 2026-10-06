@@ -1547,7 +1547,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 120, recommendedOrder: 290, mediaType: 'Game',
-    title: 'Kingdom Hearts ~V CAST Mobile~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts#Other_games', titleDate: '2005-02-01',
+    title: 'Kingdom Hearts ~V CAST~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(V_CAST)', titleDate: '2005-02-01',
     mediaDesc: [
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
@@ -1555,13 +1555,14 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { text: ' game, modified for the input method of mobile phones. The game is terminated.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Alternate Universe'], helpWanted: true,
+    primary: { tags: ['Optional', 'Alternate Universe', 'Terminated'], helpWanted: true,
       length: '4h',
+      languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
-        { key: 'mobile-phone', terminated: true },
-        { key: 'fan-movie', search: 'youtube' },
-        { key: 'fan-recap', search: 'youtube' },
-        { key: 'fan-playthrough', search: 'youtube' },
+        { key: 'mobile-phone', paren: 'Verizon Wireless V CAST', terminated: true },
+        { key: 'fan-movie', search: 'youtube', searchTitle: 'Kingdom Hearts V CAST', noResults: true },
+        { key: 'fan-recap', search: 'youtube', searchTitle: 'Kingdom Hearts V CAST', searchSuffix: 'recap' },
+        { key: 'fan-playthrough', search: 'youtube', searchTitle: 'Kingdom Hearts V CAST' },
       ],
     },
   },
