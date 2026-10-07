@@ -115,7 +115,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'Kingdom Hearts Final Mix (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
         { text: '.' },
       ],
     ],
@@ -400,7 +400,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 160, recommendedOrder: 9000, mediaType: 'Game',
+  { chronoOrder: 195, recommendedOrder: 9000, mediaType: 'Game',
     title: 'Kingdom Hearts Magical Puzzle Clash', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Magical_Puzzle_Clash', titleDate: '2009-10-12',
     mediaDesc: [
       [
@@ -534,7 +534,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     title: 'Kingdom Hearts 358/2 Days: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2009-07-30', end: '2010-05-28' },
     mediaDesc: [
       [
-        { text: 'Novelization of ' },
+        { text: 'YA Novelization of ' },
         { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-KH-kingdom-hearts-358-2-days-2009' },
         { text: ' in three volumes: ' },
         { emText: 'The 14th' },
@@ -658,7 +658,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 210, recommendedOrder: 9010, mediaType: 'Game',
+  { chronoOrder: 265, recommendedOrder: 9010, mediaType: 'Game',
     title: 'Kingdom Hearts Digital Painter', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Digital_Painter', titleDate: '2012-01-07',
     mediaDesc: [
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
@@ -845,7 +845,30 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       },
     ],
   },
-  { chronoOrder: 250, recommendedOrder: 140, mediaType: 'Game',
+  { chronoOrder: 245, recommendedOrder: 135, mediaType: 'Book',
+    title: 'Kingdom Hearts Re:coded The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Re:coded', titleDate: '2011-07-28',
+    mediaDesc: [
+      [
+        { text: 'YA Novelization of ' },
+        { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-KH-kingdom-hearts-re-coded-2010' },
+        { text: '.' },
+      ],
+    ],
+    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: '210p; P',
+      subtitle: 'Book',
+      ratings: [{ key: 'goodreads', score: '3.70', url: 'https://www.goodreads.com/book/show/43886678' }],
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/85708474-re' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/43886678' },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
+      ],
+    },
+  },
+  { chronoOrder: 165, recommendedOrder: 9040, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
     mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames. The game is terminated.'],
     primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
@@ -981,7 +1004,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 10, recommendedOrder: 170, mediaType: 'Movie',
+  { chronoOrder: 35, recommendedOrder: 252, mediaType: 'Movie',
     title: 'Kingdom Hearts χ Back Cover', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_%CF%87_Back_Cover', titleDate: '2017-01-12', id: 'kingdom-hearts-x-back-cover-2017',
     mediaDesc: [
       [
@@ -1095,7 +1118,9 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     title: 'Kingdom Hearts III', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_III', titleDate: '2019-01-25',
     mediaDesc: [
       [
-        { text: "Set after the events of Dream Drop Distance (2012), Sora is joined by his friends in their search for seven guardians of light as they attempt to thwart Xehanort's plan to bring about a second Keyblade War." },
+        { text: 'Set after the events of ' },
+        { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-KH-kingdom-hearts-3d-dream-drop-distance-2012' },
+        { text: ", Sora is joined by his friends in their search for seven guardians of light as they attempt to thwart Xehanort's plan to bring about a second Keyblade War." },
       ],
     ],
     primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
@@ -1265,7 +1290,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 315, recommendedOrder: 205, mediaType: 'Game',
+  { chronoOrder: 315, recommendedOrder: 305, mediaType: 'Game',
     title: 'Kingdom Hearts: Melody of Memory', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Melody_of_Memory', titleDate: '2020-11-11',
     mediaDesc: [
       [
@@ -1359,6 +1384,38 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
+  { chronoOrder: 32, recommendedOrder: 251, mediaType: 'Book',
+    title: 'Kingdom Hearts χ The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_.CF.87', titleDate: '2019-01-25', id: 'kingdom-hearts-x-the-novel-2019',
+    mediaDesc: [
+      [
+        { text: 'YA Novelization of ' },
+        { emLinkText: 'χ (2013)', emLinkUrl: '#entry-KH-kingdom-hearts-x-2013' },
+        { text: ' and the beginning of ' },
+        { emLinkText: 'Unchained χ (2015)', emLinkUrl: '#entry-KH-kingdom-hearts-unchained-x-2015' },
+        { text: '.' },
+      ],
+    ],
+    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: '162p; P',
+      subtitle: 'Book',
+      versionDesc: [
+        [
+          { text: 'Released as ' },
+          { emText: 'Kingdom Hearts X: Your Keyblade, Your Story The Novel' },
+          { text: '.' },
+        ],
+      ],
+      ratings: [{ key: 'goodreads', score: '3.46', url: 'https://www.goodreads.com/book/show/46260393' }],
+      languages: [
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/43899620' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/46260393' },
+        { value: '…?' },
+      ],
+      platforms: [
+        { key: 'book', name: 'YA Novel' },
+        { key: 'fan-recap', search: 'youtube' },
+      ],
+    },
+  },
   { chronoOrder: 30, recommendedOrder: 250, mediaType: 'Game',
     title: 'Kingdom Hearts Unchained χ', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87', titleDate: '2015-09', id: 'kingdom-hearts-unchained-x-2015',
     mediaDesc: [
@@ -1389,7 +1446,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     title: 'Kingdom Hearts Collaboration: Gummi Ship Campaign', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Collaboration:_Gummi_Ship_Campaign', titleDate: '2018-02-10',
     mediaDesc: [
       [
-        { text: 'Based on the Gummi Shop mini-game from ' },
+        { text: 'Based on the Gummi Ship mini-game from ' },
         { emLinkText: 'II (2005)', emLinkUrl: '#entry-KH-kingdom-hearts-ii-final-mix-2007' },
         { text: ', meant to promote ' },
         { emLinkText: 'Union χ [Cross]', emLinkUrl: '#entry-KH-kingdom-hearts-unchained-x-2015' },
@@ -1407,7 +1464,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 50, recommendedOrder: 220, mediaType: 'Game',
+  { chronoOrder: 50, recommendedOrder: 255, mediaType: 'Game',
     title: 'Kingdom Hearts Dark Road', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Dark_Road', titleDate: '2020-06-22', id: 'kingdom-hearts-dark-road-2020',
     mediaDesc: [
       [
@@ -1439,7 +1496,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
         { text: ', follows the journeys of Ventus, Terra, and Aqua, in their quest to locate the missing Master Xehanort and protect the worlds from creatures known as the Unversed.' },
       ],
     ],
-    primary: { tags: ['Prequel', 'Action RPG', 'Single-player', 'Multi-player', 'Co-op'],
+    primary: { tags: ['Prequel', 'Action RPG', 'Single-player', 'Multiplayer', 'Co-op'],
       length: [{ value: '25½h', tip: 'Main Story' }, { value: '36½h', tip: 'Main + Sides' }, { value: '96½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '82', url: 'https://www.metacritic.com/game/kingdom-hearts-birth-by-sleep/' }, { key: 'metacritic-user', score: '8.2', url: 'https://www.metacritic.com/game/kingdom-hearts-birth-by-sleep/' }],
       subtitle: 'Remaster', subtitleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.5_Remix#Kingdom_Hearts_Birth_by_Sleep_Final_Mix', subtitleDate: '2014-10-02',
@@ -1570,7 +1627,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     },
   },
-  { chronoOrder: 320, recommendedOrder: 300, mediaType: 'Game',
+  { chronoOrder: 312, recommendedOrder: 300, mediaType: 'Game',
     title: 'Kingdom Hearts VR Experience', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_VR_Experience', titleDate: '2019-01-23',
     mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games. No new story is introduced.'],
     primary: { tags: ['Optional', 'VR', 'Interactive Video', 'Free'],

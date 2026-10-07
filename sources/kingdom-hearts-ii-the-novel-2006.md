@@ -54,6 +54,21 @@ Collection: "Tears of Nobody" + "Anthem—Meet Again/Axel Last Stand" -- ISBN 97
 Collection: "Tears of Nobody" + "Anthem—Meet Again/Axel Last Stand" -- ASIN B0DM2BK5WY (no ISBN), English, Yen Press, December 19, 2017, 213pp, Nook -- another ebook re-edition, same date as the Kindle edition above -- found via goodreads
 - goodreads: https://www.goodreads.com/book/show/41104068-kingdom-hearts-ii-2 -- accessed 2026-09-29
 
+Roxas—Somewhere in Time -- ASIN B0DTSQRF83 (no ISBN), format "Unknown Binding" -- standalone short story, per goodreads; no language, publisher, date, or page count given
+- goodreads: https://www.goodreads.com/book/show/20942810-roxas---somewhere-in-time -- accessed 2026-10-07
+
+Axel—Seven Days -- ISBN 9784757522558 (ISBN10: 475752255X), Japanese, Square Enix, 2008, 207pp, Paperback -- short story volume; goodreads date January 1, 2008 (likely year-only)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757522558
+- goodreads: https://www.goodreads.com/book/show/36380935-axel---seven-days -- accessed 2026-10-07
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757522558
+- open library: https://openlibrary.org/search?isbn=9784757522558
+
+Other Diamonds (Short Stories Vol. 1) -- ISBN 9784757521520 (ISBN10: 4757521529), Japanese, Square Enix, 2007, 222pp, Tankobon Softcover -- short story volume; goodreads date January 1, 2007 (likely year-only)
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757521520
+- goodreads: https://www.goodreads.com/book/show/49241342-ii-short-stories-vol-1-other-diamonds -- accessed 2026-10-07
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9784757521520
+- open library: https://openlibrary.org/search?isbn=9784757521520
+
 Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN10: 1975333322), English, Yen On, Paperback, 1232pp, December 21, 2021 -- omnibus of all six mainline YA novels (Kingdom Hearts, Chain of Memories, this one, 358/2 Days, Dream Drop Distance, Kingdom Hearts III) -- collector's edition, not used for this entry's `languages`/`ratings` links
 - goodreads: https://www.goodreads.com/book/show/58684710 -- accessed 2026-09-29
 
@@ -88,6 +103,9 @@ Editions (ISBN) label each link belongs to, since several share a near-identical
 - [Tears+Anthem collection, EN Kindle Edition (ISBN 9780316411806)](https://www.goodreads.com/book/show/37575907-kingdom-hearts-ii-2) -- accessed 2026-09-29
 - [Tears+Anthem collection, EN Nook (ASIN B0DM2BK5WY, no ISBN)](https://www.goodreads.com/book/show/41104068-kingdom-hearts-ii-2) -- accessed 2026-09-29
 - [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
+- [Roxas—Somewhere in Time (ASIN B0DTSQRF83, no ISBN)](https://www.goodreads.com/book/show/20942810-roxas---somewhere-in-time) -- accessed 2026-10-07
+- [Axel—Seven Days, JA Paperback (ISBN 9784757522558)](https://www.goodreads.com/book/show/36380935-axel---seven-days) -- accessed 2026-10-07
+- [Other Diamonds, JA Tankobon Softcover (ISBN 9784757521520)](https://www.goodreads.com/book/show/49241342-ii-short-stories-vol-1-other-diamonds) -- accessed 2026-10-07
 
 ## Decisions
 

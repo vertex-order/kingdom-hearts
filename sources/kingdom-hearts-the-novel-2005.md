@@ -21,6 +21,24 @@ Darkness Within -- ISBN 9784757514959 (ISBN10: 4757514956), Japanese, Square Eni
 - goodreads: https://www.goodreads.com/book/show/21419648-kingdom-hearts-2 -- accessed 2026-09-29
 - google books: https://www.google.com/books/edition/_/0RdAPQAACAAJ -- accessed 2026-09-29
 
+The First Door -- ISBN 9781423103950 (ISBN10: 1423103955), English, Disney Press, August 5, 2008, Paperback -- individual EN volume (pre-dates the Yen Press omnibus), goodreads original title "Kingdom Hearts: The First Door - #1"; no page count given
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781423103950
+- goodreads: https://www.goodreads.com/book/show/231918.The_First_Door -- accessed 2026-10-07
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9781423103950
+- open library: https://openlibrary.org/search?isbn=9781423103950
+
+Darkness Within -- ISBN 9781423103967 (ISBN10: 1423103963), English, Disney Press, August 5, 2008, Paperback -- individual EN volume, goodreads original title "Kingdom Hearts: Darkness Within - #2"; no page count given
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781423103967
+- goodreads: https://www.goodreads.com/book/show/231919.Darkness_Within -- accessed 2026-10-07
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9781423103967
+- open library: https://openlibrary.org/search?isbn=9781423103967
+
+Darkness Within -- ISBN 9781417790906 (ISBN10: 1417790903), English, Topeka Bindery, August 1, 2008, Hardcover -- library-binding re-edition of the Disney Press paperback above
+- wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9781417790906
+- goodreads: https://www.goodreads.com/book/show/11172944-darkness-within -- accessed 2026-10-07
+- google books: https://www.google.com/search?tbm=bks&q=isbn:9781417790906
+- open library: https://openlibrary.org/search?isbn=9781417790906
+
 Collection: "The First Door" + "Darkness Within" -- ISBN 9780316260190 (ISBN10: 0316260193), English, Yen Press, Paperback, 276pp -- single EN omnibus of both JP novels above (same ISBN listed for both on Wikipedia's table, not a duplication error) -- goodreads gives April 7, 2015 vs. March 24 elsewhere; google books says 288pp vs. goodreads' 276pp
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9780316260190
 - goodreads: https://www.goodreads.com/book/show/23197294-kingdom-hearts -- accessed 2026-09-29
@@ -61,6 +79,9 @@ Editions (ISBN) label each link belongs to, since several share a near-identical
 - [Le roman T01, FR Paperback (ISBN 9782811615420)](https://www.goodreads.com/book/show/33092765-kingdom-hearts-le-roman-t01) -- accessed 2026-09-29
 - [Le roman T02, FR Paperback (ISBN 9782811615581)](https://www.goodreads.com/book/show/33092768-kingdom-hearts-le-roman-t02-kingdom-hearts-le-roman) -- accessed 2026-09-29
 - [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
+- [The First Door, EN Paperback (ISBN 9781423103950)](https://www.goodreads.com/book/show/231918.The_First_Door) -- accessed 2026-10-07
+- [Darkness Within, EN Paperback (ISBN 9781423103967)](https://www.goodreads.com/book/show/231919.Darkness_Within) -- accessed 2026-10-07
+- [Darkness Within, EN Hardcover (ISBN 9781417790906)](https://www.goodreads.com/book/show/11172944-darkness-within) -- accessed 2026-10-07
 
 khwiki.com (Information)
 - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts -- novels*, dates* -- accessed 2026-09-28
