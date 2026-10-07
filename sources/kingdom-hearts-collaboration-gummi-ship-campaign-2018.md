@@ -8,6 +8,6 @@
 
 ## khwiki.com (Information)
 
-- https://www.khwiki.com/Kingdom_Hearts_Collaboration:_Gummi_Ship_Campaign -- dates*, platforms*, tags*, story* -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_Collaboration:_Gummi_Ship_Campaign -- dates*, platforms*, tags*, story*, languages* -- accessed 2026-10-07
 
 ## Decisions

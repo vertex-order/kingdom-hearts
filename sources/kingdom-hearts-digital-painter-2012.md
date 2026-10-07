@@ -8,6 +8,6 @@
 
 ## khwiki.com (Information)
 
-- https://www.khwiki.com/Kingdom_Hearts_Digital_Painter -- dates*, platforms*, tags*, story* -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_Digital_Painter -- dates*, platforms*, tags*, story*, languages* -- accessed 2026-10-07
 
 ## Decisions

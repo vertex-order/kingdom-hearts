@@ -412,6 +412,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     ],
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player', 'Terminated'], helpWanted: true,
+      languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -663,6 +664,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
     ],
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Draw', 'Free', 'Terminated'], helpWanted: true,
+      languages: [{ value: 'EN', native: true }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -865,6 +867,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     ],
     primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Terminated'], helpWanted: true,
+      languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'facebook', paren: 'Flash', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -1396,6 +1399,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
       ],
     ],
     primary: { tags: ['Optional', 'Tie-in', 'Minigame', "Shoot 'em up", 'Terminated'], helpWanted: true,
+      languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'mobile-phone', terminated: true },
         { key: 'globe', terminated: true },
@@ -1567,15 +1571,15 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 1075, recommendedOrder: 17
     },
   },
   { chronoOrder: 320, recommendedOrder: 300, mediaType: 'Game',
-    title: 'Kingdom Hearts VR Experience', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts#Other_games', titleDate: 2019,
-    mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games.'],
+    title: 'Kingdom Hearts VR Experience', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_VR_Experience', titleDate: '2019-01-23',
+    mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games. No new story is introduced.'],
     primary: { tags: ['Optional', 'VR', 'Interactive Video', 'Free'],
       length: [{ value: '25m', tip: 'Main Story' }, { value: '45m', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/kingdom-hearts-vr-experience/' }],
+      languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+      helpWanted: true,
       platforms: [
         { key: 'playstation-vr', paren: 'PS4', url: 'https://store.playstation.com/product/UP0082-CUSA15095_00-KINGDOMHEARTSVRX' },
-        { key: 'fan-movie', search: 'youtube' },
-        { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },
