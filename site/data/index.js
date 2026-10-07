@@ -3,7 +3,17 @@
 // module/import and fetch on file://, but plain <script src> tags still work.
 // schema: index.schema.json
 var GROUP_ORDER = [
-  "KH"
+  "KH",
+  "CoM",
+  "II",
+  "Days",
+  "coded",
+  "BBS",
+  "DDD",
+  "X",
+  "III",
+  "IV",
+  "Other"
 ];
 
 // Each group-*.js assigns its object here as `window.__khGroupReg['<slug>'] = {...}`.

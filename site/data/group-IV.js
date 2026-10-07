@@ -1,0 +1,41 @@
+// schema: group.schema.json
+window.__khGroupReg['IV'] = { num: 'IV', chronoOrder: 320, recommendedOrder: 210, title: 'Kingdom Hearts IV', media: [
+  { chronoOrder: 320, recommendedOrder: 210, mediaType: 'Game',
+    title: 'Kingdom Hearts IV', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_IV', titleDate: { start: '2027 late', tba: true }, id: 'kingdom-hearts-iv-2027',
+    mediaDesc: [
+      [
+        { text: 'Picking up after ' },
+        { emLinkText: 'Re Mind (2020)', emLinkUrl: '#entry-III-kingdom-hearts-iii-re-mind-2020' },
+        { text: ' and ' },
+        { emLinkText: 'Melody of Memory (2020)', emLinkUrl: '#entry-Other-kingdom-hearts-melody-of-memory-2020' },
+        { text: ', Sora wakes up trapped in Quadratum, a realistic city world, while Donald and Goofy search the Underworld for clues to his whereabouts.' },
+      ],
+    ],
+    primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
+      ratings: [{ key: 'tbd', url: 'https://www.metacritic.com/game/kingdom-hearts-iv/' }],
+      languages: [
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN-US', voice: true },
+        { value: 'FR', textOnly: true },
+        { value: 'IT', textOnly: true },
+        { value: 'DE', textOnly: true },
+        { value: 'ES-ES', textOnly: true },
+        { value: 'ES-419', textOnly: true },
+        { value: 'PT-BR', textOnly: true },
+        { value: 'ZH-CN', textOnly: true },
+        { value: 'ZH-TW', textOnly: true },
+        { value: 'KO', textOnly: true },
+      ],
+      platforms: [
+        { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/concept/10005013' },
+        { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
+        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/3216600/KINGDOM_HEARTS_IV/' },
+        { key: 'xbox-xs', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-iv/9p8lnz7x5gvp' },
+        { key: 'nintendo-switch-2', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-iv-switch-2/' },
+        { key: 'fan-movie', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-recap', paren: 'Youtube', search: 'youtube', noResults: true },
+        { key: 'fan-playthrough', paren: 'Youtube', search: 'youtube', noResults: true },
+      ],
+    },
+  },
+]};
