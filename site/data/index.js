@@ -3,7 +3,7 @@
 // module/import and fetch on file://, but plain <script src> tags still work.
 // schema: index.schema.json
 var GROUP_ORDER = [
-  "KH",
+  "I",
   "CoM",
   "II",
   "Days",

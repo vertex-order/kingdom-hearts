@@ -103,7 +103,8 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', search: 'youtube' },
+        { key: 'fan-recap', name: 'Fan story recap video of Dream Drop Distance (2012)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Dream Drop Distance HD' },
       ],
     },
   },

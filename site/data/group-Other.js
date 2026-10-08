@@ -1,11 +1,11 @@
 // schema: group.schema.json
-window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 311, recommendedOrder: 290, title: 'Other', media: [
+window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrder: 290, title: 'Other', media: [
   { chronoOrder: 120, recommendedOrder: 290, mediaType: 'Game',
     title: 'Kingdom Hearts ~V CAST~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(V_CAST)', titleDate: '2005-02-01',
     mediaDesc: [
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ' game, modified for the input method of mobile phones. The game is terminated.' },
       ],
     ],
@@ -102,7 +102,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 311, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 260, recommendedOrder: 9020, mediaType: 'Game',
+  { chronoOrder: 166, recommendedOrder: 9041, mediaType: 'Game',
     title: 'Kingdom Hearts Re:coded Gummiship Studio', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Re:coded_Gummiship_Studio', titleDate: '2011-02-17',
     mediaDesc: [
       [

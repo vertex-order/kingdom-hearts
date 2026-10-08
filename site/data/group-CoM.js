@@ -5,7 +5,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     mediaDesc: [
       [
         { text: 'A year after ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ', Sora and friends explore Castle Oblivion while battling Organization XIII, a new group of antagonists. Features characters from ' },
         { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
         { text: '.' },
@@ -71,7 +71,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
               { text: 'This remake rebuilds ' },
               { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007-or' },
               { text: '\'s card-based battles and worlds in 3D, reusing the graphics from ' },
-              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
               { text: ', and adds voice acting, an improved soundtrack, minor battle-system tweaks, and new cutscenes and battles.' },
             ],
             [
@@ -130,7 +130,8 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts: Chain of Memories', searchSuffix: 'manga dub', noResults: true },
+        { key: 'fan-recap', name: 'Fan story recap video of Chain of Memories (2004)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:Chain of Memories' },
       ],
     },
   },
@@ -166,7 +167,8 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', search: 'youtube' },
+        { key: 'fan-recap', name: 'Fan story recap video of Chain of Memories (2004)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:Chain of Memories' },
       ],
     },
   },

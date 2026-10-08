@@ -5,7 +5,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
     mediaDesc: [
       [
         { text: 'Follows Roxas\' daily life within Organization XIII and his relationship with fellow Organization member Axel; and introduces a fourteenth member, Xion, who befriends them. Takes place near the end of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ' in parallel to ' },
         { emLinkText: 'Re:Chain of Memories (2007)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007' },
         { text: ', leading directly into the events of ' },
@@ -107,7 +107,8 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchSuffix: 'manga dub' },
+        { key: 'fan-recap', name: 'Fan story recap video of 358/2 Days (2009)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchQualifier: 'ds' },
       ],
     },
   },
@@ -143,7 +144,8 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', search: 'youtube' },
+        { key: 'fan-recap', name: 'Fan story recap video of 358/2 Days (2009)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchQualifier: 'ds' },
       ],
     },
   },

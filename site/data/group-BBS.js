@@ -5,7 +5,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     mediaDesc: [
       [
         { text: 'Set ten years before ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ', follows the journeys of Ventus, Terra, and Aqua, in their quest to locate the missing Master Xehanort and protect the worlds from creatures known as the Unversed.' },
       ],
     ],
@@ -115,8 +115,9 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410638-kingdom-hearts-birth-by-sleep' },
+        { key: 'fan-audiobook', search: 'youtube' },
+        { key: 'fan-recap', name: 'Fan story recap video of Birth by Sleep (2010)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Birth by Sleep Final Mix' },
       ],
     },
   },
@@ -125,11 +126,11 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     mediaDesc: [
       [
         { text: 'Considered a sequel to ' },
-        { emLinkText: 'Birth by Sleep (2011)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-final-mix-2011' },
+        { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-final-mix-2011' },
         { text: ', depicts events both leading into ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-III-kingdom-hearts-iii-2019' },
         { text: ' and intersecting with the ending of the original ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: '.' },
       ],
     ],

@@ -34,10 +34,10 @@ wire up the pre-commit hook (strips image metadata, regenerates
 ## Fix or add a game entry
 
 Game data lives in [`site/data/`](site/data/), **one file per group**:
-`group-<SLUG>.js` (e.g. `group-KH.js`). Each file assigns
+`group-<SLUG>.js` (e.g. `group-I.js`). Each file assigns
 
 ```js
-window.__khGroupReg['KH'] = { num: 'KH', title: '...', /* ... */, games: [ /* entries */ ] };
+window.__khGroupReg['I'] = { num: 'I', title: '...', /* ... */, games: [ /* entries */ ] };
 ```
 
 The `games` array holds the entries — title, release date, tags, languages,

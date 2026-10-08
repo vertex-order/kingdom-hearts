@@ -1,5 +1,5 @@
 // schema: group.schema.json
-window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, title: 'Kingdom Hearts', media: [
+window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, title: 'Kingdom Hearts I', media: [
   { chronoOrder: 90, recommendedOrder: 10, mediaType: 'Game',
     title: 'Kingdom Hearts Final Mix', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', titleDate: '2002-12-26',
     mediaDesc: [
@@ -42,7 +42,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
       versionDesc: [
         [
           { text: 'This remaster includes the extra content from ' },
-          { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+          { emLinkText: 'Edit (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002-x-edit-2002' },
           { text: ', and adds HD graphics using character models from ' },
           { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-DDD-kingdom-hearts-3d-dream-drop-distance-2012' },
           { text: ', an updated command menu and camera reworked to play more like ' },
@@ -90,7 +90,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
           versionDesc: [
             [
               { text: 'The original release, worldwide, before the ' },
-              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002-x-edit-2002' },
               { text: '. The international non-Japan releases saw gameplay tweaks and several post-game bosses added.' },
             ],
           ],
@@ -109,7 +109,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: '.' },
       ],
     ],
@@ -123,14 +123,15 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
       ],
       platforms: [
         { key: 'book', name: 'Manga' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts', searchSuffix: 'manga dub' },
+        { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],
       versionDesc: [
         [
           { text: 'This edition includes both the ' },
-          { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
+          { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-I-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
           { text: ' bonus chapters and the ' },
-          { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+          { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-I-kingdom-hearts-manga-2003-x-edition-2006' },
           { text: ' edits & bonus chapters.' },
         ],
       ],
@@ -151,9 +152,9 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
           versionDesc: [
             [
               { text: 'This edition has edits & bonus chapters matching the ' },
-              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002-x-edit-2002' },
               { text: ' version of the game. It does not have the ' },
-              { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
+              { emLinkText: 'original edition (2003-2005)', emLinkUrl: '#entry-I-kingdom-hearts-manga-2003-x-kingdom-hearts-manga-2003' },
               { text: ' bonus chapters.' },
             ],
           ],
@@ -177,11 +178,11 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
           versionDesc: [
             [
               { text: 'The original edition, manga adaptation of ' },
-              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-kingdom-hearts-2002' },
+              { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002-x-kingdom-hearts-2002' },
               { text: ', not the ' },
-              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002-x-edit-2002' },
+              { emLinkText: 'Final Mix Edit (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002-x-edit-2002' },
               { text: '. Includes its own bonus chapters not included in the ' },
-              { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-KH-kingdom-hearts-manga-2003-x-edition-2006' },
+              { emLinkText: 'Final Mix Edition (2006-2007)', emLinkUrl: '#entry-I-kingdom-hearts-manga-2003-x-edition-2006' },
               { text: '.' },
             ],
           ],
@@ -194,7 +195,7 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-KH-kingdom-hearts-final-mix-2002' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ' in two volumes: ' },
         { emText: 'The First Door' },
         { text: ' and ' },
@@ -220,7 +221,8 @@ window.__khGroupReg['KH'] = { num: 'KH', chronoOrder: 90, recommendedOrder: 10, 
       ],
       platforms: [
         { key: 'book', name: 'YA Novel' },
-        { key: 'fan-recap', search: 'youtube' },
+        { key: 'fan-audiobook', search: 'youtube' },
+        { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],
     },
   },
