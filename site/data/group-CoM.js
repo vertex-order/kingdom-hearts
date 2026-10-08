@@ -168,7 +168,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Chain of Memories The Novel' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Chain of Memories (2004)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:Chain of Memories' },
       ],
