@@ -8,7 +8,7 @@
 
 ## khwiki.com (Information)
 
-- https://www.khwiki.com/Kingdom_Hearts_Dark_Road -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_Dark_Road -- platforms*, languages* -- accessed 2026-09-26
 
 ## metacritic.com (Ratings)
 

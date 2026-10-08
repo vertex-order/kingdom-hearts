@@ -8,7 +8,7 @@
 
 ## khwiki.com (Information)
 
-- https://www.khwiki.com/Kingdom_Hearts_Union_%CF%87 -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_Union_%CF%87 -- titleUrl* -- accessed 2026-09-26
 
 ## metacritic.com (Ratings)
 
@@ -16,6 +16,8 @@
 
 ## wikipedia.org (Information)
 
-- https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87 -- dates*, platforms*, versions*, story* -- accessed 2026-09-25
+- https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87 -- dates*, platforms*, versions*, story*, languages* -- accessed 2026-09-25
 
 ## Decisions
+
+- Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

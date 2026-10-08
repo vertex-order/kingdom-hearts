@@ -41,7 +41,7 @@ Kingdom Hearts χ: Your Keyblade, Your Story (JP original) -- ISBN 9784757559059
 
 khwiki.com
 - https://www.khwiki.com/Kingdom_Hearts_(novels)* -- titleUrl*, dates*, story*, languages*
-  - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_.CF.87 -- titleDate* (JP release January 25, 2019; EN release December 24, 2019), story* (covers χ and the beginning of Union χ), languages* (JA, EN) -- accessed 2026-10-07 -- archived: TODO
+  - https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_.CF.87 -- titleDate* (JP release January 25, 2019; EN release December 24, 2019), story* (adapts all of χ; the part of χ that Union χ retells is included), languages* (JA, EN) -- accessed 2026-10-07 -- archived: TODO
 
 goodreads
 - https://www.goodreads.com/book/show/46260393 -- ratings* (3.46, 157 ratings), length* (page count, EN paperback), dates, EN language link* -- accessed 2026-10-07 -- archived: TODO
@@ -49,4 +49,4 @@ goodreads
 
 ## Decisions
 
-- **Title shortened.** Official title is *Kingdom Hearts X: Your Keyblade, Your Story The Novel*; the entry title is shortened to match the other novel entries, with the full title in versionDesc as "Released as".
+- **Title shortened.** Official title is *Kingdom Hearts χ: Your Keyblade, Your Story The Novel* (khwiki spells it with χ; the retailer/Goodreads listings above write a plain X); the entry title is shortened to match the other novel entries, with the full title in the description as "Released as".

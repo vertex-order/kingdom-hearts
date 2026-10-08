@@ -49,6 +49,7 @@ khwiki.com (Information)
 
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- dates* (December 24, 2010 to May 26, 2011) -- accessed 2026-10-07
 
 ## Decisions
 
