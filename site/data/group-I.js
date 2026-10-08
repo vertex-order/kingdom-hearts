@@ -198,7 +198,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
       [
         { text: 'Comic book adaptation of ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
-        { text: ' that tells an alternate story.' },
+        { text: ' that tells an alternate story. Only ever published in magazines.' },
       ],
     ],
     primary: { tags: ['Optional', 'Comic', 'Alternate Universe'],
@@ -209,7 +209,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { value: 'EN' },
       ],
       platforms: [
-        { key: 'book', name: 'Comic', paren: 'Unofficial scans; DuckDuckGo', search: 'duckduckgo', searchTitle: '"The Sceptre and the Kingdom"', searchQualifier: 'kingdom hearts' },
+        { key: 'book', name: 'Magazines', paren: 'Unofficial scans; DuckDuckGo', search: 'duckduckgo', searchTitle: '"The Sceptre and the Kingdom"', searchQualifier: 'kingdom hearts' },
         { key: 'fan-recap', name: 'Story recap', paren: 'khwiki', url: 'https://www.khwiki.com/The_Sceptre_and_the_Kingdom#Story' },
       ],
     },
