@@ -137,7 +137,11 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       [
         { text: 'See our ' },
         { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy' },
-        { text: ' vertex order for the games starring the Final Fantasy characters who cross over into some Kingdom Hearts titles.' },
+        { text: ' vertex order for the games starring the Final Fantasy characters who cross over into some Kingdom Hearts titles. ' },
+        { emText: 'Final Fantasy Record Keeper (2014)' },
+        { text: ' and ' },
+        { emText: 'Brave Exvius (2015)' },
+        { text: ' also feature Kingdom Hearts characters.' },
       ],
     ],
     primary: { tags: ['Optional'], noCheckbox: true },

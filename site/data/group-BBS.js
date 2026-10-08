@@ -6,7 +6,9 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
       [
         { text: 'Set ten years before ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
-        { text: ', follows the journeys of Ventus, Terra, and Aqua, in their quest to locate the missing Master Xehanort and protect the worlds from creatures known as the Unversed.' },
+        { text: ', follows the journeys of Ventus, Terra, and Aqua, in their quest to locate the missing Master Xehanort and protect the worlds from creatures known as the Unversed. Features a character from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: '.' },
       ],
     ],
     primary: { tags: ['Prequel', 'Action RPG', 'Single-player', 'Multiplayer', 'Co-op'],

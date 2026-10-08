@@ -6,7 +6,9 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       [
         { text: 'Set after the events of ' },
         { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-DDD-kingdom-hearts-3d-dream-drop-distance-2012' },
-        { text: ", Sora is joined by his friends in their search for seven guardians of light as they attempt to thwart Xehanort's plan to bring about a second Keyblade War." },
+        { text: ", Sora is joined by his friends in their search for seven guardians of light as they attempt to thwart Xehanort's plan to bring about a second Keyblade War. Features characters from " },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: '.' },
       ],
     ],
     primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
@@ -63,7 +65,9 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       [
         { text: 'Story DLC for ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-III-kingdom-hearts-iii-2019' },
-        { text: ', retelling the final battles from other characters\' perspectives and adding a secret episode.' },
+        { text: ', retelling the final battles from other characters\' perspectives and adding a secret episode. Features characters from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: '.' },
       ],
       [
         { text: 'Bundled with the base game as ' },

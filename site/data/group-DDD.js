@@ -6,7 +6,9 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
       [
         { text: 'Takes place after the events of ' },
         { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-coded-kingdom-hearts-re-coded-2010' },
-        { text: '. Focuses on Sora and Riku\'s Mark of Mastery exam, in which they have to protect parallel worlds in preparation for the return of Master Xehanort.' },
+        { text: '. Focuses on Sora and Riku\'s Mark of Mastery exam, in which they have to protect parallel worlds in preparation for the return of Master Xehanort. Features a character from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
+        { text: '.' },
       ],
     ],
     primary: { tags: ['Sequel', 'Action RPG', 'Single-player', 'Multiplayer'], helpWanted: true,

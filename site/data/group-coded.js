@@ -6,6 +6,8 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
       [
         { text: 'King Mickey and his friends send Sora into Jiminy Cricket\'s journal to repair it and uncover hidden messages. Set after ' },
         { emLinkText: 'II (2005)', emLinkUrl: '#entry-II-kingdom-hearts-ii-final-mix-2007' },
+        { text: '. Features characters from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
         { text: '.' },
       ],
     ],

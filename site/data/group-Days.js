@@ -10,6 +10,8 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { emLinkText: 'Re:Chain of Memories (2007)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007' },
         { text: ', leading directly into the events of ' },
         { emLinkText: 'II (2005)', emLinkUrl: '#entry-II-kingdom-hearts-ii-final-mix-2007' },
+        { text: '. Features characters from ' },
+        { emLinkText: 'Final Fantasy', emLinkUrl: '/final-fantasy/' },
         { text: '.' },
       ],
     ],
