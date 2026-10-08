@@ -190,6 +190,28 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
       ],
     },
   },
+  { chronoOrder: 105, recommendedOrder: 25, mediaType: 'Comic',
+    title: 'The Sceptre and the Kingdom', titleUrl: 'https://www.khwiki.com/The_Sceptre_and_the_Kingdom', titleDate: 2002,
+    mediaDesc: [
+      [
+        { text: 'Comic book adaptation of ' },
+        { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
+        { text: ' that tells an alternate story.' },
+      ],
+    ],
+    primary: { tags: ['Optional', 'Comic', 'Alternate Universe'],
+      length: '12p',
+      languages: [
+        { value: 'IT', native: true },
+        { value: 'ES' },
+        { value: 'EN' },
+      ],
+      platforms: [
+        { key: 'book', name: 'Comic', paren: 'Unofficial scans; DuckDuckGo', search: 'duckduckgo', searchTitle: '"The Sceptre and the Kingdom"', searchQualifier: 'kingdom hearts' },
+        { key: 'fan-recap', name: 'Story recap', paren: 'khwiki', url: 'https://www.khwiki.com/The_Sceptre_and_the_Kingdom#Story' },
+      ],
+    },
+  },
   { chronoOrder: 110, recommendedOrder: 30, mediaType: 'Book',
     title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
     mediaDesc: [
