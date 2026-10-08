@@ -102,7 +102,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
   },
   { chronoOrder: 245, recommendedOrder: 135, mediaType: 'Book',
     title: 'Kingdom Hearts Re:coded The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Re:coded', titleDate: '2011-07-28',
-    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
+    by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

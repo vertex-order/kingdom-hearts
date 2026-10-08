@@ -95,7 +95,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
   },
   { chronoOrder: 70, recommendedOrder: 270, mediaType: 'Book',
     title: 'Kingdom Hearts Birth by Sleep The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep', titleDate: { start: '2010-12-24', end: '2011-05-26' },
-    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
+    by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

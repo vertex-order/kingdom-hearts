@@ -107,7 +107,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
   },
   { chronoOrder: 140, recommendedOrder: 50, mediaType: 'Comic',
     title: 'Kingdom Hearts: Chain of Memories ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Chain_of_Memories_(manga)', titleDate: { start: '2005-10-22', end: '2006-04-22' },
-    by: [{ role: 'Adapted', names: 'Shiro Amano' }],
+    by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -138,7 +138,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
   },
   { chronoOrder: 150, recommendedOrder: 60, mediaType: 'Book',
     title: 'Kingdom Hearts Chain of Memories The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2', titleDate: { start: '2005-10-22', end: '2006-01-31' },
-    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
+    by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

@@ -94,7 +94,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
   },
   { chronoOrder: 220, recommendedOrder: 110, mediaType: 'Comic',
     title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_(manga)', titleDate: { start: '2006-12-22', end: '2015-08-22' },
-    by: [{ role: 'Adapted', names: 'Shiro Amano' }],
+    by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -123,7 +123,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
   },
   { chronoOrder: 230, recommendedOrder: 120, mediaType: 'Book',
     title: 'Kingdom Hearts II: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: { start: '2006-04-22', end: '2007-02-27' },
-    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
+    by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

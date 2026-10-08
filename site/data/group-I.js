@@ -106,7 +106,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
   },
   { chronoOrder: 100, recommendedOrder: 20, mediaType: 'Comic',
     title: 'Kingdom Hearts ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', titleDate: { start: '2003-10-25', end: '2005-01-31' },
-    by: [{ role: 'Adapted', names: 'Shiro Amano' }],
+    by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -193,7 +193,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
   },
   { chronoOrder: 105, recommendedOrder: 25, mediaType: 'Comic',
     title: 'The Sceptre and the Kingdom', titleUrl: 'https://www.khwiki.com/The_Sceptre_and_the_Kingdom', titleDate: 2002,
-    by: [{ role: 'Adapted', names: 'Alessandro Sisti' }, { role: 'illustrated', names: 'Fabio Celoni' }],
+    by: [{ role: 'adapted', names: 'Alessandro Sisti' }, { role: 'illustrated', names: 'Fabio Celoni' }],
     mediaDesc: [
       [
         { text: 'Comic book adaptation of ' },
@@ -216,7 +216,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
   },
   { chronoOrder: 110, recommendedOrder: 30, mediaType: 'Book',
     title: 'Kingdom Hearts: The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_2', titleDate: { start: '2005-06-30', end: '2005-07-29' },
-    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
+    by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
