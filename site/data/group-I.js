@@ -193,7 +193,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
   },
   { chronoOrder: 105, recommendedOrder: 25, mediaType: 'Comic',
     title: 'The Sceptre and the Kingdom', titleUrl: 'https://www.khwiki.com/The_Sceptre_and_the_Kingdom', titleDate: 2002,
-    by: [{ role: 'written', names: 'Alessandro Sisti' }, { role: 'illustrated', names: 'Fabio Celoni' }],
+    by: [{ role: 'Adapted', names: 'Alessandro Sisti' }, { role: 'illustrated', names: 'Fabio Celoni' }],
     mediaDesc: [
       [
         { text: 'Comic book adaptation of ' },
