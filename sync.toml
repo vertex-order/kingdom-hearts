@@ -18,7 +18,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "239e13a033d2c62734e35b21a3424f60e9031e0b"
+ref = "73365654be91d7828a321b6a4684333e875c8f9f"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -41,7 +41,8 @@ paths = [
   "site/data/catalogs.js",
   "site/BackToTop.dc.html",
   "site/HelpWanted.dc.html",
-  "site/EntryByline.dc.html",
+  "site/EntryCredits.dc.html",
+  "site/EntryTags.dc.html",
   "site/EntryTitleLinks.dc.html",
   "site/ExtrasToggle.dc.html",
   "site/FAQ.dc.html",
