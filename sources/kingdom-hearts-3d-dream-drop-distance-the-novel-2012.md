@@ -8,17 +8,17 @@ Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md
 for the fuller pattern. Publisher not stated in Wikipedia's compact table
 for this title. Cross-checked against goodreads below.
 
-Side Sora -- ISBN 9784757536524, Japanese, June 28, 2012
+Side Sora -- ISBN 9784757536524 (ISBN10: 4757536526, ASIN 4757536526), Japanese, Sukuueaenikkusu (Tokyo), June 28, 2012, Paperback -- goodreads title "Kingdom Hearts 3D: Dream Drop Distance 1: Side Sora" (#1)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757536524
 - open library: https://openlibrary.org/search?isbn=9784757536524
-- goodreads: https://www.goodreads.com/book/show/50433334-kingdom-hearts-3d -- Paperback, ISBN10 4757536526, confirms June 28 2012 -- accessed 2026-10-02
+- goodreads: https://www.goodreads.com/book/show/50433334-kingdom-hearts-3d -- confirms ISBN, Paperback, June 28 2012 -- accessed 2026-10-02
 
-Side Riku -- ISBN 9784757537514, Japanese, September 27, 2012
+Side Riku -- ISBN 9784757537514 (ISBN10: 4757537514, ASIN 4757537514), Japanese, Sukuueaenikkusu, September 27, 2012, Paperback -- goodreads title "Kingdom Hearts 3D: Dream Drop Distance 2: Side Riku" (#2)
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757537514
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757537514
 - open library: https://openlibrary.org/search?isbn=9784757537514
-- goodreads: https://www.goodreads.com/book/show/102911472-kingdom-hearts-3d -- Paperback, ISBN10 4757537514, confirms September 27 2012 -- accessed 2026-10-02
+- goodreads: https://www.goodreads.com/book/show/102911472-kingdom-hearts-3d -- confirms ISBN, Paperback, September 27 2012 -- accessed 2026-10-02
 
 Collection: "Side Sora" + "Side Riku" -- ISBN 9781975358617 (ISBN10: 1975358619), English, Yen Press, October 29, 2019, 297pp, Paperback -- one-volume EN omnibus of both JP novels above -- ISBN now confirmed real by google books, resolving the earlier "recovered from URL slug, page 404" placeholder
 - khwiki: https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_3D:_Dream_Drop_Distance
@@ -47,3 +47,9 @@ khwiki.com (Information)
 
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
+
+goodreads.com (Information)
+- https://www.goodreads.com/series/410640-kingdom-hearts-3d-dream-drop-distance -- series grouping (volume order), not a book page -- accessed 2026-10-08
+- [Side Sora, JA Paperback (ISBN 9784757536524)](https://www.goodreads.com/book/show/50433334-kingdom-hearts-3d) -- languages[JA]* -- accessed 2026-10-02
+- [Side Riku, JA Paperback (ISBN 9784757537514)](https://www.goodreads.com/book/show/102911472-kingdom-hearts-3d) -- accessed 2026-10-02
+- [Collection, EN Paperback (ISBN 9781975358617)](https://www.goodreads.com/book/show/44782544-kingdom-hearts-3d) -- languages[EN]*, ratings* -- accessed 2026-10-02

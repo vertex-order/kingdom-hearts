@@ -122,7 +122,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     },
   },
   { chronoOrder: 80, recommendedOrder: 280, mediaType: 'Game',
-    title: 'Kingdom Hearts 0.2 Birth by Sleep – A fragmentary passage –', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#Kingdom_Hearts_0.2:_Birth_by_Sleep_-A_fragmentary_passage-', titleDate: '2017-01-12', id: 'kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017',
+    title: 'Kingdom Hearts 0.2 Birth by Sleep – A fragmentary passage –', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_0.2_Birth_by_Sleep_-A_fragmentary_passage-', titleDate: '2017-01-12', id: 'kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017',
     mediaDesc: [
       [
         { text: 'Considered a sequel to ' },

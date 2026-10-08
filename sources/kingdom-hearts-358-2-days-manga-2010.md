@@ -108,6 +108,9 @@ Omnibus T04 (collects Vol. 3-5), "Kingdom Hearts l'intégrale T04" -- ISBN 97823
 
 ## Sources
 
+khwiki.com (Information)
+- https://www.khwiki.com/Kingdom_Hearts_358/2_Days_(manga) -- accessed 2026-10-07
+
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- dates*, length* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_358/2_Days -- dates*, ISBN*, length* -- accessed 2026-09-28
@@ -115,6 +118,7 @@ wikipedia.org (Information)
 
 goodreads.com (Information) -- `[Vol., language, format (ISBN/ASIN)]` labels below identify which
 Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- https://www.goodreads.com/series/108597-358-2days-kingdom-hearts-358-2-days -- series grouping (volume order), not a book page -- accessed 2026-10-07
 - [Vol. 1, JA (ISBN 9784757529021)](https://www.goodreads.com/book/show/34146408) -- languages[JA]*, ratings (score reused on the EN edition link)* -- accessed 2026-09-29
 - [Vol. 1, EN Paperback (ISBN 9780316401180)](https://www.goodreads.com/book/show/17785892-kingdom-hearts-358-2-days-1) -- languages[EN]*, ratings* -- accessed 2026-09-29
 - [Vol. 1, EN Kindle Edition (ISBN 9780316464321)](https://www.goodreads.com/book/show/34757661-kingdom-hearts-358-2-days-vol-1) -- accessed 2026-09-29

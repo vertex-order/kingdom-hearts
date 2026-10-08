@@ -52,6 +52,7 @@ wikipedia.org (Information)
 
 goodreads.com (Information) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
 Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- https://www.goodreads.com/series/133510-kingdom-hearts-358-2-days -- series grouping (volume order), not a book page -- accessed 2026-10-07
 - [The 14th, JA Paperback (ISBN 9784757526044)](https://www.goodreads.com/book/show/20942850) -- languages[JA]* -- accessed 2026-09-29
 - [Go to the Sea, JA Paperback (ISBN 9784757527744)](https://www.goodreads.com/book/show/20946961) -- accessed 2026-09-29
 - [Xion—Seven Days, JA Paperback (ISBN 9784757528888)](https://www.goodreads.com/book/show/20951249) -- accessed 2026-09-29

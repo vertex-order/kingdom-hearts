@@ -116,7 +116,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/book/show/43886678' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Re:coded (2010)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:coded' },
       ],

@@ -129,7 +129,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
         { value: 'EL', url: 'https://www.goodreads.com/book/show/35435910-kingdom-hearts' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/68019-kingdom-hearts-chain-of-memories' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts: Chain of Memories', searchSuffix: 'manga dub', noResults: true },
         { key: 'fan-recap', name: 'Fan story recap video of Chain of Memories (2004)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:Chain of Memories' },
       ],

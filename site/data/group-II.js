@@ -93,7 +93,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
     },
   },
   { chronoOrder: 220, recommendedOrder: 110, mediaType: 'Comic',
-    title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: { start: '2006-12-22', end: '2015-08-22' },
+    title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_(manga)', titleDate: { start: '2006-12-22', end: '2015-08-22' },
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -114,7 +114,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
         { value: 'IT', url: 'https://www.goodreads.com/book/show/36221224-kingdom-hearts-ii-vol-1' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/181438-ii-kingdom-hearts-ii' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts II', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of II (2005)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts II' },
       ],
@@ -164,7 +164,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410637-kingdom-hearts-ii' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of II (2005)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts II' },
       ],

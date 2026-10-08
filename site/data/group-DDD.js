@@ -40,12 +40,12 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
       versionDesc: [
         [
-          { text: 'This remaster includes high-definition graphics, reworked minigames into a card-based system, and achievement support. Enemies were changed to be less offensive. The 3DS dual-screen and touchscreen design was modified for single screen and traditional controller. Released as ' },
-          { emText: 'KINGDOM HEARTS Dream Drop Distance HD' },
-          { text: '.' },
+          { text: 'This remaster includes high-definition graphics, reworked minigames into a card-based system, and achievement support. Enemies were changed to be less offensive. The 3DS dual-screen and touchscreen design was modified for single screen and traditional controller.' },
         ],
         [
-          { text: 'Included in the omnibus collections ' },
+          { text: 'Released as ' },
+          { emText: 'KINGDOM HEARTS Dream Drop Distance HD' },
+          { text: '. Included in the omnibus collections ' },
           { emText: 'Kingdom Hearts HD 2.8 Final Chapter Prologue' },
           { text: ', ' },
           { emText: 'Kingdom Hearts: The Story So Far' },
@@ -97,12 +97,12 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
       ],
       ratings: [{ key: 'goodreads', score: '4.10', url: 'https://www.goodreads.com/book/show/44782544-kingdom-hearts-3d' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9784757536524' },
-        { value: 'EN', url: 'https://wikipedia.org/wiki/Special:BookSources?isbn=9781975358617' },
+        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50433334-kingdom-hearts-3d' },
+        { value: 'EN', url: 'https://www.goodreads.com/book/show/44782544-kingdom-hearts-3d' },
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410640-kingdom-hearts-3d-dream-drop-distance' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Dream Drop Distance (2012)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Dream Drop Distance HD' },
       ],

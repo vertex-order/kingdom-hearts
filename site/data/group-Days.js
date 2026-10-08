@@ -84,7 +84,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
     ],
   },
   { chronoOrder: 180, recommendedOrder: 80, mediaType: 'Comic',
-    title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2010-06-22', end: '2012-09-22' },
+    title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_358/2_Days_(manga)', titleDate: { start: '2010-06-22', end: '2012-09-22' },
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -106,7 +106,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { value: 'PT', url: 'https://www.goodreads.com/book/show/55779539-kingdom-hearts-358-2-dias-vol-1' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/108597-358-2days-kingdom-hearts-358-2-days' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of 358/2 Days (2009)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchQualifier: 'ds' },
       ],
@@ -143,7 +143,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/133510-kingdom-hearts-358-2-days' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of 358/2 Days (2009)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchQualifier: 'ds' },
       ],

@@ -71,6 +71,7 @@ Collection: "The Complete Novel Collector's Edition" -- ISBN 9781975333324 (ISBN
 
 goodreads.com (Ratings) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
 Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- https://www.goodreads.com/series/410633-kingdom-hearts -- series grouping (volume order), not a book page -- accessed 2026-10-07
 - [Collection "The First Door"+"Darkness Within", EN Paperback (ISBN 9780316260190)](https://www.goodreads.com/book/show/23197294-kingdom-hearts) -- languages[EN]*, ratings* -- accessed 2026-09-29
 - [The First Door, JA Paperback (ISBN 9784757514683)](https://www.goodreads.com/book/show/21419607) -- languages[JA]* -- accessed 2026-09-29
 - [Darkness Within, JA Paperback (ISBN 9784757514959)](https://www.goodreads.com/book/show/21419648-kingdom-hearts-2) -- accessed 2026-09-29

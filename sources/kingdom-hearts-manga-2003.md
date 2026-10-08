@@ -463,6 +463,9 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- story*, length* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
+goodreads.com (Information)
+- https://www.goodreads.com/series/68018-kingdom-hearts -- series grouping (volume order), not a book page -- accessed 2026-10-07
+
 ## Decisions
 
 - Three editions, not one: the 2007 "Final Mix" printing isn't a rebind of the 2003 original (same story, fewer volumes) -- per khwiki, it's a revised edition with its own added scenes/bonus chapters, and the 2025 Panini English edition is the only one to combine bonus content from both. Modeled as `primary` (2025 combined edition) with the 2007 and 2003 editions as `primary.versions[]` (collapsible "other versions" list, not `alts[]` -- these are prior printings of the same primary entry, not a separately-recommended alternative release). None of the three overrides the slot's own `title`/`titleUrl`/`titleDate` (all inherit it, matching the existing Kingdom Hearts (2002) Remaster/Edit pattern) -- each is differentiated purely by its own `subtitle: 'Edition'` + `subtitleDate` (2025/2006-2007/2003-2005). The real per-edition content difference (which bonus chapters each carries) is spelled out in each one's own `versionDesc`, not crammed into the label. Known tradeoff: the 2003 edition's own subtitleDate duplicates the year already shown on the inherited title -- accepted for consistency with its two siblings rather than carving out a dateless exception.

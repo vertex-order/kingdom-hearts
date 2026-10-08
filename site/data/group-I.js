@@ -122,7 +122,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.khwiki.com/Kingdom_Hearts_(manga)' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],
@@ -147,7 +147,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
             { value: '…?' },
           ],
           platforms: [
-            { key: 'book', name: 'Manga' },
+            { key: 'book', name: 'Manga', url: 'https://www.khwiki.com/Kingdom_Hearts_(manga)' },
           ],
           versionDesc: [
             [
@@ -173,7 +173,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
             { value: 'KO', url: 'https://www.google.com/books/edition/_/llsKMQAACAAJ' },
           ],
           platforms: [
-            { key: 'book', name: 'Manga' },
+            { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/68018-kingdom-hearts' },
           ],
           versionDesc: [
             [
@@ -220,7 +220,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410633-kingdom-hearts' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],

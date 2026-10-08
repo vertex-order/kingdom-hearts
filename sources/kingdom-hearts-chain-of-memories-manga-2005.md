@@ -132,4 +132,7 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Manga -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
+goodreads.com (Information)
+- https://www.goodreads.com/series/68019-kingdom-hearts-chain-of-memories -- series grouping (volume order), not a book page -- accessed 2026-10-07
+
 ## Decisions

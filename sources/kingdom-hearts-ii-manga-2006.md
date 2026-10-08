@@ -332,6 +332,9 @@ Vol. 10 -- ISBN 9788828756903 (ISBN10: 882875690X), Italian, Panini Comics, Sept
 
 ## Sources
 
+khwiki.com (Information)
+- https://www.khwiki.com/Kingdom_Hearts_II_(manga) -- accessed 2026-10-07
+
 wikipedia.org (Information)
 - https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- accessed 2026-09-25
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_II -- dates*, ISBN*, length* -- accessed 2026-09-28
@@ -339,6 +342,7 @@ wikipedia.org (Information)
 
 goodreads.com (Ratings) -- `[Vol., language, format (ISBN/ASIN)]` labels below identify which Editions
 (ISBN) label each link belongs to, since many share a near-identical URL slug
+- https://www.goodreads.com/series/181438-ii-kingdom-hearts-ii -- series grouping (volume order), not a book page -- accessed 2026-10-07
 - [Vol. 1, EN Paperback (ISBN 9781427800589)](https://www.goodreads.com/book/show/231917) -- languages[EN]*, ratings* -- accessed 2026-09-29
 - [Vol. 1, EN Paperback (ISBN 9781427807816)](https://www.goodreads.com/book/show/6400468-kingdom-hearts-ii-vol-1) -- accessed 2026-09-29
 - [Vol. 1, EN Hardcover/Library Binding (ISBN 9781417779352)](https://www.goodreads.com/book/show/2648859-kingdom-hearts-ii-vol-1) -- accessed 2026-09-29

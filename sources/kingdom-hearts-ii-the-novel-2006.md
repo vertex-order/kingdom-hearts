@@ -92,6 +92,7 @@ wikipedia.org (Information)
 
 goodreads.com (Ratings) -- `[book, language, format (ISBN/ASIN)]` labels below identify which
 Editions (ISBN) label each link belongs to, since several share a near-identical URL slug
+- https://www.goodreads.com/series/410637-kingdom-hearts-ii -- series grouping (volume order), not a book page -- accessed 2026-10-07
 - [Roxas—Seven Days, JA Paperback (ISBN 9784757516793)](https://www.goodreads.com/book/show/1850014) -- languages[JA]* -- accessed 2026-09-29
 - [The Destruction of Hollow Bastion, JA Paperback (ISBN 9784757517158)](https://www.goodreads.com/book/show/1829413) -- accessed 2026-09-29
 - [Roxas+Destruction collection, EN Paperback (ISBN 9780316471930)](https://www.goodreads.com/book/show/32856015) -- languages[EN]*, ratings* -- accessed 2026-09-29

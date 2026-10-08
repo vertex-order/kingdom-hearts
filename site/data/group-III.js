@@ -131,7 +131,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
         { value: 'PT', url: 'https://www.goodreads.com/book/show/249328604-kingdom-hearts-iii-vol-1' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga' },
+        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/300313-iii-kingdom-hearts-iii' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of III (2019)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III' },
       ],
@@ -172,7 +172,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel' },
+        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/379250-kingdom-hearts-iii' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of III (2019)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III' },
       ],
