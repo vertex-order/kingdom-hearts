@@ -2,6 +2,10 @@
 
 # Kingdom Hearts: Chain of Memories ~Manga~
 
+## Author
+
+Shiro Amano -- Adapted by (entry `by`) -- https://www.khwiki.com/Kingdom_Hearts_Chain_of_Memories_(manga) (infobox, the entry's titleUrl) -- accessed 2026-10-08 -- English Tokyopop/other translator or adapter credits (e.g. Fawn Lau, Jose Macasocol) deliberately not credited
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md

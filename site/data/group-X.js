@@ -57,6 +57,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
   },
   { chronoOrder: 25, recommendedOrder: 245, mediaType: 'Book',
     title: 'Kingdom Hearts χ The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_.CF.87', titleDate: '2019-01-25', id: 'kingdom-hearts-x-the-novel-2019',
+    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

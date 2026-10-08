@@ -8,6 +8,10 @@ JP Vol. 4's content (Chapter 28-39, Final Chapter) across two EN volumes
 site entry's `length: 5 volumes`. Yen Press only covers Vol. 1-2 in
 English; Panini Comics (English, UK/International) covers all five.
 
+## Author
+
+Shiro Amano -- Adapted by (entry `by`) -- https://www.khwiki.com/Kingdom_Hearts_III_(manga) (infobox, the entry's titleUrl) -- accessed 2026-10-08 -- English Tokyopop/other translator or adapter credits (e.g. Fawn Lau, Jose Macasocol) deliberately not credited
+
 ## Editions (ISBN)
 
 Per-book record, one book (any print edition) per label. See

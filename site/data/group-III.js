@@ -115,6 +115,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
   },
   { chronoOrder: 305, recommendedOrder: 195, mediaType: 'Comic',
     title: 'Kingdom Hearts III ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_III_(manga)', titleDate: { start: '2020-04-11', end: '2026-08-04' },
+    by: [{ role: 'Adapted', names: 'Shiro Amano' }],
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
@@ -143,6 +144,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
   },
   { chronoOrder: 310, recommendedOrder: 200, mediaType: 'Book',
     title: 'Kingdom Hearts III: The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_III', titleDate: { start: '2019-03-28', end: '2020-05-28' },
+    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

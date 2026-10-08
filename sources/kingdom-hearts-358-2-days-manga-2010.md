@@ -4,6 +4,10 @@
 
 <!-- No human research pass yet beyond dates/length per docs/sources.md. -->
 
+## Author
+
+Shiro Amano -- Adapted by (entry `by`) -- https://www.khwiki.com/Kingdom_Hearts_358/2_Days_(manga) (infobox, the entry's titleUrl) -- accessed 2026-10-08 -- English Tokyopop/other translator or adapter credits (e.g. Fawn Lau, Jose Macasocol) deliberately not credited
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md

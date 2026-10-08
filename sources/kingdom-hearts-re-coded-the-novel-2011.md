@@ -4,6 +4,10 @@
 
 Placeholder entry -- khwiki confirms JA and EN versions and a release date of 2011-07-28 (used as `titleDate`); the EN edition (2019-08-27) is on goodreads. The JA edition (goodreads, ISBN 9784757533158) is recorded. Volume count and whether a separate novelization of the original *coded* exists are not yet found. The ebook's shorter title, and this being a novel of *Re:coded* (not *coded*), raise the possibility of two separate novelizations -- not confirmed either way.
 
+## Author
+
+Tomoko Kanemaki -- Adapted by (entry `by`) -- goodreads author on the volume (https://www.goodreads.com/book/show/85708474-re) -- accessed 2026-10-08 -- game writers goodreads lists as co-writers, and translators, deliberately not credited: adaptation quality is what's being flagged
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md

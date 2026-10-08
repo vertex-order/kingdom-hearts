@@ -9,6 +9,10 @@ Yen On) editions there. `helpWanted: true` on the site entry reflects this
 gap -- `titleDate` currently uses the EN dates as a placeholder, not a
 confirmed JP release window. Needs a khwiki/Wikipedia pass.
 
+## Author
+
+Tomoko Kanemaki -- Adapted by (entry `by`) -- goodreads author on the volume (https://www.goodreads.com/book/show/50049764-iii-vol-2-new-seven-hearts) -- accessed 2026-10-08 -- game writers goodreads lists as co-writers, and translators, deliberately not credited: adaptation quality is what's being flagged
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md

@@ -5,6 +5,10 @@
 <!-- Auto-generated URL skeleton from site/data/ -- no tags/accessed
      dates/stars yet. Needs a human research pass per docs/sources.md. -->
 
+## Author
+
+Shiro Amano -- Adapted by (entry `by`) -- https://www.khwiki.com/Kingdom_Hearts_(manga) (infobox, the entry's titleUrl) -- accessed 2026-10-08 -- English Tokyopop/other translator or adapter credits (e.g. Fawn Lau, Jose Macasocol) deliberately not credited
+
 ## Editions (ISBN)
 
 Per-book record, one book (any print edition) per label -- ISBN when the

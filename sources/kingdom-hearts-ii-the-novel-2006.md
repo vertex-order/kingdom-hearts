@@ -4,6 +4,10 @@
 
 <!-- No human research pass yet per docs/sources.md. -->
 
+## Author
+
+Tomoko Kanemaki -- Adapted by (entry `by`) -- goodreads author on the volume (https://www.goodreads.com/book/show/1850014) -- accessed 2026-10-08 -- game writers goodreads lists as co-writers, and translators, deliberately not credited: adaptation quality is what's being flagged
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md

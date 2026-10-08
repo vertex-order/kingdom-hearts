@@ -2,6 +2,10 @@
 
 # The Sceptre and the Kingdom
 
+## Credits
+
+Written by Alessandro Sisti, illustrated by Fabio Celoni (entry `by`) -- https://www.khwiki.com/The_Sceptre_and_the_Kingdom (infobox) -- accessed 2026-10-08
+
 ## khwiki.com (Information)
 
 - https://www.khwiki.com/The_Sceptre_and_the_Kingdom -- accessed 2026-10-08

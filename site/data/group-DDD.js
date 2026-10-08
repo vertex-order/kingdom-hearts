@@ -77,6 +77,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
   },
   { chronoOrder: 280, recommendedOrder: 160, mediaType: 'Book',
     title: 'Kingdom Hearts 3D: Dream Drop Distance The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: { start: '2012-06-28', end: '2012-09-27' },
+    by: [{ role: 'Adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },

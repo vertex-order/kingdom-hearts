@@ -2,6 +2,10 @@
 
 # Kingdom Hearts Birth by Sleep The Novel
 
+## Author
+
+Tomoko Kanemaki -- Adapted by (entry `by`) -- goodreads author on the volume (https://www.goodreads.com/book/show/10254587-kingdom-hearts-birth-by-sleep-1) -- accessed 2026-10-08 -- game writers goodreads lists as co-writers, and translators, deliberately not credited: adaptation quality is what's being flagged
+
 ## Editions (ISBN)
 
 Per-book record, one book per label. See sources/kingdom-hearts-manga-2003.md
