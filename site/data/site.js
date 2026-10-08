@@ -14,6 +14,9 @@ window.SITE_CONFIG = {
   description: "A recommended order for playing the Kingdom Hearts games, remakes, manga, and novels — Vertex Order.",
   lastUpdated: "2026-08-01",
   entities: ["Disney", "Square Enix"],
+  // Groups are navigation clusters over a single timeline, not separate
+  // timelines, so only the overall release order makes sense.
+  groupReleaseOrder: false,
   noticeUrl: "https://github.com/vertex-order/kingdom-hearts/blob/main/NOTICE.md",
   discussionsUrl: "https://github.com/vertex-order/kingdom-hearts/discussions",
 };
