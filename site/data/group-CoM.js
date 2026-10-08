@@ -1,7 +1,7 @@
 // schema: group.schema.json
 window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 40, title: 'Chain of Memories', media: [
   { chronoOrder: 130, recommendedOrder: 40, mediaType: 'Game',
-    title: 'Kingdom Hearts Re:Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', titleDate: '2007-03-29',
+    title: 'Kingdom Hearts Re:Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Re:Chain_of_Memories', titleDate: '2007-03-29', releaseOrderDate: '2004-11-11',
     mediaDesc: [
       [
         { text: 'A year after ' },

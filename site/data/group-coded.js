@@ -1,7 +1,7 @@
 // schema: group.schema.json
 window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrder: 130, title: 'Re:coded', media: [
   { chronoOrder: 240, recommendedOrder: 130, mediaType: 'Game',
-    title: 'Kingdom Hearts Re:coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_Re:coded', titleDate: '2010-10-07',
+    title: 'Kingdom Hearts Re:coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_Re:coded', titleDate: '2010-10-07', releaseOrderDate: '2008-11-18',
     mediaDesc: [
       [
         { text: 'King Mickey and his friends send Sora into Jiminy Cricket\'s journal to repair it and uncover hidden messages. Set after ' },

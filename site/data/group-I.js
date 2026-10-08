@@ -1,7 +1,7 @@
 // schema: group.schema.json
 window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, title: 'Kingdom Hearts I', media: [
   { chronoOrder: 90, recommendedOrder: 10, mediaType: 'Game',
-    title: 'Kingdom Hearts Final Mix', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', titleDate: '2002-12-26',
+    title: 'Kingdom Hearts Final Mix', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Final_Mix', titleDate: '2002-12-26', releaseOrderDate: '2002-03-28',
     mediaDesc: [
       [
         { text: 'Follows the adventures of Sora, a cheerful teenager who fights against the forces of darkness alongside his allies, including Donald Duck, Goofy, and other Disney characters. Some gameplay elements are inspired by ' },

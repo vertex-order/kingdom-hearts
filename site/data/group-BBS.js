@@ -1,7 +1,7 @@
 // schema: group.schema.json
 window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 260, title: 'Birth by Sleep', media: [
   { chronoOrder: 60, recommendedOrder: 260, mediaType: 'Game',
-    title: 'Kingdom Hearts Birth by Sleep Final Mix', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Final_Mix', titleDate: '2011-01-20',
+    title: 'Kingdom Hearts Birth by Sleep Final Mix', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Final_Mix', titleDate: '2011-01-20', releaseOrderDate: '2010-01-09',
     mediaDesc: [
       [
         { text: 'Set ten years before ' },

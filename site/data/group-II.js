@@ -1,7 +1,7 @@
 // schema: group.schema.json
 window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100, title: 'Kingdom Hearts II', media: [
   { chronoOrder: 200, recommendedOrder: 100, mediaType: 'Game',
-    title: 'Kingdom Hearts II Final Mix', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', titleDate: '2007-03-29',
+    title: 'Kingdom Hearts II Final Mix', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', titleDate: '2007-03-29', releaseOrderDate: '2005-12-22',
     mediaDesc: [
       [
         { text: 'A year after ' },
