@@ -80,7 +80,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
           ],
         },
         {
-          title: 'Kingdom Hearts Birth by Sleep', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep', titleDate: '2010-01-09',
+          title: 'Kingdom Hearts Birth by Sleep', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep', titleDate: '2010-01-09', id: 'kingdom-hearts-birth-by-sleep-2010',
           versionDesc: [
             ['The original release. Non-japan releases included a new difficulty setting, additional songs, a new boss and a few gameplay changes.'],
           ],
@@ -99,7 +99,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-final-mix-2011-x-kingdom-hearts-birth-by-sleep-2010' },
+        { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-2010' },
         { text: ' in three volumes: ' },
         { emText: 'Something Strange' },
         { text: ', ' },

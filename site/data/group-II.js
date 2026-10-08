@@ -74,7 +74,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
           ],
         },
         {
-          title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22',
+          title: 'Kingdom Hearts II', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II', titleDate: '2005-12-22', id: 'kingdom-hearts-ii-2005',
           versionDesc: [
             [
               { text: 'The original release, worldwide, before the ' },

@@ -17,7 +17,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
       versionDesc: [
         [
           { text: 'A remake of the original mobile release, overhauling its battles into an action-based combat system borrowing from ' },
-          { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-final-mix-2011-x-kingdom-hearts-birth-by-sleep-2010' },
+          { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-2010' },
           { text: ', with new scenes and a new voice cast for Jiminy Cricket.' },
         ],
       ],
@@ -33,7 +33,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
       ],
       versions: [
         {
-          title: 'Kingdom Hearts Coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded', titleDate: { start: '2008-11-18', end: '2010-01-28' },
+          title: 'Kingdom Hearts Coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded', titleDate: { start: '2008-11-18', end: '2010-01-28' }, id: 'kingdom-hearts-coded-2008',
           tags: ['Episodic', 'Terminated'],
           versionDesc: ['The original episodic release, split into a prologue and 8 episodes, discontinued for download in 2013.'],
           languages: [{ value: 'JA', native: true }],

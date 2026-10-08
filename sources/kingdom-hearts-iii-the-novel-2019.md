@@ -1,4 +1,4 @@
-<!-- sources/kingdom-hearts-iii-the-novel-2020.md (markdown) -->
+<!-- sources/kingdom-hearts-iii-the-novel-2019.md (markdown) -->
 
 # Kingdom Hearts III: The Novel
 

@@ -69,7 +69,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
           versionDesc: [
             [
               { text: 'This remake rebuilds ' },
-              { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007-or' },
+              { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-chain-of-memories-2004' },
               { text: '\'s card-based battles and worlds in 3D, reusing the graphics from ' },
               { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
               { text: ', and adds voice acting, an improved soundtrack, minor battle-system tweaks, and new cutscenes and battles.' },
@@ -92,7 +92,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     },
     alts: [
       {
-        title: 'Kingdom Hearts Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11',
+        title: 'Kingdom Hearts Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11', id: 'kingdom-hearts-chain-of-memories-2004',
         versionDesc: ['The original release in isometric pixel art.'],
         languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
@@ -111,7 +111,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     mediaDesc: [
       [
         { text: 'Manga adaptation of ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007-or' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-chain-of-memories-2004' },
         { text: '.' },
       ],
     ],
@@ -142,7 +142,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     mediaDesc: [
       [
         { text: 'YA Novelization of ' },
-        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-re-chain-of-memories-2007-or' },
+        { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-chain-of-memories-2004' },
         { text: ' in three volumes: ' },
         { emText: 'Sora (Part 1)' },
         { text: ', ' },
