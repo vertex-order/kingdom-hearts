@@ -120,7 +120,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-Days-kingdom-hearts-358-2-days-2009' },
         { text: ' in three volumes: ' },
         { emText: 'The 14th' },
@@ -131,7 +131,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -147,7 +147,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/133510-kingdom-hearts-358-2-days' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/133510-kingdom-hearts-358-2-days' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of 358/2 Days (2009)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days', searchQualifier: 'ds' },
       ],

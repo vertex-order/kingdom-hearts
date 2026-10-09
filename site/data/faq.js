@@ -12,5 +12,18 @@ window.FAQ_ITEMS = [
     q: "Do I need to play the franchise in order?",
     a: ["No. You can play the Kingdom Hearts franchise in any order, though the mainline entries build directly on each other's story."],
   },
+  {
+    id: "book-formats",
+    q: "What do Manga and Light Novel mean?",
+    a: [
+      "Books and comics are labeled with the name of their form in its country of origin.",
+      { parts: [
+        { em: "Manga" },
+        { text: " are Japanese comics, and a " },
+        { em: "Light Novel" },
+        { text: " is a Japanese pocket-paperback novel, usually illustrated and often aimed at younger readers. Translated editions keep the label." },
+      ] },
+    ],
+  },
   ...window.FAQ_ITEMS_COMMON,
 ];

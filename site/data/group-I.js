@@ -219,7 +219,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ' in two volumes: ' },
         { emText: 'The First Door' },
@@ -228,7 +228,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -245,7 +245,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410633-kingdom-hearts' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/410633-kingdom-hearts' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],

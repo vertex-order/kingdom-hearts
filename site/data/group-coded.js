@@ -105,12 +105,12 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-coded-kingdom-hearts-re-coded-2010' },
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: '210p; P',
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: '210p; P',
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '3.70', url: 'https://www.goodreads.com/book/show/43886678' }],
       languages: [
@@ -119,7 +119,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/book/show/43886678' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/book/show/43886678' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Re:coded (2010)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:coded' },
       ],

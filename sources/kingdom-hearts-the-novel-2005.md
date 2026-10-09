@@ -99,6 +99,13 @@ wikipedia.org (Information)
 yenpress.com (Publisher)
 - https://yenpress.com/kingdom-hearts#N1 -- 404 as of 2026-09-28 -- archived: TODO
 
+ndlsearch.ndl.go.jp (Information)
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000007828316 -- format* (the series is "Game novels", not a bunko light-novel imprint) -- accessed 2026-10-09
+  - キングダムハーツ 上 (The First Door), ISBN 4-7575-1468-9, Square Enix, July 2005, 231p, 19cm, 667 yen, NDL bib ID 000007828316; series title "Game novels"; NDC 913.6 (Japanese literature, novels and tales); intended audience 一般 (general readers); authors: 野村哲也 original plan, 金巻ともこ (Tomoko Kanemaki) author; 19cm, a regular novel size and larger than the 15cm bunko
+
+google books (English Yen Press editions) -- English format* (titled "(light Novel)") -- accessed 2026-10-09
+  - "Kingdom Hearts: The Novel (light Novel)" (https://www.google.com/books/edition/Kingdom_Hearts_The_Novel_light_novel/N-vXoQEACAAJ, paperback, ISBN 9780316260190, 288pp, March 24, 2015; ebook https://www.google.com/books/edition/_/KY2KDgAAQBAJ, ISBN 9780316559614, March 21, 2017), Yen Press, authors Tomoco Kanemaki and Tetsuya Nomura, illustrator Shiro Amano. The title text is the publisher's own metadata; Google also lists "Kingdom Hearts: Chain of Memories The Novel (light Novel)" as a similar book. Anime News Network's licensing article says Yen Press "released the two-volume Kingdom Hearts light novel series by Kanemaki in a one-volume omnibus edition in March 2015"
+
 ## Decisions
 
 ## Surveyed

@@ -80,7 +80,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-DDD-kingdom-hearts-3d-dream-drop-distance-2012' },
         { text: ' in two volumes: ' },
         { emText: 'Side Sora' },
@@ -89,7 +89,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -105,7 +105,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410640-kingdom-hearts-3d-dream-drop-distance' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/410640-kingdom-hearts-3d-dream-drop-distance' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Dream Drop Distance (2012)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Dream Drop Distance HD' },
       ],

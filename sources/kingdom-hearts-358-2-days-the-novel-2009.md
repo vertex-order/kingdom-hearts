@@ -65,6 +65,13 @@ Editions (ISBN) label each link belongs to, since several share a near-identical
 - [Omnibus collection, EN Nook (ASIN B0DTV7PFX5, no ISBN)](https://www.goodreads.com/book/show/42970049-kingdom-hearts-358-2-days) -- accessed 2026-09-29
 - [The Complete Novel Collector's Edition, EN Paperback (ISBN 9781975333324)](https://www.goodreads.com/book/show/58684710) -- collector's edition, not used for languages/ratings -- accessed 2026-09-29
 
+ndlsearch.ndl.go.jp (Information)
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000010570323 -- format* (series "Game novels", a regular 19cm novel line for general readers, not a bunko light-novel imprint) -- accessed 2026-10-09
+  - キングダムハーツ358/2 days vol.1 (The 14th), ISBN 978-4-7575-2604-4, Square Enix, September 2009, 248p, 19cm, 667 yen, NDL bib ID 000010570323; series "Game novels"; NDC 913.6; audience 一般; 野村哲也 original plan, 野島一成 supervisor, 金巻ともこ author
+
+yen press (English editions) -- English format* (sold as a light novel) -- accessed 2026-10-09
+  - Yen Press publishes the English Kingdom Hearts novels as light novels under its Yen On imprint, with "(light novel)" in the titles of the other books in the series (see the google books records in sources/kingdom-hearts-the-novel-2005.md, -re-coded- and -3d-); Anime News Network's licensing article is headlined "Yen Press Licenses More Kingdom Hearts Light Novel Series" (https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443)
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages -- JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

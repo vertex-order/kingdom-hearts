@@ -112,6 +112,13 @@ Editions (ISBN) label each link belongs to, since several share a near-identical
 - [Axel—Seven Days, JA Paperback (ISBN 9784757522558)](https://www.goodreads.com/book/show/36380935-axel---seven-days) -- accessed 2026-10-07
 - [Other Diamonds, JA Tankobon Softcover (ISBN 9784757521520)](https://www.goodreads.com/book/show/49241342-ii-short-stories-vol-1-other-diamonds) -- accessed 2026-10-07
 
+ndlsearch.ndl.go.jp (Information)
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000008168508 -- format* (the series is "Game novels", not a bunko light-novel imprint) -- accessed 2026-10-09
+  - キングダムハーツ2 v.1 (Roxas-Seven Days), ISBN 4-7575-1679-7, Square Enix, May 2006, 228p, 19cm, 667 yen, NDL bib ID 000008168508; series title "Game novels"; NDC 913.6 (Japanese literature, novels and tales); intended audience 一般 (general readers); authors: 野村哲也 original plan, 金巻ともこ (Tomoko Kanemaki) author; 19cm, a regular novel size and larger than the 15cm bunko
+
+yen press (English editions) -- English format* (sold as a light novel) -- accessed 2026-10-09
+  - Yen Press publishes the English Kingdom Hearts novels as light novels under its Yen On imprint, with "(light novel)" in the titles of the other books in the series (see the google books records in sources/kingdom-hearts-the-novel-2005.md, -re-coded- and -3d-); Anime News Network's licensing article is headlined "Yen Press Licenses More Kingdom Hearts Light Novel Series" (https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443)
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia/google-books placeholders to goodreads edition pages -- JA links "Roxas—Seven Days" (Vol. 1, ISBN 9784757516793), EN links the Paperback omnibus (ISBN 9780316471930), scored 4.10 per that page.

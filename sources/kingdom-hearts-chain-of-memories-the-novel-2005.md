@@ -64,4 +64,11 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts:_Chain_of_Memories_2 -- dates*, ISBN*, length* -- accessed 2026-09-28
 - https://wikipedia.org/wiki/Kingdom_Hearts#Printed_adaptations -- accessed 2026-09-25
 
+ndlsearch.ndl.go.jp (Information)
+- https://ndlsearch.ndl.go.jp/books/R100000002-I000007984675 -- format* (the series is "Game novels", not a bunko light-novel imprint) -- accessed 2026-10-09
+  - キングダムハーツチェインオブメモリーズ ソラ編 上 (Sora Part 1), ISBN 4-7575-1568-5, Square Enix, November 2005, 221p, 19cm, 667 yen, NDL bib ID 000007984675; series title "Game novels"; NDC 913.6 (Japanese literature, novels and tales); intended audience 一般 (general readers); authors: 野村哲也 original plan, 金巻ともこ (Tomoko Kanemaki) author; 19cm, a regular novel size and larger than the 15cm bunko
+
+google books (English Yen Press editions) -- English format* (titled "(light Novel)") -- accessed 2026-10-09
+  - Google Books lists "Kingdom Hearts: Chain of Memories The Novel (light Novel)" by Tomoco Kanemaki, Yen Press, originally published March 24, 2015 (seen as a "similar book" on the other KH records, not opened directly); Anime News Network says Yen Press released "Kanemaki's Kingdom Hearts: Chain of Memories light novel series in September 2015"
+
 ## Decisions

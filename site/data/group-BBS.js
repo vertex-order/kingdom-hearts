@@ -98,7 +98,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-2010' },
         { text: ' in three volumes: ' },
         { emText: 'Something Strange' },
@@ -109,7 +109,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '4.07', url: 'https://www.goodreads.com/book/show/41825380' }],
       languages: [
@@ -118,7 +118,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410638-kingdom-hearts-birth-by-sleep' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/410638-kingdom-hearts-birth-by-sleep' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Birth by Sleep (2010)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Birth by Sleep Final Mix' },
       ],

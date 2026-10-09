@@ -60,7 +60,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'χ (2013)', emLinkUrl: '#entry-X-kingdom-hearts-x-2013' },
         { text: ', part of which is retold in ' },
         { emLinkText: 'Union χ (2015)', emLinkUrl: '#entry-X-kingdom-hearts-unchained-x-2015' },
@@ -69,7 +69,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: '162p; P',
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: '162p; P',
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '3.46', url: 'https://www.goodreads.com/book/show/46260393' }],
       languages: [
@@ -78,7 +78,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/search?q=Kingdom%20Hearts%20X%3A%20Your%20Keyblade%2C%20Your%20Story' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/search?q=Kingdom%20Hearts%20X%3A%20Your%20Keyblade%2C%20Your%20Story' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of χ (2013)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts χ', searchQualifier: '[chi]' },
       ],

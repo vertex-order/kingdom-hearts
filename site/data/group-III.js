@@ -147,7 +147,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-III-kingdom-hearts-iii-2019' },
         { text: ', ' },
         { emLinkText: 'A Fragmentary Passage (2017)', emLinkUrl: '#entry-BBS-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017' },
@@ -162,7 +162,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -178,7 +178,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/379250-kingdom-hearts-iii' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/379250-kingdom-hearts-iii' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of III (2019)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III' },
       ],

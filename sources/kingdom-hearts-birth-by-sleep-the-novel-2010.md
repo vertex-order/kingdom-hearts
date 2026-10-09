@@ -55,6 +55,12 @@ wikipedia.org (Information)
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep -- dates*, ISBN*, length*, story* -- accessed 2026-09-28
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- dates* (December 24, 2010 to May 26, 2011) -- accessed 2026-10-07
 
+Cover (scan kept locally in _reference/ffxi manga covers/birth by sleep 10254587.jpg, not committed; Vol.1 Something Strange) -- format* -- accessed 2026-10-09
+  - Prints "Disney SQUARE ENIX" and a GAME NOVELS mark at the top right, the title Kingdom Hearts Birth by Sleep, author 金巻ともこ (Kanemaki Tomoko), Original Plan 野村哲也 (Nomura) and 岡勝 (Oka Masaru), Illustration 天野シロ (Amano Shiro), SQUARE ENIX -- the Square Enix Game Novels line, the same series that the NDL records give for the other KH novels
+
+yen press (English editions) -- English format* (sold as a light novel) -- accessed 2026-10-09
+  - Yen Press publishes the English Kingdom Hearts novels as light novels under its Yen On imprint, with "(light novel)" in the titles of the other books in the series (see the google books records in sources/kingdom-hearts-the-novel-2005.md, -re-coded- and -3d-); Anime News Network's licensing article is headlined "Yen Press Licenses More Kingdom Hearts Light Novel Series" (https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443)
+
 ## Decisions
 
 - Vol. 2 language: Japanese, confirmed -- goodreads' "Slovak" tag (https://www.goodreads.com/book/show/10537628-kingdom-hearts-birth-by-sleep-2) is a metadata error, now resolved by google books independently confirming Japanese (same ISBN, same garbled "Tōkyō : Sukuea Enikkusu" publisher transliteration pattern as Vol. 1/Vol. 3).

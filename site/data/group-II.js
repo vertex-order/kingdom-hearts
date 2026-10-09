@@ -126,7 +126,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'II (2005)', emLinkUrl: '#entry-II-kingdom-hearts-ii-final-mix-2007' },
         { text: ' in four volumes: ' },
         { emText: 'Roxas—Seven Days' },
@@ -150,7 +150,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
         { text: ' Final Mix pre-order bonus book.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '4 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -166,7 +166,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', url: 'https://www.goodreads.com/series/410637-kingdom-hearts-ii' },
+        { key: 'book', name: 'Light Novel', url: 'https://www.goodreads.com/series/410637-kingdom-hearts-ii' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of II (2005)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts II' },
       ],

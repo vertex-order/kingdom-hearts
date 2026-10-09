@@ -141,7 +141,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'YA Novelization of ' },
+        { text: 'Light novel adaptation of ' },
         { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-chain-of-memories-2004' },
         { text: ' in three volumes: ' },
         { emText: 'Sora (Part 1)' },
@@ -152,7 +152,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'YA Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
@@ -168,7 +168,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'YA Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Chain of Memories The Novel' },
+        { key: 'book', name: 'Light Novel', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Chain of Memories The Novel' },
         { key: 'fan-audiobook', search: 'youtube' },
         { key: 'fan-recap', name: 'Fan story recap video of Chain of Memories (2004)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts Re:Chain of Memories' },
       ],
