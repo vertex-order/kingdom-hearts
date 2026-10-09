@@ -105,7 +105,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-coded-kingdom-hearts-re-coded-2010' },
         { text: '.' },
       ],

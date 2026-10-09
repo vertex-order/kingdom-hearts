@@ -80,7 +80,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'Dream Drop Distance (2012)', emLinkUrl: '#entry-DDD-kingdom-hearts-3d-dream-drop-distance-2012' },
         { text: ' in two volumes: ' },
         { emText: 'Side Sora' },

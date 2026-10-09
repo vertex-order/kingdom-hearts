@@ -98,7 +98,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'Birth by Sleep (2010)', emLinkUrl: '#entry-BBS-kingdom-hearts-birth-by-sleep-2010' },
         { text: ' in three volumes: ' },
         { emText: 'Something Strange' },

@@ -120,7 +120,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-Days-kingdom-hearts-358-2-days-2009' },
         { text: ' in three volumes: ' },
         { emText: 'The 14th' },

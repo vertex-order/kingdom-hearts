@@ -126,7 +126,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'II (2005)', emLinkUrl: '#entry-II-kingdom-hearts-ii-final-mix-2007' },
         { text: ' in four volumes: ' },
         { emText: 'Roxas—Seven Days' },

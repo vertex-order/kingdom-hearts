@@ -141,7 +141,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'Chain of Memories (2004)', emLinkUrl: '#entry-CoM-kingdom-hearts-chain-of-memories-2004' },
         { text: ' in three volumes: ' },
         { emText: 'Sora (Part 1)' },

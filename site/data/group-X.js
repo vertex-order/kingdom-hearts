@@ -60,7 +60,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'χ (2013)', emLinkUrl: '#entry-X-kingdom-hearts-x-2013' },
         { text: ', part of which is retold in ' },
         { emLinkText: 'Union χ (2015)', emLinkUrl: '#entry-X-kingdom-hearts-unchained-x-2015' },

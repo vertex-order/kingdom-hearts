@@ -219,7 +219,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
         { text: ' in two volumes: ' },
         { emText: 'The First Door' },

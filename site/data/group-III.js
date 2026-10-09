@@ -147,7 +147,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
       [
-        { text: 'Light novel adaptation of ' },
+        { text: 'Novelization of ' },
         { emLinkText: 'III (2019)', emLinkUrl: '#entry-III-kingdom-hearts-iii-2019' },
         { text: ', ' },
         { emLinkText: 'A Fragmentary Passage (2017)', emLinkUrl: '#entry-BBS-kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017' },
