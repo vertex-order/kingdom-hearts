@@ -131,6 +131,10 @@ goodreads
 - Vol. 3 editions (JA/EN/FR/ES/IT) — same five languages as Vol. 1-2, no new ones — see Editions (ISBN) above — accessed 2026-10-03
 - Vol. 4 editions (JA/FR/ES/IT; EN Panini not yet released) — same languages as Vol. 1-3, no new ones — see Editions (ISBN) above — accessed 2026-10-03
 
+ganganonline.com (Publisher)
+- https://www.ganganonline.com/title/5 (the old address, https://www.ganganonline.com/contents/kingdom/, redirects here) — profile*: Gangan Online's work page for the manga, which Square Enix runs; credits (原案 野村哲也, 作 天野シロ), dates (コミックス第4巻(完) 2025年3月12日発売; "ダークシーカー編、ついに完結"), story — accessed 2026-10-11 (fetched; the credits and dates line from the page) — archived: TODO
+- https://jp.finalfantasy.com/news/3170 — Square Enix's Japanese Final Fantasy news (2020.08.20): the Gangan Online (browser) site was running manga based on games, including Kingdom Hearts III with the page https://www.ganganonline.com/contents/kingdom/ — accessed 2026-10-11 (text pasted by user); the blurb: Sora, having lost the "Power of Waking" after being swallowed by darkness, sets out with Donald and Goofy to regain it across Disney worlds
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.

@@ -115,7 +115,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, recommendedOrder: 4
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '2 volumes' }],
+    primary: { helpWanted: true, tags: ['Optional', 'Manga'], length: [{ value: '2 volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.32', url: 'https://www.goodreads.com/book/show/1508179.Kingdom_Hearts' }],
       languages: [

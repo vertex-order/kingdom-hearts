@@ -102,7 +102,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '10 volumes' }],
+    primary: { helpWanted: true, tags: ['Optional', 'Manga'], length: [{ value: '10 volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.31', url: 'https://www.goodreads.com/book/show/231917' }],
       languages: [

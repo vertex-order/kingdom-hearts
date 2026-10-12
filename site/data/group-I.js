@@ -201,7 +201,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, recommendedOrder: 10, ti
         { text: ' that tells an alternate story. Only ever published in magazines.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Comic', 'Alternate Universe'],
+    primary: { helpWanted: true, tags: ['Optional', 'Comic', 'Alternate Universe'],
       length: '12p',
       languages: [
         { value: 'IT', native: true },

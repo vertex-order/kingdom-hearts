@@ -95,7 +95,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
+    primary: { helpWanted: true, tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.35', url: 'https://www.goodreads.com/book/show/17785892-kingdom-hearts-358-2-days-1' }],
       languages: [

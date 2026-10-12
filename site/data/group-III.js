@@ -126,6 +126,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       ],
     ],
     primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
+      profileUrl: 'https://www.ganganonline.com/title/5',
       ratings: [{ key: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/220365681-kingdom-hearts-iii' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/53104810-iii-1-kingdom-hearts-iii-1' },
