@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 150, title: 'Dream Drop Distance', media: [
-  { chronoOrder: 270, recommendedOrder: 150, mediaType: 'Game',
+window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150, title: 'Dream Drop Distance', media: [
+  { chronoOrder: 270, narrativeOrder: 150, mediaType: 'Game',
     title: 'Kingdom Hearts 3D: Dream Drop Distance', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: '2012-03-29',
     mediaDesc: [
       [
@@ -75,7 +75,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, recommendedOrder: 1
       ],
     },
   },
-  { chronoOrder: 280, recommendedOrder: 160, mediaType: 'Book',
+  { chronoOrder: 280, narrativeOrder: 160, mediaType: 'Book',
     title: 'Kingdom Hearts 3D: Dream Drop Distance The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_3D:_Dream_Drop_Distance', titleDate: { start: '2012-06-28', end: '2012-09-27' },
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [

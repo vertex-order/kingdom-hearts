@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['IV'] = { num: 'IV', chronoOrder: 320, recommendedOrder: 210, title: 'Kingdom Hearts IV', media: [
-  { chronoOrder: 320, recommendedOrder: 210, mediaType: 'Game',
+window.__khGroupReg['IV'] = { num: 'IV', chronoOrder: 320, narrativeOrder: 210, title: 'Kingdom Hearts IV', media: [
+  { chronoOrder: 320, narrativeOrder: 210, mediaType: 'Game',
     title: 'Kingdom Hearts IV', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_IV', titleDate: { start: '2027 late', tba: true }, id: 'kingdom-hearts-iv-2027',
     mediaDesc: [
       [

@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder: 70, title: '358/2 Days', media: [
-  { chronoOrder: 170, recommendedOrder: 70, mediaType: 'Game',
+window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 70, title: '358/2 Days', media: [
+  { chronoOrder: 170, narrativeOrder: 70, mediaType: 'Game',
     title: 'Kingdom Hearts 358/2 Days', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days', titleDate: '2009-05-30',
     mediaDesc: [
       [
@@ -85,7 +85,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
       },
     ],
   },
-  { chronoOrder: 180, recommendedOrder: 80, mediaType: 'Comic',
+  { chronoOrder: 180, narrativeOrder: 80, mediaType: 'Comic',
     title: 'Kingdom Hearts 358/2 Days ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_358/2_Days_(manga)', titleDate: { start: '2010-06-22', end: '2012-09-22' },
     by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
@@ -115,7 +115,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, recommendedOrder:
       ],
     },
   },
-  { chronoOrder: 190, recommendedOrder: 90, mediaType: 'Book',
+  { chronoOrder: 190, narrativeOrder: 90, mediaType: 'Book',
     title: 'Kingdom Hearts 358/2 Days: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels', titleDate: { start: '2009-07-30', end: '2010-05-28' },
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [

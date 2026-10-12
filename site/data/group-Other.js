@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrder: 290, title: 'Other', media: [
-  { chronoOrder: 120, recommendedOrder: 290, mediaType: 'Game',
+window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder: 290, title: 'Other', media: [
+  { chronoOrder: 120, narrativeOrder: 290, mediaType: 'Game',
     title: 'Kingdom Hearts ~V CAST~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(V_CAST)', titleDate: '2005-02-01',
     mediaDesc: [
       [
@@ -20,7 +20,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 312, recommendedOrder: 300, mediaType: 'Game',
+  { chronoOrder: 312, narrativeOrder: 300, mediaType: 'Game',
     title: 'Kingdom Hearts VR Experience', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_VR_Experience', titleDate: '2019-01-23',
     mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games. No new story is introduced.'],
     primary: { tags: ['Optional', 'VR', 'Interactive Video', 'Free'],
@@ -34,7 +34,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 315, recommendedOrder: 305, mediaType: 'Game',
+  { chronoOrder: 315, narrativeOrder: 305, mediaType: 'Game',
     title: 'Kingdom Hearts: Melody of Memory', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Melody_of_Memory', titleDate: '2020-11-11',
     mediaDesc: [
       [
@@ -70,7 +70,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 195, recommendedOrder: 9000, mediaType: 'Game',
+  { chronoOrder: 195, narrativeOrder: 9000, mediaType: 'Game',
     title: 'Kingdom Hearts Magical Puzzle Clash', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Magical_Puzzle_Clash', titleDate: '2009-10-12',
     mediaDesc: [
       [
@@ -89,7 +89,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 265, recommendedOrder: 9010, mediaType: 'Game',
+  { chronoOrder: 265, narrativeOrder: 9010, mediaType: 'Game',
     title: 'Kingdom Hearts Digital Painter', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Digital_Painter', titleDate: '2012-01-07',
     mediaDesc: [
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
@@ -102,7 +102,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 166, recommendedOrder: 9041, mediaType: 'Game',
+  { chronoOrder: 166, narrativeOrder: 9041, mediaType: 'Game',
     title: 'Kingdom Hearts Re:coded Gummiship Studio', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Re:coded_Gummiship_Studio', titleDate: '2011-02-17',
     mediaDesc: [
       [
@@ -121,7 +121,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { chronoOrder: 165, recommendedOrder: 9040, mediaType: 'Game',
+  { chronoOrder: 165, narrativeOrder: 9040, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
     mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames. The game is terminated.'],
     primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
@@ -131,7 +131,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, recommendedOrde
       ],
     },
   },
-  { mediaType: 'Game', chronoOrder: 100000, recommendedOrder: 100000,
+  { mediaType: 'Game', chronoOrder: 100000, narrativeOrder: 100000,
     title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: 2026, ongoing: true },
     mediaDesc: [
       [

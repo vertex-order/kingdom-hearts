@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100, title: 'Kingdom Hearts II', media: [
-  { chronoOrder: 200, recommendedOrder: 100, mediaType: 'Game',
+window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 100, title: 'Kingdom Hearts II', media: [
+  { chronoOrder: 200, narrativeOrder: 100, mediaType: 'Game',
     title: 'Kingdom Hearts II Final Mix', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix', titleDate: '2007-03-29', releaseOrderDate: '2005-12-22',
     mediaDesc: [
       [
@@ -92,7 +92,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
       ],
     },
   },
-  { chronoOrder: 220, recommendedOrder: 110, mediaType: 'Comic',
+  { chronoOrder: 220, narrativeOrder: 110, mediaType: 'Comic',
     title: 'Kingdom Hearts II ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_II_(manga)', titleDate: { start: '2006-12-22', end: '2015-08-22' },
     by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
@@ -121,7 +121,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
       ],
     },
   },
-  { chronoOrder: 230, recommendedOrder: 120, mediaType: 'Book',
+  { chronoOrder: 230, narrativeOrder: 120, mediaType: 'Book',
     title: 'Kingdom Hearts II: The Novel', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations', titleDate: { start: '2006-04-22', end: '2007-02-27' },
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
@@ -172,7 +172,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, recommendedOrder: 100
       ],
     },
   },
-  { chronoOrder: 235, recommendedOrder: 9030, mediaType: 'Game',
+  { chronoOrder: 235, narrativeOrder: 9030, mediaType: 'Game',
     title: 'Kingdom Hearts Collaboration: Gummi Ship Campaign', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Collaboration:_Gummi_Ship_Campaign', titleDate: '2018-02-10',
     mediaDesc: [
       [

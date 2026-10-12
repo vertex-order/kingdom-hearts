@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrder: 130, title: 'Re:coded', media: [
-  { chronoOrder: 240, recommendedOrder: 130, mediaType: 'Game',
+window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder: 130, title: 'Re:coded', media: [
+  { chronoOrder: 240, narrativeOrder: 130, mediaType: 'Game',
     title: 'Kingdom Hearts Re:coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_Re:coded', titleDate: '2010-10-07', releaseOrderDate: '2008-11-18',
     mediaDesc: [
       [
@@ -100,7 +100,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, recommendedOrde
       },
     ],
   },
-  { chronoOrder: 245, recommendedOrder: 135, mediaType: 'Book',
+  { chronoOrder: 245, narrativeOrder: 135, mediaType: 'Book',
     title: 'Kingdom Hearts Re:coded The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_Re:coded', titleDate: '2011-07-28',
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [

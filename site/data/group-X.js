@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, title: 'χ', media: [
-  { chronoOrder: 20, recommendedOrder: 240, mediaType: 'Game',
+window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, title: 'χ', media: [
+  { chronoOrder: 20, narrativeOrder: 240, mediaType: 'Game',
     title: 'Kingdom Hearts χ', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87', titleDate: '2013-07-18', id: 'kingdom-hearts-x-2013',
     mediaDesc: [
       [
@@ -23,7 +23,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
       ],
     },
   },
-  { chronoOrder: 30, recommendedOrder: 250, mediaType: 'Game',
+  { chronoOrder: 30, narrativeOrder: 250, mediaType: 'Game',
     title: 'Kingdom Hearts Union χ', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Union_%CF%87', titleDate: '2015-09', id: 'kingdom-hearts-unchained-x-2015',
     mediaDesc: [
       [
@@ -55,7 +55,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
       ],
     },
   },
-  { chronoOrder: 25, recommendedOrder: 245, mediaType: 'Book',
+  { chronoOrder: 25, narrativeOrder: 245, mediaType: 'Book',
     title: 'Kingdom Hearts χ The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_.CF.87', titleDate: '2019-01-25', id: 'kingdom-hearts-x-the-novel-2019',
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
@@ -84,7 +84,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
       ],
     },
   },
-  { chronoOrder: 35, recommendedOrder: 252, mediaType: 'Movie',
+  { chronoOrder: 35, narrativeOrder: 252, mediaType: 'Movie',
     title: 'Kingdom Hearts χ Back Cover', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_%CF%87_Back_Cover', titleDate: '2017-01-12', id: 'kingdom-hearts-x-back-cover-2017',
     mediaDesc: [
       [
@@ -137,7 +137,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, recommendedOrder: 240, t
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 50, recommendedOrder: 255, mediaType: 'Game',
+  { chronoOrder: 50, narrativeOrder: 255, mediaType: 'Game',
     title: 'Kingdom Hearts Dark Road', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Dark_Road', titleDate: '2020-06-22', id: 'kingdom-hearts-dark-road-2020',
     mediaDesc: [
       [

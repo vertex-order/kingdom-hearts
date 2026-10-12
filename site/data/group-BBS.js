@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 260, title: 'Birth by Sleep', media: [
-  { chronoOrder: 60, recommendedOrder: 260, mediaType: 'Game',
+window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, narrativeOrder: 260, title: 'Birth by Sleep', media: [
+  { chronoOrder: 60, narrativeOrder: 260, mediaType: 'Game',
     title: 'Kingdom Hearts Birth by Sleep Final Mix', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Final_Mix', titleDate: '2011-01-20', releaseOrderDate: '2010-01-09',
     mediaDesc: [
       [
@@ -93,7 +93,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
       ],
     },
   },
-  { chronoOrder: 70, recommendedOrder: 270, mediaType: 'Book',
+  { chronoOrder: 70, narrativeOrder: 270, mediaType: 'Book',
     title: 'Kingdom Hearts Birth by Sleep The Novel', titleUrl: 'https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Kingdom_Hearts_Birth_by_Sleep', titleDate: { start: '2010-12-24', end: '2011-05-26' },
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
@@ -124,7 +124,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, recommendedOrder: 26
       ],
     },
   },
-  { chronoOrder: 80, recommendedOrder: 280, mediaType: 'Game',
+  { chronoOrder: 80, narrativeOrder: 280, mediaType: 'Game',
     title: 'Kingdom Hearts 0.2 Birth by Sleep – A fragmentary passage –', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_0.2_Birth_by_Sleep_-A_fragmentary_passage-', titleDate: '2017-01-12', id: 'kingdom-hearts-0-2-birth-by-sleep-a-fragmentary-passage-2017',
     mediaDesc: [
       [

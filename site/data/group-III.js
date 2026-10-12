@@ -1,6 +1,6 @@
 // schema: group.schema.json
-window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 180, title: 'Kingdom Hearts III', media: [
-  { chronoOrder: 290, recommendedOrder: 180, mediaType: 'Game',
+window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180, title: 'Kingdom Hearts III', media: [
+  { chronoOrder: 290, narrativeOrder: 180, mediaType: 'Game',
     title: 'Kingdom Hearts III', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_III', titleDate: '2019-01-25',
     mediaDesc: [
       [
@@ -59,7 +59,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 300, recommendedOrder: 190, mediaType: 'Game',
+  { chronoOrder: 300, narrativeOrder: 190, mediaType: 'Game',
     title: 'Kingdom Hearts III Re Mind', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_III#Kingdom_Hearts_III_Re_Mind', titleDate: '2020-01-23',
     mediaDesc: [
       [
@@ -113,7 +113,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       profileUrl: 'https://www.square-enix.com/kingdomhearts/collection/',
     },
   },
-  { chronoOrder: 305, recommendedOrder: 195, mediaType: 'Comic',
+  { chronoOrder: 305, narrativeOrder: 195, mediaType: 'Comic',
     title: 'Kingdom Hearts III ~Manga~', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_III_(manga)', titleDate: { start: '2020-04-11', end: '2026-08-04' },
     by: [{ role: 'adapted', names: 'Shiro Amano' }],
     mediaDesc: [
@@ -143,7 +143,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, recommendedOrder: 1
       ],
     },
   },
-  { chronoOrder: 310, recommendedOrder: 200, mediaType: 'Book',
+  { chronoOrder: 310, narrativeOrder: 200, mediaType: 'Book',
     title: 'Kingdom Hearts III: The Novel', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(novels)#Kingdom_Hearts_III', titleDate: { start: '2019-03-28', end: '2020-05-28' },
     by: [{ role: 'adapted', names: 'Tomoko Kanemaki' }],
     mediaDesc: [
