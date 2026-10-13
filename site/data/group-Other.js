@@ -6,10 +6,10 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
       [
         { text: "Sora struggles to free himself from a nightmare induced by Maleficent's magic. Gameplay akin to the first " },
         { emLinkText: 'Kingdom Hearts (2002)', emLinkUrl: '#entry-I-kingdom-hearts-final-mix-2002' },
-        { text: ' game, modified for the input method of mobile phones. The game is terminated.' },
+        { text: ' game, modified for the input method of mobile phones.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Alternate Universe', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Alternate Universe'], terminated: true, helpWanted: true,
       length: '4h',
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
@@ -78,10 +78,10 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { emLinkText: '358/2 Days (2009)', emLinkUrl: '#entry-Days-kingdom-hearts-358-2-days-2009' },
         { text: '. Released as ' },
         { emText: 'Kingdom Hearts 358/2 Days Magical Puzzle Clash' },
-        { text: '. The game is terminated.' },
+        { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -92,9 +92,9 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
   { chronoOrder: 265, narrativeOrder: 9010, mediaType: 'Game',
     title: 'Kingdom Hearts Digital Painter', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Digital_Painter', titleDate: '2012-01-07',
     mediaDesc: [
-      'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
+      'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets.',
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Draw', 'Free', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Draw', 'Free'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN', native: true }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -110,10 +110,10 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { emLinkText: 'Mobile (2008)', emLinkUrl: '#entry-Other-kingdom-hearts-mobile-2008' },
         { text: ' meant to promote ' },
         { emLinkText: 'Re:coded (2010)', emLinkUrl: '#entry-coded-kingdom-hearts-re-coded-2010' },
-        { text: '. It had little to no plot and was not canon. The game is terminated.' },
+        { text: '. It had little to no plot and was not canon.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'facebook', paren: 'Flash', terminated: true },
@@ -123,8 +123,8 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
   },
   { chronoOrder: 165, narrativeOrder: 9040, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
-    mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames. The game is terminated.'],
-    primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], helpWanted: true,
+    mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames.'],
+    primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], terminated: true, helpWanted: true,
       platforms: [
         { key: 'mobile-phone', paren: 'NTT DoCoMo', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },

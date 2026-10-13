@@ -34,7 +34,8 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
       versions: [
         {
           title: 'Kingdom Hearts Coded', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_Coded', titleDate: { start: '2008-11-18', end: '2010-01-28' }, id: 'kingdom-hearts-coded-2008',
-          tags: ['Episodic', 'Terminated'],
+          tags: ['Episodic'],
+          terminated: true,
           versionDesc: ['The original episodic release, split into a prologue and 8 episodes, discontinued for download in 2013.'],
           languages: [{ value: 'JA', native: true }],
           platforms: [
