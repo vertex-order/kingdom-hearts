@@ -81,7 +81,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: '. The game is terminated.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player', 'Terminated'], helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -94,7 +94,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
     mediaDesc: [
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets. The game is terminated.',
     ],
-    primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Draw', 'Free', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Draw', 'Free', 'Terminated'], helpWanted: true,
       languages: [{ value: 'EN', native: true }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -113,7 +113,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: '. It had little to no plot and was not canon. The game is terminated.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Spin-off', 'Minigame', 'Arcade Puzzle', 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Terminated'], helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'facebook', paren: 'Flash', terminated: true },

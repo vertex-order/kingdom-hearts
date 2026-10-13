@@ -185,7 +185,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 100, 
         { text: '. The game is terminated.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Spin-off', 'Minigame', "Shoot 'em up", 'Terminated'], helpWanted: true,
+    primary: { tags: ['Optional', 'Minigame', "Shoot 'em up", 'Terminated'], helpWanted: true,
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'mobile-phone', terminated: true },
