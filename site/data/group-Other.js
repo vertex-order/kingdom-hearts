@@ -9,7 +9,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: ' game, modified for the input method of mobile phones.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Alternate Universe'], terminated: true, helpWanted: true,
+    primary: { tags: ['Alternate Universe'], terminated: true, helpWanted: true,
       length: '4h',
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
@@ -23,7 +23,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
   { chronoOrder: 312, narrativeOrder: 300, mediaType: 'Game',
     title: 'Kingdom Hearts VR Experience', titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_VR_Experience', titleDate: '2019-01-23',
     mediaDesc: ['Featuring iconic moments and music from the Kingdom Hearts games. No new story is introduced.'],
-    primary: { tags: ['Optional', 'VR', 'Interactive Video', 'Free'],
+    primary: { tags: ['VR', 'Interactive Video', 'Free'],
       length: [{ value: '25m', tip: 'Main Story' }, { value: '45m', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/kingdom-hearts-vr-experience/' }],
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
@@ -45,7 +45,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: ' scenario.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
+    primary: { tags: ['Rhythm', 'Single-player', 'Multiplayer', 'Co-op'],
       length: [{ value: '9h', tip: 'Main Story' }, { value: '16½h', tip: 'Main + Sides' }, { value: '52½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '79', url: 'https://www.metacritic.com/game/kingdom-hearts-melody-of-memory/', label: 'Metacritic (Switch)' }, { key: 'metacritic-user', score: '7.1', url: 'https://www.metacritic.com/game/kingdom-hearts-melody-of-memory/' }],
       languages: [
@@ -81,7 +81,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player'], terminated: true, helpWanted: true,
+    primary: { tags: ['Minigame', 'Arcade Puzzle', 'Match 3', 'Single-player'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -94,7 +94,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
     mediaDesc: [
       'Creative art studio that lets you create original art or remix existing Kingdom Hearts assets.',
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Draw', 'Free'], terminated: true, helpWanted: true,
+    primary: { tags: ['Minigame', 'Draw', 'Free'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN', native: true }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Flash', terminated: true },
@@ -113,7 +113,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: '. It had little to no plot and was not canon.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Minigame', 'Arcade Puzzle'], terminated: true, helpWanted: true,
+    primary: { tags: ['Minigame', 'Arcade Puzzle'], terminated: true, helpWanted: true,
       languages: [{ value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'facebook', paren: 'Flash', terminated: true },
@@ -124,7 +124,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
   { chronoOrder: 165, narrativeOrder: 9040, mediaType: 'Game',
     title: 'Kingdom Hearts Mobile', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile', titleDate: '2008-12-15',
     mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames.'],
-    primary: { tags: ['Optional', '2D', 'Minigames', 'Social'], terminated: true, helpWanted: true,
+    primary: { tags: ['2D', 'Minigames', 'Social'], terminated: true, helpWanted: true,
       platforms: [
         { key: 'mobile-phone', paren: 'NTT DoCoMo', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
@@ -144,6 +144,6 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { text: ' also feature Kingdom Hearts characters.' },
       ],
     ],
-    primary: { tags: ['Optional'], noCheckbox: true },
+    primary: { tags: [], noCheckbox: true },
   },
 ]};

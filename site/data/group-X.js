@@ -13,7 +13,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Prequel', '2D', 'RPG', 'Single-player', 'Multiplayer'], terminated: true, helpWanted: true,
+    primary: { tags: ['2D', 'RPG', 'Single-player', 'Multiplayer'], terminated: true, helpWanted: true,
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchQualifier: '[chi]', searchSuffix: 'fan port', noResults: true },
@@ -40,7 +40,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Prequel', 'RPG', 'Single-player', 'Multiplayer'], terminated: true, helpWanted: true,
+    primary: { tags: ['RPG', 'Single-player', 'Multiplayer'], terminated: true, helpWanted: true,
       length: [{ value: '8½h', tip: 'Main Story' }, { value: '14½h', tip: 'Main + Sides' }, { value: '18½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '70', url: 'https://www.metacritic.com/game/kingdom-hearts-unchained-x/' }, { key: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/kingdom-hearts-unchained-x/' }],
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
@@ -69,7 +69,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: '162p; P',
+    primary: { tags: ['Light Novel'], helpWanted: true, length: '162p; P',
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '3.46', url: 'https://www.goodreads.com/book/show/46260393' }],
       languages: [
@@ -93,7 +93,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Prequel', 'Movie'],
+    primary: { tags: ['Essential', 'Movie'],
       length: '1h',
       versionDesc: [
         [
@@ -148,7 +148,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { text: ' for the occasion.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Prequel', 'Action RPG', 'CCG', 'Single-player'], terminated: true, helpWanted: true,
+    primary: { tags: ['Action RPG', 'CCG', 'Single-player'], terminated: true, helpWanted: true,
       length: [{ value: '47½h', tip: 'Main Story' }, { value: '49½h', tip: 'Main + Sides' }],
       ratings: [{ key: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/kingdom-hearts-dark-road/' }],
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],

@@ -15,7 +15,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Action RPG', 'Single-player', 'Co-op'], helpWanted: true,
+    primary: { tags: ['Action RPG', 'Single-player', 'Co-op'], helpWanted: true,
       length: [{ value: '26½h', tip: 'Main Story' }, { value: '34h', tip: 'Main + Sides' }, { value: '55h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '75', url: 'https://www.metacritic.com/game/kingdom-hearts-358-2-days/' }, { key: 'metacritic-user', score: '7.7', url: 'https://www.metacritic.com/game/kingdom-hearts-358-2-days/' }],
       languages: [
@@ -33,7 +33,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
     alts: [
       {
         title: 'Kingdom Hearts 358/2 Days (Theater Mode)', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#HD_1.5_Remix', titleDate: '2013-03-14',
-        tags: ['Optional', 'Movie'],
+        tags: ['Movie'],
         length: '3h',
         languages: [
           { value: 'JA', native: true, voice: true },
@@ -95,7 +95,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
         { text: '.' },
       ],
     ],
-    primary: { helpWanted: true, tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
+    primary: { helpWanted: true, tags: ['Manga'], length: [{ value: '5 volumes' }],
       subtitle: 'Comic',
       ratings: [{ key: 'goodreads', score: '4.35', url: 'https://www.goodreads.com/book/show/17785892-kingdom-hearts-358-2-days-1' }],
       languages: [
@@ -131,7 +131,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [

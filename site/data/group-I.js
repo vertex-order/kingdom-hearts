@@ -9,7 +9,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
         { text: ', and features several of its characters.' },
       ],
     ],
-    primary: { mainline: true, tags: ['Action RPG', 'Hack and slash', 'Single-player'],
+    primary: { tags: ['Mainline', 'Action RPG', 'Hack and slash', 'Single-player'],
       length: [{ value: '28½h', tip: 'Main Story' }, { value: '41h', tip: 'Main + Sides' }, { value: '62½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '85', url: 'https://www.metacritic.com/game/kingdom-hearts/' }, { key: 'metacritic-user', score: '8.5', url: 'https://www.metacritic.com/game/kingdom-hearts/' }],
       subtitle: 'Remaster', subtitleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts_(video_game)#HD_1.5_Remix', subtitleDate: '2013-03-14',
@@ -114,7 +114,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '4 volumes' }],
+    primary: { tags: ['Manga'], length: [{ value: '4 volumes' }],
       subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: 2025,
       helpWanted: true,
       ratings: [{ key: 'goodreads', score: '4.50', url: 'https://www.goodreads.com/book/show/231912.Kingdom_Hearts' }],
@@ -201,7 +201,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
         { text: ' that tells an alternate story. Only ever published in magazines.' },
       ],
     ],
-    primary: { helpWanted: true, tags: ['Optional', 'Comic', 'Alternate Universe'],
+    primary: { helpWanted: true, tags: ['Comic', 'Alternate Universe'],
       length: '12p',
       languages: [
         { value: 'IT', native: true },
@@ -228,7 +228,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
+    primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [

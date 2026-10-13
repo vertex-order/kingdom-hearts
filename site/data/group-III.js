@@ -11,7 +11,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
         { text: '.' },
       ],
     ],
-    primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
+    primary: { tags: ['Mainline', 'Action RPG', 'Single-player'], helpWanted: true,
       length: [{ value: '29h', tip: 'Main Story' }, { value: '40h', tip: 'Main + Sides' }, { value: '64½h', tip: 'Completionist' }],
       versionDesc: [
         [
@@ -79,7 +79,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Sequel', 'DLC', 'Action RPG', 'Single-player'],
+    primary: { tags: ['DLC', 'Action RPG', 'Single-player'],
       subtitle: 'DLC',
       length: [{ value: '4h', tip: 'Main Story' }, { value: '10½h', tip: 'Main + Sides' }, { value: '19h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/kingdom-hearts-iii-re-mind/' }, { key: 'metacritic-user', score: '6.3', url: 'https://www.metacritic.com/game/kingdom-hearts-iii-re-mind/' }],
@@ -125,7 +125,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Manga'], length: [{ value: '5 volumes' }],
+    primary: { tags: ['Manga'], length: [{ value: '5 volumes' }],
       profileUrl: 'https://www.ganganonline.com/title/5',
       ratings: [{ key: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/220365681-kingdom-hearts-iii' }],
       languages: [
@@ -163,7 +163,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
+    primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [

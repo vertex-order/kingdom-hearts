@@ -11,7 +11,7 @@ window.__khGroupReg['IV'] = { num: 'IV', chronoOrder: 320, narrativeOrder: 210, 
         { text: ', Sora wakes up trapped in Quadratum, a realistic city world, while Donald and Goofy search the Underworld for clues to his whereabouts.' },
       ],
     ],
-    primary: { mainline: true, tags: ['Sequel', 'Action RPG', 'Single-player'], helpWanted: true,
+    primary: { tags: ['Mainline', 'Action RPG', 'Single-player'], helpWanted: true,
       ratings: [{ key: 'tbd', url: 'https://www.metacritic.com/game/kingdom-hearts-iv/' }],
       languages: [
         { value: 'JA', native: true, voice: true },

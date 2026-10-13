@@ -11,7 +11,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Sequel', 'Action RPG', 'Puzzle', 'Single-player'], helpWanted: true,
+    primary: { tags: ['Essential', 'Action RPG', 'Puzzle', 'Single-player'], helpWanted: true,
       length: [{ value: '15½h', tip: 'Main Story' }, { value: '24½h', tip: 'Main + Sides' }, { value: '60h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '66', url: 'https://www.metacritic.com/game/kingdom-hearts-re-coded/' }, { key: 'metacritic-user', score: '6.5', url: 'https://www.metacritic.com/game/kingdom-hearts-re-coded/' }],
       versionDesc: [
@@ -47,7 +47,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
     alts: [
       {
         title: 'Kingdom Hearts Re:coded (Theater Mode)', titleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded#Kingdom_Hearts_HD_2.5_Remix', titleDate: '2014-10-02',
-        tags: ['Optional', 'Movie'],
+        tags: ['Movie'],
         length: '3h',
         versionDesc: [
           [
@@ -111,7 +111,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: '210p; P',
+    primary: { tags: ['Light Novel'], helpWanted: true, length: '210p; P',
       subtitle: 'Book',
       ratings: [{ key: 'goodreads', score: '3.70', url: 'https://www.goodreads.com/book/show/43886678' }],
       languages: [

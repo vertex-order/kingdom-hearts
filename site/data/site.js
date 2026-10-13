@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
   // from `name` instead. Set this explicitly, once, before this repo has real
   // visitors with saved checklist/theme state, and never change it after.
   tagline: [
-    { text: "A recommended way to experience the Kingdom Hearts franchise, listing the mainline games alongside their remakes, manga, and novels. Optional extras are marked — skip them and the series still holds together. A franchise in its own right, with original characters and story: a crossover that primarily focuses on Disney characters, though some entries also feature " },
+    { text: "A recommended way to experience the Kingdom Hearts franchise, listing the mainline games alongside their remakes, manga, and novels. Essential entries are marked; the rest are optional extras — skip them and the series still holds together. A franchise in its own right, with original characters and story: a crossover that primarily focuses on Disney characters, though some entries also feature " },
     { em: "Final Fantasy", url: "/final-fantasy/" },
     { text: " characters." }
   ],

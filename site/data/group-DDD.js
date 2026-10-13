@@ -11,7 +11,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Sequel', 'Action RPG', 'Single-player', 'Multiplayer'], helpWanted: true,
+    primary: { tags: ['Essential', 'Action RPG', 'Single-player', 'Multiplayer'], helpWanted: true,
       length: [{ value: '21h', tip: 'Main Story' }, { value: '30½h', tip: 'Main + Sides' }, { value: '56½h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '75', url: 'https://www.metacritic.com/game/kingdom-hearts-3d-dream-drop-distance/' }, { key: 'metacritic-user', score: '7.6', url: 'https://www.metacritic.com/game/kingdom-hearts-3d-dream-drop-distance/' }],
       subtitle: 'Remaster (2017)', subtitleUrl: 'https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#Kingdom_Hearts_Dream_Drop_Distance_HD',
@@ -89,7 +89,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
         { text: '.' },
       ],
     ],
-    primary: { tags: ['Optional', 'Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
+    primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '2 volumes' }],
       subtitle: 'Book',
       versionDesc: [
         [
