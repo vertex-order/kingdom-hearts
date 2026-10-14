@@ -15,4 +15,8 @@
 - https://wikipedia.org/wiki/Kingdom_Hearts#Other_games -- games*, platforms, story -- accessed 2026-09-25
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile -- dates*, platforms*, versions* -- accessed 2026-09-25
 
+## Square Enix (Publisher)
+
+- https://web.archive.org/web/20090821182927/http://www.square-enix.co.jp/mobile/kh/ -- official Square Enix mobile page (http://www.square-enix.co.jp/mobile/kh/), Wayback copy of 2009-08-21; the Flash site doesn't load, so it is not used as the profile or platform link -- accessed 2026-10-13 (checked by user)
+
 ## Decisions

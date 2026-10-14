@@ -32,6 +32,10 @@
 - https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
 - https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
 
+## Nintendo (Platform)
+
+- https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-358-2-Days-271232.html -- profile* -- Nintendo UK's DS page, the only game version of this entry (the 358/2 Days Movie in the HD 2.8 bundle is a separate alt with its own profile) -- accessed 2026-10-13 (confirmed by user: still loads, shows System Nintendo DS, release 09/10/2009, publisher and developer Square Enix, PEGI 12, 1-4 players, overview) -- archived: TODO
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, story, platforms -- accessed 2026-09-24

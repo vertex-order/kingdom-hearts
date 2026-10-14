@@ -43,6 +43,8 @@
 - https://www.nintendo.com/store/products/kingdom-hearts-integrum-masterpiece-for-cloud-switch/ -- platform -- accessed 2026-09-26
 - https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/ -- platform, languages* -- accessed 2026-09-26
 
+- https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/KINGDOM-HEARTS-HD-1-5-2-5-ReMIX-3109740.html -- Nintendo UK's Switch download page for the HD 1.5+2.5 ReMIX, dated 08/10/2026; confirmed live by user, not yet used in the entry -- accessed 2026-10-13 -- archived: TODO
+
 ## Playstation (Platform)
 
 - [Kingdom Hearts: All-in-One Package](https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000) -- platform -- accessed 2026-09-26
@@ -52,7 +54,9 @@
 
 ## Square Enix (Publisher)
 
-- https://www.square-enix.com/kingdomhearts/collection/ -- platform -- accessed 2026-09-25
+- https://www.square-enix.com/kingdomhearts/collection/ -- platform, profile* (checked 2026-10-13: resolves; lists store links for all regions and platforms, physical copies included, for the HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue, III + Re Mind and Collection [I-III] bundles; the games are mostly sold only as these bundles, so entries share this link) -- accessed 2026-09-25
+- https://www.jp.square-enix.com/kingdom/khhd/ -- Kingdom Hearts -HD 1.5 ReMIX-, official site (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+- https://www.jp.square-enix.com/kingdom/collection/ -- Kingdom Hearts Collection [I-III], official page (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
 
 ## Steam (Platform, Ratings)
 

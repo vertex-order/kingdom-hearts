@@ -33,6 +33,10 @@
 - https://www.metacritic.com/game/kingdom-hearts-all-in-one-package/ -- ratings, platform -- accessed 2026-09-25
 - https://www.metacritic.com/game/kingdom-hearts-the-story-so-far/ -- ratings, platform -- accessed 2026-09-25
 
+## Nintendo (Platform)
+
+- https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-Re-coded-271243.html -- profile* -- Nintendo UK's DS page for Re:coded, Nintendo DS, 14/01/2011 (confirmed live by user); the Coded mobile version has no surviving official page -- accessed 2026-10-13 -- archived: TODO
+
 ## wikipedia.org (Information)
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- games*, story -- accessed 2026-09-24

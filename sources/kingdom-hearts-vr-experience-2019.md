@@ -22,4 +22,9 @@
 
 - https://wikipedia.org/wiki/Kingdom_Hearts#Other_games -- dates*, platforms*, versions* -- accessed 2026-09-25
 
+## Square Enix (Publisher)
+
+- https://press.na.square-enix.com/KINGDOM-HEARTS-VR-Experience -- Square Enix North America press site: press assets only, not a game page, so not used as the profile -- accessed 2026-10-13 (checked by user) -- archived: TODO
+- No official Square Enix game page exists (checked by user 2026-10-13); the US PlayStation Store page above stays the platform link
+
 ## Decisions

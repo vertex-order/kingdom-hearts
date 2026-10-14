@@ -56,7 +56,9 @@
 
 ## Square Enix (Publisher)
 
-- https://www.square-enix.com/kingdomhearts/collection/ -- platform -- accessed 2026-09-25
+- https://www.square-enix.com/kingdomhearts/collection/ -- platform, profile* (checked 2026-10-13: resolves; lists store links for all regions and platforms, physical copies included, for the HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue, III + Re Mind and Collection [I-III] bundles; the games are mostly sold only as these bundles, so entries share this link) -- accessed 2026-09-25
+- https://www.jp.square-enix.com/kingdom/khhd/ -- Kingdom Hearts -HD 1.5 ReMIX-, official site (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+- https://www.jp.square-enix.com/kingdom/collection/ -- Kingdom Hearts Collection [I-III], official page (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
 
 ## Steam (Platform)
 
@@ -67,6 +69,10 @@
 - https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9PHFH70F3ZRW/0017 -- platform, languages* -- accessed 2026-09-26
 - https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform, languages* -- accessed 2026-09-26
 - https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017 -- platform -- accessed 2026-09-26
+
+## Nintendo (Platform)
+
+- https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Kingdom-Hearts-Chain-of-Memories-266881.html -- profile* -- Nintendo UK's Game Boy Advance page for the original Chain of Memories, 06/05/2005 (confirmed live by user); the profile of the GBA alt -- accessed 2026-10-13 -- archived: TODO
 
 ## wikipedia.org (Information)
 

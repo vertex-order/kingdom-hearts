@@ -27,6 +27,22 @@
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Companion_books
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Novels
 
+## Square Enix (Publisher)
+
+- https://www.jp.square-enix.com/kingdom/ -- official franchise portal, Square Enix (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+- https://www.jp.square-enix.com/kingdom/20th/event/archive/index.html -- 20th anniversary archive, official (JP) -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+- https://www.jp.square-enix.com/music/en/lineup/series/KH/ -- Square Enix Music: Kingdom Hearts lineup (soundtracks, concerts); not an entry profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+- https://www.jp.square-enix.com/kingdom/collection/ -- Kingdom Hearts Collection [I-III], official page (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
+
+## Square Enix US (Publisher)
+
+- https://www.square-enix.com/kingdomhearts/ -- promo page with a 12-region picker, linking HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue, III and Melody of Memory; the parent of the collection page (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
+- https://www.square-enix.com/kingdomhearts/1525/us/ -- HD 1.5+2.5 ReMIX promo page, videos and descriptions, buy links PS4, Xbox One, Epic Games; region-specific link; the region can't be stripped (go to the parent, pick a region, click through) (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
+- https://www.square-enix.com/kingdomhearts/2_8/us/ -- HD 2.8 Final Chapter Prologue promo page, buy links PS4, Xbox One, Epic Games; region-specific link; the region can't be stripped (go to the parent, pick a region, click through) (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
+- https://www.square-enix.com/kingdomhearts/3/us/ -- Kingdom Hearts III promo page; region-specific link; the region can't be stripped (go to the parent, pick a region, click through) (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
+- https://www.square-enix.com/kingdomhearts/3/us/buy/ -- III buy page: standard, deluxe and digital editions; US has PS4, Xbox One, PC links and retailers Square Enix Store, Amazon, GameStop, Best Buy, Target, Walmart; region-specific link; the region can't be stripped (go to the parent, pick a region, click through) (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
+- KH IV: https://www.square-enix-games.com/games/kingdom-hearts-iv loads nothing (checked by user 2026-10-13), so no official KH IV page; the store links stay the platform links
+
 ## Decisions
 
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.

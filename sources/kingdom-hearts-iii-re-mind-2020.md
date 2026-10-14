@@ -44,7 +44,8 @@
 
 ## Square Enix (Publisher)
 
-- https://www.square-enix.com/kingdomhearts/collection/ -- platform -- accessed 2026-09-25
+- https://www.square-enix.com/kingdomhearts/collection/ -- platform, profile* (checked 2026-10-13: resolves; lists store links for all regions and platforms, physical copies included, for the HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue, III + Re Mind and Collection [I-III] bundles; the games are mostly sold only as these bundles, so entries share this link) -- accessed 2026-09-25
+- https://www.jp.square-enix.com/kingdom/kh3/dlc/index.html -- Kingdom Hearts III DLC, official page (JP) -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
 
 ## Steam (Platform)
 

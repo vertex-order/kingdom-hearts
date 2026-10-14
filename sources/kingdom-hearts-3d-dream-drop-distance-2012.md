@@ -38,6 +38,8 @@
 - https://www.nintendo.com/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-switch-2/ -- platform, languages* -- accessed 2026-09-26
 - https://www.nintendo.com/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version-switch/ -- platform, languages* -- accessed 2026-09-26
 
+- https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/KINGDOM-HEARTS-3D-Dream-Drop-Distance--274292.html -- profile* -- Nintendo UK's 3DS page, the original release (the version row); confirmed live by user -- accessed 2026-10-13 -- archived: TODO
+
 ## Playstation (Platform)
 
 - [Kingdom Hearts HD 2.8 Final Chapter Prologue (PS5)](https://store.playstation.com/product/UP0082-PPSA35909_00-KHHD28RMX0000000) -- platform -- accessed 2026-09-26
