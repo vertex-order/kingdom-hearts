@@ -96,6 +96,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, narrativeOrder: 40,
         versionDesc: ['The original release in isometric pixel art.'],
         languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
+        profileUrl: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Kingdom-Hearts-Chain-of-Memories-266881.html',
         platforms: [
           { key: 'nintendo-game-boy-advance', paren: 'Physical' },
           { key: 'fan-movie', search: 'youtube', searchQualifier: 'gba' },

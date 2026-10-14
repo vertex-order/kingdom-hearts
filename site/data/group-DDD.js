@@ -66,6 +66,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
             ['The original release, using the 3DS dual screen, touchscreen controls, and supporting Autostereoscopic 3D.'],
           ],
           helpWanted: true,
+          profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/KINGDOM-HEARTS-3D-Dream-Drop-Distance--274292.html',
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           platforms: [
             { key: 'nintendo-3ds' },

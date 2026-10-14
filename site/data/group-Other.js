@@ -56,6 +56,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
         { value: 'DE', textOnly: true },
         { value: 'ES-ES', textOnly: true },
       ],
+      profileUrl: 'https://www.square-enix.com/kingdomhearts/melody-of-memory/',
       platforms: [
         { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-melody-of-memory-switch/' },
         { key: 'nintendo-switch-2', paren: 'Switch Compatibility' },

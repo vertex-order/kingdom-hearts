@@ -116,14 +116,15 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
     ],
     primary: { tags: ['Manga'], length: [{ value: '4 volumes' }],
       subtitle: 'Edition', subtitleUrl: 'https://www.khwiki.com/Kingdom_Hearts_(manga)', subtitleDate: 2025,
+      profileUrl: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+vol',
       helpWanted: true,
       ratings: [{ key: 'goodreads', score: '4.50', url: 'https://www.goodreads.com/book/show/231912.Kingdom_Hearts' }],
       languages: [
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/242468847' },
+        { value: 'EN', url: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+vol' },
         { value: '…?' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://www.khwiki.com/Kingdom_Hearts_(manga)' },
+        { key: 'book', name: 'Manga', url: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+vol' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of Kingdom Hearts (2002)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts' },
       ],

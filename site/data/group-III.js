@@ -126,18 +126,18 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
       ],
     ],
     primary: { tags: ['Manga'], length: [{ value: '5 volumes' }],
-      profileUrl: 'https://www.ganganonline.com/title/5',
+      profileUrl: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+iii',
       ratings: [{ key: 'goodreads', score: '4.14', url: 'https://www.goodreads.com/book/show/220365681-kingdom-hearts-iii' }],
       languages: [
         { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/53104810-iii-1-kingdom-hearts-iii-1' },
-        { value: 'EN', url: 'https://www.goodreads.com/book/show/54558875-kingdom-hearts-iii-vol-1' },
+        { value: 'EN', url: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+iii' },
         { value: 'FR', url: 'https://www.goodreads.com/book/show/60593991-kingdom-hearts-iii-t01' },
         { value: 'ES', url: 'https://www.goodreads.com/book/show/61742178-kingdom-hearts-iii-n-01' },
         { value: 'IT', url: 'https://www.goodreads.com/book/show/220403423-kingdom-hearts-iii-vol-1' },
         { value: 'PT', url: 'https://www.goodreads.com/book/show/249328604-kingdom-hearts-iii-vol-1' },
       ],
       platforms: [
-        { key: 'book', name: 'Manga', url: 'https://www.goodreads.com/series/300313-iii-kingdom-hearts-iii' },
+        { key: 'book', name: 'Manga', url: 'https://www.panini.co.uk/shp_gbr_en/catalogsearch/result/?q=kingdom+hearts+iii' },
         { key: 'fan-audiobook', name: 'Fan manga dub, panels read aloud', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III', searchSuffix: 'manga dub' },
         { key: 'fan-recap', name: 'Fan story recap video of III (2019)', paren: 'Youtube', search: 'youtube', searchTitle: 'Kingdom Hearts III' },
       ],
@@ -165,6 +165,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
     ],
     primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
+      profileUrl: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III',
       versionDesc: [
         [
           { text: 'Included in the omnibus collection ' },
@@ -174,7 +175,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
       ],
       ratings: [{ key: 'goodreads', score: '3.96', url: 'https://www.goodreads.com/book/show/52223197' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://www.goodreads.com/book/show/50049764-iii-vol-2-new-seven-hearts' },
+        { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/52223197' },
         { value: '…?' },
       ],
