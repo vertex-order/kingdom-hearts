@@ -575,6 +575,7 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
   - Always the English edition when one exists, even if a native
     edition's figures are more accurate.
   - English publisher's count beats Goodreads or a retailer.
+  - No English edition: the native publisher's count, likewise.
   - Games use play time instead.
 - **Books and comics:** `<pages>p; <code>`, with a space after the
   semicolon (`286p; A6`, not `286p;A6`).
@@ -582,7 +583,9 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
     - Metric paper size: `A6`, `A5`, `B6` (a Japanese bunko is `A6`).
     - Another standard book-size name.
     - `P` paperback or `H` hardcover (fallback).
-  - Never raw dimensions (cm, mm, inches).
+  - Never raw dimensions (cm, mm, inches), but infer the code from
+    them when they match a standard size exactly (8.27 x 11.69 in is
+    `A4`).
   - Same edition as the pages.
   - No Japanese characters (not `四六判`).
 - **Counts disagree within one edition:** use the figure most records
