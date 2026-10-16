@@ -373,6 +373,29 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
   - Omit `searchTitle` unless punctuation breaks the results.
   - No language word in the query; the reader adds their own.
   - `noResults` only if the search really comes back empty.
+- **One row by default; a second only when it gets the reader
+  something the first can't.** Judgement call, always.
+  - Common reasons:
+    - A different format: paper is out of print but an e-book is live.
+      Add a second `book` row labelled `suffix: 'ebook'` (or `'print'`).
+      Label only the extra row.
+    - A real regional split (a different store or product per market):
+      one row per region, with `jpTag` / `nonJpTag`, not `paren`.
+    - Separate products under one entry (two discs, say): one row each,
+      with `suffix` naming the product.
+  - A second search engine for the same copies is not a reason.
+  - Tell rows apart by what you get, not where the link goes: the host
+    goes in `paren` (tooltip). If a label can't be written in a word or
+    two, use one row.
+  - `suffix` shows after the icon, before the `(jp)` tag; `prefix` shows
+    before the icon and is for a one- or two-character modifier (`U`),
+    not a word.
+- **`jpTag` / `nonJpTag`** say the release exists only in Japan (or only
+  outside it), shown as "(jp)" / "(non-jp)" and " (Japan Only)" in the
+  tooltip. They describe the edition, not the link: a Goodreads page for
+  a Japan-only book keeps `jpTag`, and when an entry has two rows for the
+  same item, both carry it or neither. On a book row they should agree
+  with the entry's official `languages`.
 
 ## Descriptions
 
@@ -447,7 +470,18 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
           bullet (•).
           Neither advances the count.
         - `count: 3` covers a run (shows `1-3`).
-        - Array order is display order; nothing is sorted.
+        - Labels are set in array order and stay with their part when the
+          display order changes (see the order keys below).
+      - `narrativeOrder`, `chronoOrder`: sort keys for those modes, plain
+        numbers like an entry's (gaps of 10).
+        - All or nothing per list (`validate-data.py`): set on every part
+          or none. None: array order. Set them when the order is a
+          deliberate choice, so it doesn't read as random.
+      - `releaseOrderDate`: sort-only date for release modes, as a slot's.
+        - Release modes sort parts by it, else by `titleDate`. Undated
+          parts come last, in array order: the entry's date range says
+          nothing about parts with no known release date.
+        - The date's tooltip gains ", sorted as <date>".
       - `titleUrl`: one link on the title, to find the part, not read
         about it. Prefer a Goodreads page with editions and ISBNs.
         - Unset: a search from the release's `book` search row plus
@@ -458,9 +492,23 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
         - Soft guidance: where it came out, the main one or two; no
           backward-compatible ones, no `book` icon, no fan rows (recap,
           movie, playthrough). Fan translation and audio case by case.
+    - `opensContents: true` on a platform of that release (any icon):
+      clicking it toggles the list open or closed. Use it when the places
+      to get the parts are the links in the list, so the platform row
+      isn't a dead icon.
+      - Its tooltip gains "see volumes" (the list's `contentsLabel`) in
+        the paren, after any paren it already has, joined with `;`.
+      - A platform sets at most one of `url`, `search` and
+        `opensContents`, and `opensContents` needs a `contents[]` on the
+        same release; `validate-data.py` fails both mistakes.
+    - The release's `length` also toggles the list when clicked (tooltip
+      "See volumes below", using `contentsLabel`). A convenience only, plain text with a dotted underline
+      on hover; the toggle bar stays the main control.
     - Parts carry no tags, `by`, languages, ratings, lengths,
       descriptions, subtitles, `versions[]` or `alts[]`. They aren't
       important enough for their own entry.
+    - A part has the same title, date and sort keys as an entry, so
+      promoting it (or demoting an entry) is moving keys, not renaming them.
     - A part that needs one of those, or whose rating really matters
       (the one great game in a series), outgrows the list: promote it.
       - Whether it stays in `contents[]` and the `length` count is a
@@ -528,9 +576,12 @@ How many entries a body of work gets (labelling is docs/subtitle.md).
   - Games use play time instead.
 - **Books and comics:** `<pages>p; <code>`, with a space after the
   semicolon (`286p; A6`, not `286p;A6`).
-  - Code: `P` paperback, `H` hardcover, or a size (`A5`, `B6`) if the
-    binding is unknown.
-  - Binding comes from the same edition as the pages.
+  - Code, first that applies:
+    - Metric paper size: `A6`, `A5`, `B6` (a Japanese bunko is `A6`).
+    - Another standard book-size name.
+    - `P` paperback or `H` hardcover (fallback).
+  - Never raw dimensions (cm, mm, inches).
+  - Same edition as the pages.
   - No Japanese characters (not `四六判`).
 - **Counts disagree within one edition:** use the figure most records
   agree on. Publisher pages can include front matter.

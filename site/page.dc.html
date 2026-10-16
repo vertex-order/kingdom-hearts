@@ -47,6 +47,7 @@ body { margin: 0; background: var(--color-bg); }
 a { color: var(--color-accent-300); text-decoration: none; }
 a:hover { color: var(--color-accent); text-decoration: underline; }
 .contents-link, [data-theme] .contents-link { color: inherit; }
+.contents-length:hover { text-decoration: underline dotted; text-underline-offset: 2px; }
 .contents-link:hover, [data-theme] .contents-link:hover { color: var(--color-accent); text-decoration-style: var(--decor); text-underline-offset: 2px; }
 [data-theme="dark"] a { color: var(--color-accent-400); }
 [data-theme="light"] a { color: var(--color-accent-300); }
@@ -1097,7 +1098,7 @@ class Component extends DCLogic {
     // shown as written, `false` shows no label -- neither moves the counter.
     // A counted item with `count` covers `count` consecutive numbers (shown
     // as 'a-b') and the counter moves past the whole run. Array order is the
-    // display order; nothing is sorted. The date (the titleDate grammar) is
+    // display order in narrative and chrono modes (see below). The date (the titleDate grammar) is
     // appended in parentheses, same look as an entry title's date.
     const buildContentsLines = (contents, release, relSearch) => {
       let next = 1;
@@ -1107,7 +1108,16 @@ class Component extends DCLogic {
       // The query shows in the link's tooltip; nothing extra is displayed.
       const bk = (release.platforms || []).find(pl => pl.key === 'book' && pl.search);
       const searchBase = bk ? (bk.searchTitle !== undefined ? bk.searchTitle : relSearch) : relSearch;
-      return contents.map((it) => {
+      // Display order follows the active mode. Number labels are computed in
+      // array order below and travel with their part. narrative / chrono: the
+      // part's `narrativeOrder` / `chronoOrder` when the list sets it (all or
+      // nothing, validate-data.py), else array order. release / overall: the
+      // part's `releaseOrderDate`, else its `titleDate`. An undated part sorts
+      // after every dated one ('9999', as an undated entry does), in array
+      // order: the entry's own date range says nothing about parts whose
+      // release date is unknown. Ties keep array order, so an all-undated
+      // list stays as written.
+      const lines = contents.map((it, idx) => {
         const count = it.count && it.count > 1 ? it.count : 1;
         let label = '';
         const counted = it.num === undefined || typeof it.num === 'number';
@@ -1120,6 +1130,13 @@ class Component extends DCLogic {
         } else {
           label = '•';
         }
+        let sortKey;
+        if (mode === 'chrono') sortKey = it.chronoOrder;
+        else if (mode === 'narrative') sortKey = it.narrativeOrder;
+        else {
+          const od = it.releaseOrderDate !== undefined && it.releaseOrderDate !== null ? it.releaseOrderDate : it.titleDate;
+          sortKey = od !== undefined && od !== null ? releaseSortKey(od, titleDateKey(od)) : '9999';
+        }
         const query = ((searchBase || '') + ' ' + (it.searchTitle || it.title)).trim();
         const searchHref = (!it.titleUrl && bk)
           ? this.searchUrl(bk.search, query, bk.searchQualifier || '', bk.searchSuffix !== undefined ? bk.searchSuffix : '')
@@ -1131,10 +1148,17 @@ class Component extends DCLogic {
           noHref: !(it.titleUrl || searchHref),
           hrefTip: it.titleUrl ? '' : 'Search: ' + query,
           linkDecor: it.titleUrl ? 'solid' : 'dotted',
-          dateSegments: it.titleDate !== undefined && it.titleDate !== null ? buildDateSegments(it.titleDate) : [],
+          dateSegments: it.titleDate !== undefined && it.titleDate !== null ? withSortedAs(buildDateSegments(it.titleDate), it) : [],
           platforms: (it.platforms || []).map(pl => { const r = this.resolvePl(pl, query); return { ...r, href: r.url }; }),
+          _idx: idx,
+          _key: sortKey,
         };
       });
+      lines.sort((a, b) => {
+        if (a._key !== undefined && b._key !== undefined && a._key !== b._key) return a._key < b._key ? -1 : 1;
+        return a._idx - b._idx;
+      });
+      return lines;
     };
     // Builds a parts[]-shaped [title, subtitle?] array from the
     // title/titleUrl/titleDate/subtitle/subtitleUrl/subtitleDate fields, for
@@ -1376,8 +1400,13 @@ class Component extends DCLogic {
       })(),
       ratings: this.resolveRatings(node.ratings),
       platforms: node.platforms && this.sortPls(node.platforms.map(pl => {
-        const r = this.resolvePl(pl, this.rowSearchTitle(node, titleSrc, inheritedSearch));
-        return { ...r, href: r.url || node.platformsUrl, noPlUrl: !pl.url && !pl.search };
+        // An `opensContents` platform's tooltip gains "see <volumes>" in its
+        // paren, after any paren it already has (joined with '; ').
+        const plIn = pl.opensContents && node.contents
+          ? { ...pl, paren: (pl.paren ? pl.paren + '; ' : '') + 'see ' + (node.contentsLabel || 'volumes') }
+          : pl;
+        const r = this.resolvePl(plIn, this.rowSearchTitle(node, titleSrc, inheritedSearch));
+        return { ...r, href: r.url || node.platformsUrl, noPlUrl: !pl.url && !pl.search, opensContents: !!pl.opensContents, wrapStyle: 'display: contents;' };
       })),
       descParas: toProseParas(node.versionDesc),
     });
@@ -1410,8 +1439,19 @@ class Component extends DCLogic {
           const relSearch = this.rowSearchTitle(release, titleSrc);
           const sortedVersions = release.versions ? sortVersions(release.versions, titleSrc) : null;
           const verSlugs = sortedVersions ? withDedupeSuffix(sortedVersions.map(ver => subSlug(ver, titleSrc))) : null;
+          const common = mapVersionCommon(release, titleSrc, mapCreditParts(creditsToShow(relCredits, parentCredits)));
+          // A platform flagged `opensContents` toggles this release's contents[]
+          // list instead of linking out (the purchase links live on the parts).
+          const toggleParts = () => this.toggleContents(anchorId);
+          const toggleKey = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleParts(); } };
+          const platformsWithToggle = common.platforms && release.contents
+            ? common.platforms.map(pl => pl.opensContents
+              ? { ...pl, href: undefined, onToggle: toggleParts, onToggleKey: toggleKey, wrapStyle: 'display: flex; cursor: pointer;', role: 'button', tabIndex: 0 }
+              : pl)
+            : common.platforms;
           return {
-            ...mapVersionCommon(release, titleSrc, mapCreditParts(creditsToShow(relCredits, parentCredits))),
+            ...common,
+            platforms: platformsWithToggle,
             parts: mapTitleParts(release, titleSrc, strikeMode),
             otherLanguages: mapLangs(computeOtherLangs(release.languages, release.versions), release.langOrder),
             anchorId,
@@ -1427,6 +1467,11 @@ class Component extends DCLogic {
             contentsExpanded: !!this.state.expandedContents[anchorId],
             contentsChevron: this.state.expandedContents[anchorId] ? 'rotate(180deg)' : 'rotate(0deg)',
             toggleContents: () => this.toggleContents(anchorId),
+            // A convenience click: with a contents[] list, the length text
+            // also toggles it (the toggle bar stays the main control).
+            lengthTip: release.contents && release.length ? 'See ' + (release.contentsLabel || 'volumes') + ' below' : undefined,
+            lengthClick: release.contents && release.length ? () => this.toggleContents(anchorId) : undefined,
+            lengthClass: release.contents && release.length ? 'contents-length' : undefined,
             versions: sortedVersions && sortedVersions.map((ver, j) => {
               const verAnchor = ver.id ? 'entry-' + s.num + '-' + ver.id : anchorId + '-x-' + verSlugs[j];
               this.anchorRegistry[verAnchor] = { expandStateKey: 'expandedVersions', parentKey: anchorId };
