@@ -71,7 +71,7 @@ goodreads.com (Information)
 
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I023742815 — format* (series "Game novels", a regular 19cm novel line for general readers, not a bunko light-novel imprint) — accessed 2026-10-09
-  - キングダムハーツ3D〈ドリームドロップディスタンス〉 Side Sora, ISBN 978-4-7575-3652-4, Square Enix, June 2012, 239p, 19cm, 762 yen, NDL bib ID 023742815; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; note: original work is the Nintendo 3DS game, original plan 野村哲也 and others
+  - キングダムハーツ3D〈ドリームドロップディスタンス〉 Side Sora, ISBN 978-4-7575-3652-4, Square Enix, June 2012, 239p, 19cm, NDL bib ID 023742815; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; note: original work is the Nintendo 3DS game, original plan 野村哲也 and others
 
 google books (English Yen Press editions) — English format* (titled "(light Novel)") — accessed 2026-10-09
   - "Kingdom Hearts 3D: Dream Drop Distance The Novel (light Novel)" (https://www.google.ca/books/edition/Kingdom_Hearts_3D_Dream_Drop_Distance_Th/V-qXwwEACAAJ, paperback, ISBN 9781975358617, 297pp, October 29, 2019; ebook https://www.google.ca/books/edition/_/I3GxDwAAQBAJ, ISBN 9781975358723, 308pp), Yen Press, translator Luke Baker, illustrator Shiro Amano; Google's genre field for the work reads "Comics, Light novel, Graphic novel, Fantasy Fiction, Adventure fiction" (a loose field)

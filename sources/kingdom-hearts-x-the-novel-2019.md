@@ -59,7 +59,7 @@ goodreads
 
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I029436214 — format* (series "Game novels", a regular 19cm novel line for general readers, not a bunko light-novel imprint) — accessed 2026-10-09
-  - キングダムハーツキー キミとキーブレードの物語 (KINGDOM HEARTS χ), ISBN 978-4-7575-5905-9, Square Enix, January 2019, 252p (goodreads says 258p), 19cm, 741 yen, NDL bib ID 029436214; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and 岡勝
+  - キングダムハーツキー キミとキーブレードの物語 (KINGDOM HEARTS χ), ISBN 978-4-7575-5905-9, Square Enix, January 2019, 252p (goodreads says 258p), 19cm, NDL bib ID 029436214; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and 岡勝
 
 yen press (English editions) — English format* (sold as a light novel) — accessed 2026-10-09
   - Yen Press publishes the English Kingdom Hearts novels as light novels under its Yen On imprint, with "(light novel)" in the titles of the other books in the series (see the google books records in sources/kingdom-hearts-the-novel-2005.md, -re-coded- and -3d-); Anime News Network's licensing article is headlined "Yen Press Licenses More Kingdom Hearts Light Novel Series" (https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443)

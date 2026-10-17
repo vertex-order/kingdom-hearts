@@ -47,7 +47,7 @@ ASIN B0DM2GHD6L — Vol. 2: New Seven Hearts, English, Yen Press, July 28, 2020,
 - goodreads: https://www.goodreads.com/book/show/56129114-kingdom-hearts-iii — accessed 2026-10-03
 
 ISBN 9784757560802 — Vol. 1: Re:Start!! (JP original), Japanese, Square Enix, March 28, 2019, Paperback
-- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757560802/ — GAME NOVELS キングダム ハーツIII Vol.1 Re:Start!!, 815 yen — accessed 2026-10-13
+- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757560802/ — GAME NOVELS キングダム ハーツIII Vol.1 Re:Start!! — accessed 2026-10-13
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757560802
 - goodreads: https://www.goodreads.com/search?q=9784757560802
 - google books: https://www.google.com/search?tbm=bks&q=isbn:9784757560802
@@ -55,11 +55,11 @@ ISBN 9784757560802 — Vol. 1: Re:Start!! (JP original), Japanese, Square Enix, 
 
 ISBN 9784757562318 (ISBN10: 4757562314) — Vol. 2: New Seven Hearts (JP original), Japanese, Square Enix, July 25, 2019, 223pp, Paperback
 - first confirmed JP edition for this entry
-- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757562318/ — GAME NOVELS キングダム ハーツIII Vol.2 New Seven Hearts, July 25, 2019, 815 yen — accessed 2026-10-13
+- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757562318/ — GAME NOVELS キングダム ハーツIII Vol.2 New Seven Hearts, July 25, 2019 — accessed 2026-10-13
 - goodreads: https://www.goodreads.com/book/show/50049764-iii-vol-2-new-seven-hearts — accessed 2026-10-03
 
 ISBN 9784757566675 — Vol. 3: Remind Me Again (JP original), Japanese, Square Enix, May 28, 2020, Paperback
-- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757566675/ — GAME NOVELS キングダム ハーツIII Vol.3 Remind Me Again, 1,320 yen — accessed 2026-10-13
+- Square Enix store: https://store.jp.square-enix.com/estore/g/g9784757566675/ — GAME NOVELS キングダム ハーツIII Vol.3 Remind Me Again — accessed 2026-10-13
 - Gangan Online's KH III manga page (https://www.ganganonline.com/title/5) also announces it as on sale (発売中), confirming this volume exists in Japanese
 - wikipedia: https://wikipedia.org/wiki/Special:BookSources?isbn=9784757566675
 - goodreads: https://www.goodreads.com/search?q=9784757566675
@@ -98,7 +98,7 @@ goodreads
 
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I029793123 — format* (series "Game novels", a regular 19cm novel line for general readers, not a bunko light-novel imprint) — accessed 2026-10-09
-  - キングダムハーツ3 Vol.2 (New Seven Hearts), ISBN 978-4-7575-6231-8, Square Enix, July 2019, 223p, 19cm, 741 yen, NDL bib ID 029793123; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and others
+  - キングダムハーツ3 Vol.2 (New Seven Hearts), ISBN 978-4-7575-6231-8, Square Enix, July 2019, 223p, 19cm, NDL bib ID 029793123; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and others
 
 yen press (English editions) — English format* (sold as a light novel) — accessed 2026-10-09
   - Yen Press publishes the English Kingdom Hearts novels as light novels under its Yen On imprint, with "(light novel)" in the titles of the other books in the series (see the google books records in sources/kingdom-hearts-the-novel-2005.md, -re-coded- and -3d-); Anime News Network's licensing article is headlined "Yen Press Licenses More Kingdom Hearts Light Novel Series" (https://www.animenewsnetwork.com/news/2016-12-02/yen-press-licenses-more-kingdom-hearts-light-novel-series/.109443)
@@ -110,6 +110,6 @@ breezewiki.com (Information)
   - Fan wiki (khmanga); lists titles only, no dates or ISBNs on this page
 
 store.jp.square-enix.com (Publisher)
-- https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III — store search for the three JP volumes: profile*, JA language link* — accessed 2026-10-13 (checked by user; lists Vol. 1 March 28, 2019 815 yen, Vol. 2 July 25, 2019 815 yen, Vol. 3 May 28, 2020 1,320 yen, all "GAME NOVELS") — archived: TODO
+- https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III — store search for the three JP volumes: profile*, JA language link* — accessed 2026-10-13 (checked by user; lists Vol. 1 March 28, 2019, Vol. 2 July 25, 2019, Vol. 3 May 28, 2020, all "GAME NOVELS") — archived: TODO
 
 ## Decisions

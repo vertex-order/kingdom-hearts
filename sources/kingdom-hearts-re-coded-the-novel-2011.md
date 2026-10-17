@@ -56,7 +56,7 @@ goodreads
 
 ndlsearch.ndl.go.jp (Information)
 - https://ndlsearch.ndl.go.jp/books/R100000002-I000011244143 — format* (series "Game novels", a regular 19cm novel line for general readers, not a bunko light-novel imprint) — accessed 2026-10-09
-  - キングダムハーツRe:コーデッド, ISBN 978-4-7575-3315-8, Square Enix, July 2011, 287p, 19cm, 762 yen, NDL bib ID 000011244143; series "Game novels"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and 渡辺大祐, illustrations 天野シロ (goodreads says Paperback Shinsho; the NDL size is 19cm)
+  - キングダムハーツRe:コーデッド, ISBN 978-4-7575-3315-8, Square Enix, July 2011, 287p, 19cm, NDL bib ID 000011244143; series "Game novels"; NDC 913.6; audience 一般; author 金巻ともこ; original plan 野村哲也 and 渡辺大祐, illustrations 天野シロ (goodreads says Paperback Shinsho; the NDL size is 19cm)
 
 google books (English Yen Press editions) — English format* (titled "(light Novel)") — accessed 2026-10-09
   - "Kingdom Hearts Re:coded (light Novel)" (https://www.google.com/books/edition/Kingdom_Hearts_Re_coded_light_novel/GoSqDwAAQBAJ, ebook, ISBN 9781975358730, 176pp, August 27, 2019) and "Kingdom Hearts Re:coded: The Novel (light Novel)" (https://www.google.com/books/edition/_/crrUwQEACAAJ, paperback, ISBN 9781975385392), Yen Press, translator Luke Baker, illustrator Shiro Amano; Google's own genre field for the work reads "Light novel, Fantasy Fiction, Adventure fiction"
