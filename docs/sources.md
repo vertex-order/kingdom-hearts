@@ -45,6 +45,12 @@
   - a link to our sources file (full evidence lives there);
   - a one-line reason (the record that backs it).
 - Move a candidate to Confirmed when its sources file settles it.
+- **Out-of-date information counts**, not only plain errors: a wiki page
+  that gives a superseded date, count or credit, or lacks something we
+  found, belongs here too. Add the item whenever research turns one up,
+  while the entry is still open, not in a later sweep.
+- A difference of convention (a cover date against an on-sale date, say) is
+  a Candidate until the wiki's own convention is known.
 
 ## File layout
 
@@ -91,6 +97,15 @@
   - `<num>` = site's jump-link code (`#group-XII` → `xii-group.md`),
     not the article's title (`Ivalice` ≠ `XII`).
 - Only when a source exists at that scope. Most groups need none.
+- **Left-out items** (checked and not listed) are recorded in the group
+  file, where an entry for them would have gone.
+  - Name the item with its date and a lookup ID (ISBN, catalogue number),
+    the reason, the evidence, and whose call it was (the user's, or the
+    assistant's pending review).
+  - A list checked item by item (a wiki, fan database or publisher
+    catalogue) is cited once, with its URL, and every item on it ends up
+    as an entry or a named exclusion; say so in the note.
+  - Items with similar reasons can share one note, with each item named.
 - Dated = entry, `-group` = group, neither = franchise.
   - Exception: `chocobo-series-1997.md` is a dated entry. "series" is
     its title. Not a template.
@@ -111,6 +126,26 @@
 - Only what this doc calls out.
 - Languages/tags/release dates need sourcing only if the source is worth
   recording (e.g. a since-stale wiki).
+- **Prices:** record one only when it strongly corroborates or
+  differentiates two items, and say so in the line.
+  - Never displayed; retail, used and regional prices drift (tax,
+    currency, secondhand).
+  - ISBN (else ASIN) identifies a book; the price adds nothing.
+  - No ISBN (magazine, supplement, mook, event goods): prefer JAN/UPC,
+    publisher product code, host issue and cover date, library bib ID,
+    pages, trim size, on-sale date. Use the printed cover price at first
+    release only when none of those tells two records apart.
+  - Never a star (`*`): no entry field carries it.
+  - Games, movies, music: no prices.
+- **Availability:** don't record stock (sold out, in stock, out of
+  print, sales ended, used only).
+  - It is volatile (restocks, reprints, e-books) and never decides a
+    data link: `profileUrl` is the official record whether or not the
+    item is on sale.
+  - Not stock: a game or app delisted or shut down is recorded under
+    `terminated` and strikethrough (docs/data.md).
+  - Say why a source was not used by its kind (a retailer, a
+    marketplace), not by its stock.
 
 ### Editions (ISBN) — books/comics with many printings
 

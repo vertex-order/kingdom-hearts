@@ -45,9 +45,10 @@ and pull via `just sync`.
   `sources/<slug>-<year>.md`; change both together.
 - Format and what to record: docs/sources.md, "Keeping it in step with
   entry data".
-- Found a wiki or catalog that disagrees with the evidence? Log it in
-  `docs/wiki-corrections.md` (docs/sources.md, "Wiki corrections") so it
-  can be reported upstream.
+- Found a wiki, fan database or catalog that disagrees with the evidence,
+  or whose information is out of date? Log it in `docs/wiki-corrections.md`
+  (docs/sources.md, "Wiki corrections") so it can be reported upstream.
+  Do it in the same pass as the entry and its sources file.
 
 ## A few things worth knowing before opening a schema
 
@@ -291,6 +292,13 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
     playable.
   - A game that is only partly terminated gets `terminated: true` on the
     platforms that are gone (struck through) and no flag.
+  - A struck-through row means this entry is no longer available on that
+    platform, not that the platform itself is gone: a struck Steam row
+    says the entry left Steam, a struck app-store row says the title left
+    that app. The row can keep its link (the platform's page) when that
+    still helps the reader.
+  - The reverse holds too: when the platform itself is gone, every entry
+    on it is struck.
   - The flag says it all. Don't repeat it in the description, including
     "so watch a fan recap or playthrough".
   - Regional cases (still playable in Japan only): no flag. Say which
@@ -328,11 +336,15 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
     - Last resort, no official page exists (defunct publisher, old
       print-only title): the country-of-origin library's catalog record
       (NDL for Japan, BnF for France, Library of Congress for the US).
-    - An archived copy of a dead official page is fine.
+    - An archived copy of a dead official page is fine, but only when
+      nothing better exists: a live official page, or a search that lists
+      all the items we want, comes first.
   - Set per release (per version when a version has its own page). Shown
     as "Profile ↗" beside the Platforms label.
 - **Platform `url`:**
   - A page where that format can be bought, read or played.
+    - The test is what the page is (a store, reader or download page),
+      not whether it is in stock today.
   - International storefronts only: Steam, Nintendo, Xbox, PlayStation,
     app stores, GOG, the publisher's own store. Never a regional
     retailer.
@@ -417,7 +429,7 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
 - **One row by default; a second only when it gets the reader
   something the first can't.** Judgement call, always.
   - Common reasons:
-    - A different format: paper is out of print but an e-book is live.
+    - A different format: an e-book beside the paper edition.
       Add a second `book` row labelled `suffix: 'ebook'` (or `'print'`).
       Label only the extra row.
     - A real regional split (a different store or product per market):
@@ -488,6 +500,38 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
     "other"; being limited to one game makes it a stronger yes.
 - **Mixed books:** judge the book together with its series, not alone;
   record the call in sources.
+- **Art collections lean out.** Reconsider one only when it republishes a
+  whole comic series, not disjointed frames, covers or scattered pages.
+  - Even then it is an alternative source for that comic: a mention in
+    the comic entry's description, or an alternate link there, not an
+    entry of its own.
+  - Showing covers is not enough.
+- **A talk about a reading drama doesn't count;** a reading-drama
+  performance or script might, depending on the drama's own content.
+- **Label and keep an entry for what a reader gets from it.** A guide or
+  mook kept for its comics is typed `Comic`; the comics are what we offer,
+  and the rest of the book is the wrapper.
+- **Comics that don't count:** public-service and instructional comics
+  (a safety notice, account-security tips, a "how online games work"
+  explainer) are not story or humour content, like a leaflet in drawings.
+  They don't make a book qualify; the book may still qualify for other
+  comics in it.
+- **Judging a book or volume with unclear contents:**
+  - Inferring from siblings (a similar volume has comics, so this one
+    probably does, or the reverse) is a guess that weighs likelihoods. It
+    never overrides concrete evidence about the item itself: a volume
+    confirmed to have none is out whatever its siblings have.
+  - With no details, lean slightly cautious and weigh pros and cons.
+  - Evidence, best first: the publisher's own catalogue or product text
+    (live or archived; it often states counts, "N all-new strips"), the
+    cover's feature boxes, then readers' reviews and fan databases.
+    - Text and a cover can disagree (a small cover can miss an item the
+      text names, and the other way round); concrete text beats a cover
+      reading.
+  - For an unsure item, pull the cover and the publisher text before
+    deciding; ask the user to paste the cover when you can't fetch it.
+  - Record the evidence and the call in sources, for the items left out as
+    well as for those kept.
 - **Mixed story and comedy:** a comic with a decent share of story goes
   with the story entries, not buried in a comedy-only series entry.
   Story outweighs comedy.
