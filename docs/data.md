@@ -380,6 +380,8 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
     judgement call.
   - Books and comics link each language edition: unique ISBNs, and
     usually different storefronts and marketing pages.
+  - Prefer a print edition's page over an online subscription reader.
+    - The reader stays a platform row.
 - **An entry that stands for many items** (volumes with their own ISBNs, a
   box set or collection). Mostly books and comics; also video, movies, TV
   and, rarely, games.
@@ -449,6 +451,14 @@ Applies to `Mainline`, `Essential`, `Optional`, `Spin-off`, `Tie-in`,
       Label only the extra row.
     - A real regional split (a different store or product per market):
       one row per region, with `jpTag` / `nonJpTag`, not `paren`.
+      - Only when the other region is the only way to get it (a
+        Japan-only release or platform, e.g. MSX2 (jp)).
+      - Keep the list English-region centric: when an English-region
+        store or product exists, a non-English region's page stays in
+        the sources file, not the platform list.
+      - English-region release ended, other region still live: keep
+        both rows (struck and live).
+      - Both ended: one struck row per platform.
     - Separate products under one entry (two discs, say): one row each,
       with `suffix` naming the product.
   - A second search engine for the same copies is not a reason.
