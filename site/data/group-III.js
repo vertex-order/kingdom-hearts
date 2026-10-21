@@ -165,7 +165,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
     ],
     primary: { tags: ['Light Novel'], helpWanted: true, length: [{ value: '3 volumes' }],
       subtitle: 'Book',
-      profileUrl: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III',
+      profileUrl: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III', profileHreflang: 'ja',
       versionDesc: [
         [
           { text: 'Included in the omnibus collection ' },
@@ -175,7 +175,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
       ],
       ratings: [{ key: 'goodreads', score: '3.96', url: 'https://www.goodreads.com/book/show/52223197' }],
       languages: [
-        { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III' },
+        { value: 'JA', native: true, url: 'https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III', hreflang: 'ja' },
         { value: 'EN', url: 'https://www.goodreads.com/book/show/52223197' },
         { value: '…?' },
       ],
