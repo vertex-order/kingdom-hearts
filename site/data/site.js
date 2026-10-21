@@ -19,4 +19,5 @@ window.SITE_CONFIG = {
   groupReleaseOrder: false,
   noticeUrl: "https://github.com/vertex-order/kingdom-hearts/blob/main/NOTICE.md",
   discussionsUrl: "https://github.com/vertex-order/kingdom-hearts/discussions",
+  langOrder: ["EN"],
 };
