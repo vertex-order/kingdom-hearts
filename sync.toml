@@ -18,7 +18,7 @@
 
 [subscribe.kit]
 repo = "vertex-order/kit"
-ref = "37eb02dc5f77482c85eb1240a28806c2d5b5ee7a"
+ref = "e1b8e41e06dafcb8ec299b4fae21895cf844184a"
 paths = [
   "sync.list.toml",
   "docs/subtitle.md",
@@ -114,7 +114,7 @@ paths = [
 
 [subscribe.platforms]
 repo = "vertex-order/platforms"
-ref = "1020c1e71aa3a0cf2f78e96e63b55b10e49deb6a"
+ref = "ea5ad3022a3556b457120ff4abf75e268cc6fa34"
 paths = [
   "site/PlatformIcon.dc.html",
   "site/data/platform-icons.js",
