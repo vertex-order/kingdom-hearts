@@ -1,6 +1,6 @@
 <!-- sources/kingdom-hearts-tabletop-games-2004.md (markdown) -->
 
-# Kingdom Hearts tabletop games
+# Kingdom Hearts Tabletop Games
 
 ## BoardGameGeek (Information)
 
@@ -36,6 +36,7 @@
 
 Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shallow`
 
+- [Square Enix e-STORE – Kingdom Hearts Re:Chain of Memories / playing cards](https://store.jp.square-enix.com/estore/g/gMKH09515-4/) -- die-cut playing card deck with the game's card motifs, 約W58mm×H89mm, 発売日 2026-12-26 -- empty: a deck of playing cards, not a game
 - [KHGuides – Kingdom Hearts TCG](https://www.khguides.com/kh-tcg/) -- search snippet only: card production discontinued 2010 -- mine, shallow: not opened
 
 ## Decisions

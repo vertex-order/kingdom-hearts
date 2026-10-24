@@ -133,7 +133,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
     },
   },
   { mediaType: 'Tabletop', chronoOrder: 99000, narrativeOrder: 99000,
-    title: 'Kingdom Hearts tabletop games', titleUrl: 'https://boardgamegeek.com/boardgame/26976/kingdom-hearts-tcg', titleDate: { start: '2004-11', approx: true },
+    title: 'Kingdom Hearts Tabletop Games', titleUrl: 'https://boardgamegeek.com/boardgame/26976/kingdom-hearts-tcg', titleDate: { start: '2004-11', approx: true },
     mediaDesc: [
       'Officially licensed tabletop games based on Kingdom Hearts.',
     ],
