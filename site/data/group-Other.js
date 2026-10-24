@@ -132,6 +132,27 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
       ],
     },
   },
+  { mediaType: 'Tabletop', chronoOrder: 99000, narrativeOrder: 99000,
+    title: 'Kingdom Hearts tabletop games', titleUrl: 'https://boardgamegeek.com/boardgame/26976/kingdom-hearts-tcg', titleDate: { start: '2004-11', approx: true },
+    mediaDesc: [
+      'Officially licensed tabletop games based on Kingdom Hearts.',
+    ],
+    primary: {
+      contentsLabel: 'games',
+      length: '1 game',
+      contents: [
+        { title: 'Kingdom Hearts Trading Card Game', titleDate: { start: '2004-11', approx: true }, titleUrl: 'https://www.khwiki.com/Kingdom_Hearts_Trading_Card_Game' },
+      ],
+      languages: [
+        { value: 'JA', native: true },
+        { value: 'EN' },
+      ],
+      profileUrl: 'https://web.archive.org/web/20081119144727/http://www.fantasyflightgames.com./kingdomhearts/',
+      platforms: [
+        { key: 'globe', name: 'Card game', paren: 'DuckDuckGo', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Trading Card Game' },
+      ],
+    },
+  },
   { mediaType: 'Game', chronoOrder: 100000, narrativeOrder: 100000,
     title: 'Final Fantasy (series)', titleUrl: '/final-fantasy', titleDate: { start: 1987, end: 2026, ongoing: true },
     mediaDesc: [
