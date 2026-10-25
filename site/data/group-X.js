@@ -45,7 +45,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
       ratings: [{ key: 'metacritic', score: '70', url: 'https://www.metacritic.com/game/kingdom-hearts-unchained-x/' }, { key: 'metacritic-user', score: '6.0', url: 'https://www.metacritic.com/game/kingdom-hearts-unchained-x/' }],
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
-        { key: 'android2', terminated: true },
+        { key: 'android', terminated: true },
         { key: 'apple', terminated: true },
         { key: 'amazon', terminated: true },
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchQualifier: '[Cross]', searchSuffix: 'fan port' },
@@ -153,7 +153,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
       ratings: [{ key: 'metacritic-user', score: '6.6', url: 'https://www.metacritic.com/game/kingdom-hearts-dark-road/' }],
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
-        { key: 'android2', terminated: true },
+        { key: 'android', terminated: true },
         { key: 'apple', terminated: true },
         { key: 'amazon', terminated: true },
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Union χ Dark Road', searchSuffix: 'fan port' },
