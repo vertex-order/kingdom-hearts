@@ -60,7 +60,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
       platforms: [
         { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-melody-of-memory-switch/' },
         { key: 'nintendo-switch-2', paren: 'Switch Compatibility' },
-        { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA18900_00-KHMOM00000000000' },
+        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA18900_00-KHMOM00000000000' },
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-melody-of-memory-international/9n3sdl8mwh6k' },
         { key: 'windows' },
         { key: 'xbox-xs', paren: 'Digital; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-melody-of-memory-international/9n3sdl8mwh6k' },

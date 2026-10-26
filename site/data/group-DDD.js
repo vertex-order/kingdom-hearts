@@ -30,7 +30,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
         { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue' },
         { key: 'nintendo-switch', paren: 'Cloud', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version-switch/' },
         { key: 'nintendo-switch-2', paren: 'Physical; Digital; Switch Compatibility', url: 'https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/' },
-        { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05795_00-KINGDOMHEARTSX28' },
+        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05795_00-KINGDOMHEARTSX28' },
         { key: 'playstation5', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-PPSA35909_00-KHHD28RMX0000000' },
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
         { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9p9669spd8sf' },

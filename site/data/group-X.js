@@ -121,7 +121,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { value: 'ES-419', textOnly: true },
       ],
       platforms: [
-        { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
+        { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
         { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/' },

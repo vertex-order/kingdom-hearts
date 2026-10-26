@@ -136,4 +136,13 @@
   - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
   - キングダム ハーツ -HD 1.5 リミックス-; RPG; first listed 2013-10-20: release 2013.03.14; icons: none; changes: 2025-02-17: CERO A first shown; listed: 2013-10-20; 2015-04-10; 2019-10-29 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Switch 2 list, captures of 2026-10-17 to live (2026-10-26))
+
+- Square Enix Japan's Nintendo Switch 2 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=35; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch2 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - キングダム ハーツ -HD 1.5+2.5 リミックス-; RPG; first listed 2026-10-17: release 2026.10.08予定; icons: ダウンロード; CERO A; changes: live (2026-10-26): release 2026.10.08予定 to 2026.10.08; listed in every capture from 2026-10-17 to live (2026-10-26)
+    - https://store-jp.nintendo.com/item/software/D70010000117243 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70010000117243
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/kingdom/collection/
+
 ## Decisions

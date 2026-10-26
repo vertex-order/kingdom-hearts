@@ -90,7 +90,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
           { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
           { key: 'nintendo-switch-2', paren: 'Physical; Digital; Switch Compatibility', url: 'https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/' },
           { key: 'playstation3', paren: 'Physical' },
-          { key: 'playstation4', paren: 'Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
+          { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
           { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },
           { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
           { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
