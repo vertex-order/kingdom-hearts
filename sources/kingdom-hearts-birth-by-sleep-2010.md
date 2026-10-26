@@ -53,4 +53,13 @@
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Kingdom Hearts -HD 2.5 ReMIX- links the pages below; the Square Enix e-STORE link is no longer listed -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/kingdom/khhd2/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
+## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+
+- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
+  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
+  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
+  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
+  - キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2011.01.20; icons: online; links http://www.square-enix.co.jp/kingdom/bbsfm/
+  - キングダム ハーツ バース バイ スリープ; RPG; release 2010.01.09; icons: online; links http://www.square-enix.co.jp/kingdom/bbs/
+
 ## Decisions
