@@ -53,14 +53,25 @@
 - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Kingdom Hearts -HD 2.5 ReMIX- links the pages below; the Square Enix e-STORE link is no longer listed -- accessed 2026-10-25
   - https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/kingdom/khhd2/ -- the official page linked from this entry on the list -- accessed 2026-10-25 -- shallow: not read (link taken from the list)
 
-## jp.square-enix.com (Publisher; Japan, PSP list, capture of 2015-03-18)
+## jp.square-enix.com (Publisher; Japan, PSP list, captures of 2012-10-06 to live (2026-10-26))
 
-- http://www.jp.square-enix.com/game/psp/ -- Square Enix Japan's PlayStation Portable game list, capture of 2015-03-18 (saved page read by me) -- accessed 2026-10-25 -- archived: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/
-  - Each item carries icons, read from the images: ONLINE 対応 ("online"), ダウンロード対応 ("Download (compatible)"), ダウンロード専用 ("Download (exclusive)"), Game Archives 専用 (alt text ゲームアーカイブス(PS3/PSP/PSV)), or none
-  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
-  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2012.12.06; icons: online; links http://www.square-enix.co.jp/uh/
-  - キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2011.01.20; icons: online; links http://www.square-enix.co.jp/kingdom/bbsfm/
-  - キングダム ハーツ バース バイ スリープ; RPG; release 2010.01.09; icons: online; links http://www.square-enix.co.jp/kingdom/bbs/
+- Square Enix Japan's PlayStation Portable game list -- saved pages of each capture read by me; one line per title and release date, with what each capture shows -- accessed 2026-10-25 and 2026-10-26
+  - Page URL by capture: 2012-10-06 to 2018-03-20 http://www.jp.square-enix.com/game/psp/; 2023-01-07 to live https://www.jp.square-enix.com/game/?pf=18 (platform filter 18 = プレイステーション・ポータブル); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in the franchise sources file (sources/final-fantasy-franchise.md in the final-fantasy repo)
+  - Icons, read from the image file names (alt text read plyaOnline in the 2013-10-20 and 2014-11-19 captures and Download from 2015-03-18, for the same images): ONLINE対応 = icon-online-taiou; ダウンロード対応 (also sold as a download) = icon-download-taiou; ダウンロード専用 = icon-download-senyou; Game Archives専用 = icon-gamearchives; "none" = no icon (not stated; the 2012-10-06 capture shows none on any item). From 2023-01-07 the page shows the labels パッケージ (disc) and ダウンロード as text instead, and the CERO rating as an image with alt text.
+  - CERO: from 2012-10-06 to 2018-03-20 the rating image's file name (cero200 = A, cero212 = B, cero215 = C, cero217 = D, matched against the 2023-01-07 labels of the same titles); from 2023-01-07 the image's alt text
+  - Links: 公式サイト = the item's official-site link; 商品詳細 = the detail-page link; the item's title also links to its official site. "listed" gives the captures that carry the link; the archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ; RPG; release 2012.12.06; listed 2014-11-19 to 2018-03-20; icons: ONLINE対応; CERO: CERO A
+    - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2014-11-19 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20141119172354/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/uh/)
+  - アルティメット ヒッツ キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2012.12.06; listed 2014-11-19 to 2018-03-20; icons: ONLINE対応; CERO: CERO A
+    - http://www.square-enix.co.jp/uh/ -- 公式サイト link, listed 2014-11-19 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20141119172354/http://www.square-enix.co.jp/uh/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/uh/)
+  - キングダム ハーツ バース バイ スリープ ファイナル ミックス（アルティメット ヒッツ）; RPG; release 2012.12.06; listed 2023-01-07 to live (2026-10-26); icons: パッケージ; CERO: CERO A
+    - https://www.jp.square-enix.com/game/detail/khbbsfm/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20230107101214/https://www.jp.square-enix.com/game/detail/khbbsfm/
+  - キングダム ハーツ バース バイ スリープ（アルティメット ヒッツ）; RPG; release 2012.12.06; listed 2023-01-07 to live (2026-10-26); icons: パッケージ; CERO: CERO A
+    - https://www.jp.square-enix.com/game/detail/khbbs/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20230107101214/https://www.jp.square-enix.com/game/detail/khbbs/
+  - キングダム ハーツ バース バイ スリープ ファイナル ミックス; RPG; release 2011.01.20; listed 2012-10-06 to 2018-03-20; icons: none (2012-10-06); ONLINE対応 (2013-10-20 to 2018-03-20); CERO: CERO A
+    - http://www.square-enix.co.jp/kingdom/bbsfm/ -- 公式サイト link, listed 2012-10-06 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20121006013905/http://www.square-enix.co.jp/kingdom/bbsfm/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/kingdom/bbsfm/)
+  - キングダム ハーツ バース バイ スリープ; RPG; release 2010.01.09; listed 2012-10-06 to 2018-03-20; icons: none (2012-10-06); ONLINE対応 (2013-10-20 to 2018-03-20); CERO: CERO A
+    - http://www.square-enix.co.jp/kingdom/bbs/ -- 公式サイト link, listed 2012-10-06 to 2018-03-20 -- link recorded only -- archived: https://web.archive.org/web/20121006013905/http://www.square-enix.co.jp/kingdom/bbs/ (last listing: https://web.archive.org/web/20180320203912/http://www.square-enix.co.jp/kingdom/bbs/)
 
 ## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2016-12-22 to live (2026-10-26))
 
