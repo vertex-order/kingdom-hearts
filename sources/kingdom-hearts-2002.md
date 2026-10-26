@@ -119,4 +119,13 @@
     - https://www.jp.square-enix.com/kingdom/khhd1_2/ -- 公式サイト link, listed 2024-10-07 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20240925012046/https://www.jp.square-enix.com/kingdom/khhd1_2/
     - https://store.jp.square-enix.com/estore/g/gPLJM-84068/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-84068/
 
+## jp.square-enix.com (Publisher; Japan, PS5 list, captures of 2026-10-01 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 5 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: https://www.jp.square-enix.com/game/?pf=33; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: プレイステーション5 (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - キングダム ハーツ -HD 1.5+2.5 リミックス-; RPG; first listed 2026-10-01: release 2026.10.08予定; icons: ダウンロード; CERO A; changes: live (2026-10-26): release 2026.10.08予定 to 2026.10.08; listed in every capture from 2026-10-01 to live (2026-10-26)
+    - https://store.playstation.com/ja-jp/product/JP0082-PPSA35876_00-KHHD1525RMX00000 -- PlayStation Store link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.playstation.com/ja-jp/product/JP0082-PPSA35876_00-KHHD1525RMX00000
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed 2026-10-01 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/kingdom/collection/
+
 ## Decisions
