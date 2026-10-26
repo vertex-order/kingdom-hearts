@@ -77,4 +77,19 @@
 
 - https://www.xbox.com/games/store/kingdom-hearts/c08mw8xhqn9g -- platform -- accessed 2026-09-26
 
+## jp.square-enix.com (Publisher; Japan, PS4 list, captures of 2013-10-20 to live (2026-10-26))
+
+- Square Enix Japan's PlayStation 4 game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-26
+  - Page URL by capture: 2013-10-20 to 2016-12-22 http://www.jp.square-enix.com/game/ps4/; 2018-01-30 http://www.jp.square-enix.com/game/pf/ps4/; 2018-10-10 https://www.jp.square-enix.com/game/pf/ps4/; 2019-09-18 to live https://www.jp.square-enix.com/game/?pf=1; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images: ダウンロード対応 (also sold as a download) = icon-download-taiou; ONLINE対応 = icon-online-taiou; オンライン専用 = icon-online-senyou; ダウンロード専用 = icon-download-senyou (2013 to 2016 captures); from 2018 the labels パッケージ (disc), ダウンロード, オンライン専用, VR専用 and VR対応 are shown as text; "none" = no icon (not stated). CERO ratings are recorded from the 2018 captures, where the page shows them as text.
+  - キングダム ハーツIII; RPG; first listed 2013-10-20: release 未定; icons: none; changes: 2018-01-30: CERO審査予定 / 2018-10-10: release 未定 to 2019.01.25予定; icons none to ダウンロード, パッケージ / 2019-09-18: release 2019.01.25予定 to 2019.01.25; CERO審査予定 to CERO A; listed in every capture from 2013-10-20 to live (2026-10-26)
+    - http://www.square-enix.co.jp/kingdom/kh3/ -- 公式サイト link, listed 2013-10-20 to 2018-01-30 -- link recorded only -- archived: https://web.archive.org/web/20131020014858/http://www.square-enix.co.jp/kingdom/kh3/ (last listing: https://web.archive.org/web/20180130171310/http://www.square-enix.co.jp/kingdom/kh3/)
+    - http://store.jp.square-enix.com/sp/kh3/index.html -- e-STOREで予約 link, listed 2018-10-10 -- link recorded only -- archived: https://web.archive.org/web/20181010135604/http://store.jp.square-enix.com/sp/kh3/index.html
+    - https://store.playstation.com/ja-jp/grid/PN.CH.JP-PN.CH.MIXED.JP-CATEGORY00002748 -- PlayStation Storeで予約 link, listed 2018-10-10 -- link recorded only -- archived: https://web.archive.org/web/20181010135604/https://store.playstation.com/ja-jp/grid/PN.CH.JP-PN.CH.MIXED.JP-CATEGORY00002748
+    - http://www.jp.square-enix.com/kingdom/kh3/ -- 公式サイト link, listed 2018-10-10 -- link recorded only -- archived: https://web.archive.org/web/20181010135604/http://www.jp.square-enix.com/kingdom/kh3/
+    - https://store.jp.square-enix.com/item/PLJM_16164.html -- e-STOREで購入 link, listed 2019-09-18 to 2025-10-17 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.jp.square-enix.com/item/PLJM_16164.html (last listing: https://web.archive.org/web/20251107123723/https://store.jp.square-enix.com/item/PLJM_16164.html)
+    - https://store.playstation.com/ja-jp/product/JP0082-CUSA11060_00-KINGDOMHEARTSX30 -- PlayStation Store link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://store.playstation.com/ja-jp/product/JP0082-CUSA11060_00-KINGDOMHEARTSX30
+    - https://www.jp.square-enix.com/kingdom/kh3/ -- 公式サイト link, listed 2019-09-18 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.jp.square-enix.com/kingdom/kh3/
+    - https://store.jp.square-enix.com/estore/g/gPLJM-16164/ -- e-STOREで購入 link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store.jp.square-enix.com/estore/g/gPLJM-16164/
+
 ## Decisions
