@@ -43,6 +43,39 @@
 - https://www.square-enix.com/kingdomhearts/3/us/buy/ -- III buy page: standard, deluxe and digital editions; US has PS4, Xbox One, PC links and retailers Square Enix Store, Amazon, GameStop, Best Buy, Target, Walmart; region-specific link; the region can't be stripped (go to the parent, pick a region, click through) (checked by user 2026-10-13) -- accessed 2026-10-13 -- archived: TODO
 - KH IV: https://www.square-enix-games.com/games/kingdom-hearts-iv loads nothing (checked by user 2026-10-13), so no official KH IV page; the store links stay the platform links
 
+## dlgames.square-enix.com (Platform; Square Enix Downloadable Games, Japan)
+
+- http://dlgames.square-enix.com/jp/ps3_dl -- "PlayStation3" download menu, capture of 2009-12-25: https://web.archive.org/web/20091225145915/http://dlgames.square-enix.com/jp/ps3_dl -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+- http://dlgames.square-enix.com/jp/psp_dl/ -- "PSP ダウンロード配信" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170104/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-29: https://web.archive.org/web/20110429212138/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-04-29: https://web.archive.org/web/20120429230553/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2013-05-28: https://web.archive.org/web/20130528193159/http://dlgames.square-enix.com/jp/psp_dl/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/wiiware/ -- "Wiiウェア" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170109/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-02-25: https://web.archive.org/web/20110225052950/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-02-25: https://web.archive.org/web/20120225175917/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2013-04-02: https://web.archive.org/web/20130402122500/http://dlgames.square-enix.com/jp/wiiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/dsiware/ -- "ニンテンドーDSiウェア" menu, capture of 2009-12-26: https://web.archive.org/web/20091226170345/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2010-02-25: https://web.archive.org/web/20100225223527/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2010-04-27: https://web.archive.org/web/20100427144457/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-28: https://web.archive.org/web/20110428124647/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-04-29: https://web.archive.org/web/20120429172820/http://dlgames.square-enix.com/jp/dsiware/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/xboxlivearcade/ -- "Xbox LIVE アーケード" menu, capture of 2009-12-25: https://web.archive.org/web/20091225145920/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-04-30: https://web.archive.org/web/20110430151451/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-05-01: https://web.archive.org/web/20120501044222/http://dlgames.square-enix.com/jp/xboxlivearcade/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://dlgames.square-enix.com/jp/ipod -- "iPod / iPhone" menu (titled iPod/iPhone/iPad from 2011), capture of 2009-12-26: https://web.archive.org/web/20091226172251/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2011-07-14: https://web.archive.org/web/20110714025513/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+  - Capture of 2012-10-20: https://web.archive.org/web/20121020050826/http://dlgames.square-enix.com/jp/ipod/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+
+## jp.square-enix.com (Publisher; Square Enix Japan game list)
+
+- http://www.jp.square-enix.com/game/ps3/ -- the PlayStation 3 list (one of the "By model" lists), capture of 2015-04-10: https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (text pasted by user)
+- the same list, capture of 2016-05-12: https://web.archive.org/web/20160512034938/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2017-06-06 (the Japanese-language page): https://web.archive.org/web/20170606052956/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2018-05-24: https://web.archive.org/web/20180524231957/http://www.jp.square-enix.com/game/ps3/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list in its later layout (platform filter ?pf=99,2), capture of 2019-10-29: https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- the same list, capture of 2025-02-17 (the last): https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+- http://www.jp.square-enix.com/game/psp/ -- the PlayStation Portable list (one of the "By model" lists), capture of 2015-03-18: https://web.archive.org/web/20150318014310/http://www.jp.square-enix.com/game/psp/ -- visited and audited -- accessed 2026-10-25 (saved page read by me)
+
 ## Decisions
 
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.
