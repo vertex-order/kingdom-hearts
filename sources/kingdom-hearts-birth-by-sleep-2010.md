@@ -43,4 +43,10 @@
 - https://wikipedia.org/wiki/List_of_Disney_video_games#Kingdom_Hearts_games -- platforms*, dates* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Collections_and_bundles -- accessed 2026-09-25
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Kingdom Hearts -HD 2.5 ReMIX-, RPG, release 2014.10.02, Kingdom Hearts II, Kingdom Hearts Re:coded and Kingdom Hearts Birth by Sleep in one package, the text still worded as the announcement; links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/kingdom/khhd2/ -- accessed 2026-10-25 (text pasted by user)
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me): Kingdom Hearts -HD 2.5 ReMIX-, RPG, release 2014.10.02; links http://store.jp.square-enix.com/item/BLJM_61220.html (Square Enix e-STORE) and the official site http://www.square-enix.co.jp/kingdom/khhd2/ -- accessed 2026-10-25
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Kingdom Hearts -HD 2.5 ReMIX- links https://www.jp.square-enix.com/kingdom/khhd2/; the Square Enix e-STORE link is no longer listed -- accessed 2026-10-25
+
 ## Decisions

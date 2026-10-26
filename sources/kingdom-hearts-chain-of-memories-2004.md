@@ -97,4 +97,10 @@
 
 - https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh -- platform -- accessed 2026-09-26
 
+## jp.square-enix.com (Publisher; Japan)
+
+- https://web.archive.org/web/20150410063306/http://www.jp.square-enix.com/game/ps3/ -- Square Enix Japan's PlayStation 3 game list, capture of 2015-04-10: Kingdom Hearts -HD 1.5 ReMIX-, RPG, release 2013.03.14, three works recorded in high-definition on one disc, from the first game to Kingdom Hearts II; links the official site https://web.archive.org/web/20150410063306/http://www.square-enix.co.jp/kingdom/khhd/ -- accessed 2026-10-25 (text pasted by user)
+- https://web.archive.org/web/20191029171046/https://www.jp.square-enix.com/game/?pf=99,2 -- Square Enix Japan's game list filtered to PlayStation 3, capture of 2019-10-29 (saved page read by me): Kingdom Hearts -HD 1.5 ReMIX-, RPG, release 2013.03.14; links http://store.jp.square-enix.com/item/BLJM_60589.html (Square Enix e-STORE) and the official site http://www.square-enix.co.jp/kingdom/khhd/ -- accessed 2026-10-25
+- https://web.archive.org/web/20250217143012/https://www.jp.square-enix.com/game/?pf=99,2 -- the same list, capture of 2025-02-17 (saved page read by me): Kingdom Hearts -HD 1.5 ReMIX- links https://www.jp.square-enix.com/kingdom/khhd/; the Square Enix e-STORE link is no longer listed -- accessed 2026-10-25
+
 ## Decisions
