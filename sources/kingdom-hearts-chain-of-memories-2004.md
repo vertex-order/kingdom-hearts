@@ -133,4 +133,17 @@
   - Items appear only in the captures listed after "listed:"; the 2015-12-08 to 2018-05-24 captures show a short list (recent releases only).
   - キングダム ハーツ -HD 1.5 リミックス-; RPG; first listed 2013-10-20: release 2013.03.14; icons: none; changes: 2025-02-17: CERO A first shown; listed: 2013-10-20; 2015-04-10; 2019-10-29 to live (2026-10-26)
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - キングダム ハーツ - HD 1.5+2.5 リミックス-（クラウドバージョン）; RPG; first listed 2022-06-28: release 2022.02.10; icons: クラウド; CERO A; changes: 2024-10-07: title キングダム ハーツ - HD 1.5+2.5 リミックス-（クラウドバージョン） to キングダム ハーツ -HD 1.5+2.5 リミックス-（クラウドバージョン）; listed in 2022-06-28 to 2025-10-28
+    - https://store-jp.nintendo.com/list/software/70010000046791.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2022-06-28 to 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store-jp.nintendo.com/list/software/70010000046791.html (last listing: https://web.archive.org/web/20251107123723/https://store-jp.nintendo.com/list/software/70010000046791.html)
+    - https://www.jp.square-enix.com/kingdom/20th/ -- 公式サイト link, listed 2022-06-28 to 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://www.jp.square-enix.com/kingdom/20th/ (last listing: https://web.archive.org/web/20251107123723/https://www.jp.square-enix.com/kingdom/20th/)
+  - キングダム ハーツ -HD 1.5+2.5 リミックス-; RPG; first listed live (2026-10-27): release 2026.10.08; icons: ダウンロード, クラウド; CERO A; listed on the live page only
+    - https://store-jp.nintendo.com/item/software/D70010000094261 -- マイニンテンドーストア link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions

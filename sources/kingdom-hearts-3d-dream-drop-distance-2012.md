@@ -106,4 +106,14 @@
     - https://store-jp.nintendo.com/item/software/D70010000117237 -- マイニンテンドーストア link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://store-jp.nintendo.com/item/software/D70010000117237
     - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed 2026-10-17 to live (2026-10-26) -- link recorded only -- archived: https://web.archive.org/web/20260811215419/https://www.jp.square-enix.com/kingdom/collection/
 
+## jp.square-enix.com (Publisher; Japan, Switch list, captures of 2019-03-31 to live (2026-10-27))
+
+- Square Enix Japan's Nintendo Switch game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2017-05-03 http://www.jp.square-enix.com/game/switch/; 2018-05-24 http://www.jp.square-enix.com/game/pf/switch/; 2019-03-31 to live https://www.jp.square-enix.com/game/?pf=4; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Nintendo Switch (the model, not repeated below), パッケージ (disc), ダウンロード (also sold as a download), オンライン専用 (online only), クラウド (cloud version); "none" = no label beyond the model (not stated). CERO: the rating image's alt text; 審査予定 = rating pending
+  - Link labels: e-STORE (Square Enix's store), 任天堂ホームページ / マイニンテンドーストア (Nintendo's store, same link under its two names), 公式サイト, 商品詳細
+  - キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ（クラウドバージョン）; RPG; first listed 2022-06-28: release 2022.02.10; icons: クラウド; CERO A; listed in every capture from 2022-06-28 to live (2026-10-27)
+    - https://store-jp.nintendo.com/list/software/70010000046794.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2022-06-28 to 2025-10-28 -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://store-jp.nintendo.com/list/software/70010000046794.html (last listing: https://web.archive.org/web/20251107123723/https://store-jp.nintendo.com/list/software/70010000046794.html)
+    - https://www.jp.square-enix.com/kingdom/20th/ -- 公式サイト link, listed 2022-06-28 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20220628170027/https://www.jp.square-enix.com/kingdom/20th/
+
 ## Decisions

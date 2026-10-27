@@ -26,7 +26,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
         { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/' },
         { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix' },
-        { key: 'nintendo-switch', paren: 'Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
+        { key: 'nintendo-switch', paren: 'Cloud; Digital', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-1-5-plus-2-5-remix-switch/' },
         { key: 'nintendo-switch-2', paren: 'Physical; Digital; Switch Compatibility', url: 'https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/' },
         { key: 'playstation3', paren: 'Physical' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
