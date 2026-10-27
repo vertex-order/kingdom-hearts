@@ -28,7 +28,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
       ],
       profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-Re-coded-271243.html',
       platforms: [
-        { key: 'nintendo-ds' },
+        { key: 'nintendo-ds', paren: 'Physical' },
         { key: 'fan-recap', search: 'youtube' },
         { key: 'fan-playthrough', search: 'youtube' },
       ],

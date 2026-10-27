@@ -25,7 +25,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
       ],
       profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-358-2-Days-271232.html',
       platforms: [
-        { key: 'nintendo-ds' },
+        { key: 'nintendo-ds', paren: 'Physical' },
         { key: 'fan-recap', search: 'youtube', searchQualifier: 'ds' },
         { key: 'fan-playthrough', search: 'youtube', searchQualifier: 'ds' },
       ],
