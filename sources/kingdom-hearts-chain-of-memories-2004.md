@@ -146,4 +146,15 @@
     - https://www.xbox.com/ja-jp/games/store/kh-collection/9N9QVDMKRDXF -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
     - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Xbox One list, captures of 2020-03-12 to live (2026-10-27))
+
+- Square Enix Japan's Xbox One game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2016-10-06 http://www.jp.square-enix.com/game/xboxone/; 2018-01-29 http://www.jp.square-enix.com/game/pf/xboxone/; 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox One, platform filter ?pf=7 (the saved pages show the model checkbox value 7 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2013 to 2016 captures): ダウンロード対応 (also sold as a download) = icon-download-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store (also Microsoft Storeでダウンロード in the 2018 capture), e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ - HD 1.5+2.5 リミックス-; RPG; first listed 2020-03-12: release 2020.02.18; icons: ダウンロード; CERO A; changes: 2024-09-25: title spacing キングダム ハーツ - HD 1.5+2.5 リミックス- to キングダム ハーツ -HD 1.5+2.5 リミックス-; listed in every capture from 2020-03-12 to live (2026-10-27)
+    - https://www.microsoft.com/ja-jp/p/kingdom-hearts-hd-15-25-remix/9pj5fb9gx37r -- Microsoft Store link, listed 2020-03-12 to 2024-09-25 -- link recorded only -- archived: https://web.archive.org/web/20200312231958/https://www.microsoft.com/ja-jp/p/kingdom-hearts-hd-15-25-remix/9pj5fb9gx37r (last listing: https://web.archive.org/web/20240925012046/https://www.microsoft.com/ja-jp/p/kingdom-hearts-hd-15-25-remix/9pj5fb9gx37r)
+    - https://www.jp.square-enix.com/kingdom/khhd1_2/ -- 公式サイト link, listed 2020-03-12 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20200312231958/https://www.jp.square-enix.com/kingdom/khhd1_2/
+    - https://www.xbox.com/ja-jp/games/store/i/9pj5fb9gx37r -- Microsoft Store link, listed 2025-09-25 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.xbox.com/ja-jp/games/store/i/9pj5fb9gx37r
+
 ## Decisions

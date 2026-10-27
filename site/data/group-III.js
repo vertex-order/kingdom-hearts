@@ -43,7 +43,7 @@ window.__khGroupReg['III'] = { num: 'III', chronoOrder: 290, narrativeOrder: 180
       ],
       platforms: [
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
-        { key: 'xbox-one', paren: 'Enhanced', url: 'https://www.xbox.com/games/store/kingdom-hearts/c08mw8xhqn9g' },
+        { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts/c08mw8xhqn9g' },
         { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
         { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/' },
         { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/kingdom-hearts-iii' },

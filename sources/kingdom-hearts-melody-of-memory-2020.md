@@ -67,4 +67,15 @@
     - https://store-jp.nintendo.com/list/software/70010000020379.html -- 任天堂ホームページ / マイニンテンドーストア link, listed 2023-09-15 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20230915044930/https://store-jp.nintendo.com/list/software/70010000020379.html
     - https://store.jp.square-enix.com/estore/g/gHAC-P-AUMDA/ -- e-STOREで購入 link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Xbox One list, captures of 2021-05-08 to live (2026-10-27))
+
+- Square Enix Japan's Xbox One game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2016-10-06 http://www.jp.square-enix.com/game/xboxone/; 2018-01-29 http://www.jp.square-enix.com/game/pf/xboxone/; 2019-03-09 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox One, platform filter ?pf=7 (the saved pages show the model checkbox value 7 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the images (2013 to 2016 captures): ダウンロード対応 (also sold as a download) = icon-download-taiou; from 2018 the label images' alt text: パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no icon beyond the model (not stated). CERO: the label's alt text from the 2018 captures; CERO審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store (also Microsoft Storeでダウンロード in the 2018 capture), e-STOREで購入 (Square Enix e-STORE purchase); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ メロディ オブ メモリー; リズムアクション; first listed 2021-05-08: release 2020.11.11; icons: ダウンロード; CERO A; listed in every capture from 2021-05-08 to live (2026-10-27)
+    - https://www.microsoft.com/store/productid/9n81c985k612 -- Microsoft Store link, listed 2021-05-08 to 2024-09-25 -- link recorded only -- archived: https://web.archive.org/web/20210509171838/https://www.microsoft.com/store/productid/9n81c985k612 (last listing: https://web.archive.org/web/20240925012046/https://www.microsoft.com/store/productid/9n81c985k612)
+    - https://www.jp.square-enix.com/kingdom/kh_mom/ -- 公式サイト link, listed 2021-05-08 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20210509171838/https://www.jp.square-enix.com/kingdom/kh_mom/
+    - https://www.xbox.com/ja-jp/games/store/kingdom-hearts-melody-of-memory-japan/9n81c985k612 -- Microsoft Store link, listed 2025-09-25 to live (2026-10-27) -- link recorded only -- archived: https://web.archive.org/web/20250925101854/https://www.xbox.com/ja-jp/games/store/kingdom-hearts-melody-of-memory-japan/9n81c985k612
+
 ## Decisions
