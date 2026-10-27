@@ -72,4 +72,17 @@
 
 - https://www.xbox.com/games/store/kingdom-hearts-re-mind/9p5b4ktphjjv -- platform -- accessed 2026-09-26
 
+## jp.square-enix.com (Publisher; Japan, Xbox Series X|S list, captures of 2020-11-11 to live (2026-10-27))
+
+- Square Enix Japan's Xbox Series X|S game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2020-11-11 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to Xbox Series X (2020-11-11) / Xbox Series X|S, platform filter ?pf=34 (the saved pages show the model checkbox value 34 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/https://www.jp.square-enix.com/game/, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons, read from the alt text of the label images: Xbox SX (2020-11-11) or Xbox Series X|S (the model, not repeated below), パッケージ (sold as a package), ダウンロード (also sold as a download), オンライン専用 (online only); "none" = no label beyond the model (not stated). CERO: the label's alt text; 審査予定 = rating pending
+  - Link labels: 公式サイト (official site), Microsoft Store, 商品詳細 (detail page); a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツIII（+ Re Mind (DLC)）; RPG; first listed (earliest capture read) live (2026-10-27): release 2026.10.08; icons: ダウンロード; CERO A; listed: live (2026-10-27)
+    - https://www.xbox.com/ja-jp/games/store/kh3/9MW28SRLC7XR -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+  - キングダム ハーツ コレクション [I～III]; RPG; first listed (earliest capture read) live (2026-10-27): release 2026.10.08; icons: ダウンロード; CERO A; listed: live (2026-10-27)
+    - https://www.xbox.com/ja-jp/games/store/kh-collection/9N9QVDMKRDXF -- Microsoft Store link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
+
 ## Decisions
