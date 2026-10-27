@@ -26,8 +26,8 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
       ],
       platforms: [
         { key: 'windows', paren: 'Digital; PC; Handheld', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9p9669spd8sf' },
-        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue' },
         { key: 'nintendo-switch', paren: 'Cloud', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version-switch/' },
         { key: 'nintendo-switch-2', paren: 'Physical; Digital; Switch Compatibility', url: 'https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/' },
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA05795_00-KINGDOMHEARTSX28' },
@@ -69,7 +69,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
           profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/KINGDOM-HEARTS-3D-Dream-Drop-Distance--274292.html',
           languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
           platforms: [
-            { key: 'nintendo-3ds' },
+            { key: 'nintendo-3ds', paren: 'Physical', url: 'https://www.jp.square-enix.com/game/detail/kh3d/', hreflang: 'ja' },
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: '3ds' },
           ],
         },

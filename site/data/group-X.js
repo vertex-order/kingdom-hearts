@@ -16,6 +16,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
     primary: { tags: ['2D', 'RPG', 'Single-player', 'Multiplayer'], terminated: true, helpWanted: true,
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
+        { key: 'globe', jpTag: true, terminated: true },
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchQualifier: '[chi]', searchSuffix: 'fan port', noResults: true },
         { key: 'fan-movie', search: 'youtube', searchQualifier: '[chi]' },
         { key: 'fan-recap', search: 'youtube', searchQualifier: '[chi]' },
@@ -124,8 +125,8 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
         { key: 'playstation4', paren: 'Physical; Digital', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
         { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-28-final-chapter-prologue/9nb80t1xc43b' },
         { key: 'windows', paren: 'Xbox; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
-        { key: 'steam', paren: 'PC', url: 'https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/' },
-        { key: 'epic-games', paren: 'PC', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue' },
+        { key: 'steam', paren: 'PC; Digital', url: 'https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/' },
+        { key: 'epic-games', paren: 'PC; Digital', url: 'https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue' },
         { key: 'nintendo-switch', paren: 'Cloud', url: 'https://www.nintendo.com/store/products/kingdom-hearts-hd-2-8-final-chapter-prologue-cloud-version-switch/' },
         { key: 'nintendo-switch-2', paren: 'Physical; Digital; Switch Compatibility', url: 'https://www.nintendo.com/store/products/kingdom-hearts-collection-i-iii-switch-2/' },
         { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },

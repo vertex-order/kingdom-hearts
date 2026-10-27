@@ -22,6 +22,15 @@
 - https://wikipedia.org/wiki/Kingdom_Hearts_%CF%87 -- dates*, platforms*, versions*, languages* -- accessed 2026-09-24
 - https://wikipedia.org/wiki/List_of_Disney_video_games#Kingdom_Hearts_games -- platforms*, dates* -- accessed 2026-09-25
 
+## jp.square-enix.com (Publisher; Japan, PC browser list, captures of 2014-07-01 to live (2026-10-27))
+
+- Square Enix Japan's PC browser game list -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-27
+  - Page URL by capture: 2013-06-13 to 2018-05-29 http://www.jp.square-enix.com/game/browser/ (the per-model page); 2019-03-21 to live (2026-10-27) https://www.jp.square-enix.com/game/ with the model filter set to PCブラウザ, platform filter ?pf=10 (the saved pages show the model checkbox value 10 checked; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/final-fantasy-franchise.md
+  - Icons: no icon image on any item of the 2013 to 2018 captures; from 2019-03-21 the model label image PCブラウザ (the model, not repeated below) and the purchase button 購入する (a hidden button with no link on the rows read), no パッケージ or ダウンロード label. Date label: 発売日 (release) to 2018, 配信日 (delivery) from 2019-03-21. CERO: no rating label on any capture
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page); 2013 to 2018 the title links to the same page as the first link; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ キー; PCブラウザ向けオンラインゲーム; first listed 2014-07-01: release 2013.07.18; icons: none; changes: 2019-03-21: genre PCブラウザ向けオンラインゲーム to PCブラウザ向けオンラインゲーム ※サービス終了; listed in every capture from 2014-07-01 to live (2026-10-27)
+    - http://kingdomhearts.jp/ -- 公式サイト link, listed 2014-07-01 to 2015-08-08 -- link recorded only -- archived: https://web.archive.org/web/20140701125859/http://kingdomhearts.jp/ (last listing: https://web.archive.org/web/20150808003612/http://kingdomhearts.jp/)
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.
