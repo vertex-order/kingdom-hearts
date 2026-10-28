@@ -278,6 +278,7 @@
 - the same list in its later layout (https://www.jp.square-enix.com/game/ with model filter その他, platform filter ?pf=32), capture of 2023-04-26: https://web.archive.org/web/20230426004831/https://www.jp.square-enix.com/game/?pf=32 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=32 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=24 -- the Game Boy Advance list (platform filter ?pf=24; the model checkbox value is 24, beside a disabled checked 99), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- https://www.jp.square-enix.com/game/?pf=23 -- the GameCube list (platform filter ?pf=23; the model checkbox value is 23, beside a disabled checked 99), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
 ## Decisions
 
