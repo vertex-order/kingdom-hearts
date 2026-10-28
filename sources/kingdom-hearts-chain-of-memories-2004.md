@@ -174,4 +174,13 @@
   - キングダム ハーツ コレクション [I～III]; RPG; first listed live (2026-10-27): release 2026.10.09; icons: ダウンロード; CERO A; listed in every capture from live (2026-10-27) to live (2026-10-27)
     - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-27) -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Game Boy Advance list, capture of live (2026-10-28))
+
+- Square Enix Japan's Game Boy Advance game list -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.jp.square-enix.com/game/?pf=24 (platform filter 24 = Game Boy Advance; the model checkbox value is 24, beside a disabled checked 99); only the live page is saved, no Wayback capture read
+  - Icons: the labels as images: ゲームボーイアドバンス (the model, not repeated below), パッケージ (sold as a package), 購入する (buy button); "none" = no other icon. CERO: the label's alt text where shown
+  - Link labels: 商品詳細 (detail page); links of the live page have no archive
+  - キングダム ハーツ チェイン オブ メモリーズ（アルティメット ヒッツ）; RPG; first listed live (2026-10-28): release 2006.03.09; icons: パッケージ; CERO A; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/game/detail/khcom/ -- 商品詳細 link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
