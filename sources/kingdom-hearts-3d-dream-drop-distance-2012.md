@@ -230,4 +230,11 @@
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Out Now); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' French (France) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Disponible maintenant); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/fr/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions
