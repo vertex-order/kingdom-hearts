@@ -262,6 +262,11 @@
 - the same list, capture of 2024-04-15: https://web.archive.org/web/20240415030409/https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list, capture of 2025-07-30: https://web.archive.org/web/20250730161521/https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 - the same list (platform filter ?pf=12), live page of 2026-10-27: https://www.jp.square-enix.com/game/?pf=12 -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- http://www.jp.square-enix.com/mobile/i/ -- the i-mode list (the feature-phone menu page, titled iモード | SQUARE ENIX), capture of 2012-10-08: https://web.archive.org/web/20121008084259/http://www.jp.square-enix.com/mobile/i/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2013-10-20: https://web.archive.org/web/20131020014959/http://www.jp.square-enix.com/mobile/i/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2014-12-16: https://web.archive.org/web/20141216070754/http://www.jp.square-enix.com/mobile/i/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2016-02-09: https://web.archive.org/web/20160209020347/http://www.jp.square-enix.com/mobile/i/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
+- the same list, capture of 2017-04-01: https://web.archive.org/web/20170401210408/http://www.jp.square-enix.com/mobile/i/ -- visited and audited -- accessed 2026-10-27 (saved page read by me)
 
 ## Decisions
 

@@ -129,7 +129,7 @@ window.__khGroupReg['Other'] = { num: 'Other', chronoOrder: 330, narrativeOrder:
     mediaDesc: ['Does not have a storyline and focuses more on socializing and minigames.'],
     primary: { tags: ['2D', 'Minigames', 'Social'], terminated: true, helpWanted: true,
       platforms: [
-        { key: 'mobile-phone', paren: 'NTT DoCoMo', terminated: true },
+        { key: 'mobile-phone', paren: 'NTT DoCoMo i-mode', terminated: true },
         { key: 'fan-playthrough', search: 'youtube' },
       ],
     },

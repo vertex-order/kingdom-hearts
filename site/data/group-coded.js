@@ -40,7 +40,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
           versionDesc: ['The original episodic release, split into a prologue and 8 episodes, discontinued for download in 2013.'],
           languages: [{ value: 'JA', native: true }],
           platforms: [
-            { key: 'mobile-phone', paren: 'NTT DoCoMo', jpTag: true, terminated: true },
+            { key: 'mobile-phone', paren: 'NTT DoCoMo i-mode', jpTag: true, terminated: true },
           ],
         },
       ],
