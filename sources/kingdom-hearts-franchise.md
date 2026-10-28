@@ -339,6 +339,13 @@
 - https://www.jp.square-enix.com/game/?s=9 -- the Steam list (search filter ?s=9 = Steam; the checkbox value is 9, result heading Steam), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 - https://www.jp.square-enix.com/game/?pf=14 -- the Arcade list (platform filter ?pf=14; the model checkbox value is 14, beside a disabled checked 99), live page of 2026-10-28 (the saved page's own address is https://www.jp.square-enix.com/game/) -- visited and audited -- accessed 2026-10-28 (saved page read by me)
 
+## square-enix-games.com (Publisher; Square Enix Games, North America)
+
+- https://www.square-enix-games.com/en_US/games -- the English (US) game list, platform filter PC (the saved page shows "Platform (1)"; the saved file does not record the page's own address), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, platform filter PS3 (the saved page shows "Platform (1)"), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, platform filter PS4 (the saved page shows "Platform (1)"), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+- the same list, no filter (144 titles), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me)
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
