@@ -203,4 +203,23 @@
   - キングダム ハーツ -ファイナル ミックス-（アルティメット ヒッツ）; RPG; first listed 2023-01-07: release 2005.09.08; icons: パッケージ; CERO A; listed in every capture from 2023-01-07 to live (2026-10-28)
     - https://www.jp.square-enix.com/game/detail/khfm/ -- 商品詳細 link, listed 2023-01-07 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20230107101112mp_/https://www.jp.square-enix.com/game/detail/khfm/
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts franchise list, captures of 2021-05-06 to live (2026-10-28))
+
+- Square Enix Japan's Kingdom Hearts franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2021-05-06 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=3 (series filter 3 = キングダム ハーツ; the saved pages show the series checkbox value 3 checked and the result heading キングダム ハーツ; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md; the list covers every platform at once, so each item names its platforms
+  - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード (download), クラウド (cloud), 審査予定 (rating pending), buttons (購入する, App Store, Google Play, e-STOREで購入 and the like); "none" = no icon. CERO: the label's alt text where shown
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ; RPG; first listed 2021-05-06: release 2005.09.08; icons: パッケージ, プレイステーション2; CERO A; listed in every capture from 2021-05-06 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/kh/ -- 商品詳細 link, listed 2021-05-06 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20210506224629mp_/https://www.jp.square-enix.com/game/detail/kh/
+  - キングダム ハーツ -ファイナル ミックス-; RPG; first listed 2021-05-06: release 2005.09.08; icons: パッケージ, プレイステーション2; CERO A; listed in every capture from 2021-05-06 to live (2026-10-28)
+    - https://www.jp.square-enix.com/game/detail/khfm/ -- 商品詳細 link, listed 2021-05-06 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20210506224629mp_/https://www.jp.square-enix.com/game/detail/khfm/
+  - キングダム ハーツ -HD 1.5 リミックス-; RPG; first listed 2021-05-06: release 2013.03.14; icons: e-STOREで購入, パッケージ, プレイステーション3; CERO A; changes: live (2026-10-28): icons e-STOREで購入, パッケージ, プレイステーション3 to パッケージ, プレイステーション3; listed in every capture from 2021-05-06 to live (2026-10-28)
+    - http://store.jp.square-enix.com/item/BLJM_60589.html -- e-STOREで購入 link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/http://store.jp.square-enix.com/item/BLJM_60589.html
+    - http://www.square-enix.co.jp/kingdom/khhd/ -- 公式サイト link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/http://www.square-enix.co.jp/kingdom/khhd/
+    - https://www.jp.square-enix.com/kingdom/khhd/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - キングダム ハーツ - HD 1.5+2.5 リミックス-; RPG; first listed 2021-05-06: release 2021.03.30(Windows); icons: Windows, Xbox One, ダウンロード, パッケージ, プレイステーション4; CERO A; changes: live (2026-10-28): release 2021.03.30(Windows) to 2026.10.08, icons Windows, Xbox One, ダウンロード, パッケージ, プレイステーション4 to Nintendo Switch, Nintendo Switch2, Windows, Xbox One, Xbox Series X|S, クラウド, ダウンロード, パッケージ, プレイステーション4, プレイステーション5, title spacing キングダム ハーツ - HD 1.5+2.5 リミックス- to キングダム ハーツ -HD 1.5+2.5 リミックス-; listed in every capture from 2021-05-06 to live (2026-10-28)
+    - https://www.jp.square-enix.com/kingdom/khhd1_2/ -- 公式サイト link, listed 2021-05-06 to live (2026-10-28) -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://www.jp.square-enix.com/kingdom/khhd1_2/
+  - キングダム ハーツ コレクション [I～III]; RPG; first listed live (2026-10-28): release 2026.10.08; icons: Nintendo Switch2, Windows, Xbox Series X|S, ダウンロード, パッケージ, プレイステーション5; CERO A; listed on the capture of live (2026-10-28) only
+    - https://www.jp.square-enix.com/kingdom/collection/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
 ## Decisions

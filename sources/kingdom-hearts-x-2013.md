@@ -31,6 +31,14 @@
   - キングダム ハーツ キー; PCブラウザ向けオンラインゲーム; first listed 2014-07-01: release 2013.07.18; icons: none; changes: 2019-03-21: genre PCブラウザ向けオンラインゲーム to PCブラウザ向けオンラインゲーム ※サービス終了; listed in every capture from 2014-07-01 to live (2026-10-27)
     - http://kingdomhearts.jp/ -- 公式サイト link, listed 2014-07-01 to 2015-08-08 -- link recorded only -- archived: https://web.archive.org/web/20140701125859/http://kingdomhearts.jp/ (last listing: https://web.archive.org/web/20150808003612/http://kingdomhearts.jp/)
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts franchise list, captures of 2021-05-06 to live (2026-10-28))
+
+- Square Enix Japan's Kingdom Hearts franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2021-05-06 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=3 (series filter 3 = キングダム ハーツ; the saved pages show the series checkbox value 3 checked and the result heading キングダム ハーツ; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md; the list covers every platform at once, so each item names its platforms
+  - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード (download), クラウド (cloud), 審査予定 (rating pending), buttons (購入する, App Store, Google Play, e-STOREで購入 and the like); "none" = no icon. CERO: the label's alt text where shown
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ キー; PCブラウザ向けオンラインゲーム ※サービス終了; first listed 2021-05-06: release 2013.07.18; icons: PCブラウザ; listed in every capture from 2021-05-06 to live (2026-10-28)
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

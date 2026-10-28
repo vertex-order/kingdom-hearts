@@ -40,4 +40,15 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp -- Google Play link, listed 2021-03-08 to 2024-04-15 -- link recorded only -- archived: https://web.archive.org/web/20210309031231/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp (last listing: https://web.archive.org/web/20240423144213/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp)
     - https://www.jp.square-enix.com/kingdom/uc/ -- 公式サイト link, listed 2021-03-08 -- link recorded only -- archived: https://web.archive.org/web/20210309031231/https://www.jp.square-enix.com/kingdom/uc/
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts franchise list, captures of 2021-05-06 to live (2026-10-28))
+
+- Square Enix Japan's Kingdom Hearts franchise search (the game list filtered by series) -- saved pages of each capture read by me; each capture read only for what is new against the previous one -- accessed 2026-10-28
+  - Page URL by capture: 2021-05-06 to live (2026-10-28) https://www.jp.square-enix.com/game/?s=3 (series filter 3 = キングダム ハーツ; the saved pages show the series checkbox value 3 checked and the result heading キングダム ハーツ; the pages' own address is https://www.jp.square-enix.com/game/); each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md; the list covers every platform at once, so each item names its platforms
+  - Icons: the labels as images, platform names first (the models the item is listed for), then パッケージ (sold as a package), ダウンロード (download), クラウド (cloud), 審査予定 (rating pending), buttons (購入する, App Store, Google Play, e-STOREで購入 and the like); "none" = no icon. CERO: the label's alt text where shown
+  - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
+  - キングダム ハーツ ユニオン クロス ダーク ロード; RPG; first listed 2021-05-06: release 2020.06.22; icons: Android, App Store, Google Play, iOS, ダウンロード; changes: live (2026-10-28): genre RPG to RPG ※サービス終了, icons Android, App Store, Google Play, iOS, ダウンロード to Android, iOS, ダウンロード; listed in every capture from 2021-05-06 to live (2026-10-28)
+    - https://apps.apple.com/jp/app/kingdom-hearts-unchained-ch/id993988918?l=ja -- App Store link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://apps.apple.com/jp/app/kingdom-hearts-unchained-ch/id993988918?l=ja
+    - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp -- Google Play link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp
+    - https://www.jp.square-enix.com/kingdom/uc/ -- 公式サイト link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://www.jp.square-enix.com/kingdom/uc/
+
 ## Decisions
