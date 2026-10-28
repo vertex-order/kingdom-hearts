@@ -169,6 +169,8 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_US/games with no filter set (the saved page shows the Platform filter with nothing selected; its links use the en_US locale; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 144 titles, each with platform names and a status ((Out Now), a release date, (Coming Soon), (End of service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Out Now); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/us/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Out Now); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/en-us/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; United Kingdom, Games list, unfiltered, live page of 2026-10-28)
 
@@ -176,6 +178,8 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_GB/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's United Kingdom country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Out Now); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Out Now); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Rest of Europe, Games list, unfiltered, live page of 2026-10-28)
 
@@ -183,6 +187,8 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_EU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Rest of Europe country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Out Now); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Out Now); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Australia & New Zealand, Games list, unfiltered, live page of 2026-10-28)
 
@@ -190,6 +196,8 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/en_AU/games with no filter set (the saved page shows the Platform filter with nothing selected; the page's Australia & New Zealand country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Out Now), a day-first release date, (Coming Soon), (End of service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Out Now); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Out Now); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; France, Games list, unfiltered, live page of 2026-10-28)
 
@@ -197,6 +205,8 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/fr_FR/games with no filter set (the saved page is in French, `lang="fr"`, the Plateformes filter with nothing selected; the page's France country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponible maintenant), a day-first release date, (Bientôt disponible), (Fin de service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Disponible maintenant); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/fr/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Disponible maintenant); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/fr/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## square-enix-games.com (Publisher; Latin America, Games list, unfiltered, live page of 2026-10-28)
 
@@ -204,5 +214,61 @@
   - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_XL/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Latin America country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Disponible el 30 de octubre de 2025), (End of service)), no genres or ratings
   - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Ya disponible); one card for the collection; listed on the capture of live (2026-10-28) only
     - https://www.kingdomhearts.com/2_8/us/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Ya disponible); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/es-xl/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Brazil, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Portuguese (Brazil) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pt_BR/games with no filter set (the saved page is in Portuguese, `lang="pt"`, the Plataforma filter with nothing selected; the page's Brazil country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Disponível), a day-first release date, (Em breve), (Disponível em 30 de outubro de 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Disponível); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/us/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Disponível); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/pt-br/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Germany, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' German (Germany) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/de_DE/games with no filter set (the saved page is in German, `lang="de"`, the Plattformen filter with nothing selected; the page's Germany country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Jetzt verfügbar), a day-first release date, (Erscheint bald), (Erscheint am 30. Oktober 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Jetzt verfügbar); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/de/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Jetzt verfügbar); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/de/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Spain, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Spanish (Spain) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/es_ES/games with no filter set (the saved page is in Spanish, `lang="es"`, the Plataforma filter with nothing selected; the page's Spain country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ya disponible), a day-first release date, (Próximamente), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Ya disponible); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Ya disponible); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Italy, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Italian (Italy) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/it_IT/games with no filter set (the saved page is in Italian, `lang="it"`, the Piattaforma filter with nothing selected; the page's Italy country link returns to this address; the saved file does not record the page's own address); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Ora disponibile), a day-first release date, (Presto disponibile), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Ora disponibile); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Ora disponibile); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Poland, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Polish (Poland) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/pl_PL/games with no filter set (the saved page is in Polish, `lang="pl"`, the Platforma filter with nothing selected; the page's Poland country link returns to this address; the saved file does not record the page's own address, and its file name says "life" for live); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Dostępne teraz), a day-first release date, (Już wkrótce), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Dostępne teraz); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Dostępne teraz); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+
+## square-enix-games.com (Publisher; Czech Republic, Games list, unfiltered, live page of 2026-10-28)
+
+- Square Enix Games' Czech (Czech Republic) game list, no filter -- saved page of the live capture read by me -- accessed 2026-10-28
+  - Page URL by capture: live (2026-10-28) https://www.square-enix-games.com/cs_CZ/games with no filter set (the saved page is in Czech, `lang="cs"`, the Platforma filter with nothing selected; the page's Czech Republic country link returns to this address; the saved file does not record the page's own address, and its file name carries no date); only the live page is saved, no Wayback capture read; the list shows 143 titles, each with platform names and a status ((Právě vychází), a day-first release date, (Již brzy), (Coming 30 October 2025), (End of service)), no genres or ratings
+  - KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE; first listed live (2026-10-28): platforms PS4, Epic Games Store, Nintendo Switch Cloud Version, Steam; (Právě vychází); one card for the collection; listed on the capture of live (2026-10-28) only
+    - https://www.kingdomhearts.com/2_8/gb/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
+  - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Právě vychází); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
+    - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
 ## Decisions
