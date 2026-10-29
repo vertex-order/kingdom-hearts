@@ -337,4 +337,13 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 1.5+2.5 リミックス; 2017-03-09; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; Nintendo DS game title list, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (index page, revision 110706708 of 2026-08-19; wikitext read through the MediaWiki API); archived: TODO
+  - Index of the DS lists: the released games are on per-year pages, the index holds the non-retail and unreleased titles; DSiウェア titles are on ニンテンドーDSiウェアのタイトル一覧
+- https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧_(2010年) -- dates*, platforms* -- accessed 2026-10-29 (revision 107943407 of 2026-01-09; wikitext read through the MediaWiki API); archived: TODO
+  - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
+  - Row: キングダム ハーツ Re:コーデッド; Japan 2010-10-07; スクウェア・エニックス; note: 携帯電話用アプリ「キングダム ハーツ コーデッド」のリメイク
+    - reference link recorded only: https://www.jp.square-enix.com/company/ja/news/pdf/63da56e37200c23f527e92e66b33643a.pdf
+
 ## Decisions
