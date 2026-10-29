@@ -289,4 +289,11 @@
   - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Právě vychází); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
     - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; computer game title index and title article, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- lists the article below (section き) -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110699812 of 2026-08-19); archived: TODO
+  - Alphabetical index of computer game titles; gives each title and its article link only, no platforms or dates
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_バース_バイ_スリープ -- Japan release date, platform, North America and Europe release dates -- accessed 2026-10-28 (article read through the MediaWiki API, revision 111411803 of 2026-10-17); archived: TODO
+  - Lead: Kingdom Hearts Birth by Sleep; released 2010-01-09 by Square Enix for the PlayStation Portable; released in the United States on 2010-09-07 and in Europe on 2010-09-10
+
 ## Decisions
