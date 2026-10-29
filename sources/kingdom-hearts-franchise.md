@@ -26,6 +26,7 @@
 - https://ja.wikipedia.org/wiki/ニンテンドーDSiウェアのタイトル一覧 -- Japanese Wikipedia's list of DSiWare titles distributed in Japan, 2008 to 2015 (494 titles; distribution ended 2023-03-28) -- live page of 2026-10-28 (revision 111004633 of 2026-09-13), visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- Japanese Wikipedia's alphabetical index of computer game titles (a title directory: each title with its article link, no platforms or dates, no platform lists) -- live page of 2026-10-28 (revision 110699812 of 2026-08-19), visited and audited; archived: TODO
   - Kingdom Hearts series article linked from the index: https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- accessed 2026-10-28 (revision 110652099 of 2026-08-15); archived: TODO
+- https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japanese Wikipedia's list of the Final Fantasy series works and derived works (games by series, platforms and first Japan release dates; related works section) -- live page of 2026-10-28 (revision 111298721 of 2026-10-06), visited and audited; archived: TODO
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Video_games
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga
