@@ -355,4 +355,16 @@
   - Index page of the Nintendo Switch games released in Japan, with the 2026 and 2027 tables (columns: release date, title, publisher, パ [●: also sold as a package; blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2026年): KINGDOM HEARTS HD 1.5+2.5 ReMIX; Japan 2026-10-08; スクウェア・エニックス; パ: blank; CERO: A; note: Nintendo Switch 2版も同日発売
 
+## ja.wikipedia.org (Information; mobile phone game article, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/携帯電話ゲーム -- release year, platform, publisher -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110753861 of 2026-08-23); archived: TODO
+  - Section 「大作RPGの登場 (2003年)」: lists 『キングダム ハーツ コーデッド』 (2008, Square Enix) as the Kingdom Hearts series' mobile RPG; year only, no day or carrier
+
+## ja.wikipedia.org (Information; mobile phone app game category and title article, live pages of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム -- lists the article below -- accessed 2026-10-29 (category page revision 104400790 of 2025-04-06); archived: TODO
+- https://ja.wikipedia.org/wiki/キングダム ハーツ コーデッド -- mobile distribution -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 111380327 of 2026-10-14); archived: TODO
+  - Pre-installed version Olympus Coliseum -SideEpisode- on the NTT docomo P-01A on 2008-11-19; full version from 2009-06-03 on the Kingdom Hearts Mobile portal, new scenarios about monthly; service and game ended 2013-04-30
+  - The portal opened 2008-12-15; four monthly courses (315, 525, 840, 1050 yen)
+
 ## Decisions
