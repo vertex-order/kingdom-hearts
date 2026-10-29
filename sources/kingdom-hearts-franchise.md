@@ -23,6 +23,7 @@
 - https://wikipedia.org/wiki/List_of_Square_Enix_video_games -- games, platforms, date -- accessed 2026-09-25
 - https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧 -- Japanese Wikipedia's list of Wii disc games (released, non-sale and unreleased titles; Japan, North America and Europe dates) -- live page of 2026-10-28, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧 -- Japanese Wikipedia's list of WiiWare titles distributed in Japan, 2008 to 2011 -- live page of 2026-10-28, visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/ニンテンドーDSiウェアのタイトル一覧 -- Japanese Wikipedia's list of DSiWare titles distributed in Japan, 2008 to 2015 (494 titles; distribution ended 2023-03-28) -- live page of 2026-10-28 (revision 111004633 of 2026-09-13), visited and audited; archived: TODO
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Video_games
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga
