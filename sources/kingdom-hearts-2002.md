@@ -386,4 +386,11 @@
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2020年): キングダム ハーツ HD 1.5+2.5 リミックス; 2020-02-17; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2002年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 109108664 of 2026-04-10); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2002; date, title, publisher, note)
+  - Row (発売されたタイトル, 2002年): キングダム ハーツ; 2002-03-28; スクウェア; note: ディズニーとのコラボレーション作品で、ファイナルファンタジーシリーズのキャラクターも登場する
+  - Row (発売されたタイトル, 2002年): キングダムハーツ ファイナルミックス; 2002-12-26; スクウェア; no note
+
 ## Decisions

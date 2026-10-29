@@ -377,4 +377,13 @@
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2020年): キングダム ハーツ HD 1.5+2.5 リミックス; 2020-02-17; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 2 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2005年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110402732 of 2026-07-25); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2005; date, title, publisher, note)
+  - Row (発売されたタイトル, 2005年): キングダム ハーツII; 2005-12-22; スクウェア・エニックス; no note
+- https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_(2007年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110833777 of 2026-08-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 2 (2007; date, title, publisher, note)
+  - Row (2007年): キングダムハーツIIFINAL MIX+; 2007-03-29; スクウェア・エニックス; note: 北米版『キングダム ハーツII』をもとにしたリニューアル版『KINGDOM HEARTS II Final Mix』および、ゲームボーイアドバンス用ソフト『KINGDOM HEARTS Chain of Memories』のリメイクである『KINGDOM HEARTS Re: Chain of Memories』を収録
+
 ## Decisions
