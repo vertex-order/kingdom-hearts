@@ -376,4 +376,12 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 1.5+2.5 リミックス; 2017-03-09; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; Game Boy Advance game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ゲームボーイアドバンスのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 110862677 of 2026-09-01; wikitext read through the MediaWiki API); archived: TODO
+  - Single page of the 791 titles released in Japan, in release order, then the unreleased titles (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark; Game Boy Advance only
+  - Row: キングダム ハーツ チェイン オブ メモリーズ; Japan 2004-11-11; スクウェア・エニックス; note: 『キングダム ハーツ』シリーズにおいては初の任天堂ハード作品。『キングダム ハーツ』と『キングダム ハーツII』の間の出来事を描いた作品
+    - reference link recorded only: https://www.inside-games.jp/article/2011/03/23/48044.html
+    - reference link recorded only: https://www.jp.square-enix.com/game/detail/khcom/
+
 ## Decisions
