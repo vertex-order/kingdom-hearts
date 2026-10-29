@@ -350,4 +350,11 @@
   - Index page of the Nintendo Switch games released in Japan, with the 2026 and 2027 tables (columns: release date, title, publisher, パ [●: also sold as a package; blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2026年): KINGDOM HEARTS HD 1.5+2.5 ReMIX; Japan 2026-10-08; スクウェア・エニックス; パ: blank; CERO: A; note: Nintendo Switch 2版も同日発売
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: キングダム ハーツ HD 1.5+2.5 リミックス (the collection)
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_1.5+2.5_リミックス -- accessed 2026-10-29 (revision 110802101 of 2026-08-28); archived: TODO
+
 ## Decisions

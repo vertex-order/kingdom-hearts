@@ -298,4 +298,11 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2022年, 2月): KINGDOM HEARTS HD 2.8 Final Chapter Prologue - Cloud Version; Japan 2022-02-10; スクウェア・エニックス; パ: blank; CERO: A; note: shared with the 1.5+2.5 row (the cloud-only note and the sales and service end dates)
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ (the collection)
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_2.8_ファイナル_チャプター_プロローグ -- accessed 2026-10-29 (revision 111104734 of 2026-09-22); archived: TODO
+
 ## Decisions

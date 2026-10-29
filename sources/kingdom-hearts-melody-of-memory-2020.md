@@ -212,4 +212,11 @@
   - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
   - Row (2020年, 発売されたタイトル): キングダム ハーツ メロディ オブ メモリー; Japan 2020-11-11; スクウェア・エニックス; パ: ●; CERO: A; no note
 
+## ja.wikipedia.org (Information; Windows game software category, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104278690 of 2025-03-28; members read through the MediaWiki API); archived: TODO
+  - Category of Windows game software: 4270 pages, one subcategory (プロジェクトEGG対応ソフト)
+  - Member: キングダム ハーツ メロディ オブ メモリー
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_メロディ_オブ_メモリー -- accessed 2026-10-29 (revision 107862250 of 2026-01-03); archived: TODO
+
 ## Decisions
