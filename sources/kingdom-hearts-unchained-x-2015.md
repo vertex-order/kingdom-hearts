@@ -52,6 +52,15 @@
   - Row (シリーズ作品一覧): キングダム ハーツ アンチェインド キー（2015年9月3日配信開始、iOS/Android）
   - Row (シリーズ作品一覧): キングダム ハーツ ユニオン クロス（2017年3月23日アップデートにより改題、iOS/Android）
 
+## ja.wikipedia.org (Information; iOS, iPhone, iPad, iPod and Android game software categories, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445120 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of iPhone game software: 1302 pages and 1 subcategory (アズールレーン)
+  - Member: キングダム ハーツ アンチェインド キー
+- https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト -- platforms* -- accessed 2026-10-29 (category page revision 104445131 of 2025-04-10; members read through the MediaWiki API); archived: TODO
+  - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
+  - Member: キングダム ハーツ アンチェインド キー
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.
