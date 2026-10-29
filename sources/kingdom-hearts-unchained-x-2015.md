@@ -45,6 +45,13 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp -- Google Playでダウンロード link, listed 2018-06-27 to 2020-03-12 -- link recorded only -- archived: https://web.archive.org/web/20180627171014/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp (last listing: https://web.archive.org/web/20200312224040/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp)
     - https://www.jp.square-enix.com/kingdom/uc/ -- 公式サイト link, listed 2019-03-09 to 2020-03-12 -- link recorded only -- archived: https://web.archive.org/web/20190918234144/https://www.jp.square-enix.com/kingdom/uc/ (last listing: https://web.archive.org/web/20200312224040/https://www.jp.square-enix.com/kingdom/uc/)
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ アンチェインド キー（2015年9月3日配信開始、iOS/Android）
+  - Row (シリーズ作品一覧): キングダム ハーツ ユニオン クロス（2017年3月23日アップデートにより改題、iOS/Android）
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

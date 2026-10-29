@@ -39,6 +39,18 @@
   - Link labels: 公式サイト (official site), 商品詳細 (detail page), and the store buttons; a link's archived URL is the capture of the link as the saved page renders it (the first, and the last when different); links of the live page have no archive
   - キングダム ハーツ キー; PCブラウザ向けオンラインゲーム ※サービス終了; first listed 2021-05-06: release 2013.07.18; icons: PCブラウザ; listed in every capture from 2021-05-06 to live (2026-10-28)
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ キー（2013年7月18日正式サービス開始、ブラウザゲーム）
+
+## ja.wikipedia.org (Information; Disney computer game works, Kingdom Hearts section, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ディズニーのコンピュータゲーム作品#キングダム_ハーツ_シリーズ -- release year, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110425598 of 2026-07-27); archived: TODO
+  - The section lists the Kingdom Hearts games as title, developer, release year, platform
+  - Row: キングダム ハーツ キー / KINGDOM HEARTS χ; developer スクウェア・エニックス; 2013; ブラウザゲーム
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

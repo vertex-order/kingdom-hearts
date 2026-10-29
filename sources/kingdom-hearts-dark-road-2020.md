@@ -51,4 +51,10 @@
     - https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp -- Google Play link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.khuxjp
     - https://www.jp.square-enix.com/kingdom/uc/ -- 公式サイト link, listed 2021-05-06 -- link recorded only -- archived: https://web.archive.org/web/20210506064407/https://www.jp.square-enix.com/kingdom/uc/
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ ユニオン クロス ダーク ロード（2020年6月22日アップデートにより改題、iOS/Android）
+
 ## Decisions

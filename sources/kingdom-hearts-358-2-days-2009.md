@@ -285,4 +285,24 @@
 - https://ja.wikipedia.org/wiki/キングダム_ハーツ_358/2_Days -- Japan release date, platform -- accessed 2026-10-28 (article read through the MediaWiki API, revision 109974597 of 2026-06-18); archived: TODO
   - Lead: Kingdom Hearts 358/2 Days; released 2009-05-30 by Square Enix for the Nintendo DS
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ 358/2 Days*（2009年5月30日発売、DS）
+  - Row (シリーズ作品一覧): キングダム ハーツ HD 1.5 リミックス（2013年3月14日発売、PS3）
+  - Row (シリーズ作品一覧): キングダム ハーツ HD 1.5+2.5 リミックス（2017年3月9日発売、PS4 / 2020年2月17日発売、Xbox One / 2021年3月30日発売、PC / 2026年10月8日発売予定、PS5/Switch/Switch2/XSX/S）
+  - Row (シリーズ作品一覧): キングダム ハーツ インテグラム マスターピース
+  - Row (シリーズ作品一覧): キングダム ハーツ インテグラムマスターピース for Cloud（2022年2月10日発売、Switch）
+  - Row (シリーズ作品一覧): キングダム ハーツ コレクション [I～III]（2026年10月8日発売予定、PS5/Switch2/XSX/S）
+  - Row (シリーズ作品一覧): キングダム ハーツ 358/2 Days KINGDOM HEARTS EDITION
+  - Row (シリーズ作品一覧): KINGDOM HEARTS 10th Anniversary 3D+Days+Re:coded BOX
+  - Row (シリーズ作品一覧): キングダム ハーツ スターターパック -HD 1.5+2.5 リミックス- / キングダム ハーツ コレクターズパック -HD 1.5+2.5 リミックス-
+
+## ja.wikipedia.org (Information; Disney computer game works, Kingdom Hearts section, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/ディズニーのコンピュータゲーム作品#キングダム_ハーツ_シリーズ -- release year, platforms -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110425598 of 2026-07-27); archived: TODO
+  - The section lists the Kingdom Hearts games as title, developer, release year, platform
+  - Row: キングダム ハーツ 358/2 Days / Kingdom Hearts 358/2 Days; developer スクウェア・エニックス; 2009; ニンテンドーDS
+
 ## Decisions

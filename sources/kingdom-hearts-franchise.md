@@ -27,6 +27,8 @@
 - https://ja.wikipedia.org/wiki/コンピュータゲームのタイトル一覧 -- Japanese Wikipedia's alphabetical index of computer game titles (a title directory: each title with its article link, no platforms or dates, no platform lists) -- live page of 2026-10-28 (revision 110699812 of 2026-08-19), visited and audited; archived: TODO
   - Kingdom Hearts series article linked from the index: https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- accessed 2026-10-28 (revision 110652099 of 2026-08-15); archived: TODO
 - https://ja.wikipedia.org/wiki/ファイナルファンタジーシリーズの作品一覧 -- Japanese Wikipedia's list of the Final Fantasy series works and derived works (games by series, platforms and first Japan release dates; related works section) -- live page of 2026-10-28 (revision 111298721 of 2026-10-06), visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japanese Wikipedia's Kingdom Hearts series article (series list with Japan release dates, platforms, collections and editions) -- live page of 2026-10-28 (revision 110652099 of 2026-08-15), visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/ディズニーのコンピュータゲーム作品#キングダム_ハーツ_シリーズ -- Japanese Wikipedia's list of Disney computer game works, Kingdom Hearts section (title, developer, release year, platform; 9 games) -- live page of 2026-10-28 (revision 110425598 of 2026-07-27), visited and audited; archived: TODO
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Video_games
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga

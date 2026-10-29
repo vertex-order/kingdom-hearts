@@ -28,4 +28,10 @@
   - キングダム ハーツ モバイル; menu section 総合サイト; first listed 2012-10-08; listed in every capture from 2012-10-08 to 2012-10-08; not on the captures after 2012-10-08
     - http://www.square-enix.co.jp/mobile/kh/ -- 公式サイト link, listed 2012-10-08 -- link recorded only -- archived: https://web.archive.org/web/20121008084259/http://www.square-enix.co.jp/mobile/kh/
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ モバイル（2008年12月15日開設、携帯電話）
+
 ## Decisions

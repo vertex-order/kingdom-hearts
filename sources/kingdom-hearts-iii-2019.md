@@ -309,4 +309,15 @@
   - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Právě vychází); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
     - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツIII（2019年1月25日発売、PS4/XB1 / 2021年3月30日発売、PC）
+  - Row (シリーズ作品一覧): キングダム ハーツ インテグラム マスターピース
+  - Row (シリーズ作品一覧): キングダム ハーツ インテグラムマスターピース for Cloud（2022年2月10日発売、Switch）
+  - Row (シリーズ作品一覧): キングダム ハーツ コレクション [I～III]（2026年10月8日発売予定、PS5/Switch2/XSX/S）
+  - Row (シリーズ作品一覧): PlayStation 4 Pro KINGDOM HEARTS III LIMITED EDITION
+  - Row (シリーズ作品一覧): PlayStation 4 KINGDOM HEARTS III EDITION
+
 ## Decisions

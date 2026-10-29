@@ -85,4 +85,10 @@ publisher-stated date).
   - キングダム ハーツIV; ; first listed live (2026-10-28): release 2027年後期予定; icons: 審査予定; listed on the capture of live (2026-10-28) only
     - https://www.jp.square-enix.com/kingdom/kh4/ -- 公式サイト link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツIV（発売日未定、PS5/Switch2/XSX/S/PC）
+
 ## Decisions

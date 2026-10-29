@@ -27,4 +27,10 @@
 - https://press.na.square-enix.com/KINGDOM-HEARTS-VR-Experience -- Square Enix North America press site: press assets only, not a game page, so not used as the profile -- accessed 2026-10-13 (checked by user) -- archived: TODO
 - No official Square Enix game page exists (checked by user 2026-10-13); the US PlayStation Store page above stays the platform link
 
+## ja.wikipedia.org (Information; Kingdom Hearts series article, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_シリーズ -- Japan release dates, platforms, editions -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110652099 of 2026-08-15); archived: TODO
+  - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
+  - Row (シリーズ作品一覧): キングダム ハーツ VR エクスペリエンス（2019年1月23日配信、PS4（PS VR専用））
+
 ## Decisions
