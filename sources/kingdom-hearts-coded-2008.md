@@ -331,4 +331,10 @@
   - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
   - Row (パッケージタイトル, 2014年): キングダム ハーツ HD 2.5 リミックス; 2014-10-02; スクウェア・エニックス; note: HDリマスター
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 1.5+2.5 リミックス; 2017-03-09; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
+
 ## Decisions

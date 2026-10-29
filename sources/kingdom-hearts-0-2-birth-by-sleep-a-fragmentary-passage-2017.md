@@ -286,4 +286,10 @@
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2020年): キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ; 2020-02-17; スクウェア・エニックス
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2017年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840860 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ; 2017-01-12; スクウェア・エニックス; パ: ●; note: 『キングダム ハーツIII』の前日譚にあたる3作品を収録; PlayStation 4 Pro対応
+
 ## Decisions

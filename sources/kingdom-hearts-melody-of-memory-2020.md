@@ -200,4 +200,10 @@
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2020年): キングダム ハーツ メロディ オブ メモリー; 2020-11-11; スクウェア・エニックス; note: 一部モードの使用にあたっては、Xbox Live Gold への加入が必要。
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2020年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 110840890 of 2026-08-31); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2020; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2020年): キングダム ハーツ メロディ オブ メモリー; 2020-11-11; スクウェア・エニックス; パ: ●
+
 ## Decisions

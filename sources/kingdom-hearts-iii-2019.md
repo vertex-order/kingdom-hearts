@@ -326,4 +326,10 @@
   - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
   - Row (配信専用タイトル, 2019年): キングダム ハーツIII; 2019-01-25; スクウェア・エニックス; note: Xbox One X Enhanced対応
 
+## ja.wikipedia.org (Information; PlayStation 4 game title list, live pages of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧_(2019年) -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111213024 of 2026-09-30); archived: TODO
+  - Lists the games released in Japan for PlayStation 4 (2019; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
+  - Row (発売されたタイトル, 2019年): キングダム ハーツIII; 2019-01-25; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応; ダークシーカー編の完結作
+
 ## Decisions
