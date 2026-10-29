@@ -393,4 +393,10 @@
   - Row (発売されたタイトル, 2002年): キングダム ハーツ; 2002-03-28; スクウェア; note: ディズニーとのコラボレーション作品で、ファイナルファンタジーシリーズのキャラクターも登場する
   - Row (発売されたタイトル, 2002年): キングダムハーツ ファイナルミックス; 2002-12-26; スクウェア; no note
 
+## ja.wikipedia.org (Information; PlayStation 3 game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111327003 of 2026-10-09); archived: TODO
+  - Lists the games released in Japan for PlayStation 3 in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, online column (オ: ○ = dedicated online title), 3D column, note
+  - Row (パッケージタイトル, 2013年): キングダム ハーツ HD 1.5 リミックス; 2013-03-14; スクウェア・エニックス; note: HDリマスター
+
 ## Decisions
