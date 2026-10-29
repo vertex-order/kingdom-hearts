@@ -67,6 +67,7 @@
 - https://ja.wikipedia.org/wiki/Category:タイトーの携帯電話アプリゲーム -- Japanese Wikipedia's subcategory of 携帯電話アプリゲーム (20 pages, no subcategories; category page revision 38285707 of 2011-07-06; titles only, no dates or platform detail; no Final Fantasy, Chocobo or Kingdom Hearts page by title) -- live page of 2026-10-29, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/Category:ハドソンの携帯電話アプリゲーム -- Japanese Wikipedia's subcategory of 携帯電話アプリゲーム (10 pages, no subcategories; category page revision 12686667 of 2007-05-23; titles only, no dates or platform detail; no Final Fantasy, Chocobo or Kingdom Hearts page by title) -- live page of 2026-10-29, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/Category:Mobage -- Japanese Wikipedia's subcategory of 携帯電話アプリゲーム (69 pages, no subcategories; category page revision 76074585 of 2020-02-06; titles only, no dates or platform detail; no Final Fantasy, Chocobo or Kingdom Hearts page by title) -- live page of 2026-10-29, visited and audited; archived: TODO
+- https://ja.wikipedia.org/wiki/PocketStation -- Japanese Wikipedia's article on the PocketStation (no separate title list; section 対応ゲームソフト一覧 lists the compatible games by name in 50音順, PlayStation and PlayStation 2; revision 110959392 of 2026-09-09; no Kingdom Hearts page) -- live page of 2026-10-29, visited and audited; archived: TODO
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Video_games
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga
