@@ -340,4 +340,10 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ; 2017-01-12; スクウェア・エニックス; パ: ●; note: 『キングダム ハーツIII』の前日譚にあたる3作品を収録; PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; Nintendo 3DS game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/ニンテンドー3DSのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (wikitext read through the MediaWiki API, revision 110577828 of 2026-08-09); archived: TODO
+  - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
+  - Row: キングダム ハーツ 3D [ドリーム ドロップ ディスタンス]; Japan 2012-03-29; North America 2012-07-31; Europe 2012-07-20; スクウェア・エニックス; DL: ×; note: Nintendo 3DS bundle (special 3DS console, Circle Pad Pro support) and Kingdom Hearts 10th anniversary box (DS Kingdom Hearts 358/2 Days and Re:coded, protective cover, postcards) available
+
 ## Decisions
