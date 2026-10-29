@@ -320,4 +320,10 @@
   - Row (シリーズ作品一覧): PlayStation 4 Pro KINGDOM HEARTS III LIMITED EDITION
   - Row (シリーズ作品一覧): PlayStation 4 KINGDOM HEARTS III EDITION
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2019年): キングダム ハーツIII; 2019-01-25; スクウェア・エニックス; note: Xbox One X Enhanced対応
+
 ## Decisions

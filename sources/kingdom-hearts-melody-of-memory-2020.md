@@ -194,4 +194,10 @@
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): キングダム ハーツ メロディ オブ メモリー（2020年11月11日発売、PS4/Switch/XB1 / 2021年3月30日発売、PC）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2020年): キングダム ハーツ メロディ オブ メモリー; 2020-11-11; スクウェア・エニックス; note: 一部モードの使用にあたっては、Xbox Live Gold への加入が必要。
+
 ## Decisions

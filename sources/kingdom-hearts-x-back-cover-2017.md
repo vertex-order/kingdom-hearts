@@ -306,4 +306,10 @@
   - Row (シリーズ作品一覧): キングダム ハーツ インテグラムマスターピース for Cloud（2022年2月10日発売、Switch）
   - Row (シリーズ作品一覧): キングダム ハーツ コレクション [I～III]（2026年10月8日発売予定、PS5/Switch2/XSX/S）
 
+## ja.wikipedia.org (Information; Xbox One game title list, live page of 2026-10-28)
+
+- https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-28 (wikitext read through the MediaWiki API, revision 111336315 of 2026-10-10); archived: TODO
+  - Lists the Xbox One games released in Japan in two tables, package titles (パッケージタイトル) and download-only titles (配信専用タイトル), split by year; rows are date, title, publisher, note
+  - Row (配信専用タイトル, 2020年): キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ; 2020-02-17; スクウェア・エニックス
+
 ## Decisions
