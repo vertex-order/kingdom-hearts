@@ -405,4 +405,13 @@
   - Lists the games released in Japan for PlayStation 4 (2017; date, title, publisher, パ column [● also sold as a package that year, blank download only], online (オ), PSN (P), PlayStation VR (V), note)
   - Row (発売されたタイトル, 2017年): キングダム ハーツ HD 1.5+2.5 リミックス; 2017-03-09; スクウェア・エニックス; パ: ●; note: PlayStation 4 Pro対応
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2022年, 2月): KINGDOM HEARTS HD 1.5+2.5 ReMIX - Cloud Version; Japan 2022-02-10; スクウェア・エニックス; パ: blank; CERO: A; note: クラウドゲームサービス専用; 2026年6月9日に販売を終了し、2027年6月9日にサービスを終了する予定 (one note shared by the three Cloud Version rows)
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧 -- dates*, platforms* -- accessed 2026-10-29 (revision 111559099 of 2026-10-29; wikitext read through the MediaWiki API); archived: TODO
+  - Index page of the Nintendo Switch games released in Japan, with the 2026 and 2027 tables (columns: release date, title, publisher, パ [●: also sold as a package; blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2026年): KINGDOM HEARTS HD 1.5+2.5 ReMIX; Japan 2026-10-08; スクウェア・エニックス; パ: blank; CERO: A; note: Nintendo Switch 2版も同日発売
+
 ## Decisions

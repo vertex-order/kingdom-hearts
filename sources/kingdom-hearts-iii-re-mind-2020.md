@@ -200,4 +200,10 @@
   - KINGDOM HEARTS Collection [I~III]; first listed live (2026-10-28): platforms Nintendo Switch 2, PS5, Xbox Series X|S, Windows, Steam, Epic Games Store; (Právě vychází); one card for the collection, titled I~III; listed on the capture of live (2026-10-28) only
     - https://www.square-enix.com/kingdomhearts/collection/ -- game page link, listed live (2026-10-28) -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2022年, 2月): KINGDOM HEARTS III + Re Mind (DLC) - Cloud Version; Japan 2022-02-10; スクウェア・エニックス; パ: blank; CERO: A; note: shared with the 1.5+2.5 row (the cloud-only note and the sales and service end dates)
+
 ## Decisions

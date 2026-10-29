@@ -346,4 +346,10 @@
   - Lists the games released for Nintendo 3DS (one table for Japan, North America and Europe; release dates per region, title, publisher, DL column [◎ package, download card and eShop, △ download card and eShop, □ eShop only, × no download version, blank download only], note)
   - Row: キングダム ハーツ 3D [ドリーム ドロップ ディスタンス]; Japan 2012-03-29; North America 2012-07-31; Europe 2012-07-20; スクウェア・エニックス; DL: ×; note: Nintendo 3DS bundle (special 3DS console, Circle Pad Pro support) and Kingdom Hearts 10th anniversary box (DS Kingdom Hearts 358/2 Days and Re:coded, protective cover, postcards) available
 
+## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
+
+- https://ja.wikipedia.org/wiki/Nintendo_Switchのゲームタイトル一覧_(2022年) -- dates*, platforms* -- accessed 2026-10-29 (revision 111248774 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Per-year list of the Nintendo Switch games released in Japan (columns: release date, title, publisher, パ [●: also sold as a package that year, ○: sold as a package in a later year, blank: download only], CERO or IARC rating, note, reference); Japan only, no North America or Europe date
+  - Row (2022年, 2月): KINGDOM HEARTS HD 2.8 Final Chapter Prologue - Cloud Version; Japan 2022-02-10; スクウェア・エニックス; パ: blank; CERO: A; note: shared with the 1.5+2.5 row (the cloud-only note and the sales and service end dates)
+
 ## Decisions
