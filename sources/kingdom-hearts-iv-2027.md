@@ -91,4 +91,20 @@ publisher-stated date).
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): キングダム ハーツIV（発売日未定、PS5/Switch2/XSX/S/PC）
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "kingdom hearts" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 3216600 KINGDOM HEARTS IV -- no type label; store column: store page link; listed in the "kingdom hearts" search
+    - https://steamdb.info/app/3216600/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/3216600/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "kingdom hearts" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 3216600 KINGDOM HEARTS IV -- listed in the "kingdom hearts" search; release date shown: 2027; platforms shown: win; no review summary shown
+    - https://store.steampowered.com/app/3216600/KINGDOM_HEARTS_IV/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions

@@ -74,7 +74,7 @@ ndlsearch.ndl.go.jp (Information)
   - キングダムハーツ3D〈ドリームドロップディスタンス〉 Side Sora, ISBN 978-4-7575-3652-4, Square Enix, June 2012, 239p, 19cm, NDL bib ID 023742815; series "GAME NOVELS"; NDC 913.6; audience 一般; author 金巻ともこ; note: original work is the Nintendo 3DS game, original plan 野村哲也 and others
 
 google books (English Yen Press editions) — English format* (titled "(light Novel)") — accessed 2026-10-09
-  - "Kingdom Hearts 3D: Dream Drop Distance The Novel (light Novel)" (https://www.google.ca/books/edition/Kingdom_Hearts_3D_Dream_Drop_Distance_Th/V-qXwwEACAAJ, paperback, ISBN 9781975358617, 297pp, October 29, 2019; ebook https://www.google.ca/books/edition/_/I3GxDwAAQBAJ, ISBN 9781975358723, 308pp), Yen Press, translator Luke Baker, illustrator Shiro Amano; Google's genre field for the work reads "Comics, Light novel, Graphic novel, Fantasy Fiction, Adventure fiction" (a loose field)
+  - "Kingdom Hearts 3D: Dream Drop Distance The Novel (light Novel)" (https://www.google.com/books/edition/Kingdom_Hearts_3D_Dream_Drop_Distance_Th/V-qXwwEACAAJ, paperback, ISBN 9781975358617, 297pp, October 29, 2019; ebook https://www.google.com/books/edition/_/I3GxDwAAQBAJ, ISBN 9781975358723, 308pp), Yen Press, translator Luke Baker, illustrator Shiro Amano; Google's genre field for the work reads "Comics, Light novel, Graphic novel, Fantasy Fiction, Adventure fiction" (a loose field)
 
 breezewiki.com (Information)
 - https://breezewiki.com/khmanga/wiki/Yen_Press — Yen Press publication list, English edition exists* — accessed 2026-10-13 — archived: TODO

@@ -458,6 +458,14 @@
 - the same list in the Poland locale (in Polish), no filter (143 titles), https://www.square-enix-games.com/pl_PL/games (the saved page's country link, Poland, returns to this address), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me); matches the en_US list for the Final Fantasy, Chocobo and Kingdom Hearts titles: the same titles (no translated titles), the same platforms except FINAL FANTASY XIII-2 reading Steam where en_US reads PC, release dates written day first, statuses in Polish
 - the same list in the Czech Republic locale (in Czech), no filter (143 titles), https://www.square-enix-games.com/cs_CZ/games (the saved page's country link, Czech Republic, returns to this address), live page of 2026-10-28 -- visited and audited -- accessed 2026-10-28 (saved page read by me); matches the en_US list for the Final Fantasy, Chocobo and Kingdom Hearts titles: the same titles (no translated titles), the same platforms except FINAL FANTASY XIII-2 reading Steam where en_US reads PC, release dates written day first, statuses in Czech
 
+## steamdb.info (Information; SteamDB title search results)
+
+- https://steamdb.info/search/ -- SteamDB search for "kingdom hearts" (5 results); KINGDOM HEARTS -HD 1.5+2.5 ReMIX-, KINGDOM HEARTS III + Re Mind (DLC), KINGDOM HEARTS HD 2.8 Final Chapter Prologue and KINGDOM HEARTS IV -- live page of 2026-10-30 (the saved page's canonical address is https://steamdb.info/search/; the query address is not recorded), visited and audited; archived: TODO
+
+## store.steampowered.com (Platform; Steam store search results, NA storefront)
+
+- https://store.steampowered.com/search/ -- Steam store search for "kingdom hearts" (24 rows); KINGDOM HEARTS IV, KINGDOM HEARTS -HD 1.5+2.5 ReMIX-, KINGDOM HEARTS III + Re Mind (DLC) and KINGDOM HEARTS HD 2.8 Final Chapter Prologue, then unrelated games -- live page of 2026-10-30 (Steam store search, NA storefront, not signed in; the saved page does not record its address), visited and audited; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.

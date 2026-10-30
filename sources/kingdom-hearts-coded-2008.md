@@ -367,4 +367,20 @@
   - Pre-installed version Olympus Coliseum -SideEpisode- on the NTT docomo P-01A on 2008-11-19; full version from 2009-06-03 on the Kingdom Hearts Mobile portal, new scenarios about monthly; service and game ended 2013-04-30
   - The portal opened 2008-12-15; four monthly courses (315, 525, 840, 1050 yen)
 
+## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+
+- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "kingdom hearts" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+  - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
+  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- no type label; store column: store page link; listed in the "kingdom hearts" search
+    - https://steamdb.info/app/2552430/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+    - https://store.steampowered.com/app/2552430/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+
+- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "kingdom hearts" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
+  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- listed in the "kingdom hearts" search; release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 86% of the 8,399 user reviews for this game are positive.
+    - https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
