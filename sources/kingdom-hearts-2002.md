@@ -443,4 +443,21 @@
   - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- listed in the "kingdom hearts" search; release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 86% of the 8,399 user reviews for this game are positive.
     - https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "kingdom hearts" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - KINGDOM HEARTS HD 1.5+2.5 ReMIX -- store result, type label Base Game; listed in the "kingdom hearts" search
+    - https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts -- result from outside the store; developer shown: Square Product Development Division 1; "kingdom hearts" search, result 1
+    - http://www.kingdomhearts.com/home/gb/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 1.5 Remix -- result from outside the store; developer shown: Square Enix 1st Production Department; "kingdom hearts" search, result 6
+    - http://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts: The Story So Far -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 13
+    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts All-In-One Package -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 15
+    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 1.5 Remix: Limited Edition -- result from outside the store; no developer shown; "kingdom hearts" search, result 18
+    - https://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

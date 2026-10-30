@@ -219,4 +219,11 @@
   - Member: キングダム ハーツ メロディ オブ メモリー
 - https://ja.wikipedia.org/wiki/キングダム_ハーツ_メロディ_オブ_メモリー -- accessed 2026-10-29 (revision 107862250 of 2026-01-03); archived: TODO
 
+## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
+  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "kingdom hearts" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
+  - KINGDOM HEARTS Melody of Memory -- store result, type label Base Game; listed in the "kingdom hearts" search
+    - https://store.epicgames.com/p/kingdom-hearts-melody-of-memory -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
 ## Decisions
