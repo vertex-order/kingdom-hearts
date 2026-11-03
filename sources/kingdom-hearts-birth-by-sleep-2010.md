@@ -436,4 +436,10 @@
   - Kingdom Hearts Birth by Sleep Final Mix (2011) -- no card of its own on the saved pages; the parent of Kingdom Hearts Birth by Sleep Final Mix (2014)
     - https://www.igdb.com/games/kingdom-hearts-birth-by-sleep-final-mix -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: キングダム ハーツ HD 2.5 リミックス
+  - https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_2.5_リミックス -- the article of that member (revision 109875713 of 2026-06-10) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions

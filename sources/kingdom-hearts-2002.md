@@ -522,4 +522,10 @@
   - Kingdom Hearts HD 1.5 + 2.5 Remix: Cloud Version (2022) -- type label Main Game; platforms shown: Nintendo Switch; released 2022-02-10
     - https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix-cloud-version -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; PlayStation 3用ソフト category, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト -- membership -- accessed 2026-11-03 (category page revision 104487858 of 2025-04-14; members read through the MediaWiki API); archived: TODO
+  - Member: キングダム ハーツ HD 1.5 リミックス
+  - https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_1.5_リミックス -- the article of that member (revision 110662206 of 2026-08-16) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
