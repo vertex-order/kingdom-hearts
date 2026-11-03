@@ -69,6 +69,13 @@
   - Kingdom Hearts χ[chi] (2013) -- type label Main Game; platforms shown: Web browser; released 2013-07-18
     - https://www.igdb.com/games/kingdom-hearts-x-chi -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; browser game and social game categories, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ブラウザゲーム -- browser game* -- accessed 2026-11-03 (category page revision 109044970 of 2026-04-05; members read through the MediaWiki API); archived: TODO
+  - Member: キングダム ハーツ キー
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_キー -- browser game* -- accessed 2026-11-03 (article revision 111307810 of 2026-10-07; lead read through the MediaWiki API); archived: TODO
+  - Lead: キングダム ハーツ キー (KINGDOM HEARTS χ) is a browser game produced and operated by Square Enix; the article also covers the smartphone app Kingdom Hearts Unchained χ, its update Kingdom Hearts Union χ, and Kingdom Hearts Dark Road
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

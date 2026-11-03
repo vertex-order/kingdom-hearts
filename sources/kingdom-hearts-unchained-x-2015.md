@@ -79,6 +79,12 @@
   - Kingdom Hearts χ[chi] (2013) -- no card of its own on the saved pages; the parent of Kingdom Hearts Union χ[Cross] (2015)
     - https://www.igdb.com/games/kingdom-hearts-x-chi -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; browser game and social game categories, live page of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム -- membership -- accessed 2026-11-03 (category page revision 76982252 of 2020-04-09; members read through the MediaWiki API); archived: TODO
+  - Member: キングダム ハーツ アンチェインド キー
+  - https://ja.wikipedia.org/wiki/キングダム_ハーツ_アンチェインド_キー -- the article of that member -- link recorded only (revision 110673832 of 2026-08-17) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.
