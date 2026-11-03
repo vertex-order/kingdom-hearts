@@ -124,6 +124,7 @@
 - https://ja.wikipedia.org/wiki/Category:コンピュータゲームを題材とした映画作品 -- Japanese Wikipedia's category of films about computer games (26 pages and subcategory トロン (映画)); no Kingdom Hearts title -- live page of 2026-10-29, visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/アニメ・漫画・ゲームの演劇化作品一覧 -- Japanese Wikipedia's list of stage adaptations of anime, manga and games (commercial productions only, by kana row, with the production company); no Kingdom Hearts title -- live page of 2026-10-29 (revision 104122975 of 2025-03-15), visited and audited; archived: TODO
 - https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧 -- Japanese Wikipedia's list of PlayStation games released in Japan (index page, 3,289 titles split by year, which links the per-year lists; no Kingdom Hearts title) -- live page of 2026-10-28 (revision 109435489 of 2026-05-08), visited and audited; archived: TODO
+  - Same page read again through the MediaWiki API on 2026-11-03 (revision 109435489); per-year lists 1994年-1995年 to 2003年-2004年 read the same day (the revisions are in sources/final-fantasy-franchise.md in the final-fantasy repo); no Kingdom Hearts title
 - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Video_games
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga
