@@ -470,6 +470,11 @@
 
 - https://store.epicgames.com/browse -- Epic Games Store search for "kingdom hearts"; KINGDOM HEARTS HD 1.5+2.5 ReMIX, KINGDOM HEARTS III + Re Mind (DLC), KINGDOM HEARTS Melody of Memory and KINGDOM HEARTS HD 2.8 Final Chapter Prologue (6 store results), and 20 "Results from outside our store" rows (IGDB.com, linking each game's own site) for Kingdom Hearts games and collections -- live page of 2026-10-30 (Epic Games Store search, NA storefront, not signed in; the saved page does not record its address), visited and audited; archived: TODO
 
+## gog.com (Platform; GOG.com catalogue, English storefront, live pages of 2026-11-03)
+
+- https://www.gog.com/en/games?query=kingdom%20hearts&order=desc:score -- GOG catalogue search for "kingdom hearts"; 8 games shown (10 tiles read); no Kingdom Hearts game, fuzzy matches only -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+- https://www.gog.com/en/games?developers=square-enix -- GOG catalogue, developer Square Enix (18 games); https://www.gog.com/en/games?publishers=square-enix, publisher Square Enix (45 games); no Kingdom Hearts game -- live page of 2026-11-03 (GOG.com catalogue, English storefront, not signed in), visited and audited; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
