@@ -331,6 +331,8 @@
   - Lists the games released in Japan that year, in release order (columns: Japan release date, title, publisher, note, reference); no North America or Europe date, no package or download mark
   - Row: キングダム ハーツ 358/2 Days; Japan 2009-05-30; スクウェア・エニックス; note: キングダム ハーツシリーズ第4弾で、『キングダム ハーツ』と『キングダム ハーツII』の間に起きた出来事を描いている。; KINGDOM HEARTS EDITIONあり
     - reference link recorded only: https://www.famitsu.com/news/202305/30262186.html
+  - https://ja.wikipedia.org/wiki/キングダム_ハーツ -- the article linked from the 2009 list row キングダム ハーツ 358/2 Days (5月30日), named in its note -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
+  - https://ja.wikipedia.org/wiki/キングダム_ハーツII -- the article linked from the same row, named in its note -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the list)
 
 ## ja.wikipedia.org (Information; Nintendo Switch game title list, live page of 2026-10-29)
 
