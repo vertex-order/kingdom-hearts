@@ -57,4 +57,20 @@
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): キングダム ハーツ ユニオン クロス ダーク ロード（2020年6月22日アップデートにより改題、iOS/Android）
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts Dark Road (2020) -- type label Main Game; platforms shown: Amazon Fire TV, Android, iOS
+    - https://backloggd.com/games/kingdom-hearts-dark-road/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts Dark Road (2020) -- type label Main Game; platforms shown: Android, Amazon Fire TV, iOS; released 2020-06-22
+    - https://www.igdb.com/games/kingdom-hearts-dark-road -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts: Union x Dark Road (2020) -- type label Bundle; platforms shown: Android, Amazon Fire TV, iOS; released 2020-06-22
+    - https://www.igdb.com/games/kingdom-hearts-union-x-dark-road -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

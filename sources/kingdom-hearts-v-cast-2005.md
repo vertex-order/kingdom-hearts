@@ -24,4 +24,10 @@
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): KINGDOM HEARTS（アメリカで2005年2月4日発売、V CAST）
 
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts ~V CAST~ -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts v cast" (https://www.igdb.com/search?q=kingdom+hearts+v+cast&type=1)
+
 ## Decisions

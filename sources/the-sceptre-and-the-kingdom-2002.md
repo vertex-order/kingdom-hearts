@@ -22,6 +22,12 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - goodreads search for "The Sceptre and the Kingdom" -- no results; never published as a standalone book (magazine-only), so no ISBN/ASIN or rating -- empty -- accessed 2026-10-08
 - youtube search for the title -- no results; a comic upload exists but only surfaces in the DuckDuckGo search and is deliberately not linked directly -- empty -- accessed 2026-10-08
 
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "kingdom hearts" (first 50 of 2890, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - The Sceptre and the Kingdom -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts" (https://www.igdb.com/search?q=kingdom%20hearts&type=1&utf8=%E2%9C%93)
+
 ## Decisions
 
 - Platform link: `book` icon with a DuckDuckGo search (`"The Sceptre and the Kingdom" kingdom hearts`) rather than a direct link to the YouTube comic upload or a youtube search, which finds nothing.

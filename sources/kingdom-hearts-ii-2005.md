@@ -420,39 +420,85 @@
   - Member: キングダム ハーツ HD 1.5+2.5 リミックス (the collection)
 - https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_1.5+2.5_リミックス -- accessed 2026-10-29 (revision 110802101 of 2026-08-28); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "kingdom hearts" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- no type label; store column: store page link; listed in the "kingdom hearts" search
+  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- no type label; store column: store page link
     - https://steamdb.info/app/2552430/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2552430/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "kingdom hearts" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- listed in the "kingdom hearts" search; release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 86% of the 8,399 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 2552430 KINGDOM HEARTS -HD 1.5+2.5 ReMIX- -- release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 86% of the 8,399 user reviews for this game are positive.
     - https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "kingdom hearts" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - KINGDOM HEARTS HD 1.5+2.5 ReMIX -- store result, type label Base Game; listed in the "kingdom hearts" search
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - KINGDOM HEARTS HD 1.5+2.5 ReMIX -- type label Base Game
     - https://store.epicgames.com/p/kingdom-hearts-hd-1-5-2-5-remix -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - Kingdom Hearts II -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 2
-    - http://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts HD 2.5 Remix -- result from outside the store; developer shown: Square Enix 1st Production Department; "kingdom hearts" search, result 11
-    - http://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts: The Story So Far -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 13
-    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts All-In-One Package -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 15
-    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts HD 2.5 Remix: Collector's Edition -- result from outside the store; developer shown: Square Enix 1st Production Department; "kingdom hearts" search, result 17
-    - https://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts HD 2.5 Remix: Limited Edition -- result from outside the store; developer shown: Square Enix 1st Production Department; "kingdom hearts" search, result 19
-    - https://www.kingdomhearts.com/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts II -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
+    - http://www.kingdomhearts.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.5 Remix -- outside-store result (IGDB.com); developer shown: Square Enix 1st Production Department
+    - http://www.kingdomhearts.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts: The Story So Far -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
+    - https://www.kingdomhearts.com/home/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts All-In-One Package -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
+    - https://www.kingdomhearts.com/home/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.5 Remix: Collector's Edition -- outside-store result (IGDB.com); developer shown: Square Enix 1st Production Department
+    - https://www.kingdomhearts.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.5 Remix: Limited Edition -- outside-store result (IGDB.com); developer shown: Square Enix 1st Production Department
+    - https://www.kingdomhearts.com/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts II Final Mix (2007) -- type label Expanded Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/kingdom-hearts-ii-final-mix/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts II Final Mix (2014) -- type label Remaster; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, Nintendo Switch, +3 more
+    - https://backloggd.com/games/kingdom-hearts-ii-final-mix--1/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts II Final Mix+ (2007) -- type label Bundle; platforms shown: PlayStation 2
+    - https://backloggd.com/games/kingdom-hearts-ii-final-mix-plus/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.5 Remix (2014) -- type label Bundle; platforms shown: PlayStation 3, //, Kingdom Hearts HD 2.5 Remix: Collector's Edition
+    - https://backloggd.com/games/kingdom-hearts-hd-2-dot-5-remix/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts II (2005) -- type label Main Game; platforms shown: PlayStation 2
+    - https://backloggd.com/games/kingdom-hearts-ii/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 1.5 + 2.5 Remix (2017) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, Nintendo Switch, +2 more
+    - https://backloggd.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts: The Story So Far (2018) -- type label Bundle; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/kingdom-hearts-the-story-so-far/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts All-In-One Package (2019) -- type label Bundle; platforms shown: PlayStation 4
+    - https://backloggd.com/games/kingdom-hearts-all-in-one-package/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Collection [I-III] (2026) -- type label Bundle; platforms shown: Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/kingdom-hearts-collection-i-iii/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Integrum Masterpiece (2024) -- type label Bundle; platforms shown: Windows PC
+    - https://backloggd.com/games/kingdom-hearts-integrum-masterpiece/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Integrum Masterpiece for Cloud (2022) -- type label Bundle; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/kingdom-hearts-integrum-masterpiece-for-cloud/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts II (2005) -- type label Main Game; platforms shown: PlayStation 2; released 2005-12-22
+    - https://www.igdb.com/games/kingdom-hearts-ii -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts II Final Mix (2007) -- type label Expanded Game of Kingdom Hearts II (2005); platforms shown: PlayStation 2; released 2007-03-29
+    - https://www.igdb.com/games/kingdom-hearts-ii-final-mix -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts II Final Mix (2014) -- type label Remaster of Kingdom Hearts II Final Mix (2007); platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), PlayStation 3, Xbox One, PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2014-10-02
+    - https://www.igdb.com/games/kingdom-hearts-ii-final-mix--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts II Final Mix+ (2007) -- type label Bundle; platforms shown: PlayStation 2; released 2007-03-29
+    - https://www.igdb.com/games/kingdom-hearts-ii-final-mix-plus -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.5 Remix (2014) -- type label Bundle; platforms shown: PlayStation 3; released 2014-10-02
+    - https://www.igdb.com/games/kingdom-hearts-hd-2-dot-5-remix -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 1.5 + 2.5 Remix (2017) -- type label Bundle; platforms shown: PlayStation 4, Nintendo Switch, PC (Microsoft Windows), Xbox One, PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2017-03-09
+    - https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 1.5 + 2.5 Remix: Cloud Version (2022) -- type label Main Game; platforms shown: Nintendo Switch; released 2022-02-10
+    - https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix-cloud-version -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

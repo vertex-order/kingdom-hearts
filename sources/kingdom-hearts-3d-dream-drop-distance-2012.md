@@ -365,35 +365,69 @@
   - Member: キングダム ハーツ HD 2.8 ファイナル チャプター プロローグ (the collection)
 - https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_2.8_ファイナル_チャプター_プロローグ -- accessed 2026-10-29 (revision 111104734 of 2026-09-22); archived: TODO
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "kingdom hearts" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 2552440 KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- no type label; store column: store page link; listed in the "kingdom hearts" search
+  - 2552440 KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- no type label; store column: store page link
     - https://steamdb.info/app/2552440/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/2552440/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "kingdom hearts" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 2552440 KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- listed in the "kingdom hearts" search; release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 82% of the 747 user reviews for this game are positive.
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 2552440 KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- release date shown: 13 Jun, 2024; platforms shown: win; review summary: Very Positive -- 82% of the 747 user reviews for this game are positive.
     - https://store.steampowered.com/app/2552440/KINGDOM_HEARTS_HD_28_Final_Chapter_Prologue/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.epicgames.com (Platform; Epic Games Store search, NA storefront, live pages of 2026-10-30)
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
 
-- Epic Games Store search results (store.epicgames.com/browse) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.epicgames.com/browse with the search box set to "kingdom hearts" (the saved pages' own addresses are not reliably recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; a result list longer than one screen is saved in several files; "Results from outside our store" rows are supplied by IGDB.com and link to each game's own site (not visited)
-  - KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- store result, type label Base Game; listed in the "kingdom hearts" search
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - KINGDOM HEARTS HD 2.8 Final Chapter Prologue -- type label Base Game
     - https://store.epicgames.com/p/kingdom-hearts-hd-2-8-final-chapter-prologue -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
-  - Kingdom Hearts: The Story So Far -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 13
-    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts Dream Drop Distance HD -- result from outside the store; developer shown: Square Enix; "kingdom hearts" search, result 14
-    - https://www.kingdomhearts.com/1525/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts All-In-One Package -- result from outside the store; developer shown: Square Enix Business Division 3; "kingdom hearts" search, result 15
-    - https://www.kingdomhearts.com/home/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
-  - Kingdom Hearts 3D: Dream Drop Distance -- result from outside the store; developer shown: Square Enix 1st Production Department; "kingdom hearts" search, result 16
-    - https://www.kingdomhearts.com/1525/us/ -- linked from that result, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts: The Story So Far -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
+    - https://www.kingdomhearts.com/home/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Dream Drop Distance HD -- outside-store result (IGDB.com); developer shown: Square Enix
+    - https://www.kingdomhearts.com/1525/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts All-In-One Package -- outside-store result (IGDB.com); developer shown: Square Enix Business Division 3
+    - https://www.kingdomhearts.com/home/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts 3D: Dream Drop Distance -- outside-store result (IGDB.com); developer shown: Square Enix 1st Production Department
+    - https://www.kingdomhearts.com/1525/us/ -- outside-store link, listed live (2026-10-30), not visited -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts HD 2.8 Final Chapter Prologue (2017) -- type label Bundle; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, PlayStation 4, +1 more
+    - https://backloggd.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts 3D: Dream Drop Distance (2012) -- type label Main Game; platforms shown: Nintendo 3DS
+    - https://backloggd.com/games/kingdom-hearts-3d-dream-drop-distance/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Dream Drop Distance HD (2017) -- type label Remaster; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, PlayStation 4, +1 more
+    - https://backloggd.com/games/kingdom-hearts-dream-drop-distance-hd/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts: The Story So Far (2018) -- type label Bundle; platforms shown: PlayStation 4, Xbox One
+    - https://backloggd.com/games/kingdom-hearts-the-story-so-far/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts All-In-One Package (2019) -- type label Bundle; platforms shown: PlayStation 4
+    - https://backloggd.com/games/kingdom-hearts-all-in-one-package/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Collection [I-III] (2026) -- type label Bundle; platforms shown: Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/kingdom-hearts-collection-i-iii/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Integrum Masterpiece (2024) -- type label Bundle; platforms shown: Windows PC
+    - https://backloggd.com/games/kingdom-hearts-integrum-masterpiece/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box (2012) -- type label Bundle; platforms shown: Nintendo 3DS, Nintendo DS
+    - https://backloggd.com/games/kingdom-hearts-10th-anniversary-3d-plus-days-plus-re-coded-box/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts Integrum Masterpiece for Cloud (2022) -- type label Bundle; platforms shown: Nintendo Switch
+    - https://backloggd.com/games/kingdom-hearts-integrum-masterpiece-for-cloud/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts 3D: Dream Drop Distance (2012) -- type label Main Game; platforms shown: Nintendo 3DS; released 2012-03-29
+    - https://www.igdb.com/games/kingdom-hearts-3d-dream-drop-distance -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.8 Final Chapter Prologue (2017) -- type label Bundle; platforms shown: PlayStation 4, PC (Microsoft Windows), Xbox One, PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2017-01-12
+    - https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts HD 2.8 Final Chapter Prologue: Cloud Version (2022) -- type label Main Game; platforms shown: Nintendo Switch; released 2022-02-10
+    - https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue-cloud-version -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

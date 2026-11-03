@@ -51,6 +51,24 @@
   - The section lists the Kingdom Hearts games as title, developer, release year, platform
   - Row: キングダム ハーツ キー / KINGDOM HEARTS χ; developer スクウェア・エニックス; 2013; ブラウザゲーム
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts Union χ[Cross] (2015) -- type label Expanded Game; platforms shown: Android, iOS
+    - https://backloggd.com/games/kingdom-hearts-union-x-cross/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts χ[chi] (2013) -- type label Main Game; platforms shown: Web browser
+    - https://backloggd.com/games/kingdom-hearts-x-chi/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+  - Kingdom Hearts: Union x Dark Road (2020) -- type label Bundle; platforms shown: Amazon Fire TV, Android, iOS
+    - https://backloggd.com/games/kingdom-hearts-union-x-dark-road/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts χ[chi] (2013) -- type label Main Game; platforms shown: Web browser; released 2013-07-18
+    - https://www.igdb.com/games/kingdom-hearts-x-chi -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

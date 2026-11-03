@@ -91,20 +91,41 @@ publisher-stated date).
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): キングダム ハーツIV（発売日未定、PS5/Switch2/XSX/S/PC）
 
-## steamdb.info (Information; SteamDB title search results, live pages of 2026-10-30)
+## steamdb.info (Information; SteamDB, live pages of 2026-10-30)
 
-- SteamDB search results (Steam app database; app names are the English store names) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://steamdb.info/search/ with the search box set to "kingdom hearts" (the saved pages' canonical address is https://steamdb.info/search/; the saved files do not record the query address); only the live pages are saved, no Wayback capture read; the search matches English names only
+- SteamDB app pages (Steam app database; app names are the English store names) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read
   - Columns read: app id, name, type label (none shown for a game), store column (a Steam store page link, or blank), last updated; last-updated times are relative to the capture and not recorded
-  - 3216600 KINGDOM HEARTS IV -- no type label; store column: store page link; listed in the "kingdom hearts" search
+  - 3216600 KINGDOM HEARTS IV -- no type label; store column: store page link
     - https://steamdb.info/app/3216600/ -- SteamDB app page, listed live (2026-10-30) -- link recorded only -- archived: TODO
     - https://store.steampowered.com/app/3216600/ -- Steam store page link listed in SteamDB's store column, live (2026-10-30) -- link recorded only -- archived: TODO
 
-## store.steampowered.com (Platform; Steam search, NA storefront, live pages of 2026-10-30)
+## store.steampowered.com (Platform; Steam, NA storefront, live pages of 2026-10-30)
 
-- Steam store search results (store.steampowered.com/search) -- saved pages of the live captures read by me -- accessed 2026-10-30
-  - Page URL by capture: live (2026-10-30) https://store.steampowered.com/search/ with the search box set to "kingdom hearts" (the saved pages' own addresses are not recorded); the captures are of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; Steam's search is fuzzy, so each saved result list also holds unrelated titles
-  - 3216600 KINGDOM HEARTS IV -- listed in the "kingdom hearts" search; release date shown: 2027; platforms shown: win; no review summary shown
+- Steam store pages (store.steampowered.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read
+  - 3216600 KINGDOM HEARTS IV -- release date shown: 2027; platforms shown: win; no review summary shown
     - https://store.steampowered.com/app/3216600/KINGDOM_HEARTS_IV/ -- Steam store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## store.epicgames.com (Platform; Epic Games Store, NA storefront, live pages of 2026-10-30)
+
+- Epic Games Store pages (store.epicgames.com) -- read from saved live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages of the NA storefront, not signed in; only the live pages are saved, no Wayback capture read; outside-store links come from IGDB.com via the store and lead to each game's own site (not visited)
+  - KINGDOM HEARTS IV -- type label Base Game
+    - https://store.epicgames.com/p/kingdom-hearts-iv -- Epic Games Store page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts IV (2027) -- type label Main Game; platforms shown: Windows PC, Nintendo Switch 2, PlayStation 5, Xbox Series X|S
+    - https://backloggd.com/games/kingdom-hearts-iv/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts IV (2027) -- type label Main Game; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2027-12-31
+    - https://www.igdb.com/games/kingdom-hearts-iv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
 ## Decisions

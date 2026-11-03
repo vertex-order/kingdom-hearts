@@ -14,4 +14,10 @@
 
 - https://web.archive.org/web/20140414162126/http://disney.go.com/create/apps/digitalpainter/kingdom-hearts -- official Disney page (http://disney.go.com/create/apps/digitalpainter/kingdom-hearts), Wayback copy of 2014-04-14; the Flash player fails to load its assets, so it is not used as the profile or platform link -- accessed 2026-10-13 (checked by user)
 
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts Digital Painter -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts digital painter" (https://www.igdb.com/search?q=kingdom+hearts+digital+painter&type=1)
+
 ## Decisions

@@ -34,4 +34,25 @@
   - The series list gives each title with its release date and platforms (the date is of the first platform listed); a title marked * has an Ultimate Hits budget edition
   - Row (シリーズ作品一覧): キングダム ハーツ モバイル（2008年12月15日開設、携帯電話）
 
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts (2004) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2004-10-01
+    - https://www.igdb.com/games/kingdom-hearts--1 -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Reversi (2010) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2010-01-21
+    - https://www.igdb.com/games/kingdom-hearts-reversi -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Ballon Glider (2008) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2008-12-15
+    - https://www.igdb.com/games/kingdom-hearts-ballon-glider -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Gummiship Studio (2008) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2008-12-15
+    - https://www.igdb.com/games/kingdom-hearts-gummiship-studio -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Rhythm Parade (2009) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2009-09-10
+    - https://www.igdb.com/games/kingdom-hearts-rhythm-parade -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Magical Canvas (2009) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2009-04-23
+    - https://www.igdb.com/games/kingdom-hearts-magical-canvas -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Card Struggle: Daifugou (2008) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2008-12-15
+    - https://www.igdb.com/games/kingdom-hearts-card-struggle-daifugou -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts Pair Card Battle (2009) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2009-02-26
+    - https://www.igdb.com/games/kingdom-hearts-pair-card-battle -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+
 ## Decisions

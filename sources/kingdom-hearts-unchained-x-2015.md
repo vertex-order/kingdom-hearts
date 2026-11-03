@@ -61,6 +61,24 @@
   - Category of Android game software: 1409 pages and 1 subcategory (アズールレーン)
   - Member: キングダム ハーツ アンチェインド キー
 
+## backloggd.com (Information; Backloggd, live pages of 2026-10-30)
+
+- Backloggd game pages (backloggd.com/games/) -- read from text saves of live pages -- accessed 2026-10-30
+  - Capture: live (2026-10-30) pages; only the live pages are saved, no Wayback capture read; game pages are not visited
+  - Kingdom Hearts: Unchained X (no year shown) -- type label none shown; platforms shown: none shown
+    - https://backloggd.com/games/kingdom-hearts-unchained-x--1/ -- Backloggd game page, listed live (2026-10-30) -- link recorded only -- archived: TODO
+
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "Kingdom Hearts χ Back Cover" (first 50 of 4262, relevance order); search results for "kingdom hearts" (first 50 of 2890, relevance order); search results for "kingdom hearts back cover" (first 50 of 4262, relevance order); search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); search results for "kingdom hearts gummi" (first 50 of 2915, relevance order); search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts Union χ[Cross] (2015) -- type label Expanded Game of Kingdom Hearts χ[chi] (2013); platforms shown: Android, iOS; released 2015-09-03
+    - https://www.igdb.com/games/kingdom-hearts-union-x-cross -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts: Union x Dark Road (2020) -- type label Bundle; platforms shown: Android, Amazon Fire TV, iOS; released 2020-06-22
+    - https://www.igdb.com/games/kingdom-hearts-union-x-dark-road -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
+  - Kingdom Hearts χ[chi] (2013) -- no card of its own on the saved pages; the parent of Kingdom Hearts Union χ[Cross] (2015)
+    - https://www.igdb.com/games/kingdom-hearts-x-chi -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

@@ -39,4 +39,10 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
 - [Square Enix e-STORE – Kingdom Hearts Re:Chain of Memories / playing cards](https://store.jp.square-enix.com/estore/g/gMKH09515-4/) -- die-cut playing card deck with the game's card motifs, 約W58mm×H89mm, 発売日 2026-12-26 -- empty: a deck of playing cards, not a game
 - [KHGuides – Kingdom Hearts TCG](https://www.khguides.com/kh-tcg/) -- search snippet only: card production discontinued 2010 -- mine, shallow: not opened
 
+## igdb.com (Information; IGDB, live pages of 2026-11-03)
+
+- IGDB game pages (igdb.com/games/) -- read from saved live pages -- accessed 2026-11-03
+  - Capture: live (2026-11-03) pages: search results for "kingdom hearts" (first 50 of 2890, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
+  - Kingdom Hearts Tabletop Games -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts" (https://www.igdb.com/search?q=kingdom%20hearts&type=1&utf8=%E2%9C%93)
+
 ## Decisions
