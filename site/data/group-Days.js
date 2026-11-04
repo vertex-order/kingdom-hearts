@@ -75,7 +75,7 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
           { key: 'playstation3', paren: 'Physical', url: 'https://web.archive.org/web/20190821201906/https://store.jp.square-enix.com/item/BLJM_61220.html', hreflang: 'ja' },
           { key: 'playstation4', paren: 'Physical; Digital; free DLC', url: 'https://store.playstation.com/product/UP0082-CUSA12031_00-COLLECTION300000' },
           { key: 'playstation5', paren: 'Physical; Digital; PS4 Compatibility', url: 'https://store.playstation.com/product/UP0082-PPSA35901_00-KHCOLLECTION00EN' },
-          { key: 'xbox-one', paren: 'Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
+          { key: 'xbox-one', paren: 'Enhanced; Digital', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
           { key: 'xbox-xs', paren: 'Digital; Optimized; One Compatibility', url: 'https://www.xbox.com/games/store/kingdom-hearts-collection-iiii/9N9QVDMKRDXF/0017' },
           { key: 'xbox-cloud', url: 'https://www.xbox.com/games/store/kingdom-hearts-hd-1525-remix/9nhdf1q6hgmh' },
           { key: 'fan-movie', search: 'youtube', searchTitle: 'Kingdom Hearts 358/2 Days Theater Mode', name: 'Fan combined movie video', paren: 'Youtube' },
