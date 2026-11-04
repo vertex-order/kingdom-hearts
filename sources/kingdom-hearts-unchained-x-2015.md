@@ -90,6 +90,14 @@
 - https://en.wikipedia.org/wiki/List_of_iOS_games -- dates, platforms -- accessed 2026-11-03 (revision 1382859620 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
   - Row: Title: Kingdom Hearts Unchained χ; Developer(s): Square Enix; Publisher(s): Square Enix; Genre: Role-playing; Release date: JP September 3, 2015 NA April 7, 2016 PAL June 16, 2016
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - キングダム ハーツ ユニオン クロス (Union Cross); an image link with no text on the captures of 2015-09-16 to 2017-09-20; from 2018-10-03 a LINE UP block and a slider item (text 「「キングダム ハーツ」シリーズ初のスマホアプリ『キングダム ハーツ アンチェインド キー』に最大6人の仲間と一緒に楽しめるマルチクエストモードやストーリーの新章を追加し大幅にバージョンアップした新タイトルです。」, 「物語は「キングダム ハーツ」シリーズの中でも、最も古い時代が描かれています。」); the slider item is not on the capture of 2020-10-24; block and link to 2022-11-09, not on 2023-12-10 or later; no platform, date or rating
+    - http://www.square-enix.co.jp/kingdom/uc/ -- Union Cross link, listed 2015-09-16 to 2022-11-09 -- link recorded only -- archived: https://web.archive.org/web/20150916024021/http://www.square-enix.co.jp/kingdom/uc/ (last listing: https://web.archive.org/web/20221109084009/http://www.square-enix.co.jp/kingdom/uc/)
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

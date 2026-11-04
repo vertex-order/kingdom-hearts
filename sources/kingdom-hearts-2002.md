@@ -565,4 +565,31 @@
   - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
   - Row: Kingdom Hearts HD 1.5 + 2.5 ReMIX; Y; 60; Digital only
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts site menu, capture of 2008-06-18)
+
+- Square Enix Japan's Kingdom Hearts official site, a full Flash site; its menu read from a screenshot pasted by user, sub-pages not opened -- accessed 2026-11-04 -- shallow: only the menu was checked; the menu shows titles only, no platform, date or link
+  - Page URL by capture: 2008-06-18 http://www.square-enix.co.jp/kingdom/; the capture is https://web.archive.org/web/20080618082947/http://www.square-enix.co.jp/kingdom/
+  - Menu, two rows of four: KINGDOM HEARTS, KINGDOM HEARTS FINAL MIX, KINGDOM HEARTS II, KINGDOM HEARTS II FINAL MIX+; KINGDOM HEARTS CHAIN OF MEMORIES, KINGDOM HEARTS coded, KINGDOM HEARTS 358/2 Days, KINGDOM HEARTS Birth by Sleep
+  - listed in the menu: KINGDOM HEARTS
+  - listed in the menu: KINGDOM HEARTS FINAL MIX
+
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - KINGDOM HEARTS (キングダム ハーツ); title button in the menu and both title lists (release order, story order); no platform, date or note; listed in every capture from 2012-08-28 to 2017-09-20
+    - http://www.square-enix.co.jp/kingdom/kh/index.html -- title page link, listed 2012-08-28 to 2016-12-19 (host web.square-enix.co.jp in the captures of 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19, www.square-enix.co.jp in the others); from 2017-09-20 http://www.square-enix.co.jp/kingdom/kh/ -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/kh/index.html (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/kh/)
+    - http://www.square-enix.co.jp/games/ps2/kingdom/ -- 公式サイト link, listed 2012-08-28 to 2017-09-20 -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/games/ps2/kingdom/ (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/games/ps2/kingdom/)
+  - KINGDOM HEARTS FINAL MIX (キングダム ハーツ ファイナル ミックス); title button in the menu and both title lists (release order, story order); no platform, date or note; listed in every capture from 2012-08-28 to 2017-09-20
+    - http://www.square-enix.co.jp/kingdom/khfm/index.html -- title page link, listed 2012-08-28 to 2016-12-19 (host web.square-enix.co.jp in the captures of 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19, www.square-enix.co.jp in the others); from 2017-09-20 http://www.square-enix.co.jp/kingdom/khfm/ -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/khfm/index.html (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/khfm/)
+    - http://www.square-enix.co.jp/games/ps2/finalmix/ -- 公式サイト link, listed 2012-08-28 to 2017-09-20 -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/games/ps2/finalmix/ (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/games/ps2/finalmix/)
+  - KINGDOM HEARTS HD 1.5 ReMIX (button with the title as image text only); listed from 2013-09-04 to 2017-09-20; no platform, date or note
+    - http://www.square-enix.co.jp/kingdom/khhd/ -- HD 1.5 ReMIX button link, listed 2013-09-04 to 2017-09-20 -- link recorded only -- archived: https://web.archive.org/web/20130904130103/http://www.square-enix.co.jp/kingdom/khhd/ (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/khhd/)
+  - KINGDOM HEARTS FINAL MIX (HD) in the HD 1.5+2.5 リミックス block of the LINE UP; named キングダム ハーツ ファイナル ミックス from 2018-10-03 to 2022-11-09 and キングダム ハーツ -ファイナル ミックス- from 2023-12-10 to 2026-08-27 (name as the page writes it); text: 「シリーズ第１作目『キングダム ハーツ』のFINAL MIX版を元に、全ての要素を詰め込んだHDリマスター作品。」; no platform, date or rating; listed in every capture from 2018-10-03 to 2026-08-27
+    - the block's 公式サイトへ button: text 「初代『キングダム ハーツ』を含む6作品がPS4®で楽しめる」 from 2018-10-03 to 2022-11-09, 「…6作品が楽しめる」 from 2023-12-10
+    - http://www.square-enix.co.jp/kingdom/khhd1_2/ -- 公式サイトへ (HD 1.5+2.5) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd1_2/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd1_2/)
+  - news item 「「キングダム ハーツ」シリーズがSteam®に登場！ 2024.6.14」 (series news, no single title named on the page); listed 2024-12-11 to 2025-12-14
+    - https://store.steampowered.com/curator/45029091-KingdomHeartsSeries/ -- news item link, listed 2024-12-11 to 2025-12-14 -- link recorded only -- archived: https://web.archive.org/web/20241211185619/https://store.steampowered.com/curator/45029091-KingdomHeartsSeries/ (last listing: https://web.archive.org/web/20251214115551/https://store.steampowered.com/curator/45029091-KingdomHeartsSeries/)
+
 ## Decisions

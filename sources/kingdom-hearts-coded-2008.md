@@ -483,4 +483,28 @@
   - Category of i-mode games: 55 pages
   - Member: Kingdom Hearts Coded
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts site menu, capture of 2008-06-18)
+
+- Square Enix Japan's Kingdom Hearts official site, a full Flash site; its menu read from a screenshot pasted by user, sub-pages not opened -- accessed 2026-11-04 -- shallow: only the menu was checked; the menu shows titles only, no platform, date or link
+  - Page URL by capture: 2008-06-18 http://www.square-enix.co.jp/kingdom/; the capture is https://web.archive.org/web/20080618082947/http://www.square-enix.co.jp/kingdom/
+  - Menu, two rows of four: KINGDOM HEARTS, KINGDOM HEARTS FINAL MIX, KINGDOM HEARTS II, KINGDOM HEARTS II FINAL MIX+; KINGDOM HEARTS CHAIN OF MEMORIES, KINGDOM HEARTS coded, KINGDOM HEARTS 358/2 Days, KINGDOM HEARTS Birth by Sleep
+  - listed in the menu: KINGDOM HEARTS coded
+
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - KINGDOM HEARTS coded (キングダム ハーツ コーデッド); title button in the menu and both title lists (release order, story order); no platform, date or note; listed in every capture from 2012-08-28 to 2017-09-20; the 公式サイト button is not on the capture of 2017-09-20
+    - http://www.square-enix.co.jp/kingdom/khcoded/index.html -- title page link, listed 2012-08-28 to 2016-12-19 (host web.square-enix.co.jp in the captures of 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19, www.square-enix.co.jp in the others); from 2017-09-20 http://www.square-enix.co.jp/kingdom/khcoded/ -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/khcoded/index.html (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/khcoded/)
+    - http://www.square-enix.co.jp/kingdom/coded/ -- 公式サイト link, listed 2012-08-28 to 2016-12-19 -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/coded/ (last listing: https://web.archive.org/web/20161219182653/http://www.square-enix.co.jp/kingdom/coded/)
+  - KINGDOM HEARTS Re:coded (キングダム ハーツ Re:コーデッド); title button in the menu and both title lists (release order, story order); no platform, date or note; listed in every capture from 2012-08-28 to 2017-09-20
+    - http://www.square-enix.co.jp/kingdom/khrecoded/index.html -- title page link, listed 2012-08-28 to 2016-12-19 (host web.square-enix.co.jp in the captures of 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19, www.square-enix.co.jp in the others); from 2017-09-20 http://www.square-enix.co.jp/kingdom/khrecoded/ -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/khrecoded/index.html (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/khrecoded/)
+    - http://www.square-enix.co.jp/kingdom/recoded/ -- 公式サイト link, listed 2012-08-28 to 2017-09-20 -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/kingdom/recoded/ (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/recoded/)
+  - KINGDOM HEARTS HD 2.5 ReMIX (button with the title as image text); listed from 2014-09-13 to 2017-09-20; no platform, date or note; a second image link to the same address with no text is listed on the capture of 2014-09-13 only
+    - http://www.square-enix.co.jp/kingdom/khhd2/ -- HD 2.5 ReMIX button link, listed 2014-09-13 to 2017-09-20 -- link recorded only -- archived: https://web.archive.org/web/20140913181546/http://www.square-enix.co.jp/kingdom/khhd2/ (last listing: https://web.archive.org/web/20170920132235/http://www.square-enix.co.jp/kingdom/khhd2/)
+  - KINGDOM HEARTS Re:coded (HD movie) in the HD 1.5+2.5 リミックス block of the LINE UP; named キングダム ハーツ Re:コーデッド [HD映像作品] from 2018-10-03 to 2022-11-09 and キングダム ハーツ Re:コーデッド [HD映像作品] from 2023-12-10 to 2026-08-27 (name as the page writes it); text: 「『キングダム ハーツ Re:コーデッド』の映像約１時間分に加え、バトルシーンやディズニーのワールドを新たに映像化した新規シーン約２時間分を追加収録。」; no platform, date or rating; listed in every capture from 2018-10-03 to 2026-08-27
+    - the block's 公式サイトへ button: text 「初代『キングダム ハーツ』を含む6作品がPS4®で楽しめる」 from 2018-10-03 to 2022-11-09, 「…6作品が楽しめる」 from 2023-12-10
+    - http://www.square-enix.co.jp/kingdom/khhd1_2/ -- 公式サイトへ (HD 1.5+2.5) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd1_2/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd1_2/)
+
 ## Decisions

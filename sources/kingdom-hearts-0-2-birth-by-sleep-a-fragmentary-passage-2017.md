@@ -389,4 +389,13 @@
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; Action role-playing anthology; Square Enix; Square Enix; Unreleased; 2020-Feb-19; 2020-Feb-17
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - KINGDOM HEARTS 0.2 Birth by Sleep -A fragmentary passage- in the HD 2.8 ファイナル チャプター プロローグ block of the LINE UP; named キングダム ハーツ 0.2 バース バイ スリープ –フラグメンタリー パッセージ– from 2018-10-03 to 2022-11-09 and キングダム ハーツ 0.2 バース バイ スリープ -フラグメンタリー パッセージ- from 2023-12-10 to 2026-08-27; text: 「2011年に発売された『キングダム ハーツ バース バイ スリープ』のその後の物語で、『キングダム ハーツ III』へと繋がる完全新作のショートエピソード。」 (from 2023-12-10: 『キングダム ハーツIII』); no platform, date or rating; listed in every capture from 2018-10-03 to 2026-08-27
+    - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- 公式サイトへ (HD 2.8) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd_fcp/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd_fcp/)
+    - the same address is also linked as 「KH2.8著作物利用許諾条件」 (terms) on the capture of 2017-09-20 only
+
 ## Decisions

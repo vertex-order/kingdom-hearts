@@ -139,4 +139,12 @@ publisher-stated date).
   - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
   - Row: Kingdom Hearts IV; Role-playing; Square Enix Creative Business Unit I; Square Enix
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - KINGDOM HEARTS IV; slider item listed 2023-12-10 to 2025-12-14, not on the capture of 2026-08-27; no platform, date or note
+    - https://www.jp.square-enix.com/kingdom/kh4/ -- slider item link, listed 2023-12-10 to 2025-12-14 -- link recorded only -- archived: https://web.archive.org/web/20231210143033/https://www.jp.square-enix.com/kingdom/kh4/ (last listing: https://web.archive.org/web/20251214115551/https://www.jp.square-enix.com/kingdom/kh4/)
+
 ## Decisions

@@ -261,6 +261,13 @@
   - Kingdom Hearts III (2019) -- no card of its own on the saved pages; the parent of Kingdom Hearts III: Re Mind (2020)
     - https://www.igdb.com/games/kingdom-hearts-iii -- IGDB game page, linked live (2026-11-03) as the parent, not visited -- link recorded only -- archived: TODO
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - キングダム ハーツIII Re Mind; LINE UP block with the text 「クライマックスに起きていた、もう一つの物語を知ることができる有料DLC「Re Mind」。…」; listed 2023-12-10 to 2026-08-27; no link of its own on the page, no platform, date or rating
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

@@ -382,4 +382,13 @@
   - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; developer column Square Enix; JP 2017-01-12, NA 2017-01-24, PAL 2017-01-24; options: P (Pro enhanced)
   - Row: Kingdom Hearts: The Story So Far; developer column Square Enix; JP unreleased, NA 2018-10-30, PAL 2019-03-29; no options marker
 
+## jp.square-enix.com (Publisher; Japan, Kingdom Hearts portal site, captures of 2012-08-28 to 2026-08-27)
+
+- Square Enix Japan's Kingdom Hearts portal site (KINGDOM HEARTS PORTAL SITE | SQUARE ENIX) -- saved pages of each capture read by me; each capture read only for what is new against the previous one; links not opened -- accessed 2026-11-04
+  - Page URL by capture: 2012-08-28, 2013-09-04, 2014-09-15, 2015-09-16, 2016-09-16 and 2017-09-20 http://www.square-enix.co.jp/kingdom/; 2013-09-13, 2014-09-13, 2015-12-17 and 2016-12-19 http://web.square-enix.co.jp/kingdom/; 2018-10-03 to 2026-08-27 https://www.jp.square-enix.com/kingdom/; each capture is https://web.archive.org/web/<timestamp>/<page URL>, timestamps listed in sources/kingdom-hearts-franchise.md
+  - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
+  - KINGDOM HEARTS Key Back Cover in the HD 2.8 ファイナル チャプター プロローグ block of the LINE UP; named キングダム ハーツ キー バックカバー from 2018-10-03 to 2022-11-09 and キングダム ハーツ キー バックカバー from 2023-12-10 to 2026-08-27; text: 「『キングダム ハーツ ユニオン クロス』の裏側で起きていた、“予知者”たちの謎に満ちた物語を新規HD映像作品として収録。」; no platform, date or rating; listed in every capture from 2018-10-03 to 2026-08-27
+    - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- 公式サイトへ (HD 2.8) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd_fcp/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd_fcp/)
+    - the same address is also linked as 「KH2.8著作物利用許諾条件」 (terms) on the capture of 2017-09-20 only
+
 ## Decisions
