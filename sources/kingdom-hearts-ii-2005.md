@@ -507,4 +507,10 @@
   - Member: キングダム ハーツ HD 2.5 リミックス
   - https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_2.5_リミックス -- the article of that member (revision 109875713 of 2026-06-10) -- link recorded only -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; PlayStation 3 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(J%E2%80%93P) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374058329 of 2026-09-09; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 3 games, split over four pages (A–C, D–I, J–P, Q–Z; the page List_of_PlayStation_3_games redirects to A–C); one table per page, columns title, developer(s), release dates (JP, PAL, NA), options (D: digital only games), references
+  - Row: Kingdom Hearts HD 2.5 Remix; developer column Square Enix; JP 2014-10-02, PAL 2014-12-05, NA 2014-12-05; no options marker
+
 ## Decisions
