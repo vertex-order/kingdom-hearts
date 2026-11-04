@@ -490,6 +490,8 @@
 - https://en.wikipedia.org/wiki/List_of_Stadia_games -- English Wikipedia's list of Stadia games (279 title rows; revision 1380821627 of 2026-10-18; no Kingdom Hearts title) -- live page of 2026-11-04, visited and audited; archived: TODO
 - https://en.wikipedia.org/wiki/Category:Stadia_games -- English Wikipedia's category of Stadia games (212 pages and 1 subcategory, Cancelled Stadia games; category page revision 1366833910 of 2026-07-30; titles only; no Kingdom Hearts page) -- live page of 2026-11-04, visited and audited; archived: TODO
 - https://en.wikipedia.org/wiki/Category:Cancelled_Stadia_games -- English Wikipedia's category of cancelled Stadia games (13 pages; category page revision 1178965398 of 2023-10-07; no Kingdom Hearts page) -- live page of 2026-11-04, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/Category:Facebook_games -- English Wikipedia's category of Facebook games (122 pages, no subcategories; category page revision 1341960939 of 2026-03-06; titles only; members read through the MediaWiki API; no Kingdom Hearts page) -- live page of 2026-11-04, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/Category:Social_casual_games -- English Wikipedia's category of social casual games (54 pages and 1 subcategory, Facebook games; category page revision 1362073213 of 2026-07-01; titles only, no dates or platform detail; members read through the MediaWiki API; no Final Fantasy, Chocobo or Kingdom Hearts page, no non-FF-named in-scope page) -- live page of 2026-11-04, visited and audited; archived: TODO
 
 ## Square Enix (Publisher)
 
