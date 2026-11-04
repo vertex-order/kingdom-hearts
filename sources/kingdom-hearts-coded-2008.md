@@ -477,4 +477,10 @@
   - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
   - Row: Kingdom Hearts HD 1.5 + 2.5 ReMIX; Y; 60; Digital only
 
+## en.wikipedia.org (Information; i-mode games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:I-mode_games -- i-mode platform release -- accessed 2026-11-04 (category page revision 1266302726 of 2024-12-31; members read through the MediaWiki API); archived: TODO
+  - Category of i-mode games: 55 pages
+  - Member: Kingdom Hearts Coded
+
 ## Decisions

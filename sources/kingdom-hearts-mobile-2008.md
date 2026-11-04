@@ -55,4 +55,10 @@
   - Kingdom Hearts Pair Card Battle (2009) -- type label Main Game; platforms shown: Legacy Mobile Device; released 2009-02-26
     - https://www.igdb.com/games/kingdom-hearts-pair-card-battle -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; i-mode games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:I-mode_games -- i-mode platform release -- accessed 2026-11-04 (category page revision 1266302726 of 2024-12-31; members read through the MediaWiki API); archived: TODO
+  - Category of i-mode games: 55 pages
+  - Member: Kingdom Hearts Mobile
+
 ## Decisions
