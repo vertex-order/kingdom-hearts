@@ -433,6 +433,17 @@
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Manga
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Companion_books
   - https://wikipedia.org/wiki/List_of_Kingdom_Hearts_media#Novels
+- https://en.wikipedia.org/wiki/Lists_of_video_games -- English Wikipedia's Lists of video games (index of list pages; revision 1373143390 of 2026-09-04): no Kingdom Hearts list -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_browser_games -- English Wikipedia's List of browser games (revision 1380530183 of 2026-10-16; no Final Fantasy, Chocobo or other in-scope title) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_television_series_based_on_video_games -- English Wikipedia's List of television series based on video games (revision 1383332862 of 2026-11-02; Kingdom Hearts listed as an upcoming series (TBA)) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_novels_based_on_video_games -- English Wikipedia's List of novels based on video games (revision 1380085790 of 2026-10-13; no Kingdom Hearts section) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_video_games_based_on_anime_or_manga -- English Wikipedia's List of video games based on anime or manga (revision 1382072696 of 2026-10-26; no Kingdom Hearts title) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_video_games_based_on_cartoons -- English Wikipedia's List of video games based on cartoons (revision 1381785297 of 2026-10-24; Kingdom Hearts, Chain of Memories, II and III under the Disney section) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_Nintendo_64DD_games -- English Wikipedia's List of Nintendo 64DD games (revision 1375457657 of 2026-09-17; no Kingdom Hearts title) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_Square_video_games -- English Wikipedia's List of Square video games (revision 1371521634 of 2026-08-26; Kingdom Hearts (PS2) row) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_video_games_based_on_films -- English Wikipedia's List of video games based on films (revision 1381705872 of 2026-10-24; no Kingdom Hearts title) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_CD-i_games -- English Wikipedia's List of CD-i games (revision 1360006426 of 2026-06-18; no Kingdom Hearts title) -- live page of 2026-11-03, visited and audited; archived: TODO
+- https://en.wikipedia.org/wiki/PocketStation#Compatible_PlayStation_games -- English Wikipedia's PocketStation article, section Compatible PlayStation games (a name list, no dates; revision 1382885501 of 2026-10-30; no Kingdom Hearts title) -- live page of 2026-11-03, visited and audited; archived: TODO
 
 ## Square Enix (Publisher)
 

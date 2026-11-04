@@ -86,6 +86,7 @@
 - https://wikipedia.org/wiki/List_of_Disney_video_games#Kingdom_Hearts_games -- platforms*, dates* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Collections_and_bundles -- accessed 2026-09-25
+- https://en.wikipedia.org/wiki/List_of_video_games_based_on_cartoons -- row "Kingdom Hearts: Chain of Memories" (platform column: Game Boy Advance; revision 1381785297 of 2026-10-24) -- accessed 2026-11-03; archived: TODO
 
 ## Xbox (Platform)
 

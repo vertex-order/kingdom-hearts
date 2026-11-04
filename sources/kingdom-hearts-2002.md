@@ -80,6 +80,8 @@
 - https://wikipedia.org/wiki/List_of_Disney_video_games#Kingdom_Hearts_games -- platforms*, dates* -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Games -- accessed 2026-09-25
 - https://wikipedia.org/wiki/Kingdom_Hearts#Collections_and_bundles -- accessed 2026-09-25
+- https://en.wikipedia.org/wiki/List_of_video_games_based_on_cartoons -- row "Kingdom Hearts" (platform column: PS2; revision 1381785297 of 2026-10-24) -- accessed 2026-11-03; archived: TODO
+- https://en.wikipedia.org/wiki/List_of_Square_video_games -- row "Kingdom Hearts" (PS2; revision 1371521634 of 2026-08-26) -- accessed 2026-11-03; archived: TODO
 
 ## Xbox (Platform)
 
