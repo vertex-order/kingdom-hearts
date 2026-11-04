@@ -882,6 +882,10 @@
 
 - https://web.archive.org/web/20240623164151/https://marketplace.xbox.com/en-gb/Games/GamesOnDemand?SortBy=ReleaseDate&PageSize=90 -- Xbox 360 Marketplace browse list "Games on Demand", English (UK) storefront; 6 pages of 90 tiles (488 tiles), sorted by release date; captured 2024-05-18 to 2024-06-23 (https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?sortby=ReleaseDate&PageSize=90&Page=N) -- 6 pages saved and read, no Kingdom Hearts title, visited and audited; archived: the capture itself
 
+## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
+
+- https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/top-paid/games/mobile -- Microsoft Store top charts, Top paid games for mobile (Windows Phone); 72 tiles on the saved page -- capture of 2016-07-08, no Kingdom Hearts title, visited and audited; archived: the capture itself
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
