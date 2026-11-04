@@ -375,4 +375,11 @@
   - Kingdom Hearts χ Back Cover -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts back cover" (https://www.igdb.com/search?q=kingdom+hearts+back+cover&type=1)
   - Kingdom Hearts χ Back Cover -- not in IGDB: no title of that name among the saved results of the search "Kingdom Hearts χ Back Cover" (https://www.igdb.com/search?q=Kingdom%20Hearts%20%CF%87%20Back%20Cover&type=1&utf8=%E2%9C%93)
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; developer column Square Enix; JP 2017-01-12, NA 2017-01-24, PAL 2017-01-24; options: P (Pro enhanced)
+  - Row: Kingdom Hearts: The Story So Far; developer column Square Enix; JP unreleased, NA 2018-10-30, PAL 2019-03-29; no options marker
+
 ## Decisions

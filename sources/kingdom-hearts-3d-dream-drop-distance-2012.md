@@ -435,4 +435,11 @@
 - https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 - https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
 
+## en.wikipedia.org (Information; PlayStation 4 game list, live pages of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_4_games_(A%E2%80%93L) -- dates*, platforms* -- accessed 2026-11-03 (revision 1374216187 of 2026-09-10; wikitext read through the MediaWiki API); archived: TODO
+  - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
+  - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; developer column Square Enix; JP 2017-01-12, NA 2017-01-24, PAL 2017-01-24; options: P (Pro enhanced)
+  - Row: Kingdom Hearts: The Story So Far; developer column Square Enix; JP unreleased, NA 2018-10-30, PAL 2019-03-29; no options marker
+
 ## Decisions
