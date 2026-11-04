@@ -430,4 +430,9 @@
   - Kingdom Hearts HD 2.8 Final Chapter Prologue: Cloud Version (2022) -- type label Main Game; platforms shown: Nintendo Switch; released 2022-02-10
     - https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue-cloud-version -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## ja.wikipedia.org (Information; Nintendo 3DS software categories, live pages of 2026-11-03)
+
+- https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト -- Japanese Wikipedia's category (668 pages); lists the page キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ -- category page revision 104487957; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+- https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト -- Japanese Wikipedia's category (149 pages); lists the page キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ -- category page revision 39054374; titles only, no dates or platform detail -- accessed 2026-11-03 (read through the MediaWiki API); archived: TODO
+
 ## Decisions
