@@ -442,4 +442,32 @@
   - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; developer column Square Enix; JP 2017-01-12, NA 2017-01-24, PAL 2017-01-24; options: P (Pro enhanced)
   - Row: Kingdom Hearts: The Story So Far; developer column Square Enix; JP unreleased, NA 2018-10-30, PAL 2019-03-29; no options marker
 
+## en.wikipedia.org (Information; List of Nintendo 3DS games (0–M), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_3DS_games_(0%E2%80%93M) -- dates, platforms -- accessed 2026-11-03 (revision 1380481052 of 2026-10-16; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Developer(s); Publisher(s); Release date; Ref. References
+  - Row: Kingdom Hearts 3D: Dream Drop Distance; Square Enix 1st Production Department; Square Enix; 2012-03-29; 2012-07-31; 2012-07-26; 2012-07-20
+
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts HD 2.8 Final Chapter Prologue; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: October 8, 2026
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (H–P), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(H%E2%80%93P) -- dates, platforms -- accessed 2026-11-03 (revision 1380076992 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts HD 2.8 Final Chapter Prologue; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: February 10, 2022
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Kingdom Hearts HD II.8 Final Chapter Prologue; Y; 60; Digital only
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Kingdom Hearts HD 2.8 Final Chapter Prologue; Action role-playing anthology; Square Enix; Square Enix; Unreleased; 2020-Feb-19; 2020-Feb-17
+
 ## Decisions

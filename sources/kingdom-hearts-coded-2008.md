@@ -461,4 +461,20 @@
   - Row: Kingdom Hearts HD 1.5 + 2.5 Remix; developer column Square Enix; JP 2017-03-09, NA 2017-03-28, PAL 2017-03-31; options: P (Pro enhanced)
   - Row: Kingdom Hearts: The Story So Far; developer column Square Enix; JP unreleased, NA 2018-10-30, PAL 2019-03-29; no options marker
 
+## en.wikipedia.org (Information; List of Nintendo DS games (J–P), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_DS_games_(J%E2%80%93P) -- dates, platforms -- accessed 2026-11-03 (revision 1380442134 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts Re:coded; Developer(s): h.a.n.d.; Publisher(s): Square Enix; First released: JP 2010-10-07; JP: N; NA: Y; EU: Y; AU: Y
+
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts HD 1.5 + 2.5 Remix; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: October 8, 2026
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Kingdom Hearts HD 1.5 + 2.5 ReMIX; Y; 60; Digital only
+
 ## Decisions

@@ -85,6 +85,11 @@
   - Member: キングダム ハーツ アンチェインド キー
   - https://ja.wikipedia.org/wiki/キングダム_ハーツ_アンチェインド_キー -- the article of that member -- link recorded only (revision 110673832 of 2026-08-17) -- accessed 2026-11-03 -- shallow: not read (link taken from the category)
 
+## en.wikipedia.org (Information; List of iOS games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_iOS_games -- dates, platforms -- accessed 2026-11-03 (revision 1382859620 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts Unchained χ; Developer(s): Square Enix; Publisher(s): Square Enix; Genre: Role-playing; Release date: JP September 3, 2015 NA April 7, 2016 PAL June 16, 2016
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

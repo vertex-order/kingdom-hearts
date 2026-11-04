@@ -54,4 +54,15 @@
   - Kingdom Hearts: VR Experience (2019) -- type label Main Game; platforms shown: PlayStation VR; released 2019-01-23
     - https://www.igdb.com/games/kingdom-hearts-vr-experience -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of PlayStation VR games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_PlayStation_VR_games -- dates, platforms -- accessed 2026-11-03 (revision 1374392358 of 2026-09-11; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: The Apollo 11: VR Experience; Simulation; David Whelan; Immersive VR Education; 2017-Jul-25; 2017-Mar-01; 2018-Mar-05; Unreleased
+  - Row: Blindfold A Vérité VR Experience; Horror; Ink Studios; Digerati; 2019-Sep-03; 2019-Sep-03; 2019-Sep-03; 2019-Sep-03
+  - Row: The Martian: VR Experience; Interactive experience; 20th Century Fox; 20th Century Fox; 2016-Nov-15; 2016-Nov-15; 2018-Aug-02; 2016-Dec-14; M
+  - Row: Call of Duty: Infinite Warfare Jackal Assault VR Experience; Action; Infinity Ward, Paper Crane Games; Activision; 2016-Nov-04; 2016-Nov-04; Unreleased
+  - Row: Joshua Bell VR Experience; Music; Sony Interactive Entertainment; Sony Interactive Entertainment; 2017-Feb-14; 2017-Feb-14; 2017-Feb-14
+  - Row: Kingdom Hearts VR Experience; RPG; Square Enix; Square Enix; 2019-Jan-23; 2019-Feb-28; Unreleased; M
+
 ## Decisions

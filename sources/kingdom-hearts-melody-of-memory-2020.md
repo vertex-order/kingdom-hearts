@@ -246,4 +246,15 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Kingdom Hearts: Melody of Memory; developer column Square Enix; JP 2020-11-11, NA 2020-11-13, PAL 2020-11-13; no options marker
 
+## en.wikipedia.org (Information; List of Nintendo Switch games (H–P), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(H%E2%80%93P) -- dates, platforms -- accessed 2026-11-03 (revision 1380076992 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts: Melody of Memory; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: November 11, 2020
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Kingdom Hearts: Melody of Memory; Action role-playing; Square Enix; Square Enix; 2020-Nov-11; 2020-Nov-13; 2020-Nov-13
+
 ## Decisions

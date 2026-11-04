@@ -420,4 +420,26 @@
   - Alphabetical list of PlayStation 4 games, split over two pages (A–L, M–Z; the page List_of_PlayStation_4_games is an index linking both); one table per page, columns title, genre(s), developer(s), publisher(s), release dates (JP, NA, PAL), addons, references
   - Row: Kingdom Hearts III; developer column Square Enix; JP 2019-01-25, NA 2019-01-29, PAL 2019-01-29; options: P (Pro enhanced)
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts III; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: October 8, 2026
+
+## en.wikipedia.org (Information; List of Nintendo Switch games (H–P), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games_(H%E2%80%93P) -- dates, platforms -- accessed 2026-11-03 (revision 1380076992 of 2026-10-13; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts III; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: February 10, 2022
+
+## en.wikipedia.org (Information; List of Xbox One X enhanced games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_X_enhanced_games -- dates, platforms -- accessed 2026-11-03 (revision 1359985267 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Game title; Known enhancements; Enhanced / patch / availability; Notes/references
+  - Row: Kingdom Hearts III; 30/60
+
+## en.wikipedia.org (Information; List of Xbox One games (A–L), live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_One_games_(A%E2%80%93L) -- dates, platforms -- accessed 2026-11-03 (revision 1378205264 of 2026-10-03; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Kingdom Hearts III; Action role-playing; Square Enix; Square Enix; 2019-Jan-29; 2019-Jan-29; 2019-Jan-29; X
+
 ## Decisions

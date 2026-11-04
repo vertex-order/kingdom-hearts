@@ -128,4 +128,15 @@ publisher-stated date).
   - Kingdom Hearts IV (2027) -- type label Main Game; platforms shown: PC (Microsoft Windows), PlayStation 5, Xbox Series X, Nintendo Switch 2; released 2027-12-31
     - https://www.igdb.com/games/kingdom-hearts-iv -- IGDB game page, listed live (2026-11-03), not visited -- link recorded only -- archived: TODO
 
+## en.wikipedia.org (Information; List of Nintendo Switch 2 games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_2_games -- dates, platforms -- accessed 2026-11-03 (revision 1383631769 of 2026-11-03; wikitext read through the MediaWiki API); archived: TODO
+  - Row: Title: Kingdom Hearts IV; Developer(s): Square Enix; Publisher(s): Square Enix; Release date: Q3/Q4 2027
+
+## en.wikipedia.org (Information; List of Xbox Series X and Series S games, live page of 2026-11-03)
+
+- https://en.wikipedia.org/wiki/List_of_Xbox_Series_X_and_Series_S_games -- dates, platforms -- accessed 2026-11-03 (revision 1382768564 of 2026-10-30; wikitext read through the MediaWiki API); archived: TODO
+  - Columns in order: Title; Genre(s); Developer(s); Publisher(s); Release date; Addons; Ref. References
+  - Row: Kingdom Hearts IV; Role-playing; Square Enix Creative Business Unit I; Square Enix
+
 ## Decisions
