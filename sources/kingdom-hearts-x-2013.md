@@ -76,6 +76,12 @@
 - https://ja.wikipedia.org/wiki/キングダム_ハーツ_キー -- browser game* -- accessed 2026-11-03 (article revision 111307810 of 2026-10-07; lead read through the MediaWiki API); archived: TODO
   - Lead: キングダム ハーツ キー (KINGDOM HEARTS χ) is a browser game produced and operated by Square Enix; the article also covers the smartphone app Kingdom Hearts Unchained χ, its update Kingdom Hearts Union χ, and Kingdom Hearts Dark Road
 
+## en.wikipedia.org (Information; Android (operating system) games category, live page of 2026-11-04)
+
+- https://en.wikipedia.org/wiki/Category:Android_(operating_system)_games -- Android platform release -- accessed 2026-11-04 (category page revision 1265438900 of 2024-12-26; members read through the MediaWiki API); archived: TODO
+  - Category of Android games: 2461 pages, 9 subcategories
+  - Member: Kingdom Hearts χ
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.
