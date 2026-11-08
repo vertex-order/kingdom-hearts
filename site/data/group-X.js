@@ -47,7 +47,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'android', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20200614033208/https://apps.apple.com/us/app/kingdom-hearts-union-%CF%87-cross/id1086859120' },
         { key: 'amazon', terminated: true },
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchQualifier: '[Cross]', searchSuffix: 'fan port' },
         { key: 'fan-movie', search: 'youtube', searchQualifier: '[Cross]' },
@@ -155,7 +155,7 @@ window.__khGroupReg['X'] = { num: 'X', chronoOrder: 20, narrativeOrder: 240, tit
       languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
       platforms: [
         { key: 'android', terminated: true },
-        { key: 'apple', terminated: true },
+        { key: 'apple', terminated: true, url: 'https://web.archive.org/web/20240825025102/https://apps.apple.com/us/app/kingdom-hearts-u%CF%87-dark-road/id1086859120' },
         { key: 'amazon', terminated: true },
         { key: 'globe', paren: 'Unofficial Fan port', search: 'duckduckgo', searchTitle: 'Kingdom Hearts Union χ Dark Road', searchSuffix: 'fan port' },
         { key: 'fan-movie', search: 'youtube' },

@@ -93,4 +93,15 @@
   - news item KINGDOM HEARTS Union χ [Cross] Dark Road; listed on the capture of 2023-12-10 only; no platform, date or note
     - https://cache.sqex-bridge.jp/guest/information/73264 -- news item link, listed 2023-12-10 -- link recorded only -- archived: https://web.archive.org/web/20231210143033/https://cache.sqex-bridge.jp/guest/information/73264
 
+
+## apps.apple.com (Platform; US App Store, app id 1086859120, Wayback captures of 2020-06-26 to 2024-08-25)
+
+Page URL by capture: 2020-06-26 to 2024-08-25 https://apps.apple.com/us/app/kingdom-hearts-u%CF%87-dark-road/id1086859120
+
+- https://apps.apple.com/us/app/kingdom-hearts-u%CF%87-dark-road/id1086859120 -- the same app id as Unchained χ and Union χ[Cross] (see sources/kingdom-hearts-unchained-x-2015.md), titled "KINGDOM HEARTS Uχ Dark Road on the App Store", languages line English -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20240825025102/https://apps.apple.com/us/app/kingdom-hearts-u%CF%87-dark-road/id1086859120
+  - Description of the capture of 2024-08-25: "Service has ended and the app has become the offline version." followed by "KINGDOM HEARTS Union χ Dark Road: Two different games in one!"
+  - The captures of 2023-07-18 and 2023-12-20 carry the generic store text only, no service note
+  - The US Square Enix developer page lists it on the captures of 2021-01-03 to 2024-08-21, not on 2025-01-12
+  - iTunes lookup of 2026-11-08 (https://itunes.apple.com/lookup?id=1086859120&country=us): resultCount 0
+
 ## Decisions

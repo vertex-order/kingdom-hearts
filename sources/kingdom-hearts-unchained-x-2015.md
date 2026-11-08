@@ -98,6 +98,17 @@
   - キングダム ハーツ ユニオン クロス (Union Cross); an image link with no text on the captures of 2015-09-16 to 2017-09-20; from 2018-10-03 a LINE UP block and a slider item (text 「「キングダム ハーツ」シリーズ初のスマホアプリ『キングダム ハーツ アンチェインド キー』に最大6人の仲間と一緒に楽しめるマルチクエストモードやストーリーの新章を追加し大幅にバージョンアップした新タイトルです。」, 「物語は「キングダム ハーツ」シリーズの中でも、最も古い時代が描かれています。」); the slider item is not on the capture of 2020-10-24; block and link to 2022-11-09, not on 2023-12-10 or later; no platform, date or rating
     - http://www.square-enix.co.jp/kingdom/uc/ -- Union Cross link, listed 2015-09-16 to 2022-11-09 -- link recorded only -- archived: https://web.archive.org/web/20150916024021/http://www.square-enix.co.jp/kingdom/uc/ (last listing: https://web.archive.org/web/20221109084009/http://www.square-enix.co.jp/kingdom/uc/)
 
+
+## apps.apple.com (Platform; US App Store, app id 1086859120 and Japanese app id 993988918, Wayback captures)
+
+Page URL by capture: 2016-04-11 to 2018-11-16 https://itunes.apple.com/us/app/kingdom-hearts-unchained-ch/id1086859120 (query forms ?mt=8 and ?l=ja&ls=1&mt=8); 2017-08-30 to 2019-05-21 https://itunes.apple.com/us/app/kingdom-hearts-union-%CF%87-cross/id1086859120?mt=8; 2019-09-29 to 2022-10-13 https://apps.apple.com/us/app/kingdom-hearts-union-%CF%87-cross/id1086859120
+
+- https://apps.apple.com/us/app/kingdom-hearts-union-%CF%87-cross/id1086859120 -- the global app's US store page, "KINGDOM HEARTS Union χ[Cross] on the App Store" on the capture of 2020-06-14, published 2016-04-07, languages line English -- accessed 2026-11-08 -- archived: https://web.archive.org/web/20200614033208/https://apps.apple.com/us/app/kingdom-hearts-union-%CF%87-cross/id1086859120
+  - The same id carries the store names Unchained χ (captures from 2016-04-11), Union χ[Cross] and, from 2020-06-26, Uχ Dark Road (see sources/kingdom-hearts-dark-road-2020.md)
+  - The US Square Enix developer page lists it under the Union χ[Cross] name on the captures of 2019-10-20 and 2020-04-01
+  - iTunes lookup of 2026-11-08 (https://itunes.apple.com/lookup?id=1086859120&country=us): resultCount 0
+- https://itunes.apple.com/us/app/kingdom-hearts-unchained-ch/id993988918?l=ja&ls=1&mt=8 -- the earlier app id (Japanese-language store page), captures 2015-11-24 to 2017-09-04 -- link recorded only -- archived: https://web.archive.org/web/20170904133729/https://itunes.apple.com/us/app/kingdom-hearts-unchained-ch/id993988918?l=ja&ls=1&mt=8 (capture not read; the fetch returned 429)
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.
