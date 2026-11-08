@@ -896,6 +896,10 @@
 
 - https://www.nintendo.co.jp/wii/index.html -- Nintendo Japan Wii hub page (saved page read by me, in Japanese; 31 software items released 2009-12-03 to 2012-07-26, first and third party, each with a release date and price; links the year lists https://www.nintendo.co.jp/wii/softlist/n2009.html, https://www.nintendo.co.jp/wii/softlist/n2008.html and https://www.nintendo.co.jp/wii/softlist/n2007_2006.html and the WiiWare index page) and its three year lists 任天堂のソフト (Nintendo's own software; saved pages read by me: 2009 releases 13 items, 2008 releases 15 items, 2007 and 2006 releases 17 items, each with title, genre, release date and price); no catalog of third-party games beyond the 31 hub items -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title on any of the four pages; archived: TODO
 
+## nintendo.com (Platform; Nintendo Japan Wii U software list, saved pages of 2026-11-08)
+
+- https://www.nintendo.com/jp/software/wiiu/index_all.html -- Nintendo Japan Wii U software, all-results page (saved pages read by me, in Japanese; three filters: all, 10 pages, 227 titles of Wii U package and download software; Wii U disc, 2 pages, 33 titles; Virtual Console, 20 pages, 479 titles; the 67 titles of the unfiltered index's 3 pages are all among the 227; each row has title, maker, release date and platform) -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title on any of the filters; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
