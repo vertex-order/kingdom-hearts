@@ -888,6 +888,14 @@
 
 - https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/top-paid/games/mobile -- Microsoft Store top charts, Top paid games for mobile (Windows Phone); 72 tiles on the saved page -- capture of 2016-07-08, no Kingdom Hearts title, visited and audited; archived: the capture itself
 
+## nintendo.co.jp (Platform; Nintendo Japan WiiWare, index page and detail-page structure)
+
+- https://www.nintendo.co.jp/wii/wiiware/index.html -- Nintendo Japan WiiWare index page (saved page read by me; a carousel of 18 featured games, 5 ArtStyle sub-pages and a link to the 2017-09-29 support notice, no title list and no catalog link, only a pointer to the Wii Shopping Channel); the page's catalog is its per-game detail pages /wii/wiiware/<code>/, listed by the Wayback index https://web.archive.org/cdx/search/cdx?url=nintendo.co.jp/wii/wiiware/*&output=txt&fl=timestamp,statuscode,original&filter=statuscode:200&collapse=urlkey (5,223 URLs, 203 distinct detail pages, captures 2008 to 2019); the earliest status-200 capture of each of the 203 read by me (Shift_JIS) -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title; archived: the captures
+
+## nintendo.co.jp (Platform; Nintendo Japan Wii hub and Nintendo software lists by year)
+
+- https://www.nintendo.co.jp/wii/index.html -- Nintendo Japan Wii hub page (saved page read by me, in Japanese; 31 software items released 2009-12-03 to 2012-07-26, first and third party, each with a release date and price; links the year lists https://www.nintendo.co.jp/wii/softlist/n2009.html, https://www.nintendo.co.jp/wii/softlist/n2008.html and https://www.nintendo.co.jp/wii/softlist/n2007_2006.html and the WiiWare index page) and its three year lists 任天堂のソフト (Nintendo's own software; saved pages read by me: 2009 releases 13 items, 2008 releases 15 items, 2007 and 2006 releases 17 items, each with title, genre, release date and price); no catalog of third-party games beyond the 31 hub items -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title on any of the four pages; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
