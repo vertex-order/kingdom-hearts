@@ -959,6 +959,15 @@
   - lineup.json: http://www.jp.playstation.com/psn/psm/title/lineup.json -- capture of 2015-08-26; archived: https://web.archive.org/web/20150826090748/http://www.jp.playstation.com/psn/psm/title/lineup.json
   - Captures of 2019 to 2022 show the PlayStation Mobile content-delivery end notice (http://www.jp.playstation.com/info/support/sp_20150311_psm_info.html), not the service page
 
+## play.google.com (Platform; Google Play search results, saved pages of 2026-11-08)
+
+- https://play.google.com/store/search?c=apps&q=<TERM> -- Google Play search results, English store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
+  - Terms: kingdom hearts, Square Enix
+  - No Kingdom Hearts game app found; the only Kingdom Hearts title is a wallpaper app by a third party
+- https://play.google.com/store/search?c=apps&hl=ja&gl=JP&q=<TERM> -- Google Play search results, Japanese store, saved as pages and read by me, visited and audited -- accessed 2026-11-08
+  - Terms: キングダムハーツ, キングダム ハーツ, ングダムハーツ (as saved, first character missing), キングダム ハーツ アンチェインド キー, KINGDOM HEARTS
+  - No Kingdom Hearts game app found; the only Kingdom Hearts titles are a wallpaper app by a third party and, from the Square Enix results, Dissidia Duellum Final Fantasy
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
