@@ -147,4 +147,9 @@ publisher-stated date).
   - KINGDOM HEARTS IV; slider item listed 2023-12-10 to 2025-12-14, not on the capture of 2026-08-27; no platform, date or note
     - https://www.jp.square-enix.com/kingdom/kh4/ -- slider item link, listed 2023-12-10 to 2025-12-14 -- link recorded only -- archived: https://web.archive.org/web/20231210143033/https://www.jp.square-enix.com/kingdom/kh4/ (last listing: https://web.archive.org/web/20251214115551/https://www.jp.square-enix.com/kingdom/kh4/)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS IV; id 70010000126810; maker スクウェア・エニックス; type download (BEE_DOWNLOADABLE); release 2027; status unreleased; listed on saved page 6 of 6; the entry has no link to an item page
+
 ## Decisions

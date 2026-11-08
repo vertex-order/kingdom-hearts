@@ -268,6 +268,12 @@
   - Layouts: 2012-08-28 to 2017-09-20 a menu of title buttons, each with a 公式サイト button, and two title lists (発売日順, ストーリー順); from 2018-10-03 a slider and a LINE UP of works grouped by package (キングダム ハーツ III, HD 2.8 ファイナル チャプター プロローグ, HD 1.5+2.5 リミックス, and later Melody of Memory), with no per-title menu; no capture shows a platform, release date or rating
   - キングダム ハーツIII Re Mind; LINE UP block with the text 「クライマックスに起きていた、もう一つの物語を知ることができる有料DLC「Re Mind」。…」; listed 2023-12-10 to 2026-08-27; no link of its own on the page, no platform, date or rating
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS III + Re Mind (DLC); id 70010000117240; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

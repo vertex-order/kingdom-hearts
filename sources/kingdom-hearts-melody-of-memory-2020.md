@@ -266,4 +266,9 @@
     - http://www.jp.square-enix.com/kingdom/kh_mom/ -- slider item (http) link, listed 2020-10-24 to 2022-11-09 -- link recorded only -- archived: https://web.archive.org/web/20201024052317/http://www.jp.square-enix.com/kingdom/kh_mom/ (last listing: https://web.archive.org/web/20221109084009/http://www.jp.square-enix.com/kingdom/kh_mom/)
     - https://www.jp.square-enix.com/kingdom/kh_mom/ -- slider item and 公式サイトへ (https) link, listed 2023-12-10 to 2026-08-27 (the slider item to 2025-12-14) -- link recorded only -- archived: https://web.archive.org/web/20231210143033/https://www.jp.square-enix.com/kingdom/kh_mom/ (last listing: https://web.archive.org/web/20260827101001/https://www.jp.square-enix.com/kingdom/kh_mom/)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS Melody of Memory; id 70010000020379; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2020.11.11; status on sale; listed on saved page 62 of 75; the entry has no link to an item page
+
 ## Decisions

@@ -548,4 +548,15 @@
     - the block's 公式サイトへ button: text 「初代『キングダム ハーツ』を含む6作品がPS4®で楽しめる」 from 2018-10-03 to 2022-11-09, 「…6作品が楽しめる」 from 2023-12-10
     - http://www.square-enix.co.jp/kingdom/khhd1_2/ -- 公式サイトへ (HD 1.5+2.5) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd1_2/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd1_2/)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS -HD 1.5+2.5 ReMIX-; id 70010000094261; maker スクウェア・エニックス; type download (HAC_DL); release 2026.10.8; status on sale; listed on saved page 5 of 75; the entry has no link to an item page
+
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS -HD 1.5+2.5 ReMIX-; id 70010000117243; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions

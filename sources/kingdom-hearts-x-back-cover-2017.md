@@ -391,4 +391,10 @@
     - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- 公式サイトへ (HD 2.8) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd_fcp/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd_fcp/)
     - the same address is also linked as 「KH2.8著作物利用許諾条件」 (terms) on the capture of 2017-09-20 only
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS HD 2.8 Final Chapter Prologue; id 70010000117237; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions

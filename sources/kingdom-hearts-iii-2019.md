@@ -456,4 +456,10 @@
     - https://www.jp.square-enix.com/kingdom/kh3/conditions.html -- 動画・生放送配信ガイドライン (video guideline) link, listed 2019-10-16 to 2021-11-06 -- link recorded only -- archived: https://web.archive.org/web/20191016230841/https://www.jp.square-enix.com/kingdom/kh3/conditions.html (last listing: https://web.archive.org/web/20211106005736/https://www.jp.square-enix.com/kingdom/kh3/conditions.html)
     - https://www.jp.square-enix.com/game/guideline/kingdom/ -- 生配信及び動画・画像投稿に関するガイドライン (streaming and video guideline, all Square Enix games) link, listed 2023-12-10 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20231210143033/https://www.jp.square-enix.com/game/guideline/kingdom/ (last listing: https://web.archive.org/web/20260827101001/https://www.jp.square-enix.com/game/guideline/kingdom/)
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS III + Re Mind (DLC); id 70010000117240; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+  - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
+
 ## Decisions

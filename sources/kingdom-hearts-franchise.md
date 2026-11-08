@@ -912,6 +912,14 @@
 
 - https://www.nintendo.co.jp/wii/vc/data/data.tsv -- Nintendo Japan Wii Virtual Console catalog data file (found by following the Wii hub https://www.nintendo.co.jp/wii/index.html to the feature page https://www.nintendo.co.jp/wii/features/virtual_console.html, which lists no games on the live page and redirects from /wii/vc/; the file is the Wayback capture of 2013-04-15 of the page's data, 650 titles for Famicom, Super Famicom, Mega Drive, PC Engine, arcade and other hardware, each with id, title, maker, hardware, Wii Points, original release year and delivery start date; the maker names come from maker.tsv of the same date; the live file now returns 404) and the Wii software list pages of makers other than Nintendo https://www.nintendo.co.jp/wii/softlist/2007_2006.html, 2008.html, 2009.html and 2010.html (Wayback captures of 2009-04-05, 2009-04-05, 2009-10-16 and 2010-12-03; 105, 107, 39 and 24 entries; each with date, title, maker and genre; the live pages are gone, and the earlier combined lists 0612-0709, 0612-0711, 0612-0712, 0806 and 0810 were not read) -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title; archived: TODO
 
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch software list, saved search data of 2026-11-08)
+
+- https://www.nintendo.com/jp/software/switch/index.html -- Nintendo Japan Nintendo Switch software list (the page is filled by script, so the list data was read from the page's own search results: 75 saved pages of up to 400, 29,886 entries including add-on content, bundles and editions; each entry has title, maker, type, release date, status and id) -- visited and audited -- accessed 2026-11-08; Kingdom Hearts HD 1.5+2.5 ReMIX and Melody of Memory recorded; no Kingdom Hearts III, HD 2.8 or other cloud-version entry; archived: TODO
+
+## nintendo.com (Platform; Nintendo Japan Nintendo Switch 2 software list, saved search data of 2026-11-08)
+
+- https://www.nintendo.com/jp/games/switch2/index.html -- Nintendo Japan Nintendo Switch 2 software list (list data read from the page's own search results: 6 saved pages of up to 400, 2,154 entries including add-on content, bundles and editions; each entry has title, maker, type, release date, status and id) -- visited and audited -- accessed 2026-11-08; Kingdom Hearts HD 1.5+2.5 ReMIX, HD 2.8 Final Chapter Prologue, III + Re Mind, Collection [I~III] and IV (unreleased, 2027) recorded; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
