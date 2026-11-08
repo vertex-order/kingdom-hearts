@@ -481,4 +481,9 @@
     - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- 公式サイトへ (HD 2.8) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd_fcp/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd_fcp/)
     - the same address is also linked as 「KH2.8著作物利用許諾条件」 (terms) on the capture of 2017-09-20 only
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- Page URL: https://www.nintendo.co.jp/software/3ds/index_all.html (the all-results page, without Virtual Console titles; the list data read from the page's own search results, page 59 of 66) -- dates, platforms -- accessed 2026-11-08; archived: TODO
+  - KINGDOM HEARTS 3D [Dream Drop Distance]; maker スクウェア・エニックス; release 2012.3.29; type パッケージ版; the entry has no link to an item page
+
 ## Decisions

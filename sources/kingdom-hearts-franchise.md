@@ -900,6 +900,10 @@
 
 - https://www.nintendo.com/jp/software/wiiu/index_all.html -- Nintendo Japan Wii U software, all-results page (saved pages read by me, in Japanese; three filters: all, 10 pages, 227 titles of Wii U package and download software; Wii U disc, 2 pages, 33 titles; Virtual Console, 20 pages, 479 titles; the 67 titles of the unfiltered index's 3 pages are all among the 227; each row has title, maker, release date and platform) -- visited and audited -- accessed 2026-11-08; no Kingdom Hearts title on any of the filters; archived: TODO
 
+## nintendo.co.jp (Platform; Nintendo Japan Nintendo 3DS software list, saved data of 2026-11-08)
+
+- https://www.nintendo.co.jp/software/3ds/index_all.html -- Nintendo Japan Nintendo 3DS software, all-results page (the page is filled by script, so the list data was read from the page's own search results: 66 pages of 24, 1,575 titles without Virtual Console titles, and the Virtual Console filter, 12 pages, 280 titles; each entry has title, maker, release date and type) -- visited and audited -- accessed 2026-11-08; Kingdom Hearts 3D [Dream Drop Distance] recorded; no other Kingdom Hearts title; archived: TODO
+
 ## Decisions
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
