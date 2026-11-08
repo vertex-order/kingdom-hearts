@@ -884,6 +884,12 @@
 
 - https://web.archive.org/web/20240623164151/https://marketplace.xbox.com/en-gb/Games/GamesOnDemand?SortBy=ReleaseDate&PageSize=90 -- Xbox 360 Marketplace browse list "Games on Demand", English (UK) storefront; 6 pages of 90 tiles (488 tiles), sorted by release date; captured 2024-05-18 to 2024-06-23 (https://marketplace.xbox.com/en-GB/Games/GamesOnDemand?sortby=ReleaseDate&PageSize=90&Page=N) -- 6 pages saved and read, no Kingdom Hearts title, visited and audited; archived: the capture itself
 
+## marketplace.xbox.com (Platform; Xbox 360 Marketplace, en-US Xbox Live Indie Games list, captures of 2015-11-01 to 2018-02-03)
+
+- http://marketplace.xbox.com/Games/XboxIndieGames -- Wayback has no 200 capture of this URL: every capture is a 302 (to a locale path) or a 301 -- index checked 2026-11-08
+- https://web.archive.org/web/20170929151725/https://marketplace.xbox.com/en-US/Games/XboxIndieGames -- Xbox 360 Marketplace browse list "Indie Games", English (US) storefront; last capture of the full list (5 pages of 30 tiles; also read sorted by release date, captures of 2017-06-17, and pages 6 to 8 of the 2015 list, captures of 2015-11-01 to 2015-11-19; 328 distinct titles) -- no Kingdom Hearts title, visited and audited; archived: the capture itself
+- https://web.archive.org/web/20180203080032/http://marketplace.xbox.com/en-US/Games/XboxIndieGames -- last capture headed "Indie Games" (3 tiles); captures from 2018-02-17 on are headed "All Games" -- capture of 2018-02-03, no Kingdom Hearts title, visited and audited; archived: the capture itself
+
 ## microsoft.com (Platform; Microsoft Store, Top paid games list for mobile, capture of 2016-07-08)
 
 - https://web.archive.org/web/20160708133324/https://www.microsoft.com/en-us/store/top-paid/games/mobile -- Microsoft Store top charts, Top paid games for mobile (Windows Phone); 72 tiles on the saved page -- capture of 2016-07-08, no Kingdom Hearts title, visited and audited; archived: the capture itself
