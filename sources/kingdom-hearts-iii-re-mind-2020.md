@@ -17,6 +17,7 @@
 ## khwiki.com (Information)
 
 - https://www.khwiki.com/Kingdom_Hearts_III_Re_Mind -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_Integrum_Masterpiece -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
 
 ## metacritic.com (Ratings)
 

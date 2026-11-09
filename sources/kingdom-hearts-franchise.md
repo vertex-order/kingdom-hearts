@@ -10,6 +10,17 @@
 
 - https://www.khwiki.com/ -- games, platforms, dates, story -- accessed 2026-09-26
 - https://www.khwiki.com/Kingdom_Hearts_(novels) -- novels*, dates* -- accessed 2026-09-28
+- https://www.khwiki.com/Kingdom_Hearts_(series)#Games -- the Kingdom Hearts Wiki's (khwiki.com, not Fandom) series page, Games section, visited and audited -- accessed 2026-11-08 (page read; article links taken, the articles not read); archived: TODO
+  - Four subsections: main games (Kingdom Hearts through Kingdom Hearts IV, with the Final Mix and Re: editions), collections (HD 1.5 ReMIX, HD 2.5 ReMIX, HD 2.8 Final Chapter Prologue, HD 1.5 + 2.5 ReMIX, The Story So Far, All-In-One Package, Integrum Masterpiece), mobile and other titles (V CAST, Customize, Mobile, Magical Puzzle Clash, Digital Painter, Re:coded Gummiship Studio, Collaboration: Gummi Ship Campaign, VR Experience), cancelled (Online, Missing-Link)
+  - Kingdom Hearts Customize: a phone decoration service for Japanese cell phones (themes, wallpapers, ringtones, a World Map with trivia and mini-games), not a game
+  - Kingdom Hearts Online: a proposed mobile game, work from about 2011, cancelled in 2014 before announcement; made for Disney Interactive by Studio EX, Square Enix not involved
+  - Kingdom Hearts Missing-Link: cancelled in 2025; was set between Union χ and Dark Road
+  - Each article's URL is in its game's own sources file, as listed on the page and not read
+- https://www.khwiki.com/Category:Games -- the Kingdom Hearts Wiki's Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://www.khwiki.com/api.php; 42 categories read)
+  - 31 subcategories and 41 pages directly under it; most subcategories hold one game's assets or reference pages (characters, enemies, items, Keyblades, abilities, images, music, missions); only game pages were taken from them
+  - Pages beyond the series page's Games list: Kingdom Hearts II Final Mix+ (https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix%2B); two further compilations under Category:Compilations, Kingdom Hearts 10th Anniversary Box and Kingdom Hearts: Trinity Master Pieces; story-arc articles Dark Seeker Saga, Lost Master Arc and Χ series
+  - Strategy guides and companion books are filed under the games' categories (Kingdom Hearts Official Strategy Guide, Kingdom Hearts - The Official Strategy Guide, Ultra Hint Book, Character Files, Kingdom Hearts II - The Complete Guide, Chain of Memories Official Strategy Guide, 358/2 Days and Birth by Sleep Signature Series Strategy Guides, 3D: Dream Drop Distance Signature Series Guide, HD 1.5 ReMIX: Prima Official Game Guide); guides are not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Category:Cancelled games lists Kingdom Hearts Missing-Link and Kingdom Hearts Online
 
 ## wikipedia.org (Information)
 
@@ -989,6 +1000,9 @@ Also recorded in the group file named in the item (sources/other-group.md):
 
 - **Not to be listed: Super Smash Bros. Ultimate (user, 2026-11-08):** a Nintendo crossover fighting game (Nintendo Switch, 2018) with Sora as a downloadable fighter; not a Kingdom Hearts game and out of scope
   - Evidence: https://wikipedia.org/wiki/Sora_(Kingdom_Hearts) (revision 1382899067; Sora added to Super Smash Bros. Ultimate as a downloadable fighter), https://finalfantasywiki.com/wiki/Super_Smash_Bros._Ultimate (Category:Crossover games; accessed 2026-11-08)
+
+- **Not to be listed: Kingdom Hearts Customize (user, 2026-11-08):** a phone decoration service exclusive to Japanese cell phones, also named Kingdom Hearts Kisekae on digital storefronts; it offered phone themes (kisekae), wallpapers, ringtones and email decoration items, and a World Map with trivia and item-search mini-games; shut down. A cosmetics service, not a game or story content
+  - Evidence: https://www.khwiki.com/Kingdom_Hearts_Customize (intro read through the wiki's API, accessed 2026-11-08; listed in Category:Games and on the Kingdom Hearts (series) page, Games section)
 
 Franchise file only (no single group):
 

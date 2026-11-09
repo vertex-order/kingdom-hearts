@@ -26,6 +26,12 @@
 
 - https://www.khwiki.com/Kingdom_Hearts_II -- accessed 2026-09-26
 - https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix -- accessed 2026-09-29
+- https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix%2B -- listed in Category:Games -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_HD_2.5_ReMIX -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_The_Story_So_Far -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_All-In-One_Package -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_Integrum_Masterpiece -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
 
 ## metacritic.com (Ratings)
 

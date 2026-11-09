@@ -18,6 +18,9 @@
 ## khwiki.com (Information)
 
 - https://www.khwiki.com/Kingdom_Hearts_III -- accessed 2026-09-26
+- https://www.khwiki.com/Kingdom_Hearts_The_Story_So_Far -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_All-In-One_Package -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
+- https://www.khwiki.com/Kingdom_Hearts_Integrum_Masterpiece -- listed in the Kingdom Hearts (series) page, Games section, Collections -- page not read -- accessed 2026-11-08
 
 ## metacritic.com (Ratings)
 
