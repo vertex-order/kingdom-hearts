@@ -510,6 +510,11 @@
 - https://en.wikipedia.org/wiki/Category:Nintendo_3DS_eShop_games -- English Wikipedia's category of Nintendo 3DS eShop games (406 pages and 3 subcategories: DSiWare games, Nintendo Network games, Virtual Console games for Nintendo 3DS; titles only) (category page revision 1375643971 of 2026-09-19; members read through the MediaWiki API; no Kingdom Hearts title) -- live page of 2026-11-04, visited and audited; archived: TODO
 - https://en.wikipedia.org/wiki/Category:Virtual_Console_games_for_Nintendo_3DS -- English Wikipedia's category of Virtual Console games for Nintendo 3DS (273 pages; titles only) (category page revision 1267341273 of 2025-01-04; members read through the MediaWiki API; no Kingdom Hearts title) -- live page of 2026-11-04, visited and audited; archived: TODO
 
+## finalfantasy.fandom.com (Information; Final Fantasy Wiki, book list)
+
+- https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book -- the Final Fantasy Wiki's Square Enix Magazine & Book page (revision 3910542 of 2025-03-25), visited and audited; no Kingdom Hearts title on it -- accessed 2026-11-08 (wikitext read through the Fandom API; breezewiki showed a bot check); archived: TODO
+  - An index of Japanese books published by Square Enix, in tables of title, release date and ISBN; every table row is a Final Fantasy, Bravely, Mana or SaGa book
+
 ## Square Enix (Publisher)
 
 - https://www.jp.square-enix.com/kingdom/ -- official franchise portal, Square Enix (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
@@ -972,7 +977,12 @@
 
 ## Decisions
 
+Also recorded in the group file named in the item (sources/other-group.md):
+
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
+
+Franchise file only (no single group):
+
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.
 
 ## Surveyed
