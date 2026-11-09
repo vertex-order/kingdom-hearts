@@ -515,6 +515,12 @@
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book -- the Final Fantasy Wiki's Square Enix Magazine & Book page (revision 3910542 of 2025-03-25), visited and audited; no Kingdom Hearts title on it -- accessed 2026-11-08 (wikitext read through the Fandom API; breezewiki showed a bot check); archived: TODO
   - An index of Japanese books published by Square Enix, in tables of title, release date and ISBN; every table row is a Final Fantasy, Bravely, Mana or SaGa book
 
+## finalfantasywiki.com (Information; Final Fantasy Wiki, Category:Games tree)
+
+- https://finalfantasywiki.com/wiki/Category:Games -- the Final Fantasy Wiki's (finalfantasywiki.com, not Fandom) Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://finalfantasywiki.com/w/api.php); archived: TODO
+  - Kingdom Hearts pages found: Kingdom Hearts II (https://finalfantasywiki.com/wiki/Kingdom_Hearts_II, under Category:Games and Category:PlayStation 2 games) and Kingdom Hearts (https://finalfantasywiki.com/wiki/Kingdom_Hearts, under Category:Kingdom Hearts (franchise), the franchise article); Category:Kingdom Hearts and Category:Kingdom Hearts (series) hold no pages
+  - No other Kingdom Hearts game page in the tree
+
 ## Square Enix (Publisher)
 
 - https://www.jp.square-enix.com/kingdom/ -- official franchise portal, Square Enix (JP); profile -- accessed 2026-10-13 (from search results pasted by user) -- archived: TODO
@@ -980,6 +986,9 @@
 Also recorded in the group file named in the item (sources/other-group.md):
 
 - **Cancelled games are out of scope.** Kingdom Hearts Missing-Link (キングダム ハーツ ミッシングリンク) is rejected: Square Enix Japan's Android list shows it on the captures of 2023-03-16 (release 未定), 2024-04-15 and 2025-07-30 (genre GPSアクションRPG; official site https://www.jp.square-enix.com/kingdom/ml/) and not on the live page of 2026-10-27, and it never released.
+
+- **Not to be listed: Super Smash Bros. Ultimate (user, 2026-11-08):** a Nintendo crossover fighting game (Nintendo Switch, 2018) with Sora as a downloadable fighter; not a Kingdom Hearts game and out of scope
+  - Evidence: https://wikipedia.org/wiki/Sora_(Kingdom_Hearts) (revision 1382899067; Sora added to Super Smash Bros. Ultimate as a downloadable fighter), https://finalfantasywiki.com/wiki/Super_Smash_Bros._Ultimate (Category:Crossover games; accessed 2026-11-08)
 
 Franchise file only (no single group):
 
