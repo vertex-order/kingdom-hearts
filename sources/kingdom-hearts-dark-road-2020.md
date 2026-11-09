@@ -104,4 +104,17 @@ Page URL by capture: 2020-06-26 to 2024-08-25 https://apps.apple.com/us/app/king
   - The US Square Enix developer page lists it on the captures of 2021-01-03 to 2024-08-21, not on 2025-01-12
   - iTunes lookup of 2026-11-08 (https://itunes.apple.com/lookup?id=1086859120&country=us): resultCount 0
 
+## en.wikipedia.org (Information; Kingdom Hearts Dark Road article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Dark_Road#External_links -- 1 links -- accessed 2026-11-09 (revision 1381683717 of 2026-10-24; wikitext read through the MediaWiki API)
+  - https://www.kingdomhearts.com/union-x-dark-road/en-us -- Official website - Official Union χ Dark Road website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Dark Road page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Dark_Road#External_links -- 4 links -- accessed 2026-11-09 (revision 923725 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://twitter.com/kh_dr_na -- Official NA Twitter Account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://twitter.com/KHDR_PR -- Official JP Twitter Account -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.kingdomhearts.com/xehanort/us/home/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/kingdom/xehanort/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

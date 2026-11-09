@@ -20,4 +20,9 @@
   - Capture: live (2026-11-03) pages: search results for "kingdom hearts digital painter" (first 50 of 3792, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Kingdom Hearts Digital Painter -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts digital painter" (https://www.igdb.com/search?q=kingdom+hearts+digital+painter&type=1)
 
+## khwiki.com (Information; Kingdom Hearts Digital Painter page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Digital_Painter#External_links -- 1 links -- accessed 2026-11-09 (revision 890245 of 2024-04-06; wikitext read through the MediaWiki API)
+  - http://disney.go.com/create/apps/digitalpainter/kingdom-hearts -- Game site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -509,4 +509,29 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts 358/2 Days article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#External_links -- 2 links -- accessed 2026-11-09 (revision 1384026616 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts_358/2_Days -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/days/ -- Kingdom Hearts 358/2 Days Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 358/2 Days article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_358/2_Days#外部リンク -- 1 links -- accessed 2026-11-09 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/days/ -- KINGDOM HEARTS 358/2 Days -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts 358/2 Days page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_358%2F2_Days#External_links -- 2 links -- accessed 2026-11-09 (revision 921628 of 2026-09-14; wikitext read through the MediaWiki API)
+  - https://www.nintendo.co.jp/ds/software/ykgj/index.html -- Official JP website (Nintendo of Japan) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.uk/Games/Nintendo-DS/KINGDOM-HEARTS-358-2-Days-271232.html -- Official UK website (Nintendo UK) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## kingdomhearts.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_358/2_Days#External_links -- 3 links -- accessed 2026-11-09 (revision 807275 of 2026-10-28; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#External_links
+  - http://na.square-enix.com/khdays/ -- Official NA website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/days/ -- Official JP website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.kingdomheartsdays.com -- Official EU website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

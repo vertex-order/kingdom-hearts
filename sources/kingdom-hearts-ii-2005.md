@@ -602,4 +602,24 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts II article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_II#External_links -- 5 links -- accessed 2026-11-09 (revision 1384693799 of 2026-11-09; wikitext read through the MediaWiki API)
+  - https://commons.wikimedia.org/wiki/Category:Kingdom_Hearts_II -- Wikimedia Commons sister-project link (template commons category) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts_II -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20060703031754/http://www.square-enix.co.jp/kingdom2/ -- Kingdom Hearts II official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom2fm/ -- Kingdom Hearts II Final Mix+ official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20070323000613/http://na.square-enix.com/games/kingdomhearts/kh2/ -- Kingdom Hearts II official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツII article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツII#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom2/ -- KINGDOM HEARTS II -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom2fm/ -- KINGDOM HEARTS II FINAL MIX+ -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts II Final Mix page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix#External_links -- 1 links -- accessed 2026-11-09 (revision 918013 of 2026-08-02; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom2fm/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

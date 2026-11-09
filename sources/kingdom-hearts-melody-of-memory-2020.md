@@ -275,4 +275,23 @@
 
 - https://strategywiki.org/wiki/Kingdom_Hearts:_Melody_of_Memory -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts: Melody of Memory article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts:_Melody_of_Memory#External_links -- 2 links -- accessed 2026-11-09 (revision 1384028571 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts:_Melody_of_Memory -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.kingdomhearts.com/melody-of-memory/en-us/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ メロディ オブ メモリー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_メロディ_オブ_メモリー#外部リンク -- 1 links -- accessed 2026-11-09 (revision 107862250 of 2026-01-03; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/kingdom/kh_mom/ -- KINGDOM HEARTS Melody of Memory | SQUARE ENIX -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Melody of Memory page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Melody_of_Memory#External_links -- 4 links -- accessed 2026-11-09 (revision 923150 of 2026-10-10; wikitext read through the MediaWiki API)
+  - https://www.kingdomhearts.com/melody-of-memory/en-us/ -- Official English Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/kingdom/kh_mom/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.com/games/detail/kingdom-hearts-melody-of-memory-switch/ -- Nintendo Switch Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.microsoft.com/en-us/p/kingdom-hearts-melody-of-memory/9n3sdl8mwh6k?activetab=pivot:overviewtab -- Microsoft Page -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -506,4 +506,23 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_II.8_Final_Chapter_Prologue -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts 3D: Dream Drop Distance article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance#External_links -- 2 links -- accessed 2026-11-09 (revision 1384027035 of 2026-11-06; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/3d/ -- Kingdom Hearts 3D: Dream Drop Distance Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.kingdomhearts3dgame.com/ -- Kingdom Hearts 3D: Dream Drop Distance International official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_3D_［ドリーム_ドロップ_ディスタンス］#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111275589 of 2026-10-05; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/3d/ -- KINGDOM HEARTS 3D ［Dream Drop Distance］ -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/3ds/interview/creators/vol15/index.html -- 『KINGDOM HEARTS 3D [Dream Drop Distance -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts 3D: Dream Drop Distance page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_3D:_Dream_Drop_Distance#External_links -- 3 links -- accessed 2026-11-09 (revision 921891 of 2026-09-18; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/3d/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.kingdomhearts3dgame.com/ -- Official EUR Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://na.square-enix.com/kh3d/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

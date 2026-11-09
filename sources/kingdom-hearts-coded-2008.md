@@ -525,4 +525,23 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts Coded article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded#External_links -- 2 links -- accessed 2026-11-09 (revision 1384332626 of 2026-11-07; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/khcoded/index.html -- Kingdom Hearts Coded Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/recoded/ -- Kingdom Hearts Re:coded Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ コーデッド article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_コーデッド#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111380327 of 2026-10-14; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20100206172314/http://www.square-enix.co.jp/kingdom/coded/ -- Wayback capture of 20100206172314 (キングダム ハーツ coded) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://web.square-enix.co.jp/kingdom/recoded/ -- キングダム ハーツ Re:コーデッド -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Re:coded page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Re:coded#External_links -- 3 links -- accessed 2026-11-09 (revision 921629 of 2026-09-14; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/recoded/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.jp/ds/software/bk9j/index.html -- Official Japanese website (Nintendo of Japan) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.nintendo.co.uk/Games/Nintendo-DS/KINGDOM-HEARTS-Re-coded-271243.html -- Official European website (Nintendo of UK) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

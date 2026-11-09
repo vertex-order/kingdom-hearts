@@ -65,4 +65,9 @@
   - Row: Joshua Bell VR Experience; Music; Sony Interactive Entertainment; Sony Interactive Entertainment; 2017-Feb-14; 2017-Feb-14; 2017-Feb-14
   - Row: Kingdom Hearts VR Experience; RPG; Square Enix; Square Enix; 2019-Jan-23; 2019-Feb-28; Unreleased; M
 
+## khwiki.com (Information; Kingdom Hearts VR Experience page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_VR_Experience#External_links -- 1 links -- accessed 2026-11-09 (revision 923614 of 2026-11-01; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/kingdom/VR/ -- Official JP website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

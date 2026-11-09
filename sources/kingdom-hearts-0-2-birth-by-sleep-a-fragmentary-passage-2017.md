@@ -412,4 +412,15 @@
 
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_II.8_Final_Chapter_Prologue -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts HD 2.8 Final Chapter Prologue article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_HD_2.8_Final_Chapter_Prologue#External_links -- 2 links -- accessed 2026-11-09 (revision 1384026929 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://www.mobygames.com/game/kingdom-hearts-hd-ii8-final-chapter-prologue -- MobyGames entry (template moby game id /kingdom-hearts-hd-ii8-final-chapter-prologue) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.kingdomhearts.com/2_8/us/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage- page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_0.2_Birth_by_Sleep_-A_fragmentary_passage-#External_links -- 1 links -- accessed 2026-11-09 (revision 906478 of 2025-07-19; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

@@ -73,4 +73,21 @@
 
 - https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_Mobile -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts Mobile article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Mobile#External_links -- 2 links -- accessed 2026-11-09 (revision 1383236600 of 2026-11-01; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/kh/ -- Kingdom Hearts Mobile site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://blog.jp.square-enix.com/kingdom/ -- Official Kingdom Hearts blog -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Mobile page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Mobile#External_links -- 1 links -- accessed 2026-11-09 (revision 904746 of 2025-04-21; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/mobile/kh/ -- Official Kingdom Hearts Mobile website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## kingdomhearts.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_Mobile#External_links -- 1 links -- accessed 2026-11-09 (revision 798886 of 2021-10-11; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_Mobile#External_links
+  - http://www.square-enix.co.jp/mobile/kh/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

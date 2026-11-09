@@ -45,4 +45,15 @@
 
 - https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_Gummiship_Studio -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
 
+## khwiki.com (Information; Kingdom Hearts Re:coded Gummiship Studio page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Re:coded_Gummiship_Studio#External_links -- 1 links -- accessed 2026-11-09 (revision 901000 of 2024-12-12; wikitext read through the MediaWiki API)
+  - http://apps.facebook.com/khgummi/?ref=mf -- Game site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## kingdomhearts.fandom.com (Information; External links section of the Fandom wiki page, live page of 2026-11-09)
+
+- https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_Re:coded_Gummiship_Studio#External_links -- 1 links -- accessed 2026-11-09 (revision 801010 of 2022-05-04; wikitext read through the Fandom API)
+Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_Re:coded_Gummiship_Studio#External_links
+  - http://apps.facebook.com/khgummi/?ref=mf -- Game Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

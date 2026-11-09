@@ -109,6 +109,12 @@ Page URL by capture: 2016-04-11 to 2018-11-16 https://itunes.apple.com/us/app/ki
   - iTunes lookup of 2026-11-08 (https://itunes.apple.com/lookup?id=1086859120&country=us): resultCount 0
 - https://itunes.apple.com/us/app/kingdom-hearts-unchained-ch/id993988918?l=ja&ls=1&mt=8 -- the earlier app id (Japanese-language store page), captures 2015-11-24 to 2017-09-04 -- link recorded only -- archived: https://web.archive.org/web/20170904133729/https://itunes.apple.com/us/app/kingdom-hearts-unchained-ch/id993988918?l=ja&ls=1&mt=8 (capture not read; the fetch returned 429)
 
+## khwiki.com (Information; Kingdom Hearts Union χ page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Union_%CF%87#External_links -- 2 links -- accessed 2026-11-09 (revision 923279 of 2026-10-17; wikitext read through the MediaWiki API)
+  - http://www.kingdomhearts.com/unionx/us/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/uc/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

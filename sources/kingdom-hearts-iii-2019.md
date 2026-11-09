@@ -473,4 +473,25 @@
 
 - https://strategywiki.org/wiki/Kingdom_Hearts_III -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts III article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_III#External_links -- 2 links -- accessed 2026-11-09 (revision 1384332640 of 2026-11-07; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts_III -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.kingdomhearts.com/3/us/home/ -- Official website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツIII article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツIII#外部リンク -- 5 links -- accessed 2026-11-09 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/kingdom/kh3/ -- KINGDOM HEARTS III -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.playstation.com/games/kingdom-hearts-iii-ps4/ -- キングダム ハーツIII -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - (no URL) template not resolved: {{Epic Games Store|kingdom-hearts-iii}} -- accessed 2026-11-09
+  - https://www.youtube.com/playlist?list=PLsHA74V3bmZ5Pss9UF5hpUcaOaT9HtUdh -- YouTube playlist (template YouTube|p=PLsHA74V3bmZ5Pss9UF5hpUcaOaT9HtUdh) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.youtube.com/channel/UCmF-qnV4yu1z52w6V4G15tw -- YouTube channel (template YouTube|c=UCmF-qnV4yu1z52w6V4G15tw) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts III page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_III#External_links -- 2 links -- accessed 2026-11-09 (revision 923836 of 2026-11-08; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/kh3/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.kingdomhearts.com/3/us/ -- Official North American website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

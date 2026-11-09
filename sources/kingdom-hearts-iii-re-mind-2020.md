@@ -275,6 +275,12 @@
   - KINGDOM HEARTS III + Re Mind (DLC); id 70010000117240; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
   - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
 
+## khwiki.com (Information; Kingdom Hearts III Re Mind page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_III_Re_Mind#External_links -- 2 links -- accessed 2026-11-09 (revision 920438 of 2026-08-30; wikitext read through the MediaWiki API)
+  - https://www.kingdomhearts.com/3/us/dlc/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://www.jp.square-enix.com/kingdom/kh3/dlc/index.html -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

@@ -92,6 +92,24 @@
 
 - https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_%CF%87 -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts χ article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_χ#External_links -- 1 links -- accessed 2026-11-09 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API)
+  - https://www.kingdomhearts.com/union-x-dark-road/en-us -- Official website - Official Union χ Dark Road website (template official website) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ キー article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_キー#外部リンク -- 4 links -- accessed 2026-11-09 (revision 111307810 of 2026-10-07; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20150522024241/http://kingdomhearts.jp/lp -- Wayback capture of 20150522024241 (KINGDOM HEARTS χ 公式サイト) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20170303060230/http://www.square-enix.co.jp/kingdom/uc/ -- Wayback capture of 20170303060230 (KINGDOM HEARTS Unchained χ 公式サイト) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://web.archive.org/web/20191024061358/https://www.jp.square-enix.com/kingdom/uc/ -- Wayback capture of 20191024061358 (KINGDOM HEARTS Union χ 公式サイト) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - https://cache.sqex-bridge.jp/guest/information/73264 -- KINGDOM HEARTS Union χ Dark Road -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts χ page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_%CF%87#External_links -- 1 links -- accessed 2026-11-09 (revision 920721 of 2026-09-02; wikitext read through the MediaWiki API)
+  - https://web.archive.org/web/20160714125956/http://kingdomhearts.jp/ -- Official JP Site (cached) -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

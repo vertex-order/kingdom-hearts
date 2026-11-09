@@ -578,4 +578,22 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts: Chain of Memories article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#External_links -- 2 links -- accessed 2026-11-09 (revision 1384026532 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts:_Chain_of_Memories -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/games/gba/khcom/ -- Kingdom Hearts: Chain of Memories Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ チェイン オブ メモリーズ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_チェイン_オブ_メモリーズ#外部リンク -- 2 links -- accessed 2026-11-09 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/games/gba/khcom/ -- KINGDOM HEARTS CHAIN OF MEMORIES -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom2fm/ -- KINGDOM HEARTS II FINAL MIX+ -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Re:Chain of Memories page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Re:Chain_of_Memories#External_links -- 2 links -- accessed 2026-11-09 (revision 922993 of 2026-10-07; wikitext read through the MediaWiki API)
+  - http://na.square-enix.com/khrecom/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom2fm/ -- Official JP site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

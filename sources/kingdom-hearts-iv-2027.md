@@ -152,4 +152,19 @@ publisher-stated date).
 - Page URL: https://www.nintendo.com/jp/games/switch2/index.html (the Nintendo Switch 2 software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - KINGDOM HEARTS IV; id 70010000126810; maker スクウェア・エニックス; type download (BEE_DOWNLOADABLE); release 2027; status unreleased; listed on saved page 6 of 6; the entry has no link to an item page
 
+## en.wikipedia.org (Information; Kingdom Hearts IV article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_IV#External_links -- 1 links -- accessed 2026-11-09 (revision 1383042345 of 2026-10-31; wikitext read through the MediaWiki API)
+  - (no URL) template not resolved: {{Officialwebsite|https://www.jp.square-enix.com/kingdom/kh4/}} -- accessed 2026-11-09
+
+## ja.wikipedia.org (Information; キングダム ハーツIV article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツIV#外部リンク -- 1 links -- accessed 2026-11-09 (revision 110670060 of 2026-08-16; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/kingdom/kh4/ -- KINGDOM HEARTS IV -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts IV page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_IV#External_links -- 1 links -- accessed 2026-11-09 (revision 921108 of 2026-09-09; wikitext read through the MediaWiki API)
+  - https://www.jp.square-enix.com/kingdom/kh4/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions

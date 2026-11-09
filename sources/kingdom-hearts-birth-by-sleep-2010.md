@@ -529,4 +529,22 @@
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## en.wikipedia.org (Information; Kingdom Hearts Birth by Sleep article, External links section, live page of 2026-11-09)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#External_links -- 3 links -- accessed 2026-11-09 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API)
+  - https://en.wikiquote.org/wiki/Kingdom_Hearts_Birth_by_Sleep -- Wikiquote sister-project link (template wikiquote) -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/bbs/ -- Kingdom Hearts Birth by Sleep Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/bbsfm/ -- Kingdom Hearts Birth by Sleep Final Mix Japan official website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ バース バイ スリープ article, 外部リンク section, live page of 2026-11-09)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツ_バース_バイ_スリープ#外部リンク -- 2 links -- accessed 2026-11-09 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/bbs/ -- KINGDOM HEARTS Birth by Sleep -- link recorded only -- accessed 2026-11-09; archived: TODO
+  - http://www.square-enix.co.jp/kingdom/bbsfm/ -- KINGDOM HEARTS Birth by Sleep FINAL MIX -- link recorded only -- accessed 2026-11-09; archived: TODO
+
+## khwiki.com (Information; Kingdom Hearts Birth by Sleep Final Mix page, External links section, live page of 2026-11-09)
+
+- https://www.khwiki.com/Kingdom_Hearts_Birth_by_Sleep_Final_Mix#External_links -- 1 links -- accessed 2026-11-09 (revision 900045 of 2024-11-17; wikitext read through the MediaWiki API)
+  - http://www.square-enix.co.jp/kingdom/bbsfm/ -- Official JP website -- link recorded only -- accessed 2026-11-09; archived: TODO
+
 ## Decisions
