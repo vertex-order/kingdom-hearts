@@ -41,4 +41,8 @@
   - KINGDOM HEARTS -HD 1.5+2.5 ReMIX-; id 70010000117243; maker スクウェア・エニックス; type download (BEE_DL); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
   - KINGDOM HEARTS Collection [I～III]; id 70070000036202; maker スクウェア・エニックス; type download bundle or edition (DL_DLC); release 2026.10.8; status on sale; listed on saved page 2 of 6; the entry has no link to an item page
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_Gummiship_Studio -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
 ## Decisions

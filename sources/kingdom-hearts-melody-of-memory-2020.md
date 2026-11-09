@@ -271,4 +271,8 @@
 - Page URL: https://www.nintendo.com/jp/software/switch/index.html (the Nintendo Switch software list of Nintendo Japan; the list data read from the page's own search results, 400 per saved page) -- dates, platforms -- accessed 2026-11-08; archived: TODO
   - KINGDOM HEARTS Melody of Memory; id 70010000020379; maker スクウェア・エニックス; type download (HAC_DOWNLOADABLE); release 2020.11.11; status on sale; listed on saved page 62 of 75; the entry has no link to an item page
 
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Kingdom_Hearts:_Melody_of_Memory -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+
 ## Decisions

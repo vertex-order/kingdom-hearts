@@ -30,4 +30,8 @@
   - Capture: live (2026-11-03) pages: search results for "kingdom hearts v cast" (first 50 of 10000, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Kingdom Hearts ~V CAST~ -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts v cast" (https://www.igdb.com/search?q=kingdom+hearts+v+cast&type=1)
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_V_CAST -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
 ## Decisions

@@ -589,4 +589,17 @@
 
 - https://finalfantasywiki.com/wiki/Kingdom_Hearts_II -- listed in Category:Games and Category:PlayStation 2 games -- page not read -- accessed 2026-11-08
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_II -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_II_Final_Mix -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Kingdom_Hearts_II -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Kingdom_Hearts_II_Final_Mix%2B -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+
 ## Decisions

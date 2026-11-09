@@ -526,6 +526,24 @@
 - https://breezewiki.com/finalfantasy/wiki/Square_Enix_Magazine_%26_Book -- the Final Fantasy Wiki's Square Enix Magazine & Book page (revision 3910542 of 2025-03-25), visited and audited; no Kingdom Hearts title on it -- accessed 2026-11-08 (wikitext read through the Fandom API; breezewiki showed a bot check); archived: TODO
   - An index of Japanese books published by Square Enix, in tables of title, release date and ISBN; every table row is a Final Fantasy, Bravely, Mana or SaGa book
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_(series) -- the Seiwa Network wiki's Kingdom Hearts series page, visited and audited -- accessed 2026-11-08 (links read through https://wiki.seiwanetwork.org/w/api.php); archived: TODO
+  - Links the games Kingdom Hearts (game) and Final Mix, Chain of Memories and Re:Chain of Memories, II and II Final Mix, 358/2 Days, coded and Re:coded, Birth by Sleep and Final Mix, 3D: Dream Drop Distance, χ, III, Mobile, V CAST, Gummiship Studio, HD 1.5 ReMIX and HD 2.5 ReMIX; no Kingdom Hearts IV, Melody of Memory or Dark Road link
+  - Each URL is in its game's own sources file, as listed and not read
+- https://wiki.seiwanetwork.org/wiki/Category:Kingdom_Hearts -- the Seiwa Network wiki's Category:Kingdom_Hearts, visited and audited -- accessed 2026-11-08 (read through the API); archived: TODO
+  - 2 pages (Dream Eater, Kingdom Hearts (series)) and 2 subcategories (Kingdom Hearts characters, Images from Kingdom Hearts Wiki; not opened)
+
+## strategywiki.org (Information; StrategyWiki, Category pages)
+
+- https://strategywiki.org/wiki/Category:Square_Enix -- StrategyWiki's Category:Square_Enix, visited and audited -- accessed 2026-11-08 (read through https://strategywiki.org/w/api.php); archived: TODO
+  - Kingdom Hearts pages: Kingdom Hearts (under Category:Square), Chain of Memories, Re:Chain of Memories, II, II Final Mix+, 358/2 Days, Re:coded, Birth by Sleep, 3D: Dream Drop Distance, III, Melody of Memory, HD 1.5 ReMIX, HD 2.5 ReMIX, HD II.8 Final Chapter Prologue, HD 1.5 + 2.5 ReMIX and The Story So Far (the last one's URL is in no sources file); each other URL is in its game's own sources file, as listed and not read
+  - No Kingdom Hearts category on StrategyWiki:Categories (https://strategywiki.org/wiki/StrategyWiki:Categories)
+- https://strategywiki.org/wiki/Category:Square -- StrategyWiki's Category:Square, visited and audited -- accessed 2026-11-08 (read through the API); archived: TODO
+  - The Kingdom Hearts page found is Kingdom Hearts
+- https://strategywiki.org/wiki/Category:RPG -- StrategyWiki's Category:RPG, visited and audited for Kingdom Hearts titles -- accessed 2026-11-08 (page list read through the API; subcategories not opened); archived: TODO
+  - A scan of the page titles found no Kingdom Hearts title
+
 ## finalfantasywiki.com (Information; Final Fantasy Wiki, Category:Games tree)
 
 - https://finalfantasywiki.com/wiki/Category:Games -- the Final Fantasy Wiki's (finalfantasywiki.com, not Fandom) Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://finalfantasywiki.com/w/api.php); archived: TODO

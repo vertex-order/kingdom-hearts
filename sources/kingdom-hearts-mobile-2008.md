@@ -69,4 +69,8 @@
   - ケータイで楽しむキングダムハーツ (KINGDOM HEARTS on mobile); banner listed 2012-08-28 to 2013-09-13, not on the capture of 2014-09-13; no title, platform or date on the page
     - http://www.square-enix.co.jp/mobile/kh/ -- banner link, listed 2012-08-28 to 2013-09-13 -- link recorded only -- archived: https://web.archive.org/web/20120828045501/http://www.square-enix.co.jp/mobile/kh/ (last listing: https://web.archive.org/web/20130913081813/http://www.square-enix.co.jp/mobile/kh/)
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_Mobile -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
 ## Decisions

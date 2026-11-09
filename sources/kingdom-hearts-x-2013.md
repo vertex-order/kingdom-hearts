@@ -88,6 +88,10 @@
   - Category of iOS games: 3354 pages, 7 subcategories
   - Member: Kingdom Hearts χ
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_%CF%87 -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

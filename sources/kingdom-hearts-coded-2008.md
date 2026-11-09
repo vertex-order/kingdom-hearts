@@ -513,4 +513,16 @@
     - the block's 公式サイトへ button: text 「初代『キングダム ハーツ』を含む6作品がPS4®で楽しめる」 from 2018-10-03 to 2022-11-09, 「…6作品が楽しめる」 from 2023-12-10
     - http://www.square-enix.co.jp/kingdom/khhd1_2/ -- 公式サイトへ (HD 1.5+2.5) link, listed 2018-10-03 to 2026-08-27 -- link recorded only -- archived: https://web.archive.org/web/20181003122445/http://www.square-enix.co.jp/kingdom/khhd1_2/ (last listing: https://web.archive.org/web/20260827101001/http://www.square-enix.co.jp/kingdom/khhd1_2/)
 
+## wiki.seiwanetwork.org (Information; Seiwa Network wiki)
+
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_Re:coded -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_coded -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+- https://wiki.seiwanetwork.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed on the Kingdom Hearts (series) page -- page not read -- accessed 2026-11-08
+
+## strategywiki.org (Information)
+
+- https://strategywiki.org/wiki/Kingdom_Hearts_Re:coded -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Kingdom_Hearts_HD_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+- https://strategywiki.org/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
+
 ## Decisions
