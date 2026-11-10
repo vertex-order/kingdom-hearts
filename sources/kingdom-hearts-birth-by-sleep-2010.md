@@ -559,4 +559,8 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%90%E3%83%BC%E3%82%B9_%E3%83%90%E3%82%A4_%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the Postcard Book (2010-02-26, ISBN 978-4-7575-2817-8) and the Ultimania (2010-03-25, 978-4-7575-2788-1), a guide -- accessed 2026-11-10 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Kingdom Hearts Birth by Sleep page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/8355/psp/kingdom-hearts-birth-by-sleep.html -- PSP: co-op for 6 players, ad hoc LAN; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

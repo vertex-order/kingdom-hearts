@@ -551,4 +551,8 @@ Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#Exte
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts 358/2 Days Ultimania (2009-06-25, ISBN 4-7575-2578-8); the manga and novels are listed in their own entries' files -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
 
+## co-optimus.com (Information; Kingdom Hearts 358/2 Days page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/1539/nintendo-ds/kingdom-hearts-358-2-days.html -- DS: co-op for 4 players, ad hoc LAN or system link (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

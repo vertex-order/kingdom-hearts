@@ -1015,6 +1015,15 @@
   - Terms: キングダムハーツ, キングダム ハーツ, ングダムハーツ (as saved, first character missing), キングダム ハーツ アンチェインド キー, KINGDOM HEARTS
   - No Kingdom Hearts game app found; the only Kingdom Hearts titles are a wallpaper app by a third party and, from the Square Enix results, Dissidia Duellum Final Fantasy
 
+## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
+
+- https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO
+
+## co-optimus.com (Information; Co-Optimus, Square Enix developer and publisher pages)
+
+- https://www.co-optimus.com/developer/79/square-enix.html -- Co-Optimus, Square Enix as developer, visited and audited -- live page of 2026-11-10; archived: TODO
+- https://www.co-optimus.com/publisher/79/square-enix.html -- Co-Optimus, Square Enix as publisher, visited and audited -- live page of 2026-11-10; archived: TODO
+
 ## Decisions
 
 Also recorded in the group file named in the item (sources/other-group.md):

@@ -294,4 +294,8 @@
   - https://www.nintendo.com/games/detail/kingdom-hearts-melody-of-memory-switch/ -- Nintendo Switch Page -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.microsoft.com/en-us/p/kingdom-hearts-melody-of-memory/9n3sdl8mwh6k?activetab=pivot:overviewtab -- Microsoft Page -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## co-optimus.com (Information; Kingdom Hearts Melody of Memory page, live page of 2026-11-10)
+
+- https://www.co-optimus.com/game/7509/nintendo-switch/kingdom-hearts-melody-of-memory.html -- Nintendo Switch: co-op for 2 players, local; 2 players, online; co-op* -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
