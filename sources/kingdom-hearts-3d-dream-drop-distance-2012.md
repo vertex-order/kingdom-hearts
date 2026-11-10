@@ -525,4 +525,12 @@
   - http://www.kingdomhearts3dgame.com/ -- Official EUR Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://na.square-enix.com/kh3d/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_3D_%EF%BC%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0_%E3%83%89%E3%83%AD%E3%83%83%E3%83%97_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%EF%BC%BD#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- Japanese cast list only (Sora: Miyu Irino, Riku: Mamoru Miyano, the King: Takashi Aoyagi, Donald: Hiroshi Yamadera, Goofy: Kosuke Shimaka, and others); proves Japanese voice -- accessed 2026-11-10 (revision 111275589 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_3D_%EF%BC%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0_%E3%83%89%E3%83%AD%E3%83%83%E3%83%97_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%EF%BC%BD#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts 3D [Dream Drop Distance] Ultimania (2012-05-01, ISBN 978-4-7575-3615-9); the novels Side Sora (2012-06-28) and Side Riku (2012-09-27) by Tomoko Kanemaki, illustrated by Shiro Amano -- accessed 2026-11-10 (revision 111275589 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

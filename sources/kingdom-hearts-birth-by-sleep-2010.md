@@ -551,4 +551,12 @@
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- a limited-edition PSP-3000 bundle in Japan with Kingdom Hearts designs on its back; the English version announced 2010-03-16 and released 2010-09-07 in North America and 2010-09-10 in PAL regions, with Critical Mode, extra Ice Cream Beat songs, a new boss (the Unknown) and Crown Stickers, and a voice cast including Jesse McCartney, James Woods, Willa Holland, Jason Dohring, Leonard Nimoy and Mark Hamill; Final Mix announced in September 2010 and released 2011-01-20 in Japan (English audio with Japanese text, all overseas additions, a new secret episode for Aqua tying into A Fragmentary Passage, a code for Dissidia 012 downloadable content with Cloud's original costume; 77,317 units in the first week, 106,276 by February 2011); Final Mix first released outside Japan in Kingdom Hearts HD 2.5 Remix (announced 2013-10-14, released 2014-10-02 in Japan, 2014-12-02 in North America, 2014-12-04 in Australia, 2014-12-05 in Europe, PlayStation 3 only); an Ultimania guidebook on 2010-03-25 (a guide) -- accessed 2026-11-10 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ バース バイ スリープ article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%90%E3%83%BC%E3%82%B9_%E3%83%90%E3%82%A4_%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order original-version Japanese cast / Final Mix English cast (Terra: Ryotaro Okiayu / Jason Dohring, Aqua: Megumi Toyoguchi / Willa Holland, Ventus: Koki Uchiyama / Jesse McCartney, and others); proves Japanese voice in the original and English voice in Final Mix -- accessed 2026-11-10 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ バース バイ スリープ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%90%E3%83%BC%E3%82%B9_%E3%83%90%E3%82%A4_%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the Postcard Book (2010-02-26, ISBN 978-4-7575-2817-8) and the Ultimania (2010-03-25, 978-4-7575-2788-1), a guide -- accessed 2026-11-10 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

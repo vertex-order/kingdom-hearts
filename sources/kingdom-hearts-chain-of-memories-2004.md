@@ -596,4 +596,16 @@
   - http://na.square-enix.com/khrecom/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.square-enix.co.jp/kingdom2fm/ -- Official JP site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Ratings; キングダム ハーツ チェイン オブ メモリーズ article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E8%A9%95%E4%BE%A1 -- Game Boy Advance review scores: Famitsu 36/40 (Platinum Hall of Fame), 1UP C+, Eurogamer 8/10, Game Informer 7.75/10, GamePro 3.5/5, GameZone 9.1/10, IGN 8/10; PlayStation 2 (Re:Chain of Memories) review scores: 1UP B-, Allgame 3/5, Game Informer 6.75/10, GamePro 4/5, GameSpot 6.5/10, IGN 8.4/10 -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ チェイン オブ メモリーズ article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- the voice of Chain of Memories is in battles only; in Re:Chain of Memories the cast from Sora to Zexion appears in the event scenes, and the cast from Peter Pan down is in battles and minigames only; the Re:CoM cast is listed in the order Japanese version / North American version (Riku: Mamoru Miyano / David Gallagher, and others); proves Japanese (battle) voice for Chain of Memories and Japanese and English voice for Re:Chain of Memories -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ チェイン オブ メモリーズ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts Chain of Memories Ultimania (2004-12-17, ISBN 4-7575-1344-5); the manga and novel are listed in their own entries' files -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

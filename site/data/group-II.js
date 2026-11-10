@@ -82,7 +82,7 @@ window.__khGroupReg['II'] = { num: 'II', chronoOrder: 200, narrativeOrder: 100, 
               { text: '.' },
             ],
           ],
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
           platforms: [
             { key: 'playstation3', paren: 'PS2 Compatibility' },

@@ -82,7 +82,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, narrativeOrder: 40,
               { text: '.' },
             ],
           ],
-          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
           platforms: [
             { key: 'playstation2', paren: 'Physical' },
             { key: 'playstation3', paren: 'PS2 Compatibility' },
@@ -94,7 +94,7 @@ window.__khGroupReg['CoM'] = { num: 'CoM', chronoOrder: 130, narrativeOrder: 40,
       {
         title: 'Kingdom Hearts Chain of Memories', titleUrl: 'https://wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories', titleDate: '2004-11-11', id: 'kingdom-hearts-chain-of-memories-2004',
         versionDesc: ['The original release in isometric pixel art.'],
-        languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+        languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }, { value: '…?' }],
         helpWanted: true,
         profileUrl: 'https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Kingdom-Hearts-Chain-of-Memories-266881.html',
         platforms: [

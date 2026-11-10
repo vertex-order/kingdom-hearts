@@ -67,7 +67,7 @@ window.__khGroupReg['DDD'] = { num: 'DDD', chronoOrder: 270, narrativeOrder: 150
           ],
           helpWanted: true,
           profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/KINGDOM-HEARTS-3D-Dream-Drop-Distance--274292.html',
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }, { value: '…?' }],
           platforms: [
             { key: 'nintendo-3ds', paren: 'Physical', url: 'https://www.jp.square-enix.com/game/detail/kh3d/', hreflang: 'ja' },
             { key: 'fan-playthrough', search: 'youtube', searchQualifier: '3ds' },

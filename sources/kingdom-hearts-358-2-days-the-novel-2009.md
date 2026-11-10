@@ -94,6 +94,14 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- light novels written by Tomoko Kanemaki and illustrated by Shiro Amano: volume 1 The 14th on 2009-07-30, volume 2 Go to the Sea on 2010-01-28, and the third and last volume Xion-Seven Days in May 2010 -- accessed 2026-11-10 (revision 1384026616 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Kingdom Hearts 358/2 Days (3 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 358/2 Days article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Vol.1 The 14th 2009-09-30 (ISBN 4-7575-2604-0), Vol.2 Go to the Sea 2010-01-28, Vol.3 Xion-Seven Days 2010-05-28 -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

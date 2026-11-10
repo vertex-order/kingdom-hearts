@@ -676,6 +676,14 @@ yenpress.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- the manga by Shiro Amano follows the game's events with a few minor differences and some Final Mix events; originally serialized in Japan by Enterbrain's Famitsu PS2, released worldwide in four volumes; Tokyopop's English volumes: volume 1 on 2005-10-11, volume 4 on 2006-07-10, a boxed set on 2006-10-10; followed by manga of Chain of Memories and Kingdom Hearts II -- accessed 2026-11-10 (revision 1384026453 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- the manga and novels add their own arrangements: some worlds the games visit do not appear, the Kingdom Hearts II manga combines the episode 1 and episode 2 stories of each world while its novel mostly shows the worlds where Organization XIII acts, and the manga has many comical scenes rarely seen in the games; manga by Shiro Amano: Kingdom Hearts FINAL MIX (new edition published by Square Enix, 3 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Famitsu PS2 (2003 to 2005): volume 1 2003-10-25 (ISBN 4-7577-1657-5), volume 2 2004-04-24, volume 3 2004-11-25, volume 4 2005-01-31; the Kingdom Hearts FINAL MIX manga is a new edition published by Square Enix to replace the out-of-print Enterbrain edition: volume 1 2006-12-22, volume 2 2007-01-22, volume 3 2007-03-22 -- accessed 2026-11-10 (revision 110687547 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.

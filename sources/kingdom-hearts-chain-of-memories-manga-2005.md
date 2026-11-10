@@ -182,4 +182,12 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Manga -- adapted into a manga by Shiro Amano following the plot of the game, serialized in Monthly Shonen Gangan and released in Japan in two volumes (volume 1 on 2005-10-22, volume 2 on 2007-02-06), and in the United States by Tokyopop (volume 1 on 2006-10-10); a boxed set in the US on 2007-10-09; followed by the Kingdom Hearts II manga -- accessed 2026-11-10 (revision 1384026532 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- manga by Shiro Amano: Kingdom Hearts Chain of Memories (serialised in Monthly Shonen Gangan, 2 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ チェイン オブ メモリーズ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (original concept by Tetsuya Nomura): volume 1 2005-10-22 (ISBN 4-7575-1552-9), volume 2 2006-04-22 -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

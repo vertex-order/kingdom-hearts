@@ -94,7 +94,7 @@ window.__khGroupReg['I'] = { num: 'I', chronoOrder: 90, narrativeOrder: 10, titl
               { text: '. The international non-Japan releases saw gameplay tweaks and several post-game bosses added.' },
             ],
           ],
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
           platforms: [
             { key: 'playstation3', paren: 'PS2 Compatibility' },

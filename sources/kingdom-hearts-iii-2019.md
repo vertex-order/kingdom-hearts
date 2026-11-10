@@ -498,4 +498,21 @@
 
 - https://ja.wikipedia.org/wiki/キングダム_ハーツIII#関連商品 -- lists the postcard book (2019-01-25, ISBN 978-4-7575-5904-2), the Ultimania (2019-02-28, ISBN 978-4-7575-6001-7) and the GAME NOVELS novel, whose facts are in sources/kingdom-hearts-iii-the-novel-2019.md; the same article covers Re Mind -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
+
+## kingdomhearts.fandom.com (Information; Kingdom Hearts III page, Voice cast section, live page of 2026-11-10)
+
+- https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_III#Voice_cast -- confirms English and Japanese voice -- accessed 2026-11-10 (revision 807304 of 2026-11-03; wikitext read through the Fandom API; the breezewiki.com link mirrors https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_III#Voice_cast); archived: TODO
+
+## ja.wikipedia.org (Ratings; キングダム ハーツIII article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84III#%E8%A9%95%E4%BE%A1 -- awards and sales: Japan Game Awards Future division 2013 and 2018 and Annual Works Division Excellence Award 2019, Game Critics Awards Best of E3 2018 Best RPG, PlayStation Awards 2019 Platinum Prize, National Academy of Video Game Trade Reviewers 2019 Original Dramatic Score Franchise, SXSW Gaming Awards 2020 Excellence in Animation; PS4 version shipped 5 million copies worldwide, 996,000 in Japan by December 2019 -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツIII article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84III#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order Japanese cast / English cast (Sora and Vanitas: Miyu Irino / Haley Joel Osment, Riku: Mamoru Miyano / David Gallagher, Kairi and Xion: Risa Uchida / Allison Stoner, Terra: Ryotaro Okiayu / Jason Dohring, and others); the voice recording had begun around March 2017 according to Kyusaku Shimada (Hades); proves Japanese and English voice -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツIII article, 関連商品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84III#%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81 -- the section lists the Postcard Book (2019-01-25), the Ultimania (2019-02-28) and the GAME NOVELS Kingdom Hearts III Vol.1 Re:Start!! (2019-03-28); read again to confirm the earlier record -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -198,6 +198,10 @@ panini.co.uk (Publisher)
 - https://www.panini.co.uk/shp_gbr_en/kingdom-hearts-iii-vol-4-gbdim027-uk02.html — Vol. 4 product page — accessed 2026-10-13 (URL given by user) — archived: TODO
 - https://www.panini.co.uk/shp_gbr_en/kingdom-hearts-iii-vol-5-gbdim028-uk02.html — Vol. 5 product page — accessed 2026-10-13 (URL given by user) — archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- manga by Shiro Amano: Kingdom Hearts III (Gangan Online, 4 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.

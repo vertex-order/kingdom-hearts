@@ -534,4 +534,21 @@ Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#Exte
   - http://www.square-enix.co.jp/kingdom/days/ -- Official JP website -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.kingdomheartsdays.com -- Official EU website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+
+## kingdomhearts.fandom.com (Information; Kingdom Hearts 358/2 Days page, English Voice Acting section, live page of 2026-11-10)
+
+- https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#English_Voice_Acting -- confirms English voice: the game uses voiced cutscenes, unlike Chain of Memories, with the Organization XIII and other Kingdom Hearts voice actors reprising their roles (Axel: Quinton Flynn, Demyx: Ryan O'Donohue, DiZ: Christopher Lee, Donald: Tony Anselmo, Goofy: Bill Farmer, Larxene: Shanelle Workman, Lexaeus: Dave Boat, and others), some only in gameplay -- accessed 2026-11-10 (revision 807275 of 2026-10-28; wikitext read through the Fandom API; the breezewiki.com link mirrors https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_358/2_Days#English_Voice_Acting); archived: TODO
+
+## ja.wikipedia.org (Ratings; キングダム ハーツ 358/2 Days article, 評価 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E8%A9%95%E4%BE%A1 -- review scores: Famitsu 36/40 (Platinum Hall of Fame), 1UP B, G4 3/5, Game Informer 8/10, GameSpot 8/10, IGN 8/10, Official Nintendo Magazine 69%, RPGamer 2.5/5; sales 290,000 in two days (first place), 1.49 million in all (Japan 540,000, North America 750,000, Europe 200,000) -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 358/2 Days article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order Japanese-version cast / overseas-version cast (Roxas: Koki Uchiyama / Jesse McCartney, Axel: Keiji Fujiwara / Quinton Flynn, Xion: Risa Uchida / Allison Stoner, and others); proves Japanese and English voice -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 358/2 Days article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts 358/2 Days Ultimania (2009-06-25, ISBN 4-7575-2578-8); the manga and novels are listed in their own entries' files -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

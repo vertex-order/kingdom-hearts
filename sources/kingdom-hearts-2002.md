@@ -644,4 +644,12 @@
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- merchandise from Square and Disney (toys, figurines, clothing, books); an Ultimania in Japan after release and a revised edition after Final Mix; a BradyGames strategy guide with a walkthrough and a sticker activity journal in North America -- accessed 2026-11-10 (revision 1384026453 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order original-version Japanese cast / Final Mix English cast (Sora: Miyu Irino / Haley Joel Osment, Riku: Mamoru Miyano / David Gallagher, Kairi: Risa Uchida / Hayden Panettiere, Donald: Hiroshi Yamadera / Tony Anselmo, Goofy: Kosuke Shimaka / Bill Farmer, and others); Sephiroth's English voice (Lance Bass) is in Final Mix only; proves Japanese voice in the original and English voice in Final Mix -- accessed 2026-11-10 (revision 110687547 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- Kingdom Hearts Ultimania revised edition (2004-12-17, ISBN 4-7575-1349-6; a guide); the KINGDOM HEARTS Original Soundtrack COMPLETE (2007; a soundtrack); manga and novel listed with the ISBNs below -- accessed 2026-11-10 (revision 110687547 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

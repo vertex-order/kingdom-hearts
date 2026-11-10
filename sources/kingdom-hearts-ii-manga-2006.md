@@ -691,6 +691,14 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- a manga adaptation in Monthly Shonen Gangan drawn by Shiro Amano; serialization began in 2006, went on hiatus while Amano worked on the 358/2 Days manga, resumed in October 2012 and continued until May 2015; ten standalone volumes in Japan, the first in December 2006; Tokyopop published the first two volumes in North America (July 2007 and May 2008), Planeta DeAgostini published Spanish versions, Yen Press obtained the North American rights in 2013 (Tokyopop shut down in the region in 2011) and published the fourth volume in May 2017 -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- manga by Shiro Amano: Kingdom Hearts II (serialised in Monthly Shonen Gangan, 10 volumes); the manga combines the episode 1 and episode 2 stories of each world -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツII article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (June 2006 to August 2009, November 2012 to June 2015): volume 1 2006-12-22, 2 2007-08-22, 3 2008-04-22, 4 2008-11-22, 5 2009-08-22, 6 2013-05-22, 7 2013-11-22, 8 2014-07-22, 9 2015-02-21, 10 2015-08-22; the serialisation was suspended for the 358/2 Days manga and resumed after it ended -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

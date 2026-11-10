@@ -544,4 +544,12 @@
   - https://www.nintendo.co.jp/ds/software/bk9j/index.html -- Official Japanese website (Nintendo of Japan) -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.nintendo.co.uk/Games/Nintendo-DS/KINGDOM-HEARTS-Re-coded-271243.html -- Official European website (Nintendo of UK) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ コーデッド article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B3%E3%83%BC%E3%83%87%E3%83%83%E3%83%89#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order Japanese-version cast / overseas-version cast; because Coded was only distributed in Japan, the overseas cast is entirely that of Re:coded (Sora: Miyu Irino / Haley Joel Osment, Riku: Mamoru Miyano / David Gallagher, and others); proves Japanese voice for Coded and Japanese and English voice for Re:coded -- accessed 2026-11-10 (revision 111380327 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ コーデッド article, キングダム ハーツ モバイル section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B3%E3%83%BC%E3%83%87%E3%83%83%E3%83%89#%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB -- the same Kingdom Hearts Mobile portal site (2008-12-15 to 2013-04-30), main content Coded -- accessed 2026-11-10 (revision 111380327 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -23,7 +23,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
       ],
       languages: [
         { value: 'JA', native: true, voice: true },
-        { value: 'EN' },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-Re-coded-271243.html',
@@ -38,7 +38,7 @@ window.__khGroupReg['coded'] = { num: 'coded', chronoOrder: 240, narrativeOrder:
           tags: ['Episodic'],
           terminated: true,
           versionDesc: ['The original episodic release, split into a prologue and 8 episodes, discontinued for download in 2013.'],
-          languages: [{ value: 'JA', native: true }],
+          languages: [{ value: 'JA', native: true, voice: true }],
           platforms: [
             { key: 'mobile-phone', paren: 'NTT DoCoMo i-mode', jpTag: true, terminated: true },
           ],

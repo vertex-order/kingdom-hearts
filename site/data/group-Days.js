@@ -19,8 +19,8 @@ window.__khGroupReg['Days'] = { num: 'Days', chronoOrder: 170, narrativeOrder: 7
       length: [{ value: '26½h', tip: 'Main Story' }, { value: '34h', tip: 'Main + Sides' }, { value: '55h', tip: 'Completionist' }],
       ratings: [{ key: 'metacritic', score: '75', url: 'https://www.metacritic.com/game/kingdom-hearts-358-2-days/' }, { key: 'metacritic-user', score: '7.7', url: 'https://www.metacritic.com/game/kingdom-hearts-358-2-days/' }],
       languages: [
-        { value: 'JA', native: true },
-        { value: 'EN' },
+        { value: 'JA', native: true, voice: true },
+        { value: 'EN', voice: true },
         { value: '…?' },
       ],
       profileUrl: 'https://www.nintendo.com/en-gb/Games/Nintendo-DS/KINGDOM-HEARTS-358-2-Days-271232.html',

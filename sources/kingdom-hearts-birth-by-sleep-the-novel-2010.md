@@ -85,6 +85,14 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- a light novel written by Tomoko Kanemaki and illustrated by Shiro Amano: volume 1 Something Strange on 2010-12-24, volume 2 Best Friends on 2011-02-24, and the third and final volume To the Future on 2011-05-26, all from Square Enix -- accessed 2026-11-10 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Kingdom Hearts Birth by Sleep (3 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ バース バイ スリープ article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%90%E3%83%BC%E3%82%B9_%E3%83%90%E3%82%A4_%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki (original concept by Tetsuya Nomura and Masaru Oka), illustrated by Shiro Amano: Vol.1 Something Strange 2010-12-24 (ISBN 978-4-7575-3111-6), Vol.2 Best Friends 2011-02-24, Vol.3 To the Future 2011-05-26 -- accessed 2026-11-10 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Vol. 2 language: Japanese, confirmed — goodreads' "Slovak" tag (https://www.goodreads.com/book/show/10537628-kingdom-hearts-birth-by-sleep-2) is a metadata error, now resolved by google books independently confirming Japanese (same ISBN, same garbled "Tōkyō : Sukuea Enikkusu" publisher transliteration pattern as Vol. 1/Vol. 3).

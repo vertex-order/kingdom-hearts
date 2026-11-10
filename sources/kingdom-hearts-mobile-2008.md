@@ -90,4 +90,8 @@
 Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_Mobile#External_links
   - http://www.square-enix.co.jp/mobile/kh/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ コーデッド article, キングダム ハーツ モバイル section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B3%E3%83%BC%E3%83%87%E3%83%83%E3%83%89#%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB -- Kingdom Hearts Mobile, a mobile-phone portal site opened on 2008-12-15 and closed on 2013-04-30, with four monthly plans (315, 525, 840 and 1,050 yen including tax) whose points were spent on minigames, standby screens and ringtones; the minigame currency (munny) bought avatar items and could be spent on items in Coded; Coded was the site's main content, and the site was modeled on a Cinderella-castle-like image; co-director Tai Yasuhiko Tabata said the image was Disneyland -- accessed 2026-11-10 (revision 111380327 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

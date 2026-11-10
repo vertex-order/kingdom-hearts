@@ -74,7 +74,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, narrativeOrder: 260,
               { text: ', the name every subsequent release has used.' },
             ],
           ],
-          languages: [{ value: 'JA', native: true }, { value: 'EN', voice: true }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN', voice: true }],
           platforms: [
             { key: 'playstation-portable', paren: 'Physical', jpTag: true },
           ],
@@ -84,7 +84,7 @@ window.__khGroupReg['BBS'] = { num: 'BBS', chronoOrder: 60, narrativeOrder: 260,
           versionDesc: [
             ['The original release. Non-japan releases included a new difficulty setting, additional songs, a new boss and a few gameplay changes.'],
           ],
-          languages: [{ value: 'JA', native: true }, { value: 'EN' }, { value: '…?' }],
+          languages: [{ value: 'JA', native: true, voice: true }, { value: 'EN' }, { value: '…?' }],
           helpWanted: true,
           platforms: [
             { key: 'playstation-portable', paren: 'Physical' },

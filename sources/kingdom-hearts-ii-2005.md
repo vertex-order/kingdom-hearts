@@ -626,4 +626,12 @@
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- the section also names the guides (Kingdom Hearts Series Ultimania α ~Introduction of Kingdom Hearts II~ before release, Kingdom Hearts II Ultimania after it, Kingdom Hearts II Final Mix+ Ultimania; Kingdom Hearts -Another Report-, a hardback released with Final Mix; two BradyGames strategy guides in North America) and Play Arts, Bright Arts and Form-ism figures (ignored); Square Enix's Japanese toys were not exported because of Disney licensing -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツII article, 声の出演 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E5%A3%B0%E3%81%AE%E5%87%BA%E6%BC%94 -- cast list in the order original-version Japanese cast / Final Mix English cast (Sora: Miyu Irino / Haley Joel Osment, Roxas: Koki Uchiyama / Jesse McCartney, Axel: Keiji Fujiwara / Quinton Flynn, and others); Organization XIII members added in Final Mix (Marluxia, Larxene, Vexen, Lexaeus, Zexion) have a Japanese cast only on the page; the Japanese voice can be heard in Final Mix as well, in Theater Mode; proves Japanese voice and English voice in Final Mix -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツII article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guides: Kingdom Hearts Series Ultimania alpha ~Introduction of Kingdom Hearts II~ (2005-12-09), Kingdom Hearts II Postcard Book (2005-12-28), Kingdom Hearts II Ultimania (2006-02-23) and Kingdom Hearts II Final Mix+ Ultimania (2007-05-02) -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

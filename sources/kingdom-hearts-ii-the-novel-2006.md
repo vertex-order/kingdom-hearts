@@ -155,6 +155,14 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- novelized by Tomoco Kanemaki and illustrated by Shiro Amano: volume 1 Roxas-Seven Days on 2006-04-22 (Roxas' story to when Sora wakes up and leaves Twilight Town, with the extra Final Mix scenes), volume 2 The Destruction of Hollow Bastion on 2006-07-16, volume 3 Tears of Nobody on 2006-09-29, volume 4 Anthem-Meet Again/Axel Last Stand in February 2007; Yen Press localized them as one omnibus, Kingdom Hearts II: The Novel, and in 2021 included it in the compilation Kingdom Hearts: The Complete Novel of all the series' localized light novels -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Kingdom Hearts II (4 volumes); the novel mostly shows the worlds where Organization XIII acts -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツII article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano (original concept by Tetsuya Nomura and Kazushige Nojima): Vol.1 Roxas -Seven days- 2006-04-22, Vol.2 The Destruction of Hollow Bastion 2006-07-14, Vol.3 Tears of Nobody 2006-09-29, Vol.4 Anthem-Meet Again/Axel Last Stand 2007-02-22, Short Stories Vol.1 OTHER DIAMONDS 2007-11-20 (ISBN 4-7575-2152-9), Short Stories Vol.2 Axel Seven Days 2008-05-30 (4-7575-2255-X) -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia/google-books placeholders to goodreads edition pages — JA links "Roxas—Seven Days" (Vol. 1, ISBN 9784757516793), EN links the Paperback omnibus (ISBN 9780316471930), scored 4.10 per that page.

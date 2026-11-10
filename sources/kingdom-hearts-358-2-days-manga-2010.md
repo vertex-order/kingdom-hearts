@@ -213,6 +213,14 @@ breezewiki.com (Information)
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- a manga adaptation by Amano serialized in Square's Monthly Shonen Gangan from August 2009 to August 2012; five tankobon volumes released between 2010-06-22 and 2012-04-21 -- accessed 2026-11-10 (revision 1384026616 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツ シリーズ article, 漫画・小説 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- manga by Shiro Amano: Kingdom Hearts 358/2 Days (serialised in Monthly Shonen Gangan, 5 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
+
+## ja.wikipedia.org (Information; キングダム ハーツ 358/2 Days article, 関連作品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (September 2009 issue to October 2012 issue), begun by suspending the Kingdom Hearts II manga: volume 1 2010-06-22 (ISBN 978-4-7575-2902-1), 2 2011-03-22, 3 2011-10-22, 4 2012-04-21, 5 2012-09-22 -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).
