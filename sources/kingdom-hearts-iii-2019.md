@@ -494,4 +494,8 @@
   - http://www.square-enix.co.jp/kingdom/kh3/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.kingdomhearts.com/3/us/ -- Official North American website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツIII article, 関連商品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツIII#関連商品 -- lists the postcard book (2019-01-25, ISBN 978-4-7575-5904-2), the Ultimania (2019-02-28, ISBN 978-4-7575-6001-7) and the GAME NOVELS novel, whose facts are in sources/kingdom-hearts-iii-the-novel-2019.md; the same article covers Re Mind -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

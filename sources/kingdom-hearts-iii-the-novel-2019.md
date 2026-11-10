@@ -112,4 +112,8 @@ breezewiki.com (Information)
 store.jp.square-enix.com (Publisher)
 - https://store.jp.square-enix.com/estore/goods/search.aspx?search=x&search=search&keyword=%E5%B0%8F%E8%AA%AC%20%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84III — store search for the three JP volumes: profile*, JA language link* — accessed 2026-10-13 (checked by user; lists Vol. 1 March 28, 2019, Vol. 2 July 25, 2019, Vol. 3 May 28, 2020, all "GAME NOVELS") — archived: TODO
 
+## ja.wikipedia.org (Information; キングダム ハーツIII article, 関連商品 section, live page of 2026-11-10)
+
+- https://ja.wikipedia.org/wiki/キングダム_ハーツIII#関連商品 -- 小説『GAME NOVELS キングダム ハーツIII』: author 金巻ともこ, original idea 野村哲也 and 岡勝, illustrations 天野シロ; the section lists only Vol.1 Re:Start!!, 2019-03-28, ISBN 978-4-7575-6080-2 -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

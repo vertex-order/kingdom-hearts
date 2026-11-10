@@ -115,6 +115,10 @@ Page URL by capture: 2016-04-11 to 2018-11-16 https://itunes.apple.com/us/app/ki
   - http://www.kingdomhearts.com/unionx/us/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - http://www.square-enix.co.jp/kingdom/uc/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts χ article, Release section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_%CF%87#Release -- the western localization Kingdom Hearts Unchained χ revealed at E3 2015; released in Japan on 2015-09-03, in North America on 2016-04-07 and in Europe on 2016-06-16; on the Amazon Appstore on 2019-01-29; rebranded Kingdom Hearts Union χ Dark Road in June 2020; end of service announced 2021-02-25, reached 2021-06-17 (Japan) and 2021-06-30 (global) with an offline theater mode; the app was delisted from all digital storefronts in August 2024; in September 2026 a fan developer released an unofficial browser-based port of the offline version -- accessed 2026-11-10 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

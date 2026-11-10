@@ -151,6 +151,10 @@ breezewiki.com (Information)
     - Kingdom Hearts II: The Novel, Vol. 2
   - Fan wiki (khmanga); lists titles only, no dates or ISBNs on this page
 
+## en.wikipedia.org (Information; Kingdom Hearts II article, Merchandise and printed adaptations section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- novelized by Tomoco Kanemaki and illustrated by Shiro Amano: volume 1 Roxas-Seven Days on 2006-04-22 (Roxas' story to when Sora wakes up and leaves Twilight Town, with the extra Final Mix scenes), volume 2 The Destruction of Hollow Bastion on 2006-07-16, volume 3 Tears of Nobody on 2006-09-29, volume 4 Anthem-Meet Again/Axel Last Stand in February 2007; Yen Press localized them as one omnibus, Kingdom Hearts II: The Novel, and in 2021 included it in the compilation Kingdom Hearts: The Complete Novel of all the series' localized light novels -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia/google-books placeholders to goodreads edition pages — JA links "Roxas—Seven Days" (Vol. 1, ISBN 9784757516793), EN links the Paperback omnibus (ISBN 9780316471930), scored 4.10 per that page.

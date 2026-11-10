@@ -423,4 +423,8 @@
 - https://www.khwiki.com/Kingdom_Hearts_0.2_Birth_by_Sleep_-A_fragmentary_passage-#External_links -- 1 links -- accessed 2026-11-09 (revision 906478 of 2025-07-19; wikitext read through the MediaWiki API)
   - http://www.square-enix.co.jp/kingdom/khhd_fcp/ -- Official Japanese website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts Birth by Sleep article, Versions and merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- Kingdom Hearts HD 2.8 Final Chapter Prologue, announced in September 2015: Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage- (a new game after the original, from Aqua's perspective), an HD remaster of Dream Drop Distance and Kingdom Hearts χ Back Cover (a cinematic retelling of χ); released 2017-01-12 in Japan and 2017-01-24 elsewhere -- accessed 2026-11-10 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

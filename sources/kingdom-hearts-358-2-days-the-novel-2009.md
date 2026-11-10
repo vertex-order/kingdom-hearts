@@ -90,6 +90,10 @@ breezewiki.com (Information)
     - Kingdom Hearts 358/2 Days: The Novel
   - Fan wiki (khmanga); lists titles only, no dates or ISBNs on this page
 
+## en.wikipedia.org (Information; Kingdom Hearts 358/2 Days article, Manga and light novels section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- light novels written by Tomoko Kanemaki and illustrated by Shiro Amano: volume 1 The 14th on 2009-07-30, volume 2 Go to the Sea on 2010-01-28, and the third and last volume Xion-Seven Days in May 2010 -- accessed 2026-11-10 (revision 1384026616 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

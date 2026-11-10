@@ -178,4 +178,8 @@ breezewiki.com (Information)
   - Omnibus collecting Chain of Memories Volume 1 and Volume 2, released in North America June 25, 2013 by Yen Press, imprint Gangan Comics
   - ISBN 978-0-316-25562-2 (agrees with 9780316255622 above); adapted by Shiro Amano
 
+## en.wikipedia.org (Information; Kingdom Hearts: Chain of Memories article, Manga section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories#Manga -- adapted into a manga by Shiro Amano following the plot of the game, serialized in Monthly Shonen Gangan and released in Japan in two volumes (volume 1 on 2005-10-22, volume 2 on 2007-02-06), and in the United States by Tokyopop (volume 1 on 2006-10-10); a boxed set in the US on 2007-10-09; followed by the Kingdom Hearts II manga -- accessed 2026-11-10 (revision 1384026532 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

@@ -672,6 +672,10 @@ yenpress.com (Information)
 - https://yenpress.com/search?q=Kingdom%20Hearts&size=n_10_n — site search — accessed 2026-10-13
   - No Kingdom Hearts titles listed (the 2013 English Final Mix books are not there), so no `profileUrl` for the 2006–2007 edition
 
+## en.wikipedia.org (Information; Kingdom Hearts (video game) article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- the manga by Shiro Amano follows the game's events with a few minor differences and some Final Mix events; originally serialized in Japan by Enterbrain's Famitsu PS2, released worldwide in four volumes; Tokyopop's English volumes: volume 1 on 2005-10-11, volume 4 on 2006-07-10, a boxed set on 2006-10-10; followed by manga of Chain of Memories and Kingdom Hearts II -- accessed 2026-11-10 (revision 1384026453 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.

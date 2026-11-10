@@ -110,6 +110,10 @@
 - https://www.khwiki.com/Kingdom_Hearts_%CF%87#External_links -- 1 links -- accessed 2026-11-09 (revision 920721 of 2026-09-02; wikitext read through the MediaWiki API)
   - https://web.archive.org/web/20160714125956/http://kingdomhearts.jp/ -- Official JP Site (cached) -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts χ article, Release section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_%CF%87#Release -- announced at the Tokyo Game Show on 2012-09-20 as Kingdom Hearts for PC Browsers; closed beta from 2013-03-22 (Yahoo Japan ID), open beta from 2013-07-09, official service from 2013-07-18; discontinuation announced in April 2016 for September 2016; the western localization was delayed when Playdom shut down -- accessed 2026-11-10 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.

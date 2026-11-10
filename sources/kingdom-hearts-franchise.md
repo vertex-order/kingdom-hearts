@@ -1022,6 +1022,21 @@ Also recorded in the group file named in the item (sources/other-group.md):
 - **Not to be listed: Kingdom Hearts Customize (user, 2026-11-08):** a phone decoration service exclusive to Japanese cell phones, also named Kingdom Hearts Kisekae on digital storefronts; it offered phone themes (kisekae), wallpapers, ringtones and email decoration items, and a World Map with trivia and item-search mini-games; shut down. A cosmetics service, not a game or story content
   - Evidence: https://www.khwiki.com/Kingdom_Hearts_Customize (intro read through the wiki's API, accessed 2026-11-08; listed in Category:Games and on the Kingdom Hearts (series) page, Games section)
 
+- **Not listed (assistant's call, pending the user's review): the postcard book and the Ultimania of Kingdom Hearts III**, named on ja.wikipedia's キングダム ハーツIII article, section 関連商品 (https://ja.wikipedia.org/wiki/キングダム_ハーツIII#関連商品, revision 111437160 of 2026-10-19), accessed 2026-11-10; none is entertaining on its own (docs/data.md, "What belongs on a list")
+  - キングダム ハーツIII ポストカードブック — 2019-01-25 — ISBN 978-4-7575-5904-2
+  - キングダム ハーツIII アルティマニア — 2019-02-28 — ISBN 978-4-7575-6001-7
+
+- **Not listed (assistant's call, pending the user's review): the two Dark Horse books of the Further reading list**, named on en.wikipedia's Kingdom Hearts article, section Further reading (https://en.wikipedia.org/wiki/Kingdom_Hearts#Further_reading, revision 1380444761 of 2026-10-15; wikitext read through the MediaWiki API), accessed 2026-11-10; guidebooks and companion books are not entertaining on their own (docs/data.md, "What belongs on a list")
+  - Kingdom Hearts Ultimania: The Story Before Kingdom Hearts III — Square Enix, Dark Horse Comics, 2021 (original 2014) — ISBN 978-15-0672-523-9 as printed on the page
+  - Kingdom Hearts Character Files — Square Enix and Disney, Dark Horse Comics, 2021 (original 2020) — ISBN 978-15-0672-578-9 as printed on the page
+
+- **Not listed (assistant's call, pending the user's review): the guides named in English Wikipedia's Kingdom Hearts articles**, accessed 2026-11-10; guidebooks and companion books are not entertaining on their own (docs/data.md, "What belongs on a list"); sources: https://en.wikipedia.org/wiki/Kingdom_Hearts#Merchandise (revision 1380444761 of 2026-10-15), https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations (revision 1384817805 of 2026-11-10), https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media (revision 1384026453 of 2026-11-06)
+  - Kingdom Hearts Ultimania (Japan, after release) and its revised edition after Final Mix
+  - Kingdom Hearts BradyGames strategy guide (North America), with a walkthrough and a sticker activity journal
+  - Kingdom Hearts Series Ultimania α ~Introduction of Kingdom Hearts II~; Kingdom Hearts II Ultimania; Kingdom Hearts II Final Mix+ Ultimania
+  - Kingdom Hearts -Another Report- (hardback, released with Final Mix+; game information, Shiro Amano visuals, a director interview)
+  - Kingdom Hearts II BradyGames strategy guides (standard and limited edition with four covers, Jiminy's Journal and 400 stickers)
+
 Franchise file only (no single group):
 
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.

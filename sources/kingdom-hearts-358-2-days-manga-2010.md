@@ -209,6 +209,10 @@ breezewiki.com (Information)
 - https://breezewiki.com/khmanga/wiki/Kingdom_Hearts_358/2_Days_Volume_5 — date, ISBN, credits — accessed 2026-10-13 — archived: TODO
   - January 20, 2015 (the fifth and final volume); ISBN 978-0-316-33626-0; Gangan Comics imprint; Yen Press NA; Alethea and Athena Nibley translating, Lys Blakeslee lettering
 
+## en.wikipedia.org (Information; Kingdom Hearts 358/2 Days article, Manga and light novels section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days#Manga_and_light_novels -- a manga adaptation by Amano serialized in Square's Monthly Shonen Gangan from August 2009 to August 2012; five tankobon volumes released between 2010-06-22 and 2012-04-21 -- accessed 2026-11-10 (revision 1384026616 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).

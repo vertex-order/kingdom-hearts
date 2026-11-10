@@ -134,6 +134,10 @@ yenpress.com (Information)
 - https://yenpress.com/titles/9780316260190 and https://yenpress.com/search?q=9780316260190 — lookups for the Yen Press omnibus's official page — accessed 2026-10-13 (checked by user) — archived: TODO
   - No results, so no official `profileUrl` for this entry; the Yen Press title is on khmanga's publisher list only
 
+## en.wikipedia.org (Information; Kingdom Hearts (video game) article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- a novel series based on the game, authored by Tomoco Kanemaki and illustrated by Shiro Amano, released in Japan, two volumes, released in North America on 2008-03-25 -- accessed 2026-11-10 (revision 1384026453 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 ## Surveyed

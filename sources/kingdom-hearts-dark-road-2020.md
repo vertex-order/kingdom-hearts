@@ -117,4 +117,12 @@ Page URL by capture: 2020-06-26 to 2024-08-25 https://apps.apple.com/us/app/king
   - https://www.kingdomhearts.com/xehanort/us/home/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.jp.square-enix.com/kingdom/xehanort/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts Dark Road article, Development and release section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Dark_Road#Development_and_release -- first announced in January 2020 as Project Xehanort, developed by the Union χ team and accessed inside Union χ, which was rebranded Kingdom Hearts Union χ Dark Road; released worldwide on 2020-06-22 in Union χ version 4.0.0; end of service announced 2021-02-25 (delayed to 2021-06-17), rendering it unplayable; the version 5.0.0 update of 2022-08-26 added the remaining chapters and made it playable offline without microtransactions; delisted from all digital storefronts in August 2024; in September 2026 a fan developer released an unofficial browser-based port of the offline version, with speed adjustment and unlimited BP -- accessed 2026-11-10 (revision 1381683717 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
+## en.wikipedia.org (Information; Kingdom Hearts χ article, Release section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_%CF%87#Release -- the same unofficial browser-based fan port of the offline version, released in September 2026, is named here; the app was delisted from all storefronts in August 2024 -- accessed 2026-11-10 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

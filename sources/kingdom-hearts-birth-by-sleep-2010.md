@@ -547,4 +547,8 @@
 - https://www.khwiki.com/Kingdom_Hearts_Birth_by_Sleep_Final_Mix#External_links -- 1 links -- accessed 2026-11-09 (revision 900045 of 2024-11-17; wikitext read through the MediaWiki API)
   - http://www.square-enix.co.jp/kingdom/bbsfm/ -- Official JP website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts Birth by Sleep article, Versions and merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- a limited-edition PSP-3000 bundle in Japan with Kingdom Hearts designs on its back; the English version announced 2010-03-16 and released 2010-09-07 in North America and 2010-09-10 in PAL regions, with Critical Mode, extra Ice Cream Beat songs, a new boss (the Unknown) and Crown Stickers, and a voice cast including Jesse McCartney, James Woods, Willa Holland, Jason Dohring, Leonard Nimoy and Mark Hamill; Final Mix announced in September 2010 and released 2011-01-20 in Japan (English audio with Japanese text, all overseas additions, a new secret episode for Aqua tying into A Fragmentary Passage, a code for Dissidia 012 downloadable content with Cloud's original costume; 77,317 units in the first week, 106,276 by February 2011); Final Mix first released outside Japan in Kingdom Hearts HD 2.5 Remix (announced 2013-10-14, released 2014-10-02 in Japan, 2014-12-02 in North America, 2014-12-04 in Australia, 2014-12-05 in Europe, PlayStation 3 only); an Ultimania guidebook on 2010-03-25 (a guide) -- accessed 2026-11-10 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

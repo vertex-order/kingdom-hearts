@@ -622,4 +622,8 @@
 - https://www.khwiki.com/Kingdom_Hearts_II_Final_Mix#External_links -- 1 links -- accessed 2026-11-09 (revision 918013 of 2026-08-02; wikitext read through the MediaWiki API)
   - http://www.square-enix.co.jp/kingdom2fm/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts II article, Merchandise and printed adaptations section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- the section also names the guides (Kingdom Hearts Series Ultimania α ~Introduction of Kingdom Hearts II~ before release, Kingdom Hearts II Ultimania after it, Kingdom Hearts II Final Mix+ Ultimania; Kingdom Hearts -Another Report-, a hardback released with Final Mix; two BradyGames strategy guides in North America) and Play Arts, Bright Arts and Form-ism figures (ignored); Square Enix's Japanese toys were not exported because of Disney licensing -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

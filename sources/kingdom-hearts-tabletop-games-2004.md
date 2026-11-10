@@ -45,4 +45,8 @@ Rough. No polish obligation. Tags: `used` · `dup` · `mine` · `empty` · `shal
   - Capture: live (2026-11-03) pages: search results for "kingdom hearts" (first 50 of 2890, relevance order); only the live pages are saved, no Wayback capture read; game pages are not visited; each card shows title, year, platforms, and a type label with the parent game for ports, remakes, remasters and expanded games
   - Kingdom Hearts Tabletop Games -- not in IGDB: no title of that name among the saved results of the search "kingdom hearts" (https://www.igdb.com/search?q=kingdom%20hearts&type=1&utf8=%E2%9C%93)
 
+## en.wikipedia.org (Information; Kingdom Hearts article, Merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts#Merchandise -- Kingdom Hearts was adapted as a trading card game by Tomy of Japan; Fantasy Flight Games released an English version in November 2007 -- accessed 2026-11-10 (revision 1380444761 of 2026-10-15; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions

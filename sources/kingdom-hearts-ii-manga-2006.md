@@ -687,6 +687,10 @@ breezewiki.com (Information)
 - https://breezewiki.com/khmanga/wiki/Kingdom_Hearts_II_Volume_4_(omnibus) — ISBN, date, contents — accessed 2026-10-13 — archived: TODO
   - May 30, 2017; ISBN 978-0-316-38272-4; collects Volumes 8, 9 and 10; the fourth and final omnibus
 
+## en.wikipedia.org (Information; Kingdom Hearts II article, Merchandise and printed adaptations section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_II#Merchandise_and_printed_adaptations -- a manga adaptation in Monthly Shonen Gangan drawn by Shiro Amano; serialization began in 2006, went on hiatus while Amano worked on the 358/2 Days manga, resumed in October 2012 and continued until May 2015; ten standalone volumes in Japan, the first in December 2006; Tokyopop published the first two volumes in North America (July 2007 and May 2008), Planeta DeAgostini published Spanish versions, Yen Press obtained the North American rights in 2013 (Tokyopop shut down in the region in 2011) and published the fourth volume in May 2017 -- accessed 2026-11-10 (revision 1384817805 of 2026-11-10; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

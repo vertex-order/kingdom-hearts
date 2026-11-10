@@ -81,6 +81,10 @@ breezewiki.com (Information)
     - Kingdom Hearts Birth By Sleep: The Novel
   - Fan wiki (khmanga); lists titles only, no dates or ISBNs on this page
 
+## en.wikipedia.org (Information; Kingdom Hearts Birth by Sleep article, Versions and merchandise section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep#Versions_and_merchandise -- a light novel written by Tomoko Kanemaki and illustrated by Shiro Amano: volume 1 Something Strange on 2010-12-24, volume 2 Best Friends on 2011-02-24, and the third and final volume To the Future on 2011-05-26, all from Square Enix -- accessed 2026-11-10 (revision 1384026760 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
 
 - Vol. 2 language: Japanese, confirmed — goodreads' "Slovak" tag (https://www.goodreads.com/book/show/10537628-kingdom-hearts-birth-by-sleep-2) is a metadata error, now resolved by google books independently confirming Japanese (same ISBN, same garbled "Tōkyō : Sukuea Enikkusu" publisher transliteration pattern as Vol. 1/Vol. 3).

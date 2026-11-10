@@ -640,4 +640,8 @@
 - https://www.khwiki.com/Kingdom_Hearts_Final_Mix#External_links -- 1 links -- accessed 2026-11-09 (revision 918073 of 2026-08-03; wikitext read through the MediaWiki API)
   - http://www.square-enix.co.jp/games/ps2/finalmix/ -- Official website -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## en.wikipedia.org (Information; Kingdom Hearts (video game) article, Related media section, live page of 2026-11-10)
+
+- https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)#Related_media -- merchandise from Square and Disney (toys, figurines, clothing, books); an Ultimania in Japan after release and a revised edition after Final Mix; a BradyGames strategy guide with a walkthrough and a sticker activity journal in North America -- accessed 2026-11-10 (revision 1384026453 of 2026-11-06; wikitext read through the MediaWiki API); archived: TODO
+
 ## Decisions
