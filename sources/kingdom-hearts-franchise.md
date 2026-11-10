@@ -544,6 +544,11 @@
 - https://strategywiki.org/wiki/Category:RPG -- StrategyWiki's Category:RPG, visited and audited for Kingdom Hearts titles -- accessed 2026-11-08 (page list read through the API; subcategories not opened); archived: TODO
   - A scan of the page titles found no Kingdom Hearts title
 
+## finalfantasywiki.com (Information; Kingdom Hearts page, Characters section, live page of 2026-11-10)
+
+- https://finalfantasywiki.com/wiki/Kingdom_Hearts#Characters -- the table of Final Fantasy characters that have appeared in a Kingdom Hearts game (by game of origin: VI, VII, VIII, IX, X, X-2, with the Moogle appearing in all of them); the games it names: Kingdom Hearts, Kingdom Hearts: Chain of Memories, Kingdom Hearts II, Kingdom Hearts coded, Kingdom Hearts III Re Mind, Kingdom Hearts Union χ and Kingdom Hearts: Birth by Sleep -- accessed 2026-11-10 (revision 18936 of 2026-09-04; wikitext read through the MediaWiki API); archived: TODO
+  - Audit of the entries' descriptions: each named game has a description that mentions Final Fantasy (Kingdom Hearts Final Mix, Re:Chain of Memories, Kingdom Hearts II Final Mix, Re:coded, Union χ, III and III Re Mind, Birth by Sleep Final Mix); the specific game and characters need not be listed
+
 ## finalfantasywiki.com (Information; Final Fantasy Wiki, Category:Games tree)
 
 - https://finalfantasywiki.com/wiki/Category:Games -- the Final Fantasy Wiki's (finalfantasywiki.com, not Fandom) Category:Games and its subcategories, visited and audited -- accessed 2026-11-08 (read through https://finalfantasywiki.com/w/api.php); archived: TODO
