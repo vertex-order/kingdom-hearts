@@ -1043,6 +1043,10 @@
 - https://www.tvmaze.com/search?q=kingdom+hearts -- TVmaze search for "kingdom hearts" (address pattern https://www.tvmaze.com/search?q=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 - https://www.tvmaze.com/shows/48363/kingdom-hearts-the-series -- Kingdom Hearts The Series, TVmaze show id 48363, type Animation, status In Development, web channel Disney+, Japanese; summary: an anime adaptation that reimagines the iconic adventure with a brand-new story that will expand on the universe; no episodes, premiere date, runtime, genres, external ids, cast or rating shown -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## anilist.co (Information; AniList anime search)
+
+- https://anilist.co/search/anime?search=kingdom%20hearts -- AniList anime search for "kingdom hearts" (address pattern https://anilist.co/search/anime?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO

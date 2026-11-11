@@ -411,4 +411,8 @@
 
 - https://letterboxd.com/film/kingdom-hearts-back-cover/ -- Kingdom Hearts χ Back Cover as a film, Japanese title キングダム ハーツ キー バックカバー, 2017, 62 mins, director Tetsuya Nomura, co-director Tai Yasue, writer Tetsuya Nomura, studios Square Enix and Disney Interactive Studios, English, 5 fans; synopsis: seven keyblade wielders in Daybreak Town must determine who can be trusted after a missing page in their Book of Prophecies reveals a traitor among them, tagline "May your heart be your guiding key."; releases listed Japan 2017-01-12 and USA 2017-01-24 (NR), physical, with Kingdom Hearts 2.8; alternate title Kingdom Hearts x Back Cover; no IMDb link, TMDB movie 538347, short link https://boxd.it/jCts -- accessed 2026-11-10; archived: TODO
 
+## anilist.co (Information; AniList anime page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/anime/103441/Kingdom-Hearts-Back-Cover/ -- Kingdom Hearts χ Back Cover (キングダム ハーツ キー バックカバー), AniList id 103441, MyAnimeList id 35776, format OVA, 62 min, 2017-01-12, studio Square Enix, source Video Game, genres Action, Fantasy and Mystery, average score 67, popularity 2213, 48 favourites, country JP, synonyms Kingdom Hearts Unchained Key Backcover and Kingdom Hearts Unchained X Backcover -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
