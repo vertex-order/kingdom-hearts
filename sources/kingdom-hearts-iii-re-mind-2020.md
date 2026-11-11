@@ -281,6 +281,10 @@
   - https://www.kingdomhearts.com/3/us/dlc/ -- Official NA Site -- link recorded only -- accessed 2026-11-09; archived: TODO
   - https://www.jp.square-enix.com/kingdom/kh3/dlc/index.html -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt12712214/ -- IMDb title page for Kingdom Hearts III Re:Mind, IMDb id tt12712214, type Video Game, year 2020, release date 2020-01-23, genres Action, Adventure, Family, rating 7.5 from 120 votes; plot: Determined to rescue Kairi, Sora travels to the Keyblade Graveyard a short time before the final battle takes place. Lacking a corporeal form, he traces the hearts of the seven guardians of light and experiencing their battles firsthand. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Languages (user, 2026-10-30): listed on the base game's entry, not on this expansion/DLC entry, unless a source names a language exception specific to it; a store page for the expansion shows the base game's languages.

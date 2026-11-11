@@ -167,4 +167,8 @@ publisher-stated date).
 - https://www.khwiki.com/Kingdom_Hearts_IV#External_links -- 1 links -- accessed 2026-11-09 (revision 921108 of 2026-09-09; wikitext read through the MediaWiki API)
   - https://www.jp.square-enix.com/kingdom/kh4/ -- Official JP Site -- link recorded only -- accessed 2026-11-09; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt19473338/ -- IMDb title page for Kingdom Hearts IV, IMDb id tt19473338, type Video Game, year 2027, release date 2027, certificate Not Rated, genres Action, Adventure, Fantasy, no rating shown; plot: Sora has vanished into Unreality for abusing the Power of Waking to save the Guardians of Light. While his friends look for a way to bring him back, the machinations of the Master of Masters continues to play out. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

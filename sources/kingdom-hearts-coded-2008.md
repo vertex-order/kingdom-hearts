@@ -565,4 +565,8 @@
 
 - https://www.themoviedb.org/movie/1565939-re -- Kingdom Hearts Re:coded as a film, original title キングダム ハーツ Re:コーデッド, 2014, 3h 1m, released 2014-12-02 (CA; the only release date shown), original language Japanese, genres Action, Adventure, Animation, Fantasy, Family and Science Fiction, keyword video game, director Tetsuya Nomura, writer Daisuke Watanabe, voice cast Miyu Irino (Data Sora), Mamoru Miyano (Data Riku), Iku Nakahara (Data Naminé), Koki Uchiyama (Data Roxas), Takashi Aoyagi (Mickey Mouse), Koichi Yamadera (Donald Duck / Genie); TMDB id 1565939 -- accessed 2026-11-10; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt1708527/ -- IMDb title page for Kingdom Hearts Re:coded, IMDb id tt1708527, type Video Game, year 2010, release date 2011-01-14, certificate 12, genres Action, Adventure, Family, rating 6.8 from 781 votes; plot: In Disney Castle, Jiminy notices strange messages appearing in the journal. Mickey, Donald and Goofy decide to find out what's going by decoding all of the data, and find themselves trapped in the coded world. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

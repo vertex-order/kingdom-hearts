@@ -298,4 +298,8 @@
 
 - https://www.co-optimus.com/game/7509/nintendo-switch/kingdom-hearts-melody-of-memory.html -- Nintendo Switch: co-op for 2 players, local; 2 players, online; co-op* -- accessed 2026-11-10; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt12527884/ -- IMDb title page for Kingdom Hearts: Melody of Memory, IMDb id tt12527884, type Video Game, year 2020, release date 2020-11-13, certificate E10+, genres Adventure, Family, Fantasy, rating 6.6 from 244 votes; plot: Experience the music of Kingdom Hearts like never before. Melody of Memory is a rhythm action game featuring 20+ characters, 140+ music tracks and online VS multiplayer mode. Explore the music and memories from the Kingdom Hearts series. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

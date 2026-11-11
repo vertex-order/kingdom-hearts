@@ -533,4 +533,9 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_3D_%EF%BC%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0_%E3%83%89%E3%83%AD%E3%83%83%E3%83%97_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%EF%BC%BD#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts 3D [Dream Drop Distance] Ultimania (2012-05-01, ISBN 978-4-7575-3615-9); the novels Side Sora (2012-06-28) and Side Riku (2012-09-27) by Tomoko Kanemaki, illustrated by Shiro Amano -- accessed 2026-11-10 (revision 111275589 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt2125539/ -- IMDb title page for Kingdom Hearts 3D: Dream Drop Distance, IMDb id tt2125539, original title Kingudamu hâtsu 3D: Dorîmu doroppu disutansu, type Video Game, year 2012, release date 2012-07-20, certificate 12, genres Action, Adventure, Family, rating 7.9 from 1,182 votes; plot: King Mickey and Yen Sid prepare for an impending threat by putting Sora and Riku through the Mark of Mastery exam. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt5034320/ -- IMDb title page for Kingdom Hearts HD 2.8 Final Chapter Prologue, IMDb id tt5034320, type Video Game, year 2017, release date 2017-01-24, certificate E10+, genres Action, Adventure, Family, rating 8.3 from 681 votes; plot: A compilation featuring a high-definition remake of "Kingdom Hearts: Dream Drop Distance" (2012), a new game featuring Aqua's time in the Realm of Darkness, and a film that follows the story of the Foretellers and the Master of Masters. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

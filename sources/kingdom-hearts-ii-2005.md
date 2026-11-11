@@ -638,4 +638,16 @@
 
 - https://myanimelist.net/manga/22829/Kingdom_Hearts_Another_Report -- Kingdom Hearts Another Report (キングダムハーツ アナザーレポート; synonyms KH: Another Report, Tobira wo Tojita Ato, After the Door is Closed and Roxas: Somewhere in Time), MyAnimeList id 22829, type Manga, volumes unknown, 2 chapters, Finished, 2007-03-29, genre Drama, no serialization, story and art Shiro Amano, story Tomoko Kanemaki, score 7.08, popularity rank 17802, 1,089 members, 19 favourites; synopsis: a 64-page bonus book given to pre-orders of Kingdom Hearts II: Final Mix+, containing a manga chapter and a short story about Roxas -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt0390163/ -- IMDb title page for Kingdom Hearts II, IMDb id tt0390163, type Video Game, year 2005, release date 2006-09-29, certificate 12, genres Action, Adventure, Family, rating 9.3 from 8,208 votes; plot: Sora and friends face mysterious new enemies as they continue their journey to save all worlds, and find Riku and King Mickey. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt1018736/ -- IMDb title page for Kingdom Hearts II: Final Mix+, IMDb id tt1018736, type Video Game, year 2007, release date 2007-03-30, genres Action, Adventure, Family, rating 9.2 from 1,553 votes; plot: Sora and friends must set out on another adventure to find his long lost friends and stop Organization XIII. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt3728286/ -- IMDb title page for Kingdom Hearts HD 2.5 Remix, IMDb id tt3728286, type Video Game, year 2014, release date 2014-12-05, certificate E10+, genres Action, Adventure, Family, rating 9.1 from 1,096 votes; plot: After the events of Kingdom Hearts HD 1.5 Remix (2013), a boy named Roxas wakes up in Twilight Town trying to make it through his last days of summer vacation when he finds out that his dreams are actually Sora's memories and he must return them to him. -- accessed 2026-11-11; archived: TODO
+
+## imdb.com (Information; IMDb title page saved by the user on 2026-11-11)
+
+- https://www.imdb.com/title/tt28526058/ -- The Voices of Kingdom Hearts II (TV special, 2005), interviews of the voice cast of Kingdom Hearts II; IMDb id tt28526058, released 2005-12 (United States), 13 min, genre Short, no rating, English, United States, no companies or crew listed; appears as themselves: Hedy Burress, Steve Burton, Rachael Leigh Cook, David Gallagher, Jesse McCartney, Haley Joel Osment, Hayden Panettiere, Brittany Snow, Tara Strong, Mena Suvari, Ming-Na Wen and James Woods -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
+
+- Not listed (user, 2026-11-11): The Voices of Kingdom Hearts II (a 13-minute TV special of 2005 interviewing the voice cast); behind-the-scenes content is not entertaining on its own (docs/data.md, "What belongs on a list")

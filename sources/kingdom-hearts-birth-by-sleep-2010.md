@@ -563,4 +563,9 @@
 
 - https://www.co-optimus.com/game/8355/psp/kingdom-hearts-birth-by-sleep.html -- PSP: co-op for 6 players, ad hoc LAN; co-op* -- accessed 2026-11-10; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt1390843/ -- IMDb title page for Kingudamu hâtsu: Bâsu bai surîpu, IMDb id tt1390843, type Video Game, year 2010, release date 2010-09-10, certificate 12, genres Action, Adventure, Family, rating 8.6 from 2,030 votes; plot: Ten years before Sora held the Keyblade, three young Keyblade wielders bound by friendship, face being torn apart by the sinister monsters terrorizing other worlds and the manipulative mastermind behind them. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt17737856/ -- IMDb title page for Kingdom Hearts: Birth by Sleep - Final Mix, IMDb id tt17737856, type Video Game, year 2011, release date 2011-01-20, genres Fantasy, rating 7.7 from 112 votes; plot: Long before Sora was chosen by his Keyblade, the worlds' safety lay in the hands of the true Keyblade Masters. Three youths - Terra, Ventus and Aqua - have been training long and hard under Master Eraqus to prove that they, too, exhibit the Mark of Mastery. But they will soon find themselves in the middle of a crisis affecting worlds far beyond their own - just as another Keyblade Master, Xehanort, goes mysteriously missing. Three friends, three destinies. Everything will link back to the beginning. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

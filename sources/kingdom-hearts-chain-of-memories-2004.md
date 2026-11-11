@@ -608,4 +608,9 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guide Kingdom Hearts Chain of Memories Ultimania (2004-12-17, ISBN 4-7575-1344-5); the manga and novel are listed in their own entries' files -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt0445995/ -- IMDb title page for Kingdom Hearts: Chain of Memories, IMDb id tt0445995, type Video Game, year 2003, release date 2005-05-06, certificate 3+, genres Adventure, Family, Fantasy, rating 7.4 from 1,007 votes; plot: Sora's quest for answers takes him into the mysterious Castle Oblivion, however as he gets deeper into the castle, he finds himself targeted by a shadowy organization and gradually begins to lose his memories. -- accessed 2026-11-11; archived: TODO
+- https://www.imdb.com/title/tt1300585/ -- IMDb title page for Kingdom Hearts Re: Chain of Memories, IMDb id tt1300585, type Video Game, year 2007, release date 2007-03-29, certificate E10+, genres Action, Adventure, Family, rating 7.2 from 1,125 votes; plot: Ahead lies something you need -- but to claim it, you must lose something dear. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

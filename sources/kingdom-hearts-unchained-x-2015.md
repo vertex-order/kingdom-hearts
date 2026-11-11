@@ -119,6 +119,10 @@ Page URL by capture: 2016-04-11 to 2018-11-16 https://itunes.apple.com/us/app/ki
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_%CF%87#Release -- the western localization Kingdom Hearts Unchained χ revealed at E3 2015; released in Japan on 2015-09-03, in North America on 2016-04-07 and in Europe on 2016-06-16; on the Amazon Appstore on 2019-01-29; rebranded Kingdom Hearts Union χ Dark Road in June 2020; end of service announced 2021-02-25, reached 2021-06-17 (Japan) and 2021-06-30 (global) with an offline theater mode; the app was delisted from all digital storefronts in August 2024; in September 2026 a fan developer released an unofficial browser-based port of the offline version -- accessed 2026-11-10 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt6634570/ -- IMDb title page for Kingdom Hearts: Union X, IMDb id tt6634570, original title Kingudamu hâtsu yunion kurosu, type Video Game, year 2017, release date 2017-03-23, genres Adventure, rating 6 from 42 votes; plot: The Kingdom Hearts story begins here. Meet faces both familiar and new as you become the hero of your very own tale. Fight alongside an all-star cast. Tap and swipe to execute mighty attacks. Equip character Medals featuring beloved Disney and Final Fantasy characters to call on their strength in battle. Customize your equipment and find new strategies to overcome fierce enemies. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Entry is titled *Kingdom Hearts Union χ* (the name people know now); the original *Unchained χ* name is stated in the description. The `id`, anchor and this filename keep the original title. The `[Cross]` gloss is in the description and the search qualifiers, not the title.

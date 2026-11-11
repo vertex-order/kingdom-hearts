@@ -564,4 +564,8 @@ Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#Exte
 - https://og.trakt.tv/movies/kingdom-hearts-358-2-days-2013 -- Kingdom Hearts 358/2 Days as a film, original title キングダム ハーツ 358/2 Days, 2013, 2h 50m, rated G, released 2013-03-14 (1 more release date) and DVD 2013-09-10, country Japan, language Japanese, genres Fantasy, Anime, Adventure and Action, studio Disney Interactive Studios plus 1, director and writer Tetsuya Nomura, 19 cast (Koki Uchiyama as Roxas, Keiji Fujiwara as Axel, Norio Wakamoto as Xemnas); Trakt rating 77% from 17 votes (the page also shows TMDB 76%); IMDb tt1302571, TMDB 622057; tagline "What mattered the most was remembered the least." -- accessed 2026-11-10; archived: TODO
   - https://tvtime.trakt.tv/movies/kingdom-hearts-358-2-days-2013 -- same slug, other Trakt front end -- dup
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt1302571/ -- IMDb title page for Kingdom Hearts: 358/2 Days, IMDb id tt1302571, type Video Game, year 2009, release date 2009-10-02, certificate 12, genres Action, Adventure, Family, rating 7.8 from 1,337 votes; plot: Roxas, a young boy with no heart, endures 358 days as a member of Organization XIII. Being sent to other worlds, Roxas finds out more about this Organization than he was supposed to. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

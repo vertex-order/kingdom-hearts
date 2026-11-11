@@ -1059,6 +1059,12 @@
 
 - https://myanimelist.net/manga.php?cat=manga&q=kingdom%20hearts&type=0&score=0&status=0&mid=0&sm=0&sd=0&sy=0&em=0&ed=0&ey=0&c%5B%5D=a&c%5B%5D=b&c%5B%5D=c&c%5B%5D=f -- MyAnimeList manga search for "kingdom hearts" (address pattern https://myanimelist.net/manga.php?cat=manga&q=<term>; the filter fields are left at their defaults, the genre filters are a, b, c and f) -- live page of 2026-11-11, 18 rows on one page, each row's page opened, visited and audited; the last two rows, Heart no Kuni de Ochakai (https://myanimelist.net/manga/7008/Heart_no_Kuni_de_Ochakai, a Wonderland shoujo manga, 1 volume, 2008-04-17, Kazuko Furumiya) and Aquarium (https://myanimelist.net/manga/1478/Aquarium, a shoujo anthology, 1 volume, 1990, Tomoko Taniguchi, synonym The Heart Is Your Kingdom), are not Kingdom Hearts works and their pages never mention the game series; archived: TODO
 
+## imdb.com (Information; IMDb title searches, video game, movie and TV filters)
+
+- https://www.imdb.com/find/?q=kingdom%20hearts&s=tt&ttype=vg -- IMDb title search for "kingdom hearts", video game results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=vg) -- page saved by the user on 2026-11-11, 22 rows, visited and audited; archived: TODO
+- https://www.imdb.com/find/?q=kingdom%20hearts&s=tt&ttype=ft -- IMDb title search for "kingdom hearts", movie results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=ft) -- page saved by the user on 2026-11-11, 4 rows, of which Kingdom Hearts x Back Cover and The Road to Kingdom Hearts III are Kingdom Hearts works and The Kingdom of Human Hearts (1921) and My Kingdom from Heaven to Earth are not; visited and audited; archived: TODO
+- https://www.imdb.com/find/?q=kingdom%20hearts&s=tt&ttype=tv -- IMDb title search for "kingdom hearts", TV results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=tv) -- page saved by the user on 2026-11-11, 9 rows, of which Riyasat Aka Kingdom of Hearts (2005 to 2006, a drama) is not a Kingdom Hearts work; visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO
@@ -1110,8 +1116,12 @@ Franchise file only (no single group):
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.
 - **Future possibility: Kingdom Hearts: The Series (user, 2026-11-10):** an announced, unreleased animated TV series (Serializd lists no dates, one placeholder episode); out of scope for now, to be revisited as a possible entry once details are solidified
   - TMDB lists it as In Production on Disney Channel and Disney+, in English, with no air date (page above)
+  - IMDb lists it as a TV series (https://www.imdb.com/title/tt44124979/) with no year, genres Animation, Action and Adventure, and no rating (page above)
+  - IMDb also holds a second page, https://www.imdb.com/title/tt44127427/ (TV series titled Kingdom Hearts, no year, saved by the user on 2026-11-11): production status Pre-production, genres Animation and Adventure, no plot or rating, countries United States and Japan, companies Disney+ and Square Enix, no cast or crew listed
   - TheTVDB lists it as Upcoming on Disney Channel, produced by Square Enix, with no first air date (page above)
   - TVmaze lists it as In Development on Disney+, with no episodes or dates (page above)
+- **Not to be listed: The Voices of Kingdom Hearts II (user, 2026-11-11):** a 13-minute TV special (2005) interviewing the voice cast of Kingdom Hearts II; behind-the-scenes content is out of scope; details in sources/kingdom-hearts-ii-2005.md
+- **Not to be listed: The Road to Kingdom Hearts III (user, 2026-11-11):** a 48-minute fan documentary (2019, Alfheim Entertainment and KH13.com, Norway); fan-made and behind-the-scenes content is out of scope; details in sources/kingdom-hearts-iii-2019.md
 
 ## Surveyed
 

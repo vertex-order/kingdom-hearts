@@ -515,4 +515,14 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84III#%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81 -- the section lists the Postcard Book (2019-01-25), the Ultimania (2019-02-28) and the GAME NOVELS Kingdom Hearts III Vol.1 Re:Start!! (2019-03-28); read again to confirm the earlier record -- accessed 2026-11-10 (revision 111437160 of 2026-10-19; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt2973418/ -- IMDb title page for Kingdom Hearts III, IMDb id tt2973418, type Video Game, year 2019, release date 2019-01-31, certificate 12, genres Action, Adventure, Family, rating 8.2 from 2,922 votes; plot: Believing light and darkness must remain in balance, Master Xehanort seeks to spark war against the "tyranny of light" to restore equilibrium. -- accessed 2026-11-11; archived: TODO
+
+## imdb.com (Information; IMDb title page saved by the user on 2026-11-11)
+
+- https://www.imdb.com/title/tt8646102/ -- The Road to Kingdom Hearts III (2019), a 45-minute documentary featuring several content creators on the history of Kingdom Hearts, the build-up to Kingdom Hearts III and its community, also titled The Kingdom Hearts Documentary; IMDb id tt8646102, released 2019-01-19 (United States), 48 min, genre Documentary, rating 9.4 from 10 votes, English and Japanese, country Norway; companies Alfheim Entertainment and KH13.com; director and writer Sora Alfheim; narrator Luis Chavez (KZXcellent); appearing as themselves: KeybladeSarah, Aaron Elliott, Tony Hannawacker (Samurai Kibiji), Logan Toomey, SeaSaltShelby, Matt Kee (KHCentral), OfficialMoChocolate, LostInAdventures and Jacob Fields, with archive sound of Wayne Allwine and Tony Anselmo; official site khdocumentary.com -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
+
+- Not listed (user, 2026-11-11): The Road to Kingdom Hearts III (a 48-minute fan documentary of 2019 by Alfheim Entertainment and KH13.com); fan-made and behind-the-scenes content is out of scope (docs/data.md, "What belongs on a list")

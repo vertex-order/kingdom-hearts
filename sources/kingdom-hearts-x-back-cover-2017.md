@@ -419,4 +419,8 @@
 
 - https://myanimelist.net/anime/35776/Kingdom_Hearts_%CF%87_Back_Cover -- Kingdom Hearts χ Back Cover (キングダム ハーツ キー バックカバー), MyAnimeList id 35776, synonyms Kingdom Hearts Unchained Key Backcover and Kingdom Hearts Unchained X Backcover, type OVA, 1 episode of 1 hr 2 min, aired 2017-01-12, producer Square Enix, no studio listed, source Game, genres Action, Fantasy and Mystery, rating PG-13, score 6.80, popularity rank 9392, 5,622 members, 25 favourites; synopsis: seven Keyblade wielders in Daybreak Town protect the world's light until a foreseen conflict leads the Master of Masters to vanish -- accessed 2026-11-11; archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt50571654/ -- IMDb title page for Kingdom Hearts x Back Cover, IMDb id tt50571654, type Movie, year 2017, release date 2017-01-12, runtime 62 min, genres Animation, Action, Adventure, no rating shown; plot: Long ago, seven Keyblade wielders protected Daybreak Town. But when a missing page in the Book of Prophecies reveals a traitor among them, they must question who they can truly trust. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

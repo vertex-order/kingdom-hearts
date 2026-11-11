@@ -114,6 +114,10 @@
 
 - https://en.wikipedia.org/wiki/Kingdom_Hearts_%CF%87#Release -- announced at the Tokyo Game Show on 2012-09-20 as Kingdom Hearts for PC Browsers; closed beta from 2013-03-22 (Yahoo Japan ID), open beta from 2013-07-09, official service from 2013-07-18; discontinuation announced in April 2016 for September 2016; the western localization was delayed when Playdom shut down -- accessed 2026-11-10 (revision 1381683474 of 2026-10-24; wikitext read through the MediaWiki API); archived: TODO
 
+## imdb.com (Information; IMDb title-search results for "kingdom hearts", video game and movie filters, saved by the user on 2026-11-11; the title pages answer HTTP 403, so facts are what the results lists showed: plot, genres, rating and vote count)
+
+- https://www.imdb.com/title/tt5615914/ -- IMDb title page for Kingdom Hearts Chi, IMDb id tt5615914, original title Kingudamu hâtsu Kî, type Video Game, year 2013, release date 2013-07-18, genres Action, Fantasy, rating 6.5 from 64 votes; plot: Set centuries prior to the start of Kingdom Hearts' original story, players assume the role of a Keyblade wielder who joins one of five factions led by Keyblade Masters fighting for control of the limited light existing in the world. -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Modeled as three distinct entries, not one app's renames: χ (browser, 2013, terminated 2016), Unchained/Union χ (mobile relaunch, 2015+, a separate numbered installment that "retells part of the story... before diverging"), and Dark Road (2020, its own installment number and article, different card-based gameplay merely delivered through the Union χ app) -- matches Wikipedia's own treatment of the three as distinct releases.
