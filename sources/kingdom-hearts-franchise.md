@@ -1024,6 +1024,10 @@
 - https://www.serializd.com/search?searchQuery=kingdom%20hearts -- Serializd search for "kingdom hearts" (address pattern https://www.serializd.com/search?searchQuery=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 - https://www.serializd.com/show/Kingdom-Hearts%3A-The-Series-331749 -- Kingdom Hearts: The Series, an unreleased animated TV series: country US, 1 season with 1 episode, premiere and last aired "N/A", status Running, genres Animation, Action & Adventure and Sci-Fi & Fantasy, tags Anime and Video Game; synopsis: reimagines the iconic adventure with a brand-new story that expands the Kingdom Hearts universe and features its fan-favorite characters; average rating 1.00, rating count 0; no TMDB or IMDb id shown (331749 is in the address) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## trakt.tv (Information; Trakt, Google search)
+
+- https://www.google.com/search?q=kingdom+hearts+site%3Atrakt.tv -- Google search for `kingdom hearts site:Trakt.tv`, which returns pages on og.trakt.tv, app.trakt.tv and tvtime.trakt.tv (three front ends of the same Trakt slugs) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO

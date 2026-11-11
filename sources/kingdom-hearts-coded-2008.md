@@ -556,4 +556,9 @@
 
 - https://letterboxd.com/film/kingdom-hearts-re-coded/ -- Kingdom Hearts Re:coded as a film, Japanese title キングダム ハーツ Re:コーデッド, 2014, 181 mins, director Tetsuya Nomura, writer Daisuke Watanabe, studio Square Enix, Japanese; synopsis: Jiminy Cricket finds a mysterious message in the journal of his first adventure with Sora, King Mickey and his friends digitize the journal and find a second Sora in the datascape; release dates listed Japan 2014-10-02, USA, Canada, Australia; IMDb tt1708527, TMDB movie 1565939, short link https://boxd.it/Ymi6 -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/kingdom-hearts-re-coded-2014 -- Kingdom Hearts Re:coded as a film, original title キングダム ハーツ Re:コーデッド, 2014, 3h 1m, released 2014-10-02 (7 more release dates) and DVD 2014-12-02, country Japan, language Japanese, genres Fantasy, Action, Adventure, Anime, Family and Science Fiction, studio Square Enix, director Tetsuya Nomura, 20 voice actors (Miyu Irino as Sora, Mamoru Miyano as Riku); Trakt rating 65% from 10 votes (the page also shows IMDb 6.8 and TMDB 65%); IMDb tt1708527, TMDB 1565939; tagline line "It's a play-full world!" -- accessed 2026-11-10; archived: TODO
+  - https://app.trakt.tv/movies/kingdom-hearts-re-coded-2014 -- same slug, other Trakt front end -- dup
+
 ## Decisions

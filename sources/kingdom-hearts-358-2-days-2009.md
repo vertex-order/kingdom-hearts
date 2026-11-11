@@ -559,4 +559,9 @@ Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#Exte
 
 - https://letterboxd.com/film/kingdom-hearts-358-2-days/ -- Kingdom Hearts 358/2 Days as a film, Japanese title キングダム ハーツ 358/2 Days, 2013, 170 mins, director Tetsuya Nomura, co-director Tai Yasue, writer Tetsuya Nomura, editors Keiichi Kojima and Yusuke Miyaoka, composer Yoko Shimomura, studios Square Enix and Disney Interactive Studios, countries Japan and USA, Japanese, 99 fans; synopsis "Follow Roxas through his days in Organization XIII as he searches for purpose in his life he was never meant to have."; releases listed Japan 2013-03-14 (G) and USA 2013-09-10 (PG), both as part of the Kingdom Hearts HD 1.5 ReMIX compilation; alternate titles Kingdom Hearts 358/2 Days HD 1.5 Remix, Kingdom Hearts 358 over 2 days; no IMDb link, TMDB movie 622057, short link https://boxd.it/n1ac -- accessed 2026-11-10; archived: TODO
 
+## trakt.tv (Information; Trakt page, live page of 2026-11-10)
+
+- https://og.trakt.tv/movies/kingdom-hearts-358-2-days-2013 -- Kingdom Hearts 358/2 Days as a film, original title キングダム ハーツ 358/2 Days, 2013, 2h 50m, rated G, released 2013-03-14 (1 more release date) and DVD 2013-09-10, country Japan, language Japanese, genres Fantasy, Anime, Adventure and Action, studio Disney Interactive Studios plus 1, director and writer Tetsuya Nomura, 19 cast (Koki Uchiyama as Roxas, Keiji Fujiwara as Axel, Norio Wakamoto as Xemnas); Trakt rating 77% from 17 votes (the page also shows TMDB 76%); IMDb tt1302571, TMDB 622057; tagline "What mattered the most was remembered the least." -- accessed 2026-11-10; archived: TODO
+  - https://tvtime.trakt.tv/movies/kingdom-hearts-358-2-days-2013 -- same slug, other Trakt front end -- dup
+
 ## Decisions
