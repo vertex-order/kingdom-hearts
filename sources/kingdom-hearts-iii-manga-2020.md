@@ -210,6 +210,14 @@ panini.co.uk (Publisher)
 
 - https://myanimelist.net/manga/119663/Kingdom_Hearts_III -- Kingdom Hearts III (キングダム ハーツIII, Manga), MyAnimeList id 119663, type Manga, 4 volumes, 41 chapters, Finished, 2019-04-29 to 2024-12-26, genres Action, Adventure, Comedy, Drama and Fantasy, serialized in Gangan Online, Shiro Amano (art), Tetsuya Nomura (story), score 7.10, popularity rank 14075, 1,511 members, 14 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-1 -- KINGDOM HEARTS III - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781975317386, 2020, 160p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-2 -- KINGDOM HEARTS III - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781975341800, 2022, 160p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-3 -- KINGDOM HEARTS III - VOL. 3; credits Shiro Amano; genre tag Manga RPG; editions: English paperback ISBN 9781804912980, 2025, 160p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-4 -- KINGDOM HEARTS III - VOL. 4; credits Shiro Amano; genre tag Manga RPG; editions: English paperback ISBN 9781804914137, 2026, 152p; Japanese paperback ISBN 9784757597457, 2025, 319p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.

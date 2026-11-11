@@ -110,6 +110,11 @@ breezewiki.com (Information)
 
 - https://myanimelist.net/manga/24412/Kingdom_Hearts__358_2_Days -- Kingdom Hearts: 358/2 Days (小説 キングダム ハーツ 358/2 Days, Light Novel), MyAnimeList id 24412, synonyms Kingdom Hearts: 358/2 Days Novel, The 14th, Go to the Sea and Xion-Seven Days, type Light Novel, 3 volumes, 24 chapters, Finished, 2009-07-30 to 2010-05-28, genres Action, Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.56, popularity rank 12649, 1,748 members, 47 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-the-novel -- KINGDOM HEARTS: 358/2 DAYS - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975327491, 2018, 448p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

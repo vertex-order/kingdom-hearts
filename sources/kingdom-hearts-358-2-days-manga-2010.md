@@ -229,6 +229,20 @@ breezewiki.com (Information)
 
 - https://myanimelist.net/manga/15104/Kingdom_Hearts__358_2_Days -- Kingdom Hearts 358/2 Days (キングダム ハーツ 358/2 Days), MyAnimeList id 15104, synonyms Disney Square Enix's Kingdom Hearts: 358/2 Days and Kingdom Hearts: Three Five Eight Over Two Days, type Manga, 5 volumes, 35 chapters, Finished, 2009-08-12 to 2012-09-12, genre Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 8.10, popularity rank 2021, 12,834 members, 491 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-5 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 5; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316336262, 2015, 240p -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-1 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316401180, 2013, 192p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-2 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316401197, 2014, 208p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-3 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 3; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316401203, 2014, 192p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-4 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 4; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316286761, 2014, 208p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-5 -- result on page 3 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).

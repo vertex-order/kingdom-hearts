@@ -1066,6 +1066,14 @@
 - https://www.imdb.com/find/?q=kingdom%20hearts&s=tt&ttype=ft -- IMDb title search for "kingdom hearts", movie results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=ft) -- page saved by the user on 2026-11-11, 4 rows, of which Kingdom Hearts x Back Cover and The Road to Kingdom Hearts III are Kingdom Hearts works and The Kingdom of Human Hearts (1921) and My Kingdom from Heaven to Earth are not; visited and audited; archived: TODO
 - https://www.imdb.com/find/?q=kingdom%20hearts&s=tt&ttype=tv -- IMDb title search for "kingdom hearts", TV results (address pattern https://www.imdb.com/find/?q=<term>&s=tt&ttype=tv) -- page saved by the user on 2026-11-11, 9 rows, of which Riyasat Aka Kingdom of Hearts (2005 to 2006, a drama) is not a Kingdom Hearts work; visited and audited; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library, search for "final fantasy")
+
+- https://www.thevideogamelibrary.org/search?q=final%20fantasy -- The Video Game Library site search for "final fantasy" (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages of 22 results (2,063 results, books only; a result is any book whose text mentions the term) -- live pages of 2026-11-11, all 94 pages read, Kingdom Hearts manga and novel rows included, visited and audited; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library, search for "kingdom hearts")
+
+- https://www.thevideogamelibrary.org/search?q=kingdom%20hearts -- The Video Game Library site search for "kingdom hearts" (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages of 22 results (1,130 results, books only; a result is any book whose text mentions the term) -- live pages of 2026-11-11, all 52 pages read, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO

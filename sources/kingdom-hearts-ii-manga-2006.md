@@ -707,6 +707,22 @@ breezewiki.com (Information)
 
 - https://myanimelist.net/manga/398/Kingdom_Hearts_II -- Kingdom Hearts II (キングダムハーツⅡ), MyAnimeList id 398, type Manga, 10 volumes, 69 chapters, Finished, 2006-05-12 to 2015-08-12, genres Adventure and Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 7.81, popularity rank 1722, 14,681 members, 492 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-2-1 -- KINGDOM HEARTS II - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781427800596, 2008, 192p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-4 -- KINGDOM HEARTS II - VOL. 4; credits Shiro Amano Kindle Edition Desperate to see Roxas again, Axel abandons everything--even Organization XIII and an old friend--to make his wish come true. What awaits him now that he has cut all ties...? Later, Sora, Donald, and Goofy storm the Organization XIII stronghold with one goal in mind--rescue the kidnapped Kairi! But by the time they get to her, this princess-in-distress might not need saving after all. Will they finally be able to make their dream of returning to Destiny Islands a reality? Sora's greatest adventure yet comes to a close!!; genre tag none; editions: English paperback ISBN 9780316382728, 2017, 624p -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-1-1 -- KINGDOM HEARTS II - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781427800589, 2007, 198p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-1 -- KINGDOM HEARTS II - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316401142, 2013, 496p; English ebook no ISBN, 2013, 496p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-2-1 -- result on page 1 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-2 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-3 -- KINGDOM HEARTS II - VOL. 3; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316288799, 2014, 416p; English ebook no ISBN, 2014, 416p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-4 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

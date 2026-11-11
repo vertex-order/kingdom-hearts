@@ -173,6 +173,12 @@ breezewiki.com (Information)
 - https://myanimelist.net/manga/90288/Kingdom_Hearts_II -- Kingdom Hearts II (キングダム ハーツII, Light Novel), MyAnimeList id 90288, synonyms Kingdom Hearts II: The Novel, Roxas-Seven days, The Destruction of Hollow Bastion, Tears of Nobody and Anthem-Meet Again/Axel Last Stand, type Light Novel, 4 volumes, 31 chapters, Finished, 2006-04-22 to 2007-02-22, genres Action, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.27, popularity rank 17013, 1,161 members, 32 favourites -- accessed 2026-11-11; archived: TODO
 - https://myanimelist.net/manga/90290/Kingdom_Hearts_II_Short_Stories -- Kingdom Hearts II Short Stories (キングダム ハーツII Short Stories), a separate MyAnimeList page for the side-story series to the Kingdom Hearts II novels, MyAnimeList id 90290, synonyms Other Diamonds and Axel-Seven Days, type Light Novel, 2 volumes, 15 chapters, Finished, 2007-11-20 to 2008-05-30, genres Action, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, no score, popularity rank 27822, 520 members, 3 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-the-novel-vol-1 -- KINGDOM HEARTS II - THE NOVEL VOL. 1; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9780316471930, 2017, 272p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-the-novel-vol-2 -- KINGDOM HEARTS II - THE NOVEL VOL. 2; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9780316411790, 2017, 276p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia/google-books placeholders to goodreads edition pages — JA links "Roxas—Seven Days" (Vol. 1, ISBN 9784757516793), EN links the Paperback omnibus (ISBN 9780316471930), scored 4.10 per that page.

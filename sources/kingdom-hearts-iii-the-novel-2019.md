@@ -128,4 +128,17 @@ store.jp.square-enix.com (Publisher)
 
 - https://myanimelist.net/manga/118320/Kingdom_Hearts_III -- Kingdom Hearts III (キングダム ハーツIII, Light Novel), MyAnimeList id 118320, synonym Kingdom Hearts III: The Novel, type Light Novel, 3 volumes, 28 chapters, Finished, 2019-03-28 to 2020-05-28, genres Action, Adventure and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura and Masaru Oka, art Shiro Amano, no score, popularity rank 29336, 470 members, 8 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-1-re-start -- KINGDOM HEARTS III - THE NOVEL VOL. 1: RE:START!!; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975308049, 2020, 162p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-3-remind-me-again -- KINGDOM HEARTS III - THE NOVEL VOL. 3: REMIND ME AGAIN; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975317362, 2021, 304p -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-1-re-start -- result on page 3 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-2-new-seven-hearts -- KINGDOM HEARTS III - THE NOVEL VOL. 2: NEW SEVEN HEARTS; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975315306, 2020, 160p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-3-remind-me-again -- result on page 3 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

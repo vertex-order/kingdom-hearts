@@ -692,6 +692,26 @@ yenpress.com (Information)
 
 - https://myanimelist.net/manga/396/Kingdom_Hearts -- Kingdom Hearts (キングダムハーツ), MyAnimeList id 396, synonyms KH, Disney Square Enix's Kingdom Hearts, Kingdom Hearts Final Mix, Kammatsu Yomikiri: Winnie the Pooh and Kingdom Hearts: Final Mix, type Manga, 4 volumes, 43 chapters, Finished, 2003-10 to 2005-01-31, genres Adventure and Fantasy, demographic Shounen, no serialization, Shiro Amano (art), Tetsuya Nomura (story), score 7.35, popularity rank 918, 24,922 members, 783 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-1 -- KINGDOM HEARTS - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598162172, 2005, 144p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-2 -- KINGDOM HEARTS - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598162187, 2006, 144p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-3 -- KINGDOM HEARTS - VOL. 3; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598162196, 2006, 176p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-4 -- KINGDOM HEARTS - VOL. 4; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598162202, 2006, 136p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1 -- KINGDOM HEARTS: FINAL MIX - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316254205, 2013, 272p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1-1 -- KINGDOM HEARTS: FINAL MIX - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316464444, 2016, 306p -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-2 -- result on page 1 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-3 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-vol-4 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.

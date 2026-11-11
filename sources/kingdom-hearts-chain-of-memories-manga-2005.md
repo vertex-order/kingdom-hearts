@@ -198,4 +198,17 @@ breezewiki.com (Information)
 
 - https://myanimelist.net/manga/397/Kingdom_Hearts__Chain_of_Memories -- Kingdom Hearts: Chain of Memories (キングダムハーツ チェインオブメモリーズ), MyAnimeList id 397, synonyms Disney Square Enix's Kingdom Hearts: Chain of Memories and KH:CoM, type Manga, 2 volumes, 13 chapters, Finished, 2005-03-12 to 2006-03-11, genres Adventure and Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 7.45, popularity rank 1824, 14,063 members, 204 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "final fantasy", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=final%20fantasy (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 94 pages, 2,063 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories-vol-1 -- KINGDOM HEARTS: CHAIN OF MEMORIES - VOL. 1; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598166379, 2006, 208p; English ebook no ISBN, 2016, 208p -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories -- KINGDOM HEARTS: CHAIN OF MEMORIES; credits Shiro Amano; genre tag N/A; editions: English paperback ISBN 9781598166387, 2013, 432p -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories-vol-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories-vol-2 -- KINGDOM HEARTS: CHAIN OF MEMORIES - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598166387, 2007, 240p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories -- result on page 1 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

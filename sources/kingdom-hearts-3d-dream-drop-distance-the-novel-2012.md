@@ -97,3 +97,8 @@ breezewiki.com (Information)
 ## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
 
 - https://myanimelist.net/manga/79719/Kingdom_Hearts_3D__Dream_Drop_Distance -- Kingdom Hearts 3D: Dream Drop Distance (小説 キングダム ハーツ 3D ドリーム ドロップ ディスタンス), MyAnimeList id 79719, type Light Novel, 2 volumes, chapters unknown, Finished, 2012-06-28 to 2012-09-27, genres Action, Adventure and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.06, popularity rank 16413, 1,218 members, 21 favourites -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-3d-dream-drop-distance-the-novel -- KINGDOM HEARTS 3D: DREAM DROP DISTANCE - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975358617, 2019, 304p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO

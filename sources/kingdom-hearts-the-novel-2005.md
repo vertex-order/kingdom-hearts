@@ -154,6 +154,11 @@ yenpress.com (Information)
 
 - https://myanimelist.net/manga/22830/Kingdom_Hearts -- Kingdom Hearts (キングダムハーツ, Light Novel), MyAnimeList id 22830, synonyms KH and Kingdom Hearts: The Novel, type Light Novel, 2 volumes, 15 chapters, Finished, 2005-06-30 to 2005-07-29, genres Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.63, popularity rank 9071, 2,642 members, 169 favourites -- accessed 2026-11-11; archived: TODO
 
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-the-novel -- KINGDOM HEARTS - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9780316260190, 2015, 288p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 ## Surveyed

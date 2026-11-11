@@ -78,3 +78,8 @@ breezewiki.com (Information)
 ## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
 
 - https://myanimelist.net/manga/90289/Kingdom_Hearts_Re_coded -- Kingdom Hearts Re:coded (キングダム ハーツ Re:コーデッド), MyAnimeList id 90289, type Light Novel, 1 volume, chapters unknown, Finished, 2011-07-28, genres Action, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 6.80, popularity rank 17550, 1,110 members, 11 favourites -- accessed 2026-11-11; archived: TODO
+
+## thevideogamelibrary.org (Information; The Video Game Library search for "kingdom hearts", live pages of 2026-11-11)
+
+- Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
+  - https://www.thevideogamelibrary.org/book/kingdom-hearts-re-coded-the-novel -- KINGDOM HEARTS: RE:CODED - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975385392, 2019, 176p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
