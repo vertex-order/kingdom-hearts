@@ -221,6 +221,10 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (September 2009 issue to October 2012 issue), begun by suspending the Kingdom Hearts II manga: volume 1 2010-06-22 (ISBN 978-4-7575-2902-1), 2 2011-03-22, 3 2011-10-22, 4 2012-04-21, 5 2012-09-22 -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/45104/Kingdom-Hearts-3582-Days/ -- キングダム ハーツ スリーファイブエイト デイズオーバーツー, AniList id 45104, MyAnimeList id 15104, format Manga, Finished, 35 chapters in 5 volumes, 2009-05-30 to 2012-08-11, story and art Shiro Amano, original creator Tetsuya Nomura, Spanish translator Maite Madinabeitia, average score 78, popularity 2852, 137 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).

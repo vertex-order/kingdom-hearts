@@ -93,6 +93,10 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%90%E3%83%BC%E3%82%B9_%E3%83%90%E3%82%A4_%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki (original concept by Tetsuya Nomura and Masaru Oka), illustrated by Shiro Amano: Vol.1 Something Strange 2010-12-24 (ISBN 978-4-7575-3111-6), Vol.2 Best Friends 2011-02-24, Vol.3 To the Future 2011-05-26 -- accessed 2026-11-10 (revision 111411803 of 2026-10-17; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/56006/Kingdom-Hearts-Birth-by-Sleep/ -- キングダムハーツバースバイスリープ, AniList id 56006, MyAnimeList id 26006, format Novel, Finished, 19 chapters in 3 volumes, 2010-12-24 to 2011-05-26, story Tomoko Kanemaki, original creator Tetsuya Nomura, illustration Shiro Amano, average score 69, popularity 503, 12 favourites, volume-title synonyms Something Strange, Best Friends and To the Future -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Vol. 2 language: Japanese, confirmed — goodreads' "Slovak" tag (https://www.goodreads.com/book/show/10537628-kingdom-hearts-birth-by-sleep-2) is a metadata error, now resolved by google books independently confirming Japanese (same ISBN, same garbled "Tōkyō : Sukuea Enikkusu" publisher transliteration pattern as Vol. 1/Vol. 3).

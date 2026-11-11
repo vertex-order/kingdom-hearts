@@ -104,4 +104,8 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Sora's story upper volume 2005-10-22 (ISBN 4-7575-1568-5) and lower volume 2005-11-30, Reverse/Rebirth 2006-01-31 -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/54413/Kingdom-Hearts-Chain-of-Memories/ -- キングダムハーツ チェイン オブ メモリーズ as a Novel, AniList id 54413, MyAnimeList id 24413, format Novel, Finished, 23 chapters in 2 volumes, 2005-10-22 to 2006-01-31, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, average score 67, popularity 379, 6 favourites, synonyms include キングダムハーツ チェイン オブ メモリーズ《ソラ編》 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

@@ -89,3 +89,7 @@ breezewiki.com (Information)
 ## ja.wikipedia.org (Information; キングダム ハーツ 3D ［ドリーム ドロップ ディスタンス］ article, 関連作品 section, live page of 2026-11-10)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_3D_%EF%BC%BB%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0_%E3%83%89%E3%83%AD%E3%83%83%E3%83%97_%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%EF%BC%BD#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novels by Tomoko Kanemaki, illustrated by Shiro Amano: Side Sora 2012-06-28 (ISBN 978-4-7575-3652-4) and Side Riku 2012-09-27 (978-4-7575-3751-4) -- accessed 2026-11-10 (revision 111275589 of 2026-10-05; wikitext read through the MediaWiki API); archived: TODO
+
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/92883/Kingdom-Hearts-3D-Dream-Drop-Distance/ -- 小説 キングダム ハーツ 3D ドリーム ドロップ ディスタンス (English title Kingdom Hearts 3D: Dream Drop Distance The Novel), AniList id 92883, MyAnimeList id 79719, format Novel, Finished, 2 volumes, 2012-06-28 to 2012-09-27, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, popularity 340, 6 favourites -- accessed 2026-11-10; archived: TODO

@@ -146,6 +146,10 @@ yenpress.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: upper volume 2005-06-30 (ISBN 4-7575-1468-9), lower volume 2005-07-29 (4-7575-1495-6) -- accessed 2026-11-10 (revision 110687547 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/52830/Kingdom-Hearts/ -- キングダムハーツ as a Novel, AniList id 52830, MyAnimeList id 22830, format Novel, Finished, 2 volumes, 2005-06-30 to 2005-07-29, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, average score 67, popularity 563, 4 favourites, synonym KH -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 ## Surveyed

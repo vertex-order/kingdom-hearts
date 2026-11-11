@@ -120,4 +120,8 @@ store.jp.square-enix.com (Publisher)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Kingdom Hearts III (3 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/108949/Kingdom-Hearts-III/ -- キングダムハーツIII as a Novel, AniList id 108949, MyAnimeList id 118320, format Novel, Releasing, from 2019-03-28, story Tomoko Kanemaki, planning Tetsuya Nomura and Masaru Oka, illustration Shiro Amano, popularity 244, 10 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

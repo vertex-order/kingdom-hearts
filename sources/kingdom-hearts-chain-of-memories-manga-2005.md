@@ -190,4 +190,8 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3_%E3%82%AA%E3%83%96_%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (original concept by Tetsuya Nomura): volume 1 2005-10-22 (ISBN 4-7575-1552-9), volume 2 2006-04-22 -- accessed 2026-11-10 (revision 110778799 of 2026-08-25; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/30397/Kingdom-Hearts-Chain-of-Memories/ -- キングダムハーツチェインオブメモリーズ, AniList id 30397, MyAnimeList id 397, format Manga, Finished, 13 chapters in 2 volumes, 2005-10-22 to 2006-04-22, story and art Shiro Amano, original creator Tetsuya Nomura, English translators Alethea Nibley and Athena Nibley, Spanish translator Maite Madinabeitia, average score 69, popularity 2715, 50 favourites, synonyms Kingdom Hearts - Chain of Memories and KH:CoM -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

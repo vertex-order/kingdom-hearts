@@ -1047,6 +1047,10 @@
 
 - https://anilist.co/search/anime?search=kingdom%20hearts -- AniList anime search for "kingdom hearts" (address pattern https://anilist.co/search/anime?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## anilist.co (Information; AniList manga search)
+
+- https://anilist.co/search/manga?search=kingdom%20hearts -- AniList manga search for "kingdom hearts" (address pattern https://anilist.co/search/manga?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO

@@ -163,6 +163,11 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano (original concept by Tetsuya Nomura and Kazushige Nojima): Vol.1 Roxas -Seven days- 2006-04-22, Vol.2 The Destruction of Hollow Bastion 2006-07-14, Vol.3 Tears of Nobody 2006-09-29, Vol.4 Anthem-Meet Again/Axel Last Stand 2007-02-22, Short Stories Vol.1 OTHER DIAMONDS 2007-11-20 (ISBN 4-7575-2152-9), Short Stories Vol.2 Axel Seven Days 2008-05-30 (4-7575-2255-X) -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/95253/Kingdom-Hearts-II/ -- キングダム ハーツII as a Novel (English title Kingdom Hearts II: The Novel), AniList id 95253, MyAnimeList id 90288, format Novel, Finished, 31 chapters in 4 volumes, 2006-04-22 to 2007-02-22, story Tomoko Kanemaki, original plan Tetsuya Nomura and Kazushige Nojima, illustration Shiro Amano, average score 67, popularity 352, 6 favourites, volume-title synonyms Roxas-Seven days, The Destruction of Hollow Bastion and Tears of Nobody -- accessed 2026-11-10; archived: TODO
+- https://anilist.co/manga/95255/Kingdom-Hearts-II-Short-Stories/ -- キングダム ハーツII Short Stories, a separate AniList page for the side-story series to the Kingdom Hearts II novels, AniList id 95255, MyAnimeList id 90290, format Novel, Finished, 15 chapters in 2 volumes, 2007-11-20 to 2008-05-30, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, popularity 158, 2 favourites, volume-title synonyms Other Diamonds and Axel-Seven Days -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia/google-books placeholders to goodreads edition pages — JA links "Roxas—Seven Days" (Vol. 1, ISBN 9784757516793), EN links the Paperback omnibus (ISBN 9780316471930), scored 4.10 per that page.

@@ -684,6 +684,10 @@ yenpress.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Famitsu PS2 (2003 to 2005): volume 1 2003-10-25 (ISBN 4-7577-1657-5), volume 2 2004-04-24, volume 3 2004-11-25, volume 4 2005-01-31; the Kingdom Hearts FINAL MIX manga is a new edition published by Square Enix to replace the out-of-print Enterbrain edition: volume 1 2006-12-22, volume 2 2007-01-22, volume 3 2007-03-22 -- accessed 2026-11-10 (revision 110687547 of 2026-08-18; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/30396/Kingdom-Hearts/ -- キングダムハーツ, AniList id 30396, MyAnimeList id 396, format Manga, Finished, 43 chapters in 4 volumes, 2003-10-01 to 2005-01-31, story and art Shiro Amano, original creator Tetsuya Nomura, English translators Alethea Nibley and Athena Nibley, Spanish translator Verónica Blanco, source Video Game, average score 69, popularity 4917, 139 favourites, synonyms KH, Disney Square Enix's Kingdom Hearts and Kingdom Hearts Final Mix -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.

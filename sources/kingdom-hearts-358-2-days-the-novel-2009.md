@@ -102,6 +102,10 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_358/2_Days#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- novel by Tomoko Kanemaki, illustrated by Shiro Amano: Vol.1 The 14th 2009-09-30 (ISBN 4-7575-2604-0), Vol.2 Go to the Sea 2010-01-28, Vol.3 Xion-Seven Days 2010-05-28 -- accessed 2026-11-10 (revision 109974597 of 2026-06-18; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/54412/Kingdom-Hearts-3582-Days/ -- 小説 キングダム ハーツ 358/2 Days, AniList id 54412, MyAnimeList id 24412, format Novel, Finished, 21 chapters in 3 volumes, 2009-07-30 to 2010-05-01, story Tomoko Kanemaki, original plan Tetsuya Nomura, supervisor Kazushige Nojima, art Shiro Amano, average score 70, popularity 411, 9 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

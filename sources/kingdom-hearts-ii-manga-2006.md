@@ -699,6 +699,10 @@ breezewiki.com (Information)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- manga by Shiro Amano serialised in Monthly Shonen Gangan (June 2006 to August 2009, November 2012 to June 2015): volume 1 2006-12-22, 2 2007-08-22, 3 2008-04-22, 4 2008-11-22, 5 2009-08-22, 6 2013-05-22, 7 2013-11-22, 8 2014-07-22, 9 2015-02-21, 10 2015-08-22; the serialisation was suspended for the 358/2 Days manga and resumed after it ended -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/30398/Kingdom-Hearts-II/ -- キングダムハーツⅡ, AniList id 30398, MyAnimeList id 398, format Manga, Finished, 69 chapters in 10 volumes, 2006-12-22 to 2015-08-12, story and art Shiro Amano, original creator Tetsuya Nomura, Spanish translator Maite Madinabeitia, average score 74, popularity 2859, 79 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

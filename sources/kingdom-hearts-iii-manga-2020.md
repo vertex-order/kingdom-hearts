@@ -202,6 +202,10 @@ panini.co.uk (Publisher)
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E6%BC%AB%E7%94%BB%E3%83%BB%E5%B0%8F%E8%AA%AC -- manga by Shiro Amano: Kingdom Hearts III (Gangan Online, 4 volumes) -- accessed 2026-11-10 (revision 111679119 of 2026-11-07; wikitext read through the MediaWiki API); archived: TODO
 
+## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
+
+- https://anilist.co/manga/111962/Kingdom-Hearts-III/ -- キングダム ハーツIII, AniList id 111962, MyAnimeList id 119663, format Manga, Releasing, from 2019-04-29, story and art Shiro Amano, original story Tetsuya Nomura, German translator Lasse Christiansen, French translator Sarah Boivineau, average score 61, popularity 727, 17 favourites -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.
