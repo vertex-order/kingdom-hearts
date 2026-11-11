@@ -74,6 +74,7 @@
 ## thetvdb.com (Information)
 
 - https://thetvdb.com/movies/kingdom-hearts-x-back-cover -- accessed 2026-10-02
+  - Kingdom Hearts χ Back Cover, TVDB movie id 107792, worldwide release 2017-01-24 (the only date shown), 62 minutes, original language English, original country Japan, genres Animation and Fantasy, company Square Enix, only an Italian overview shown, 9 voice cast (the English dub: Ray Chase as The Master of Masters, Max Mittelman as Luxu, Matthew Mercer as Ira, Travis Willingham as Aced, Karissa Staples as Invi, Kevin G. Quinn as Gula, Isabela Merced as Ava, Michael Johnston as Ephemer, Lara Jill Miller as Chirithy), no crew; IMDb tt5615914, TMDB 538347; no rating shown -- accessed 2026-11-10 (live page); archived: TODO
 
 ## Windows (Platform)
 
