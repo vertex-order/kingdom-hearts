@@ -1038,6 +1038,11 @@
 - https://www.thetvdb.com/search?query=kingdom%20hearts -- TheTVDB search for "kingdom hearts" (address pattern https://www.thetvdb.com/search?query=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 - https://www.thetvdb.com/series/kingdom-hearts-the-series -- 「キングダム ハーツ」アニメーションシリーズ (Kingdom Hearts: The Series), TVDB series id 481336, status Upcoming, network Disney Channel, production company Square Enix, country United States, original language Japanese, genres Action, Adventure, Animation, Anime and Fantasy, sub-genres Adult Animation and Anime - Shonen, no first air date or runtime, season 1 with 1 episode, no cast or crew; overview: reimagines the original adventure with a new story that expands the Kingdom Hearts universe and brings back its popular characters; TMDB tv/331749 -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## tvmaze.com (Information; TVmaze search and show page)
+
+- https://www.tvmaze.com/search?q=kingdom+hearts -- TVmaze search for "kingdom hearts" (address pattern https://www.tvmaze.com/search?q=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+- https://www.tvmaze.com/shows/48363/kingdom-hearts-the-series -- Kingdom Hearts The Series, TVmaze show id 48363, type Animation, status In Development, web channel Disney+, Japanese; summary: an anime adaptation that reimagines the iconic adventure with a brand-new story that will expand on the universe; no episodes, premiere date, runtime, genres, external ids, cast or rating shown -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO
@@ -1090,6 +1095,7 @@ Franchise file only (no single group):
 - **Future possibility: Kingdom Hearts: The Series (user, 2026-11-10):** an announced, unreleased animated TV series (Serializd lists no dates, one placeholder episode); out of scope for now, to be revisited as a possible entry once details are solidified
   - TMDB lists it as In Production on Disney Channel and Disney+, in English, with no air date (page above)
   - TheTVDB lists it as Upcoming on Disney Channel, produced by Square Enix, with no first air date (page above)
+  - TVmaze lists it as In Development on Disney+, with no episodes or dates (page above)
 
 ## Surveyed
 
