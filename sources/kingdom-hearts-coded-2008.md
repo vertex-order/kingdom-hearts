@@ -552,4 +552,8 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84_%E3%82%B3%E3%83%BC%E3%83%87%E3%83%83%E3%83%89#%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%20%E3%83%8F%E3%83%BC%E3%83%84%20%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB -- the same Kingdom Hearts Mobile portal site (2008-12-15 to 2013-04-30), main content Coded -- accessed 2026-11-10 (revision 111380327 of 2026-10-14; wikitext read through the MediaWiki API); archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/kingdom-hearts-re-coded/ -- Kingdom Hearts Re:coded as a film, Japanese title キングダム ハーツ Re:コーデッド, 2014, 181 mins, director Tetsuya Nomura, writer Daisuke Watanabe, studio Square Enix, Japanese; synopsis: Jiminy Cricket finds a mysterious message in the journal of his first adventure with Sora, King Mickey and his friends digitize the journal and find a second Sora in the datascape; release dates listed Japan 2014-10-02, USA, Canada, Australia; IMDb tt1708527, TMDB movie 1565939, short link https://boxd.it/Ymi6 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

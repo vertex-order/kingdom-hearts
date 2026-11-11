@@ -405,4 +405,8 @@
 
 - https://strategywiki.org/wiki/Kingdom_Hearts_HD_II.8_Final_Chapter_Prologue -- listed in Category:Square_Enix -- page not read -- accessed 2026-11-08
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/kingdom-hearts-back-cover/ -- Kingdom Hearts χ Back Cover as a film, Japanese title キングダム ハーツ キー バックカバー, 2017, 62 mins, director Tetsuya Nomura, co-director Tai Yasue, writer Tetsuya Nomura, studios Square Enix and Disney Interactive Studios, English, 5 fans; synopsis: seven keyblade wielders in Daybreak Town must determine who can be trusted after a missing page in their Book of Prophecies reveals a traitor among them, tagline "May your heart be your guiding key."; releases listed Japan 2017-01-12 and USA 2017-01-24 (NR), physical, with Kingdom Hearts 2.8; alternate title Kingdom Hearts x Back Cover; no IMDb link, TMDB movie 538347, short link https://boxd.it/jCts -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

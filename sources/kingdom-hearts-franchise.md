@@ -903,6 +903,10 @@
 
 - https://backloggd.com/search/games/kingdom%20hearts/ -- Backloggd search for "kingdom hearts" (100 results); the list stops at 100 results, so it may be cut off; Kingdom Hearts main games, remasters, collections, mobile and minigame titles (Card Struggle, Ballon Glider, Rhythm Parade, Magical Canvas, Pair Card Battle, Reversi, Tamagotchi, Rebirth), Union χ and Dark Road, among unrelated "kingdom" titles -- live page of 2026-10-30 (Backloggd search, text save of the rendered page, not signed in), visited and audited; archived: TODO
 
+## letterboxd.com (Information; Letterboxd search)
+
+- https://letterboxd.com/search/kingdom+hearts/ -- Letterboxd search for "kingdom hearts" (address pattern https://letterboxd.com/search/<term>/); the text read of the page shows the heading "Showing matches for 'kingdom hearts'" and a "Show more results" link that points to "#", no result rows -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## igdb.com (Information; IGDB company page and searches)
 
 - https://www.igdb.com/companies/square -- IGDB company page for Square (video game publisher, Japan); Developed 72 and Published 116 games; 139 game cards on 3 saved pages (title, year, platforms, type label with the parent game) -- live pages of 2026-11-03 (the saved pages do not record their address), visited and audited; archived: TODO

@@ -555,4 +555,8 @@ Mirror: https://breezewiki.com/kingdomhearts/wiki/Kingdom_Hearts_358/2_Days#Exte
 
 - https://www.co-optimus.com/game/1539/nintendo-ds/kingdom-hearts-358-2-days.html -- DS: co-op for 4 players, ad hoc LAN or system link (the page does not make clear which); co-op* -- accessed 2026-11-10; archived: TODO
 
+## letterboxd.com (Information; Letterboxd film page, live page of 2026-11-10)
+
+- https://letterboxd.com/film/kingdom-hearts-358-2-days/ -- Kingdom Hearts 358/2 Days as a film, Japanese title キングダム ハーツ 358/2 Days, 2013, 170 mins, director Tetsuya Nomura, co-director Tai Yasue, writer Tetsuya Nomura, editors Keiichi Kojima and Yusuke Miyaoka, composer Yoko Shimomura, studios Square Enix and Disney Interactive Studios, countries Japan and USA, Japanese, 99 fans; synopsis "Follow Roxas through his days in Organization XIII as he searches for purpose in his life he was never meant to have."; releases listed Japan 2013-03-14 (G) and USA 2013-09-10 (PG), both as part of the Kingdom Hearts HD 1.5 ReMIX compilation; alternate titles Kingdom Hearts 358/2 Days HD 1.5 Remix, Kingdom Hearts 358 over 2 days; no IMDb link, TMDB movie 622057, short link https://boxd.it/n1ac -- accessed 2026-11-10; archived: TODO
+
 ## Decisions
