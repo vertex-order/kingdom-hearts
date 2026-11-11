@@ -561,4 +561,8 @@
 - https://og.trakt.tv/movies/kingdom-hearts-re-coded-2014 -- Kingdom Hearts Re:coded as a film, original title キングダム ハーツ Re:コーデッド, 2014, 3h 1m, released 2014-10-02 (7 more release dates) and DVD 2014-12-02, country Japan, language Japanese, genres Fantasy, Action, Adventure, Anime, Family and Science Fiction, studio Square Enix, director Tetsuya Nomura, 20 voice actors (Miyu Irino as Sora, Mamoru Miyano as Riku); Trakt rating 65% from 10 votes (the page also shows IMDb 6.8 and TMDB 65%); IMDb tt1708527, TMDB 1565939; tagline line "It's a play-full world!" -- accessed 2026-11-10; archived: TODO
   - https://app.trakt.tv/movies/kingdom-hearts-re-coded-2014 -- same slug, other Trakt front end -- dup
 
+## themoviedb.org (Information; TMDB page, live page of 2026-11-10)
+
+- https://www.themoviedb.org/movie/1565939-re -- Kingdom Hearts Re:coded as a film, original title キングダム ハーツ Re:コーデッド, 2014, 3h 1m, released 2014-12-02 (CA; the only release date shown), original language Japanese, genres Action, Adventure, Animation, Fantasy, Family and Science Fiction, keyword video game, director Tetsuya Nomura, writer Daisuke Watanabe, voice cast Miyu Irino (Data Sora), Mamoru Miyano (Data Riku), Iku Nakahara (Data Naminé), Koki Uchiyama (Data Roxas), Takashi Aoyagi (Mickey Mouse), Koichi Yamadera (Donald Duck / Genie); TMDB id 1565939 -- accessed 2026-11-10; archived: TODO
+
 ## Decisions

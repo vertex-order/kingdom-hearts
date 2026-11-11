@@ -69,6 +69,7 @@
 ## themoviedb.org (Ratings)
 
 - https://www.themoviedb.org/movie/538347 -- ratings* -- accessed 2026-10-02
+  - Kingdom Hearts χ Back Cover as a film, original title キングダム ハーツ キー バックカバー, 2017, 1h 2m, NR, released 2017-01-12 (JP; the only release date shown), original language Japanese, genres Animation, Drama, Fantasy and Mystery, keywords video game and based on video game, tagline "May your heart be your guiding key.", director and writer Tetsuya Nomura, voice cast Tomokazu Sugita (The Master of Masters), Kenjiro Tsuda (Luxu), Yuuichirou Umehara (Ira), Subaru Kimura (Aced), Kana Hanazawa (Invi), Kaito Ishikawa (Gula), Yume Miyamoto (Ava), Yuto Uemura (Ephemer), Tomoko Kaneda (Chirithy); user score not shown -- accessed 2026-11-10
 
 ## thetvdb.com (Information)
 

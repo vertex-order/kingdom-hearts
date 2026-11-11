@@ -1028,6 +1028,11 @@
 
 - https://www.google.com/search?q=kingdom+hearts+site%3Atrakt.tv -- Google search for `kingdom hearts site:Trakt.tv`, which returns pages on og.trakt.tv, app.trakt.tv and tvtime.trakt.tv (three front ends of the same Trakt slugs) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## themoviedb.org (Information; TMDB search and show page)
+
+- https://www.themoviedb.org/search?query=kingdom%20hearts -- TMDB search for "kingdom hearts" (address pattern https://www.themoviedb.org/search?query=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+- https://www.themoviedb.org/tv/331749-kingdom-hearts-the-series -- Kingdom Hearts: The Series, TV series, status In Production, type Scripted, 1 season with 1 episode, networks Disney Channel and Disney+, original language English, genres Animation, Action & Adventure and Sci-Fi & Fantasy, keywords based on video game and anime; overview: a new story that expands the Kingdom Hearts universe and features its characters; no year, air date, cast, creator or studio added (the air date is listed as missing data) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO
@@ -1078,6 +1083,7 @@ Franchise file only (no single group):
 
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.
 - **Future possibility: Kingdom Hearts: The Series (user, 2026-11-10):** an announced, unreleased animated TV series (Serializd lists no dates, one placeholder episode); out of scope for now, to be revisited as a possible entry once details are solidified
+  - TMDB lists it as In Production on Disney Channel and Disney+, in English, with no air date (page above)
 
 ## Surveyed
 
