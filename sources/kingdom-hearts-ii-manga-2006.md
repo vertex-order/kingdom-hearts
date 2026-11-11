@@ -723,6 +723,10 @@ breezewiki.com (Information)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-3 -- KINGDOM HEARTS II - VOL. 3; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316288799, 2014, 416p; English ebook no ISBN, 2014, 416p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-ii-vol-4 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=69418 -- reprint request no. 69418, registered 2020/03/18: キングダムハーツ II; author field 天野シロ; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757518322 9784757520844 9784757522626 9784757524262 9784757526075 9784757539389 9784757540866 9784757543058 9784757545335 9784757546653; 6 vote comments
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

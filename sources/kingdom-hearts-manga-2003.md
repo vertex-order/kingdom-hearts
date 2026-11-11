@@ -712,6 +712,10 @@ yenpress.com (Information)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-final-mix-vol-1-1 -- result on page 2 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
 
+## fukkan.com (Information; reprint request page, page text of 2026-11-11)
+
+- https://www.fukkan.com/fk/VoteDetail?no=32983 -- reprint request no. 32983, registered 2006/03/08: キングダムハーツ全４巻; author field 天野シロ; publisher field エンターブレイン; genre コミック・漫画; ISBN 9784757716575 9784757718456 9784757720725 9784757721876; 27 vote comments
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.
