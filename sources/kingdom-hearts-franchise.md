@@ -1088,6 +1088,10 @@
 - https://www.fukkan.com/list/isearch?searchval=%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84 and https://www.fukkan.com/list/rsearch?searchval=%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84 -- fukkan.com whole-site search (商品一覧) and reprint-request search (復刊リクエスト一覧) for "キングダムハーツ": product list 2 items (a Live A Live soundtrack and a 季刊エス issue), reprint requests 9; the in-scope requests are the 天野シロ manga (32983, 69418), recorded in the sources file of each; the rest are ultimanias, art books, a postcard book, a poster book and an album -- pages saved by the user 2026-11-11, visited and audited; archived: TODO
 - https://www.fukkan.com/list/isearch?searchval=KINGDOM%20HEARTS and https://www.fukkan.com/list/rsearch?searchval=KINGDOM%20HEARTS -- same searches in Latin spelling: zero results -- 2026-11-11, visited and audited
 
+## rottentomatoes.com (Information; Rotten Tomatoes search for "kingdom hearts")
+
+- https://www.rottentomatoes.com/search?search=%22kingdom%20hearts%22 -- Rotten Tomatoes search for "kingdom hearts" (address pattern https://www.rottentomatoes.com/search?search=<term>) -- visited and audited by the user on 2026-11-11: no relevant results; archived: TODO
+
 ## Decisions
 
 Also recorded in the group file named in the item (sources/other-group.md):
