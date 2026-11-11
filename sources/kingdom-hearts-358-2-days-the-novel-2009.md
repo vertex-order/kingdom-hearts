@@ -106,6 +106,10 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/54412/Kingdom-Hearts-3582-Days/ -- 小説 キングダム ハーツ 358/2 Days, AniList id 54412, MyAnimeList id 24412, format Novel, Finished, 21 chapters in 3 volumes, 2009-07-30 to 2010-05-01, story Tomoko Kanemaki, original plan Tetsuya Nomura, supervisor Kazushige Nojima, art Shiro Amano, average score 70, popularity 411, 9 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/24412/Kingdom_Hearts__358_2_Days -- Kingdom Hearts: 358/2 Days (小説 キングダム ハーツ 358/2 Days, Light Novel), MyAnimeList id 24412, synonyms Kingdom Hearts: 358/2 Days Novel, The 14th, Go to the Sea and Xion-Seven Days, type Light Novel, 3 volumes, 24 chapters, Finished, 2009-07-30 to 2010-05-28, genres Action, Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.56, popularity rank 12649, 1,748 members, 47 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

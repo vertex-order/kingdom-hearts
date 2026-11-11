@@ -415,4 +415,8 @@
 
 - https://anilist.co/anime/103441/Kingdom-Hearts-Back-Cover/ -- Kingdom Hearts χ Back Cover (キングダム ハーツ キー バックカバー), AniList id 103441, MyAnimeList id 35776, format OVA, 62 min, 2017-01-12, studio Square Enix, source Video Game, genres Action, Fantasy and Mystery, average score 67, popularity 2213, 48 favourites, country JP, synonyms Kingdom Hearts Unchained Key Backcover and Kingdom Hearts Unchained X Backcover -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime page, live page of 2026-11-11; the page's scored-by count is garbled in the fetched text, so only the score is recorded)
+
+- https://myanimelist.net/anime/35776/Kingdom_Hearts_%CF%87_Back_Cover -- Kingdom Hearts χ Back Cover (キングダム ハーツ キー バックカバー), MyAnimeList id 35776, synonyms Kingdom Hearts Unchained Key Backcover and Kingdom Hearts Unchained X Backcover, type OVA, 1 episode of 1 hr 2 min, aired 2017-01-12, producer Square Enix, no studio listed, source Game, genres Action, Fantasy and Mystery, rating PG-13, score 6.80, popularity rank 9392, 5,622 members, 25 favourites; synopsis: seven Keyblade wielders in Daybreak Town protect the world's light until a foreseen conflict leads the Master of Masters to vanish -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

@@ -97,6 +97,10 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/56006/Kingdom-Hearts-Birth-by-Sleep/ -- キングダムハーツバースバイスリープ, AniList id 56006, MyAnimeList id 26006, format Novel, Finished, 19 chapters in 3 volumes, 2010-12-24 to 2011-05-26, story Tomoko Kanemaki, original creator Tetsuya Nomura, illustration Shiro Amano, average score 69, popularity 503, 12 favourites, volume-title synonyms Something Strange, Best Friends and To the Future -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/26006/Kingdom_Hearts__Birth_by_Sleep -- Kingdom Hearts: Birth by Sleep (キングダム ハーツ Birth by Sleep), MyAnimeList id 26006, synonyms Something Strange, Best Friends and To the Future, type Light Novel, 3 volumes, 20 chapters, Finished, 2010-12-24 to 2011-05-26, genres Action, Adventure and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.46, popularity rank 10131, 2,304 members, 66 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Vol. 2 language: Japanese, confirmed — goodreads' "Slovak" tag (https://www.goodreads.com/book/show/10537628-kingdom-hearts-birth-by-sleep-2) is a metadata error, now resolved by google books independently confirming Japanese (same ISBN, same garbled "Tōkyō : Sukuea Enikkusu" publisher transliteration pattern as Vol. 1/Vol. 3).

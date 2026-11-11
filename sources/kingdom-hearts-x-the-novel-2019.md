@@ -78,6 +78,10 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/111963/Kingdom-Hearts-Kimi-to-Keyblade-no-Monogatari/ -- キングダム ハーツ キー キミとキーブレードの物語 (English title Kingdom Hearts χ: Your Keyblade, Your Story), AniList id 111963, MyAnimeList id 118319, format Novel, Finished, 1 volume, 2019-01-25, story Tomoko Kanemaki, planning Tetsuya Nomura and Masaru Oka, illustration Shiro Amano, popularity 205, 2 favourites, no description -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/118319/Kingdom_Hearts_χ__Kimi_to_Keyblade_no_Monogatari -- Kingdom Hearts χ: Kimi to Keyblade no Monogatari (English title Kingdom Hearts X: Your Keyblade, Your Story; キングダム ハーツ キー キミとキーブレードの物語), MyAnimeList id 118319, synonym Kingdom Hearts chi, type Light Novel, 1 volume, 10 chapters, Finished, 2019-01-25, genres Action, Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura and Masaru Oka, art Shiro Amano, no score, popularity rank 29118, 477 members, 1 favourite -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - **Title shortened.** Official title is *Kingdom Hearts χ: Your Keyblade, Your Story The Novel* (khwiki spells it with χ; the retailer/Goodreads listings above write a plain X); the entry title is shortened to match the other novel entries, with the full title in the description as "Released as".

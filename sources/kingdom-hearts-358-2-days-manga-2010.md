@@ -225,6 +225,10 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/45104/Kingdom-Hearts-3582-Days/ -- キングダム ハーツ スリーファイブエイト デイズオーバーツー, AniList id 45104, MyAnimeList id 15104, format Manga, Finished, 35 chapters in 5 volumes, 2009-05-30 to 2012-08-11, story and art Shiro Amano, original creator Tetsuya Nomura, Spanish translator Maite Madinabeitia, average score 78, popularity 2852, 137 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/15104/Kingdom_Hearts__358_2_Days -- Kingdom Hearts 358/2 Days (キングダム ハーツ 358/2 Days), MyAnimeList id 15104, synonyms Disney Square Enix's Kingdom Hearts: 358/2 Days and Kingdom Hearts: Three Five Eight Over Two Days, type Manga, 5 volumes, 35 chapters, Finished, 2009-08-12 to 2012-09-12, genre Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 8.10, popularity rank 2021, 12,834 members, 491 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).

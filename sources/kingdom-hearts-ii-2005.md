@@ -634,4 +634,8 @@
 
 - https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%E3%83%8F%E3%83%BC%E3%83%84II#%E9%96%A2%E9%80%A3%E4%BD%9C%E5%93%81 -- the guides: Kingdom Hearts Series Ultimania alpha ~Introduction of Kingdom Hearts II~ (2005-12-09), Kingdom Hearts II Postcard Book (2005-12-28), Kingdom Hearts II Ultimania (2006-02-23) and Kingdom Hearts II Final Mix+ Ultimania (2007-05-02) -- accessed 2026-11-10 (revision 111645852 of 2026-11-05; wikitext read through the MediaWiki API); archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/22829/Kingdom_Hearts_Another_Report -- Kingdom Hearts Another Report (キングダムハーツ アナザーレポート; synonyms KH: Another Report, Tobira wo Tojita Ato, After the Door is Closed and Roxas: Somewhere in Time), MyAnimeList id 22829, type Manga, volumes unknown, 2 chapters, Finished, 2007-03-29, genre Drama, no serialization, story and art Shiro Amano, story Tomoko Kanemaki, score 7.08, popularity rank 17802, 1,089 members, 19 favourites; synopsis: a 64-page bonus book given to pre-orders of Kingdom Hearts II: Final Mix+, containing a manga chapter and a short story about Roxas -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

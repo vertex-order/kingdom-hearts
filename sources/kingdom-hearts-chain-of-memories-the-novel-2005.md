@@ -108,4 +108,8 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/54413/Kingdom-Hearts-Chain-of-Memories/ -- キングダムハーツ チェイン オブ メモリーズ as a Novel, AniList id 54413, MyAnimeList id 24413, format Novel, Finished, 23 chapters in 2 volumes, 2005-10-22 to 2006-01-31, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, average score 67, popularity 379, 6 favourites, synonyms include キングダムハーツ チェイン オブ メモリーズ《ソラ編》 -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/24413/Kingdom_Hearts__Chain_of_Memories -- Kingdom Hearts: Chain of Memories (キングダムハーツ チェイン オブ メモリーズ《ソラ編》, Light Novel), MyAnimeList id 24413, synonyms Kingdom Hearts: Chain of Memories The Novel, Kingdom Hearts: Chain of Memories Novel and Kingdom Hearts Chain of Memories: Reverse/Rebirth, type Light Novel, 3 volumes, 23 chapters, Finished, 2005-10-22 to 2006-01-31, genres Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.49, popularity rank 12741, 1,730 members, 71 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

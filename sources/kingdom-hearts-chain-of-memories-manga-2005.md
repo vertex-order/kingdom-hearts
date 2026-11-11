@@ -194,4 +194,8 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/30397/Kingdom-Hearts-Chain-of-Memories/ -- キングダムハーツチェインオブメモリーズ, AniList id 30397, MyAnimeList id 397, format Manga, Finished, 13 chapters in 2 volumes, 2005-10-22 to 2006-04-22, story and art Shiro Amano, original creator Tetsuya Nomura, English translators Alethea Nibley and Athena Nibley, Spanish translator Maite Madinabeitia, average score 69, popularity 2715, 50 favourites, synonyms Kingdom Hearts - Chain of Memories and KH:CoM -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/397/Kingdom_Hearts__Chain_of_Memories -- Kingdom Hearts: Chain of Memories (キングダムハーツ チェインオブメモリーズ), MyAnimeList id 397, synonyms Disney Square Enix's Kingdom Hearts: Chain of Memories and KH:CoM, type Manga, 2 volumes, 13 chapters, Finished, 2005-03-12 to 2006-03-11, genres Adventure and Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 7.45, popularity rank 1824, 14,063 members, 204 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

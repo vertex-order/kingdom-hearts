@@ -688,6 +688,10 @@ yenpress.com (Information)
 
 - https://anilist.co/manga/30396/Kingdom-Hearts/ -- キングダムハーツ, AniList id 30396, MyAnimeList id 396, format Manga, Finished, 43 chapters in 4 volumes, 2003-10-01 to 2005-01-31, story and art Shiro Amano, original creator Tetsuya Nomura, English translators Alethea Nibley and Athena Nibley, Spanish translator Verónica Blanco, source Video Game, average score 69, popularity 4917, 139 favourites, synonyms KH, Disney Square Enix's Kingdom Hearts and Kingdom Hearts Final Mix -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/396/Kingdom_Hearts -- Kingdom Hearts (キングダムハーツ), MyAnimeList id 396, synonyms KH, Disney Square Enix's Kingdom Hearts, Kingdom Hearts Final Mix, Kammatsu Yomikiri: Winnie the Pooh and Kingdom Hearts: Final Mix, type Manga, 4 volumes, 43 chapters, Finished, 2003-10 to 2005-01-31, genres Adventure and Fantasy, demographic Shounen, no serialization, Shiro Amano (art), Tetsuya Nomura (story), score 7.35, popularity rank 918, 24,922 members, 783 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.

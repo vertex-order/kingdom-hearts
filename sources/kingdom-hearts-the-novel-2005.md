@@ -150,6 +150,10 @@ yenpress.com (Information)
 
 - https://anilist.co/manga/52830/Kingdom-Hearts/ -- キングダムハーツ as a Novel, AniList id 52830, MyAnimeList id 22830, format Novel, Finished, 2 volumes, 2005-06-30 to 2005-07-29, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, average score 67, popularity 563, 4 favourites, synonym KH -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/22830/Kingdom_Hearts -- Kingdom Hearts (キングダムハーツ, Light Novel), MyAnimeList id 22830, synonyms KH and Kingdom Hearts: The Novel, type Light Novel, 2 volumes, 15 chapters, Finished, 2005-06-30 to 2005-07-29, genres Adventure, Drama and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.63, popularity rank 9071, 2,642 members, 169 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 ## Surveyed

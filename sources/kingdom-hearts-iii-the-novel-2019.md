@@ -124,4 +124,8 @@ store.jp.square-enix.com (Publisher)
 
 - https://anilist.co/manga/108949/Kingdom-Hearts-III/ -- キングダムハーツIII as a Novel, AniList id 108949, MyAnimeList id 118320, format Novel, Releasing, from 2019-03-28, story Tomoko Kanemaki, planning Tetsuya Nomura and Masaru Oka, illustration Shiro Amano, popularity 244, 10 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/118320/Kingdom_Hearts_III -- Kingdom Hearts III (キングダム ハーツIII, Light Novel), MyAnimeList id 118320, synonym Kingdom Hearts III: The Novel, type Light Novel, 3 volumes, 28 chapters, Finished, 2019-03-28 to 2020-05-28, genres Action, Adventure and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura and Masaru Oka, art Shiro Amano, no score, popularity rank 29336, 470 members, 8 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions

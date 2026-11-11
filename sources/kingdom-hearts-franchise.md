@@ -1051,6 +1051,14 @@
 
 - https://anilist.co/search/manga?search=kingdom%20hearts -- AniList manga search for "kingdom hearts" (address pattern https://anilist.co/search/manga?search=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList anime search)
+
+- https://myanimelist.net/anime.php?q=kingdom+hearts&cat=anime -- MyAnimeList anime search for "kingdom hearts" (address pattern https://myanimelist.net/anime.php?q=<term>&cat=anime) -- live page of 2026-11-11, one result row, Kingdom Hearts χ Back Cover (https://myanimelist.net/anime/35776/Kingdom_Hearts_%CF%87_Back_Cover), visited and audited; archived: TODO
+
+## myanimelist.net (Information; MyAnimeList manga search)
+
+- https://myanimelist.net/manga.php?cat=manga&q=kingdom%20hearts&type=0&score=0&status=0&mid=0&sm=0&sd=0&sy=0&em=0&ed=0&ey=0&c%5B%5D=a&c%5B%5D=b&c%5B%5D=c&c%5B%5D=f -- MyAnimeList manga search for "kingdom hearts" (address pattern https://myanimelist.net/manga.php?cat=manga&q=<term>; the filter fields are left at their defaults, the genre filters are a, b, c and f) -- live page of 2026-11-11, 18 rows on one page, each row's page opened, visited and audited; the last two rows, Heart no Kuni de Ochakai (https://myanimelist.net/manga/7008/Heart_no_Kuni_de_Ochakai, a Wonderland shoujo manga, 1 volume, 2008-04-17, Kazuko Furumiya) and Aquarium (https://myanimelist.net/manga/1478/Aquarium, a shoujo anthology, 1 volume, 1990, Tomoko Taniguchi, synonym The Heart Is Your Kingdom), are not Kingdom Hearts works and their pages never mention the game series; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO

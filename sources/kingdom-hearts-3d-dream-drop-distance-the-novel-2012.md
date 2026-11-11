@@ -93,3 +93,7 @@ breezewiki.com (Information)
 ## anilist.co (Information; AniList manga page, live page of 2026-11-10, facts read through AniList's public GraphQL API because the page itself answered HTTP 403)
 
 - https://anilist.co/manga/92883/Kingdom-Hearts-3D-Dream-Drop-Distance/ -- 小説 キングダム ハーツ 3D ドリーム ドロップ ディスタンス (English title Kingdom Hearts 3D: Dream Drop Distance The Novel), AniList id 92883, MyAnimeList id 79719, format Novel, Finished, 2 volumes, 2012-06-28 to 2012-09-27, story Tomoko Kanemaki, planning Tetsuya Nomura, illustration Shiro Amano, popularity 340, 6 favourites -- accessed 2026-11-10; archived: TODO
+
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/79719/Kingdom_Hearts_3D__Dream_Drop_Distance -- Kingdom Hearts 3D: Dream Drop Distance (小説 キングダム ハーツ 3D ドリーム ドロップ ディスタンス), MyAnimeList id 79719, type Light Novel, 2 volumes, chapters unknown, Finished, 2012-06-28 to 2012-09-27, genres Action, Adventure and Fantasy, no serialization, story Tomoko Kanemaki, Tetsuya Nomura, art Shiro Amano, score 7.06, popularity rank 16413, 1,218 members, 21 favourites -- accessed 2026-11-11; archived: TODO

@@ -206,6 +206,10 @@ panini.co.uk (Publisher)
 
 - https://anilist.co/manga/111962/Kingdom-Hearts-III/ -- キングダム ハーツIII, AniList id 111962, MyAnimeList id 119663, format Manga, Releasing, from 2019-04-29, story and art Shiro Amano, original story Tetsuya Nomura, German translator Lasse Christiansen, French translator Sarah Boivineau, average score 61, popularity 727, 17 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/119663/Kingdom_Hearts_III -- Kingdom Hearts III (キングダム ハーツIII, Manga), MyAnimeList id 119663, type Manga, 4 volumes, 41 chapters, Finished, 2019-04-29 to 2024-12-26, genres Action, Adventure, Comedy, Drama and Fantasy, serialized in Gangan Online, Shiro Amano (art), Tetsuya Nomura (story), score 7.10, popularity rank 14075, 1,511 members, 14 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.

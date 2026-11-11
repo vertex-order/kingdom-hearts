@@ -703,6 +703,10 @@ breezewiki.com (Information)
 
 - https://anilist.co/manga/30398/Kingdom-Hearts-II/ -- キングダムハーツⅡ, AniList id 30398, MyAnimeList id 398, format Manga, Finished, 69 chapters in 10 volumes, 2006-12-22 to 2015-08-12, story and art Shiro Amano, original creator Tetsuya Nomura, Spanish translator Maite Madinabeitia, average score 74, popularity 2859, 79 favourites -- accessed 2026-11-10; archived: TODO
 
+## myanimelist.net (Information; MyAnimeList manga page, live page of 2026-11-11)
+
+- https://myanimelist.net/manga/398/Kingdom_Hearts_II -- Kingdom Hearts II (キングダムハーツⅡ), MyAnimeList id 398, type Manga, 10 volumes, 69 chapters, Finished, 2006-05-12 to 2015-08-12, genres Adventure and Fantasy, demographic Shounen, serialized in Shounen Gangan, Shiro Amano (art), Tetsuya Nomura (story), score 7.81, popularity rank 1722, 14,681 members, 492 favourites -- accessed 2026-11-11; archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.
