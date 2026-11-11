@@ -1019,6 +1019,11 @@
   - Terms: キングダムハーツ, キングダム ハーツ, ングダムハーツ (as saved, first character missing), キングダム ハーツ アンチェインド キー, KINGDOM HEARTS
   - No Kingdom Hearts game app found; the only Kingdom Hearts titles are a wallpaper app by a third party and, from the Square Enix results, Dissidia Duellum Final Fantasy
 
+## serializd.com (Information; Serializd search and show page)
+
+- https://www.serializd.com/search?searchQuery=kingdom%20hearts -- Serializd search for "kingdom hearts" (address pattern https://www.serializd.com/search?searchQuery=<term>) -- live page of 2026-11-10, visited and audited; archived: TODO
+- https://www.serializd.com/show/Kingdom-Hearts%3A-The-Series-331749 -- Kingdom Hearts: The Series, an unreleased animated TV series: country US, 1 season with 1 episode, premiere and last aired "N/A", status Running, genres Animation, Action & Adventure and Sci-Fi & Fantasy, tags Anime and Video Game; synopsis: reimagines the iconic adventure with a brand-new story that expands the Kingdom Hearts universe and features its fan-favorite characters; average rating 1.00, rating count 0; no TMDB or IMDb id shown (331749 is in the address) -- live page of 2026-11-10, visited and audited; archived: TODO
+
 ## co-optimus.com (Information; Co-Optimus, search for "kingdom hearts")
 
 - https://www.co-optimus.com/ -- Co-Optimus, searched for "kingdom hearts", visited and audited -- live pages of 2026-11-10; archived: TODO
@@ -1068,6 +1073,7 @@ Also recorded in the group file named in the item (sources/other-group.md):
 Franchise file only (no single group):
 
 - **"Making of"/companion books are out of scope.** goodreads surfaces a French "making of"/artbook line (Third Editions' *La Légende de Kingdom Hearts* series: *Creation*, *Univers et Décryptage*, *KHIII Partie 1: Magnum Opus*, *Partie 2*) and a JP memorial/Ultimania-style companion (*Kingdom Hearts Series Memorial Ultimania*, ISBN 9784757543843) when searching for KH novels/manga -- these are game-guide/making-of material, not novels, manga, or games, and this project doesn't catalog game guides or making-of books -- explicitly excluded, not a gap to fill.
+- **Future possibility: Kingdom Hearts: The Series (user, 2026-11-10):** an announced, unreleased animated TV series (Serializd lists no dates, one placeholder episode); out of scope for now, to be revisited as a possible entry once details are solidified
 
 ## Surveyed
 
