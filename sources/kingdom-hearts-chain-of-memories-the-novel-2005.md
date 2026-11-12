@@ -117,4 +117,8 @@ breezewiki.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories-the-novel -- KINGDOM HEARTS: CHAIN OF MEMORIES - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator) Sora, Donald, and Goofy have defeated Ansem and restored the world. But beyond the dark door--a door that had to be closed--Riku and King Mickey remain. And so the trio sets off again on a journey to find Riku and the king. As they progress through Castle Oblivion and encounter agents from the mysterious Organization XIII on the way, Sora and his friends begin losing their memories. What does it mean to hold something dear? And in the end, what path will Sora choose?; genre tag none; editions: English paperback ISBN 9780316261739, 2015, 416p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (novel series)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

@@ -141,4 +141,8 @@ store.jp.square-enix.com (Publisher)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-2-new-seven-hearts -- KINGDOM HEARTS III - THE NOVEL VOL. 2: NEW SEVEN HEARTS; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975315306, 2020, 160p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-the-novel-vol-3-remind-me-again -- result on page 3 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (novel series)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

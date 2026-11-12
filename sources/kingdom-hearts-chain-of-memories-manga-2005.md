@@ -211,4 +211,8 @@ breezewiki.com (Information)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories-vol-2 -- KINGDOM HEARTS: CHAIN OF MEMORIES - VOL. 2; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9781598166387, 2007, 240p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-chain-of-memories -- result on page 1 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (manga, “Other Diamonds" and "Axel Seven Days” short stories have unofficial translations)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions

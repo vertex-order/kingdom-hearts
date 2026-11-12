@@ -727,6 +727,10 @@ breezewiki.com (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=69418 -- reprint request no. 69418, registered 2020/03/18: キングダムハーツ II; author field 天野シロ; publisher field スクウェア・エニックス; genre コミック・漫画; ISBN 9784757518322 9784757520844 9784757522626 9784757524262 9784757526075 9784757539389 9784757540866 9784757543058 9784757545335 9784757546653; 6 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (manga, “Other Diamonds" and "Axel Seven Days” short stories have unofficial translations)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, NL, ES, FR, IT) and `ratings` swapped/added from google-books links to goodreads Vol. 1 edition pages — EN links the TokyoPop paperback (ISBN 9781427800589), scored 4.31 per that page. The prior DE `languages` link pointed at the Vol. 3 German edition by mistake (no Vol. 1 German record existed yet); now corrected to the Vol. 1 German edition found via goodreads.

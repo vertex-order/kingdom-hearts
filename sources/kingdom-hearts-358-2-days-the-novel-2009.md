@@ -115,6 +115,10 @@ breezewiki.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-the-novel -- KINGDOM HEARTS: 358/2 DAYS - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975327491, 2018, 448p; result on page 2 of the search -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (novel series)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN) and `ratings` swapped from Wikipedia's `Special:BookSources?isbn=` placeholders to goodreads edition pages — JA links "The 14th" (Vol. 1, ISBN 9784757526044), EN links the Paperback omnibus (ISBN 9781975327491), scored 4.40 per that page.

@@ -102,3 +102,7 @@ breezewiki.com (Information)
 
 - Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-3d-dream-drop-distance-the-novel -- KINGDOM HEARTS 3D: DREAM DROP DISTANCE - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975358617, 2019, 304p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
+
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (novel series)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO

@@ -243,6 +243,10 @@ breezewiki.com (Information)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-4 -- KINGDOM HEARTS: 358/2 DAYS - VOL. 4; credits Shiro Amano; genre tag none; editions: English paperback ISBN 9780316286761, 2014, 208p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-358-2-days-vol-5 -- result on page 3 of the search; the page text is recorded in the section for the search for "final fantasy" -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (manga, “Other Diamonds" and "Axel Seven Days” short stories have unofficial translations)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - `languages[]` (JA, EN, DE, ES, FR, FI, IT, PT) each link to a goodreads edition page — swapped in over the earlier Wikipedia/Google Books placeholders now that goodreads covers all of them (per the goodreads > google books > open library priority). `ratings` uses the EN edition's goodreads page URL, scored with the 4.35 shown on the work (both JA-edition goodreads links and the EN link surface the same aggregate score).

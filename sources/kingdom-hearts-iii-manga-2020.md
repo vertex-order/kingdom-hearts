@@ -218,6 +218,10 @@ panini.co.uk (Publisher)
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-3 -- KINGDOM HEARTS III - VOL. 3; credits Shiro Amano; genre tag Manga RPG; editions: English paperback ISBN 9781804912980, 2025, 160p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-iii-vol-4 -- KINGDOM HEARTS III - VOL. 4; credits Shiro Amano; genre tag Manga RPG; editions: English paperback ISBN 9781804914137, 2026, 152p; Japanese paperback ISBN 9784757597457, 2025, 319p; result on page 1 of the search -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (manga, “Other Diamonds" and "Axel Seven Days” short stories have unofficial translations)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Rating: Vol. 1 Panini Books EN paperback (ISBN 9781804912492, goodreads 220365681) over Vol. 1 Yen Press EN paperback (ISBN 9781975317386, goodreads 54558875) — both show 4.14 (209 ratings), Panini preferred per standing preference for Panini editions.

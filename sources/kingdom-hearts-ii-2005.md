@@ -648,6 +648,10 @@
 
 - https://www.imdb.com/title/tt28526058/ -- The Voices of Kingdom Hearts II (TV special, 2005), interviews of the voice cast of Kingdom Hearts II; IMDb id tt28526058, released 2005-12 (United States), 13 min, genre Short, no rating, English, United States, no companies or crew listed; appears as themselves: Hedy Burress, Steve Burton, Rachael Leigh Cook, David Gallagher, Jesse McCartney, Haley Joel Osment, Hayden Panettiere, Brittany Snow, Tara Strong, Mena Suvari, Ming-Na Wen and James Woods -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts - Roxas: Somewhere in Time (short story in the Another Report booklet)" under Square-Enix core, adaptations, unofficially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Not listed (user, 2026-11-11): The Voices of Kingdom Hearts II (a 13-minute TV special of 2005 interviewing the voice cast); behind-the-scenes content is not entertaining on its own (docs/data.md, "What belongs on a list")

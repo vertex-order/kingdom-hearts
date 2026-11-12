@@ -87,6 +87,10 @@ breezewiki.com (Information)
 - Search address https://www.thevideogamelibrary.org/search?q=kingdom%20hearts (address pattern https://www.thevideogamelibrary.org/search?q=<term>&page=<n>), 52 pages, 1,130 results -- accessed 2026-11-11
   - https://www.thevideogamelibrary.org/book/kingdom-hearts-x-your-keyblade-your-story-the-novel -- KINGDOM HEARTS X: YOUR KEYBLADE, YOUR STORY - THE NOVEL; credits Tomoco Kanemaki, Shiro Amano (Illustrator); genre tag none; editions: English paperback ISBN 9781975387341, 2019, 160p; result on page 3 of the search -- accessed 2026-11-11; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (novel series)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - **Title shortened.** Official title is *Kingdom Hearts χ: Your Keyblade, Your Story The Novel* (khwiki spells it with χ; the retailer/Goodreads listings above write a plain X); the entry title is shortened to match the other novel entries, with the full title in the description as "Released as".

@@ -1092,6 +1092,10 @@
 
 - https://www.rottentomatoes.com/search?search=%22kingdom%20hearts%22 -- Rotten Tomatoes search for "kingdom hearts" (address pattern https://www.rottentomatoes.com/search?search=<term>) -- visited and audited by the user on 2026-11-11: no relevant results; archived: TODO
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference")
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- thread by Tetralesca (first post 2026-03-14, list extended 2026-03-23) listing story-content supplemental media for Square Enix titles by tier, adaptation or original work, and translation state; the Kingdom Hearts lines are the manga and novel series (officially translated), the short stories "Other Diamonds", "Axel Seven Days" and "Roxas: Somewhere in Time" (unofficial translations), and the First Breath Orchestra and World Tour Orchestra readings (unofficial translations) -- page saved by the user on 2026-11-11, visited and audited; archived: TODO
+
 ## Decisions
 
 Also recorded in the group file named in the item (sources/other-group.md):

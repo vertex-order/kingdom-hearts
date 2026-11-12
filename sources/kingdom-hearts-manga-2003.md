@@ -716,6 +716,10 @@ yenpress.com (Information)
 
 - https://www.fukkan.com/fk/VoteDetail?no=32983 -- reprint request no. 32983, registered 2006/03/08: キングダムハーツ全４巻; author field 天野シロ; publisher field エンターブレイン; genre コミック・漫画; ISBN 9784757716575 9784757718456 9784757720725 9784757721876; 27 vote comments
 
+## thelifestream.net (Information; forum thread "List of supplemental material, sorted by translated/not-yet-translated for reference", saved page of 2026-11-11)
+
+- https://thelifestream.net/forums/threads/list-of-supplemental-material-sorted-by-translated-not-yet-translated-for-reference.23915/ -- listed as "Kingdom Hearts (manga, “Other Diamonds" and "Axel Seven Days” short stories have unofficial translations)" under Square-Enix core, adaptations, officially translated -- accessed 2026-11-11 (saved page of 2026-11-11); archived: TODO
+
 ## Decisions
 
 - Three editions, not one: the 2006–2007 Final Mix is a revised edition with its own bonus chapters, not a rebind of the 2003–2005 original, and the 2025 Panini edition is the only one with both sets of bonus content.
